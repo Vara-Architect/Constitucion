@@ -1,6 +1,12 @@
-<img src="media/image1.jpeg" width="150">
+<p align="center">
+  <img src="media/image1.jpeg" width="150" alt="Descripción de imagen">
+</p>
+
 # Constitución de la Republica de Cuba
+
+<p align="center">
 <img src="media/image2.png" width="800">
+</p>
 
 ------------------------------------------------------------------------
 

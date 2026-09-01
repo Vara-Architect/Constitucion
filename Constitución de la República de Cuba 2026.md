@@ -6107,7 +6107,7 @@ c)  **Protocolo de Re-Ingesta (Hash de Papel):** Restaurado el sistema digital, 
 
 ## Artículo 127. Primacía, Permanencia Y de la Madurez Institucional Progresiva.
 
-1\. Norma Suprema: Esta Constitución es la norma suprema de la República y el fundamento del ordenamiento jurídico. El poder de reforma es una facultad extraordinaria que reside exclusivamente en el Pueblo como soberano original.
+1\. **Norma Suprema:** Esta Constitución es la norma suprema de la República y el fundamento del ordenamiento jurídico. El poder de reforma es una facultad extraordinaria que reside exclusivamente en el Pueblo como soberano original.
 
 2\. El ordenamiento jurídico nacional se rige por el principio de madurez progresiva. Ninguna reforma estructural o transición de sistemas podrá ignorar la estabilidad biológica, la seguridad ciudadana y la transparencia tecnológica como prerrequisitos de la legalidad institucional.
 

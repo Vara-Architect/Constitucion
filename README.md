@@ -60,3 +60,5 @@ Invitamos a juristas, economistas, ingenieros y ciudadanos de la diáspora y la 
 ---
 
 > *"Quien entrega su libertad a un salvador, inevitablemente despertará ante un amo."*
+
+vara.architect.constitucion@gmail.com

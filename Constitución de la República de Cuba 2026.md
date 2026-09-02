@@ -1451,9 +1451,9 @@ i.  El Estado indemnizará a la familia del afectado utilizando la **Capa de Man
 
 14\. **De la Proscripción del Pre-Crimen y la Doctrina de la Energía Cinética (El Acto Material).**
 
-a)  **Nulidad de la \"Peligrosidad Predictiva\":** Se prohíbe constitucionalmente, de forma perpetua e irrenunciable, la figura jurídica del \"Estado Peligroso\", \"Peligrosidad Predelictiva\" o cualquier otra doctrina penal que pretenda sancionar, recluir o aplicar medidas de seguridad a un ciudadano basándose en pronósticos, estadísticas, perfilamiento de conducta, asociaciones personales o \"moralidad divergente\" antes de la comisión de un delito.
+a)  **Nulidad del Juicio de Pronóstico:** Se prohíbe constitucionalmente la imposición de sanciones, medidas de seguridad o privación de libertad basadas en perfiles de peligrosidad predelictiva, estadísticas de probabilidad criminal o juicios sobre el carácter o pensamiento del ciudadano.
 
-b)  **Primacía del Acto Cinético:** La jurisdicción penal de la República solo se activa ante la **Energía Cinética del Delito**: un daño material, físico o digital consumado, o un acto preparatorio objetivo e ineludible (intento comprobable con herramientas físicas). Queda proscrito castigar la \"Energía Potencial\". Las tendencias, los malos pensamientos, la falta de empleo y las opiniones no son materia justiciable. La ley castiga la infracción del derecho, no el defecto del carácter.
+b)  **Primacía del Hecho Objetivo Consumado:** La jurisdicción penal de la República solo se activa ante la manifestación de un acto material externo, un daño físico consumado o un acto preparatorio inequívoco mediante medios materiales comprobables. El pensamiento, la opinión y la conducta que no lesione derechos de terceros no constituyen materia justiciable.
 
 c)  **Ilegalidad de los Algoritmos de Riesgo Para Justificar Arrestos Preventivos:** Queda tipificado como **Abuso de Autoridad Agravado** el uso de Inteligencia Artificial (IA), bases de datos del Registro Nacional Soberano o historiales de infracciones menores por parte de fiscales, policías o el CICM (Cuerpo de Investigación Criminal Municipal) para generar \"Índices de Probabilidad Criminal\" que justifiquen arrestos preventivos, allanamientos o intercepción de comunicaciones sin evidencia material de un delito en curso.
 
@@ -1496,10 +1496,10 @@ b)  **Inmunidad del Custodio del Sistema (El Acusador Legítimo):** El ciudadano
 
 c)  **Auditoría de Actos en Flagrancia (El Ojo Imparcial):** Ante una disputa en espacio público o privado donde una parte acuse fraude y la otra alegue victimización, el protocolo de actuación de la autoridad exige la inmovilización de la escena y la revisión inmediata del registro audiovisual, los testimonios de testigos y la telemetría del RNS (Art. 144.1). La verdad jurídica reside en el dato, no en el drama.
 
-17**. Doctrina de la Ruina Algorítmica del Depredador y Restitución Exponencial:**\
+17\. **Del Régimen de Restitución Patrimonial Agravada e Indemnización Exponencial:**\
 La República no subsidia el crimen ni reconoce la privación de libertad como medio válido de cancelación de la deuda civil por robo, asalto o fraude. Se establece el principio de Restitución Múltiple e Ineludible:
 
-a)  **Ecuación de Deuda por Robo (La Regla del Multiplicador):** Todo individuo convicto por delitos contra la propiedad mediante el uso de violencia, intimidación, asimetría numérica (asalto predatorio) o fraude, generará automáticamente una Deuda de Restitución en el Registro Nacional Soberano (RNS). Esta deuda será inalterable, no declarable en quiebra y consistirá en la sumatoria obligatoria de:
+a)  **Obligación Ineludible de Reparación:** Todo individuo convicto por delitos probados contra la propiedad cometidos mediante violencia, intimidación o fraude generará una Deuda Civil de Restitución en el Registro Nacional Soberano (RNS). Esta deuda será inalterable, no declarable en quiebra y consistirá en la sumatoria obligatoria de:
 
 <!-- -->
 
@@ -1511,13 +1511,13 @@ iii. El Costo Operativo Total del despliegue del Cuerpo de Custodia (CCTR) o Mil
 
 <!-- -->
 
-b)  **Ejecución Forzosa y Secuestro Financiero (Cero Fricción):** El RNS ejecutará el cobro inmediato embargando el cien por ciento (100%) de la liquidez del infractor, liquidando forzosamente sus Acciones de Mercado (AM) y confiscando los dividendos de las Capas B y C de sus Acciones Soberanas (AS) (Artículo 115.5) hasta saldar la deuda.
+b)  **Ejecución Forzosa Automatizada:** El Registro Nacional Soberano (RNS) ejecutará el cobro inmediato embargando hasta el cien por ciento (100%) de la liquidez del infractor, liquidando forzosamente sus Acciones de Mercado (AM) y confiscando los dividendos de las Capas B y C de sus Acciones Soberanas (AS) (Artículo 115.5) hasta saldar la deuda.
 
-c)  **Insolvencia y Trabajos de Alta Dureza (Reducción a Capa A):** Si el patrimonio del infractor es insuficiente para saldar la Ecuación de Deuda de forma inmediata, este ingresará de pleno derecho al Sistema Penal Productivo (Artículo 22.13). Será asignado a labores de alta dureza (construcción de infraestructura, saneamiento, agricultura forzosa) en régimen de confinamiento. Se le retendrá el cien por ciento (100%) de la utilidad generada por su labor física, otorgándole únicamente el estándar biológico mínimo de supervivencia en calorías e higiene (Capa A), hasta que la deuda con la víctima y el Estado alcance el saldo cero.
+c)  **Insolvencia y Trabajos de Alta Dureza (Reducción a Capa A):** Si el patrimonio del infractor es insuficiente para saldar la Ecuación de Deuda de forma inmediata, este ingresará de pleno derecho al Sistema Penal Productivo (Artículo 22.13). Será asignado a labores de alta dureza (construcción de infraestructura, saneamiento, agricultura forzosa) en régimen de confinamiento siempre que su salud lo permita. Se le retendrá el cien por ciento (100%) de la utilidad generada por su labor física, otorgándole únicamente el estándar biológico mínimo de supervivencia en calorías e higiene (Capa A), hasta que la deuda con la víctima y el Estado alcance el saldo cero.
 
-d)  **Prohibición de Amnistía por Asalto:** Ningún indulto presidencial, rebaja de pena por \"buena conducta\" o paso del tiempo extinguirá esta deuda. El infractor no recuperará su libertad de tránsito ni sus derechos comerciales hasta que la matemática de la restitución haya sido completada íntegramente. Quien atenta contra la propiedad y el esfuerzo ajeno, hipoteca su propia existencia biológica y su futuro.
+d)  **Prohibición de Amnistía por Asalto:** Ningún indulto presidencial, rebaja de pena por \"buena conducta\" o paso del tiempo extinguirá esta deuda. El infractor no recuperará su libertad de tránsito ni sus derechos comerciales hasta que la restitución haya sido completada íntegramente. Quien atenta contra la propiedad y el esfuerzo ajeno, hipoteca su propia existencia biológica y su futuro.
 
-e)  **Ecuación de Reparación Biológica:** En casos de agresiones físicas o lesiones, el culpable no solo irá a la cárcel si corresponde, sino que deberá pagar a la víctima una compensación calculada sobre cinco factores de justicia natural:
+e)  **Ecuación de Reparación Biológica:** En casos de agresiones físicas o lesiones, el culpable no solo cumplirá su condena si corresponde, sino que deberá pagar a la víctima una compensación calculada sobre cinco factores de justicia natural:
 
 <!-- -->
 
@@ -2090,19 +2090,19 @@ La República de Cuba reconoce que el gasto público no es un acto de consumo si
 
     d)  Vía Libre Internacional: Con la emisión de este certificado, el Estado queda facultado de pleno derecho y en ese mismo instante para adjudicar el contrato a la empresa extranjera que ofrezca las mejores condiciones, quedando protegida la autoridad pública contra cualquier demanda o reclamo posterior por parte de empresas nacionales que aleguen \"omisión\" o \"falta de oportunidad\". El que no responde a tiempo, pierde su prioridad de origen.
 
-5.  **Del Protocolo de Licitación Asíncrona, la Ventana de Complejidad y la Prevención del Secuestro de Tiempo:** Para evitar la parálisis operativa del Estado y, a su vez, garantizar que la industria nacional no sea descalificada por la asimetría temporal inherente a los proyectos de alta complejidad, la adjudicación pública operará mediante un Protocolo de Tres Vías (Three-Way Handshake) administrado algorítmicamente por el Registro Nacional Soberano (RNS):
+5.  **Del Protocolo de Licitación Asíncrona, la Ventana de Complejidad y la Prevención del Secuestro de Tiempo:** Para evitar la parálisis operativa del Estado y, a su vez, garantizar que la industria nacional no sea descalificada por la asimetría temporal inherente a los proyectos de alta complejidad, la adjudicación pública operará mediante un Protocolo de Tres Etapas administrado algorítmicamente por el Registro Nacional Soberano (RNS):
 
 <!-- -->
 
-a)  Fase 1: El Llamado y la Manifestación de Interés (El Ping): El Estado publicará en la Capa Alfa del RNS el pliego de requerimientos. A partir de ese momento, se activa un reloj inicial estricto de quince (15) a treinta (30) días. En este plazo, las empresas no deben entregar el proyecto terminado; únicamente deben registrar su \"Manifestación de Interés Legal\" demostrando capacidad instalada básica (certificada en el RNS) para asumir el reto, o la posibilidad de adquirir dicha capacidad en un plazo razonable.
+a)  Fase 1: El Llamado y la Manifestación de Interés: El Estado publicará en la Capa Alfa del RNS el pliego de requerimientos. A partir de ese momento, se activa un período de quince (15) a treinta (30) días. En este plazo, las empresas no deben entregar el proyecto terminado; únicamente deben registrar su \"Manifestación de Interés Legal\" demostrando capacidad instalada básica (certificada en el RNS) para asumir el reto, o la posibilidad de adquirir dicha capacidad en un plazo razonable.
 
-- La Vía Rápida Extranjera: Si el reloj de la Fase 1 llega a cero y ninguna empresa nacional (SACA o SEP) registró interés, el TAT emite el Certificado de Desierto Inmediato y el Estado queda libre para contratar en el extranjero en el día 31.
+- La Vía Rápida Extranjera: Si el reloj de la Fase 1 llega a cero y ninguna empresa nacional (SACA o SEP) registró interés, el TAT emite el Certificado de Desierto Inmediato y el Estado queda libre para contratar con proveedores o serviciadores en el extranjero en el día 31.
 
-b)  Fase 2: Ventana de Procesamiento Dinámico (El Payload): Si una o más empresas nacionales registran su interés en la Fase 1, el Tribunal de Arbitraje Técnico (TAT) clasificará el proyecto según su Escala de Complejidad (Baja, Media, Alta o Giga-Proyecto). El TAT asignará un \"Ancho de Banda Temporal\" específico y prorrogable, que podrá oscilar entre treinta (30) días y doce (12) meses, dedicado exclusivamente a la elaboración de estudios de suelo, ingeniería de detalle y estructuración financiera por parte de los licitantes.
+b)  Fase 2: Ventana de Elaboración Técnica: Si una o más empresas nacionales registran su interés en la Fase 1, el Tribunal de Arbitraje Técnico (TAT) clasificará el proyecto según su Escala de Complejidad (Baja, Media, Alta o Muy Alta). El TAT asignará un \"Plazo Perentorio\" específico y prorrogable, que podrá oscilar entre treinta (30) días y doce (12) meses, dedicado exclusivamente a la elaboración de estudios de suelo, ingeniería de detalle, y otros que requiera la obra además de la estructuración financiera por parte de los licitantes.
 
-c)  Fase 3: Evaluación y Adjudicación (El ACK): Cumplida la ventana de procesamiento de la Fase 2, se ingresan las ofertas finales y el TAT corre el Algoritmo de Costo Neto Soberano (Inciso 2) para adjudicar la obra en un plazo no mayor a treinta (30) días.
+c)  Fase 3: Evaluación y Adjudicación Vinculante: Dictamen comparativo de Costo Neto Soberano por el TAT y adjudicación definitiva en un plazo no mayor a treinta (30) días.
 
-d)  Cláusula Anti-Secuestro (Fianza de Tiempo): Para evitar que una entidad registre interés en la Fase 1 con el único fin de bloquear a la competencia extranjera o paralizar al Estado sin tener capacidad real de competir (Ataque de Denegación de Servicio Burocrático), toda \"Manifestación de Interés\" requerirá el bloqueo temporal de un porcentaje del Capital de Maniobra (Capa C) de la empresa en concepto de Fianza de Seriedad.
+d)  Cláusula Anti-Secuestro (Fianza de Tiempo): Para evitar que una entidad registre interés en la Fase 1 con el único fin de bloquear a la competencia extranjera o paralizar al Estado sin tener capacidad real de competir, toda \"Manifestación de Interés\" requerirá el bloqueo temporal de un porcentaje del Capital de Maniobra (Capa C) de la empresa en concepto de Fianza de Seriedad.
 
     - Si la empresa agota la Ventana de Procesamiento de la Fase 2 y abandona la licitación, entrega un pliego en blanco o presenta una oferta clasificada por el TAT como \"temeraria o no sustentada\", la fianza será confiscada automáticamente a favor del Tesoro Nacional por el delito de Secuestro del Tiempo de la Nación.
 

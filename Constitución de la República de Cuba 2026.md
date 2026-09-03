@@ -5455,90 +5455,89 @@ b)  **Auditoría de Insumos vs. Resultado:** El TAT desarrollará modelos de efi
 
 ## Artículo 109. Del Sello de Inviabilidad Moral y la Naturaleza Jurídica de la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos.
 
-Para garantizar la integridad perpetua de la República y sancionar las traiciones más graves contra la soberanía ciudadana, se instituye el **Sello de Inviabilidad Moral**, cuya aplicación conlleva la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** del infractor, bajo las siguientes definiciones estrictas e inalterables:
+Para garantizar la integridad perpetua de la República y sancionar las traiciones más graves contra la soberanía ciudadana, se instituye el **Sello de Inviabilidad Moral**, cuya aplicación conlleva la **Inhabilitación Cívica y Desconexión Fiduciaria** del infractor, bajo las siguientes definiciones estrictas e inalterables:
 
-1.  **Definición Fundamental y Prohibición Absoluta:**\
-    La Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos es un **estatus jurídico de desconexión y exclusión**, no un acto de eliminación física. Queda terminantemente prohibido, y se considera Crimen de Lesa Humanidad, interpretar este artículo como una justificación para la pena capital, la tortura o cualquier forma de daño corporal.
+1\.  **Definición Fundamental y Prohibición Absoluta:**\
+    La Inhabilitación Cívica y Desconexión Fiduciaria es un **estatus jurídico de desconexión y exclusión**, no un acto de eliminación física. Queda terminantemente prohibido, y se considera Crimen de Lesa Humanidad, interpretar este artículo como una justificación para la pena capital, la tortura o cualquier forma de daño corporal.
 
-2.  **Naturaleza de la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos:**\
-    El ciudadano sentenciado a Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos pierde la condición de \"Socio Activo\" de la Nación. Sus consecuencias son exclusivamente de carácter político y patrimonial soberano:
+2\.  **Naturaleza de la Inhabilitación Cívica:**\
+    El ciudadano sentenciado a Inhabilitación Cívica pierde la condición de \"Socio Activo\" de la Nación. Sus consecuencias son exclusivamente de carácter político y patrimonial soberano:
 
-    a)  **Pérdida a Perpetuidad de los Derechos Políticos:** Se anula de forma irrevocable su derecho al sufragio (activo y pasivo) y su capacidad para ocupar cualquier cargo público, desde el nivel municipal hasta el nacional.
+    a) **Pérdida a Perpetuidad de los Derechos Políticos:** Se anula de forma irrevocable su derecho al sufragio (activo y pasivo) y su capacidad para ocupar cualquier cargo público, desde el nivel municipal hasta el nacional.
 
-    b)  **Extinción del Usufructo Soberano:** Se anula de pleno derecho su titularidad sobre el flujo de dividendos de sus **Acciones Soberanas (AS)**. El capital no se confisca, pero los rendimientos de las Capas A, B y C son redirigidos automáticamente por el RNS al Fondo de Reconciliación (Art. 151.6.b) para indemnizar a las víctimas del sistema o al Tesoro Nacional.
+    b) **Extinción del Usufructo Soberano:** Se anula de pleno derecho su titularidad sobre el flujo de dividendos de sus **Acciones Soberanas (AS)**. El capital no se confisca, pero los rendimientos de las Capas A, B y C son redirigidos automáticamente por el RNS al Fondo de Reconciliación (Art. 151.6.b) para indemnizar a las víctimas del sistema o al Tesoro Nacional.
 
-    c)  **Inhabilitación Corporativa:** Se le prohíbe de por vida ser director, accionista o beneficiario final de cualquier Sociedad Anónima de Capital Abierto (SACA) o entidad que gestione infraestructura crítica.
+    c) **Inhabilitación Corporativa:** Se le prohíbe de por vida ser director, accionista o beneficiario final de cualquier Sociedad Anónima de Capital Abierto (SACA) o entidad que gestione infraestructura crítica.
 
-3.  **Naturaleza de la Muerte Profesional:**\
-    El individuo sentenciado a Muerte Profesional pierde el derecho a ejercer cualquier profesión que implique la confianza pública, la gestión de activos ajenos o la integridad física de terceros. Sus consecuencias son:
+3\.  **Naturaleza de la Inhabilitación Profesional:**\
+    El individuo sentenciado a Inhabilitación Profesional pierde el derecho a ejercer cualquier profesión que implique la confianza pública, la gestión de activos ajenos o la integridad física de terceros. Sus consecuencias son:
 
-    a)  **Revocación Irreversible de Licencias:** Se anula de forma permanente toda licencia, certificación o acreditación profesional emitida o reconocida por el Estado o el TAT.
+    a) **Revocación Irreversible de Licencias:** Se anula de forma permanente toda licencia, certificación o acreditación profesional emitida o reconocida por el Estado o el TAT.
 
-    b)  **Prohibición de Ejercicio en Sectores de Confianza:** Se le prohíbe de por vida trabajar en la administración pública, el sistema educativo, el sistema de salud, el sector financiero, los cuerpos de seguridad o cualquier profesión que requiera colegiatura obligatoria.
+    b) **Prohibición de Ejercicio en Sectores de Confianza:** Se le prohíbe de por vida trabajar en la administración pública, el sistema educativo, el sistema de salud, el sector financiero, los cuerpos de seguridad o cualquier profesión que requiera colegiatura obligatoria.
 
-    c)  **Derecho al Trabajo Básico:** El individuo no queda condenado a la indigencia. Conserva el derecho a ejercer trabajos no cualificados o de bajo riesgo en el sector privado que no requieran confianza pública certificada.
+    c) **Derecho al Trabajo Básico:** El individuo no queda condenado a la indigencia. Conserva el derecho a ejercer trabajos no cualificados o de bajo riesgo en el sector privado que no requieran confianza pública certificada.
 
-4.  **El Sello de Inviabilidad Moral (El Mecanismo de Ejecución):**\
-    La Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos no es una decisión administrativa, sino el resultado de una sentencia judicial firme.
+4\.  **El Sello de Inviabilidad Moral (El Mecanismo de Ejecución):**\
+    La Inhabilitación Cívica y Desconexión Fiduciaria no es una decisión administrativa, sino el resultado de una sentencia judicial firme.
 
-    a)  Se implementará mediante la aplicación algorítmica de un **Sello Criptográfico de Inviabilidad Moral** en el Pasaporte de Ciudadanía Soberana (PCSC) del individuo, por orden exclusiva del Tribunal de Defensa de la Constitución (TDC).
+    a) Se implementará mediante la aplicación del **Sello de Inviabilidad Moral** en el Pasaporte de Ciudadanía Soberana (PCSC) del individuo, por orden exclusiva del Tribunal de Defensa de la Constitución (TDC).
 
-    b)  Este sello es público, permanente e inexpugnable. El RNS lo usará como filtro para bloquear cualquier intento del individuo de registrarse para votar, postularse a un cargo, recibir dividendos de AS o validar una licencia profesional.
+    b) Este sello es público, permanente e inexpugnable. El RNS lo usará como filtro para bloquear cualquier intento del individuo de registrarse para votar, postularse a un cargo, recibir dividendos de AS o validar una licencia profesional.
 
-5.  **Crímenes que Activan el Sello:**\
-    La aplicación de la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos está reservada exclusivamente para los siguientes delitos, demostrados más allá de toda duda razonable ante un tribunal:
+5\.  **Crímenes que Activan el Sello:**\
+    La aplicación de la Inhabilitación Cívica y Desconexión Fiduciaria está reservada exclusivamente para los siguientes delitos, demostrados más allá de toda duda razonable ante un tribunal:
 
-    a)  Alta Traición a la Patria (Disp. Transitoria Cuarta.1) y Alta Traición a la Fe Pública (Art. 145.7.d).
+    a) Alta Traición a la Patria (Disp. Transitoria Cuarta.1) y Alta Traición a la Fe Pública (Art. 145.7.d).
 
-    b)  Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d).
+    b) Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d).
 
-    c)  Sabotaje Activo contra la infraestructura vital de la Nación (Art. 13.2).
+    c) Sabotaje Activo contra la infraestructura vital de la Nación (Art. 13.2).
 
-    d)  Genocidio o Crímenes de Lesa Humanidad (Art. 22.15).
+    d) Genocidio o Crímenes de Lesa Humanidad (Art. 22.15).
 
-6.  De la Inmunidad contra la Instrumentalización Política de la Sanción (Protocolo de Revisión Tripartita): Para garantizar que el Sello de Inviabilidad Moral (Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos) nunca sea utilizado por el poder político de turno como herramienta de persecución, cancelación ideológica o purga selectiva, se establece el siguiente protocolo de blindaje absoluto:
+6\.  **De la Inmunidad contra la Instrumentalización Política de la Sanción (Protocolo de Revisión Tripartita):**\
+    Para garantizar que el Sello de Inviabilidad Moral (Inhabilitación Cívica y Desconexión Fiduciaria) nunca sea utilizado por el poder político de turno como herramienta de persecución, cancelación ideológica o purga selectiva, se establece el siguiente protocolo de blindaje absoluto:
 
-<!-- -->
+    a) **Veto de Iniciativa Unilateral:** Queda prohibido que cualquier funcionario, incluyendo al Presidente de la República, Ministros o el Oficial de Mayor Rango del CNSPOC, o similares, solicite o inicie de forma unilateral el proceso de Inhabilitación Cívica y Desconexión Fiduciaria contra un ciudadano. El proceso solo podrá iniciarse de oficio por el Registro Nacional Soberano (RNS) ante la detección de anomalías de telemetría fáctica (Art. 144.1) o mediante denuncia ciudadana unánime ratificada por dos tercios (2/3) de los miembros sorteados de la Cámara de Vigilancia Aleatoria (CVA).
 
-a)  Veto de Iniciativa Unilateral: Queda prohibido que cualquier funcionario, incluyendo al Presidente de la República, Ministros o el Oficial de Mayor Rango del CNSPOC, o similares, solicite o inicie de forma unilateral el proceso de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos contra un ciudadano. El proceso solo podrá iniciarse de oficio por el Registro Nacional Soberano (RNS) ante la detección de anomalías de telemetría fáctica (Art. 144.1) o mediante denuncia ciudadana unánime ratificada por dos tercios (2/3) de los miembros sorteados de la Cámara de Vigilancia Aleatoria (CVA).
+    b) **Auditoría de Sesgo de Facción (Filtro de Impacto Competitivo):** Presentada la denuncia, el TAT ejecutará obligatoriamente una auditoría sobre los datos del acusado. Si el TAT determina que la aplicación de la sanción genera una ventaja competitiva asimétrica (política, comercial o de control de mercado) a favor de la rama del Ejecutivo, de una corporación SACA específica o de una facción ideológica, y existen indicios que señalen una sospecha razonable que muestren una persecución hacia la persona, el proceso será declarado Nulo por Vicio de Intención, archivándose la causa de forma definitiva, si no se demuestra lo contrario.
 
-b)  Auditoría de Sesgo de Facción (Filtro de Impacto Competitivo): Presentada la denuncia, el TAT ejecutará obligatoriamente una auditoría sobre los datos del acusado. Si el TAT determina que la aplicación de la sanción genera una ventaja competitiva asimétrica (política, comercial o de control de mercado) a favor de la rama del Ejecutivo, de una corporación SACA específica o de una facción ideológica, y existen indicios que señalen una sospecha razonable que muestren una persecución hacia la persona el proceso será declarado Nulo por Vicio de Intención (Código Malicioso), archivándose la causa de forma definitiva, si no se demuestra lo contrario.
+    c) **El Derecho al Exilio Soberano (Válvula de Descompresión del Conflicto):** El ciudadano sancionado con la Inhabilitación Cívica y Desconexión Fiduciaria conservará de forma inalienable el derecho a liquidar o no según estime conveniente la totalidad de sus Acciones de Mercado (AM) y su patrimonio inmobiliario registrado en el RNS, siempre y cuando no haya una sentencia judicial firme por la cual se indique lo contrario en un proceso por un cargo penal diferente o previo. El Estado facilitará su salida física inmediata del territorio nacional (en el caso que así lo desee el ciudadano) bajo salvoconducto digital. Queda estrictamente prohibida la imposición de \"secuestro domiciliario\" o la retención forzosa de la persona en el territorio de la República. La soberanía se defiende aislando al nodo incompatible, no destruyendo su vehículo biológico.
 
-c)  El Derecho al Exilio Soberano (Válvula de Descompresión del Conflicto): El ciudadano sancionado con la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos conservará de forma inalienable el derecho a liquidar o no según estime conveniente la totalidad de sus Acciones de Mercado (AM) y su patrimonio inmobiliario registrado en el RNS siempre y cuando no haya una sentencia judicial firme por la cual se indique lo contrario en un proceso por un cargo penal diferente o previo. El Estado facilitará su salida física inmediata del territorio nacional (en el caso que así lo desee el ciudadano) bajo salvoconducto digital. Queda estrictamente prohibida la imposición de \"secuestro domiciliario\" o la retención forzosa de la persona en el territorio de la República. La soberanía se defiende aislando al nodo incompatible, no destruyendo su vehículo biológico.
+7\. **De la Jerarquía del Daño, la Irreversibilidad de la Traición y el Protocolo de Reintegración Excepcional:**
 
-7\. De la Jerarquía del Daño, la Irreversibilidad de la Traición y el Protocolo de Reintegración Excepcional.
+    La República, si bien reconoce la capacidad de redención del individuo, establece una distinción fundamental basada en la naturaleza y la escala del daño infligido al cuerpo de la Nación.
 
-La República, si bien reconoce la capacidad de redención del individuo, establece una distinción fundamental basada en la naturaleza y la escala del daño infligido al cuerpo de la Nación.
-
-a)  **Definición de la Sanción Irreversible (La Marca de Caín):**\
-    La Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (Art. 109) será de carácter **perpetuo, irreversible e inexpugnable** para todo ciudadano convicto por los siguientes crímenes, los cuales constituyen una ruptura definitiva del pacto de civilización:
-
-<!-- -->
-
-i.  Genocidio, Tortura o Crímenes de Lesa Humanidad (Art. 22.15).
-
-ii. Alta Traición a la Patria que implique la colaboración activa con una potencia enemiga en tiempos de guerra declarada o agresión fáctica (Disp. Transitoria Cuarta.1).
-
-iii. El uso de menores de edad como instrumentos para la comisión de delitos de sangre (Art. 59.8.e).
+    a)  **Definición de la Sanción Irreversible:**\
+    La Inhabilitación Cívica y Desconexión Fiduciaria (Art. 109) será de carácter **perpetuo, irreversible e inexpugnable** para todo ciudadano convicto por los siguientes crímenes, los cuales constituyen una ruptura definitiva del pacto de civilización:
 
 <!-- -->
 
-b)  **El Protocolo de Reintegración Excepcional (El Camino de Retorno):**\
-    Para todos los demás delitos que conllevan la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (ej. Alta Traición a la Fe Pública, Sabotaje Económico, Simulación de Soberanía), el infractor podrá solicitar la restitución parcial de sus derechos económicos, pero jamás sus derechos políticos, bajo el cumplimiento estricto y sucesivo de las siguientes condiciones:
+    i. Genocidio, Tortura o Crímenes de Lesa Humanidad (Art. 22.15).
+
+    ii. Alta Traición a la Patria que implique la colaboración activa con una potencia enemiga en tiempos de guerra declarada o agresión fáctica (Disp. Transitoria Cuarta.1).
+
+    iii. El uso de menores de edad como instrumentos para la comisión de delitos de sangre (Art. 59.8.e).
 
 <!-- -->
 
-i.  **Cumplimiento Íntegro de la Pena de Prisión:** El individuo deberá haber cumplido la totalidad de la pena privativa de libertad impuesta por el tribunal, sin posibilidad de libertad condicional o beneficios por buen comportamiento (si la hubiera).
+    b)  **El Protocolo de Reintegración Excepcional (El Camino de Retorno):**\
+    Para todos los demás delitos que conllevan la Inhabilitación Cívica y Desconexión Fiduciaria (ej. Alta Traición a la Fe Pública, Sabotaje Económico, Simulación de Soberanía), el infractor podrá solicitar la restitución parcial de sus derechos económicos, pero jamás sus derechos políticos, bajo el cumplimiento estricto y sucesivo de las siguientes condiciones:
 
-ii. **Restitución Total del Daño:** Haber completado íntegramente la restitución económica del daño causado, a través de su participación en el **Sistema Penal Productivo (Artículo 22.13)**.
+<!-- -->
 
-iii. **Servicio de Restitución Cívica de Alta Intensidad:** Una vez liberado, el individuo (si hubiera sido encarcelado) deberá completar un periodo ininterrumpido de **once (11) años** en las **Rampas de Redignificación (Artículo 151)**, realizando labores de reconstrucción nacional en los proyectos de mayor dureza y menor reconocimiento público. Si la persona ha superado la edad de retiro podrá recibir del TAT una reducción que puede ser denegada dependiendo de la magnitud del crimen o de la decisión del tribunal.
+    i. **Cumplimiento Íntegro de la Pena de Prisión:** El individuo deberá haber cumplido la totalidad de la pena privativa de libertad impuesta por el tribunal, sin posibilidad de libertad condicional o beneficios por buen comportamiento (si la hubiera).
 
-iv. **Auditoría de Carácter:** Al finalizar el periodo de once años (o el periodo reducido), el Tribunal de Defensa de la Constitución (TDC) realizará una auditoría final sobre su comportamiento cívico. Si se acredita una ausencia total de reincidencia y un compromiso fáctico con la comunidad, el TDC podrá ordenar la **Restitución del Mínimo Vital**.
+    ii. **Restitución Total del Daño:** Haber completado íntegramente la restitución económica del daño causado, a través de su participación en el Sistema Penal Productivo (Artículo 22.13).
 
-v.  **Restitución del Mínimo Vital:** Al cumplirse todas las condiciones anteriores, el RNS reactivará exclusivamente el flujo de dividendos de la **Capa A (Mínimo Vital)** de las Acciones Soberanas (AS) del individuo, garantizando su supervivencia biológica en la vejez. Las Capas B y C, y todos los derechos políticos, permanecerán extinguidos a perpetuidad, aunque podrán ser heredados a sus descendientes.
+    iii. **Servicio de Restitución Cívica de Alta Intensidad:** Una vez liberado, el individuo (si hubiera sido encarcelado) deberá completar un periodo ininterrumpido de once (11) años en las Rampas de Redignificación (Artículo 151), realizando labores de reconstrucción nacional en los proyectos de mayor dureza y menor reconocimiento público. Si la persona ha superado la edad de retiro podrá recibir del TAT una reducción que puede ser denegada dependiendo de la magnitud del crimen o de la decisión del tribunal.
 
-vi. **Otras Vías Definidas en esta Constitución:** El Congreso, mediante ley orgánica que requiera una mayoría cualificada de tres cuartas partes (75%) y dictamen favorable del TDC, podrá establecer otros mecanismos de reintegración para delitos futuros no contemplados, siempre que estos respeten el principio de restitución del daño y el cumplimiento de un periodo de servicio cívico superior a los plazos ordinarios.
+    iv. **Auditoría de Carácter:** Al finalizar el periodo de once años (o el periodo reducido), el Tribunal de Defensa de la Constitución (TDC) realizará una auditoría final sobre su comportamiento cívico. Si se acredita una ausencia total de reincidencia y un compromiso fáctico con la comunidad, el TDC podrá ordenar la Restitución del Mínimo Vital.
+
+    v. **Restitución del Mínimo Vital:** Al cumplirse todas las condiciones anteriores, el RNS reactivará exclusivamente el flujo de dividendos de la Capa A (Mínimo Vital) de las Acciones Soberanas (AS) del individuo, garantizando su supervivencia biológica en la vejez. Las Capas B y C, y todos los derechos políticos, permanecerán extinguidos a perpetuidad, aunque podrán ser heredados a sus descendientes.
+
+    vi. **Otras Vías Definidas en esta Constitución:** El Congreso, mediante ley orgánica que requiera una mayoría cualificada de tres cuartas partes (75%) y dictamen favorable del TDC, podrá establecer otros mecanismos de reintegración para delitos futuros no contemplados, siempre que estos respeten el principio de restitución del daño y el cumplimiento de un periodo de servicio cívico superior a los plazos ordinarios.
 
 ------------------------------------------------------------------------
 

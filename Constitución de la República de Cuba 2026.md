@@ -209,7 +209,7 @@ c)  **Inhabilitación por Arrogancia para el Funcionario:** El funcionario que a
 
 d)  **De la defensa del funcionario:** Un funcionario podrá denunciar abusos por parte de los ciudadanos que en pleno cumplimiento de sus facultades exijan de forma descompuesta, o amenazando, **de forma palpable** la integridad física o emocional del funcionario. El funcionario deberá probar su acusación para que tenga lugar.
 
-e)  Escala de Responsabilidad y Restitución: Con el fin de armonizar las penas con (Art. 109) (Muerte Civil y Profesional) y el (Art. 22.17) (Ruina Algorítmica del Depredador), se establece el siguiente régimen para delitos contra el tesoro:
+e)  Escala de Responsabilidad y Restitución: Con el fin de armonizar las penas con (Art. 109) (Estatuto de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos) y el (Art. 22.17) (Restitución Patrimonial Forzosa del Depredador), se establece el siguiente régimen para delitos contra el tesoro:
 
     i.  Ámbito Municipal: El funcionario convicto de malversación o soborno enfrentará una inhabilitación de cinco (5) años. Queda obligado a la restitución del valor total de lo robado más un veinte por ciento (20%) de recargo adicional.
 
@@ -227,13 +227,13 @@ c)  Ningún ciudadano podrá ser objeto de sanciones, bloqueos de cuentas en el 
 
 d)  Cualquier distorsión deliberada, omisión de datos o interpretación sesgada del algoritmo para favorecer a un tercero será tipificada como **Sabotaje a la Verdad**.
 
-e)  La pena para este delito será la **Muerte Civil y Profesional** y el ingreso inmediato al **Sistema Penal Productivo** (Art. 22.13). El dolo o la distorsión deliberada de datos en el ejercicio de la función pública constituirá el delito de Sabotaje a la Verdad, sancionado con la inhabilitación perpetua y la responsabilidad patrimonial conforme a este artículo.
+e)  La pena para este delito será la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** y el ingreso inmediato al **Sistema Penal Productivo** (Art. 22.13). El dolo o la distorsión deliberada de datos en el ejercicio de la función pública constituirá el delito de Sabotaje a la Verdad, sancionado con la inhabilitación perpetua y la responsabilidad patrimonial conforme a este artículo.
 
 5\. **De la Prohibición Absoluta del Soborno y la Corrupción.** Se establece la **Imprescriptibilidad de los Delitos contra el Tesoro y la Fe Pública**. El soborno, en sus modalidades de cohecho activo y pasivo, se define como una forma de **Alta Traición a la Estabilidad Económica**.
 
 a)  **Responsabilidad Binaria:** La ley penal castigará con idéntica severidad tanto al funcionario que solicita o acepta la dádiva (soborno pasivo) como al particular, empresa o entidad que la ofrece o entrega (soborno activo). No existe jerarquía moral en la corrupción; ambos actores son destructores del orden constitucional.
 
-b)  **Pena de Muerte Civil y Profesional:** Todo funcionario convicto por soborno será destituido de forma fulminante y quedará inhabilitado de por vida para ejercer cargos públicos, contratar con el Estado o las Municipios, o participar en la administración de SACAs. El corrupto pierde el derecho a servir a la República que intentó pervertir.
+b)  **Pena de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos:** Todo funcionario convicto por soborno será destituido de forma fulminante y quedará inhabilitado de por vida para ejercer cargos públicos, contratar con el Estado o las Municipios, o participar en la administración de SACAs. El corrupto pierde el derecho a servir a la República que intentó pervertir.
 
 c)  **Confiscación de Beneficios e Indemnización Social:** Además de la pena privativa de libertad, se aplicará la confiscación total de los bienes obtenidos mediante el acto corrupto. El infractor deberá abonar una multa equivalente al **triple del valor del soborno**, la cual será detraída automáticamente de sus Acciones Soberanas (AS), Acciones de Mercado (AM) si la hubiera y/o su patrimonio personal registrado en el RNS.
 
@@ -661,7 +661,7 @@ B.  **Emergencia Médica Individual:** El personal de urgencias podrá acceder a
 
 <!-- -->
 
-iv. **El Delito de Filtrado Ilegítimo (Data Profiling):** Cualquier funcionario (policía, médico o burócrata) que extraiga, copie, o utilice estos datos fenotípicos para fines ajenos a los autorizados (ej. venderlos a empresas de marketing, crear bases de datos raciales, o para discriminar en la calle) incurrirá en el **Delito de Violación de Capas de Seguridad**, conllevando la **Muerte Civil y Profesional** (Art. 109).
+iv. **El Delito de Filtrado Ilegítimo (Data Profiling):** Cualquier funcionario (policía, médico o burócrata) que extraiga, copie, o utilice estos datos fenotípicos para fines ajenos a los autorizados (ej. venderlos a empresas de marketing, crear bases de datos raciales, o para discriminar en la calle) incurrirá en el **Delito de Violación de Capas de Seguridad**, conllevando la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** (Art. 109).
 
 <!-- -->
 
@@ -1592,7 +1592,7 @@ b)  **Proscripción del \"Corte y Costura\" (Nulidad por Interrupción de Hash):
 
     i.  Cualquier registro audiovisual que presente una ruptura en su cadena de *hashes* (frames faltantes, saltos de tiempo no justificados por el TAT, o concatenación de archivos distintos) será declarado **Nulo de Pleno Derecho** y carecerá de valor probatorio.
 
-    ii. El intento de presentar un video editado como prueba íntegra se tipifica como **Delito de Perjurio Tecnológico Agravado**, conllevando la Muerte Civil y Profesional (Art. 109) para el fiscal, perito o técnico responsable.
+    ii. El intento de presentar un video editado como prueba íntegra se tipifica como **Delito de Perjurio Tecnológico Agravado**, conllevando la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (Art. 109) para el fiscal, perito o técnico responsable.
 
 c)  **Gestión de la Capa Gamma (Secreto de Estado con Integridad Pública):**\
     En casos donde el contenido del juicio involucre secretos de Defensa Nacional, Inteligencia Estratégica o integridad biológica de víctimas:
@@ -2337,7 +2337,7 @@ c)  **Responsabilidad Solidaria Agravada:** En estas estructuras, cualquier fall
 
 3\. Del Régimen de Insolvencia Ordenada, la Prelación de Pagos y la Responsabilidad de Cadena.
 
-a)  **Reconocimiento del Riesgo Comercial:** La República garantiza el derecho a la insolvencia y liquidación ordenada de las SACAs y empresas privadas como mecanismo de saneamiento del mercado, eliminando la muerte civil por deudas comerciales de buena fe.
+a)  **Reconocimiento del Riesgo Comercial:** La República garantiza el derecho a la insolvencia y liquidación ordenada de las SACAs y empresas privadas como mecanismo de saneamiento del mercado, eliminando la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos por deudas comerciales de buena fe.
 
 b)  **Comisión de Liquidación y Auditoría Forense:** Ante la declaración de insolvencia, el Tribunal de Arbitraje Técnico (TAT) activará una Comisión de Auditoría de Quiebra. Esta comisión tendrá un plazo máximo de seis (6) meses para auditar la totalidad de los flujos del Registro Nacional Soberano (RNS) de la entidad fallida.
 
@@ -3157,7 +3157,7 @@ a)  **Umbral de Madurez Laboral:** Se prohíbe terminantemente la contratación,
 
 b)  **Del Aprendizaje Protegido:** Se permite la participación de menores entre los 14 y 16 años en oficios familiares o programas de aprendizaje técnico (Art. 113), siempre que no exceda las cuatro (4) horas diarias, no interfiera con su educación obligatoria (Art. 60), y no implique tareas de riesgo físico certificado por el TAT.
 
-c)  **Responsabilidad del Empleador:** La entidad (SACA o particular) que viole esta disposición será sancionada con la confiscación del cien por ciento (100%) de la utilidad generada por el trabajo del menor, la cual será transferida a la Capa B de las Acciones Soberanas (AS) del niño, además de enfrentar la **Muerte Civil y Profesional** para sus directivos.
+c)  **Responsabilidad del Empleador:** La entidad (SACA o particular) que viole esta disposición será sancionada con la confiscación del cien por ciento (100%) de la utilidad generada por el trabajo del menor, la cual será transferida a la Capa B de las Acciones Soberanas (AS) del niño, además de enfrentar la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** para sus directivos.
 
 **12. De la Estabilidad Generacional y el Multiplicador de Energía Social.**\
 La República, reconociendo que la energía social canalizada en la formación y mantenimiento de núcleos familiares estables es el cimiento insustituible de la prosperidad a largo plazo, la innovación y la defensa nacional, establece el **Incentivo de Estabilidad Generacional**:
@@ -3417,7 +3417,7 @@ c)  **Clasificación Legal del Delito de Corrupción Cognitiva:**\
 
     i.  Si una escuela, maestro, currículo extranjero o programa de educación en el hogar vulnera esta barrera, el Registro Nacional Soberano (RNS) suspenderá inmediatamente el 100% de los Vouchers Educativos de la institución.
 
-    ii. El docente o funcionario responsable enfrentará la **Muerte Civil y Profesional** (Art. 109), perdiendo de forma perpetua su licencia para operar en el sistema educativo nacional, además de la indemnización patrimonial a favor del núcleo familiar afectado.
+    ii. El docente o funcionario responsable enfrentará la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** (Art. 109), perdiendo de forma perpetua su licencia para operar en el sistema educativo nacional, además de la indemnización patrimonial a favor del núcleo familiar afectado.
 
 d)  **La Ventana de Adultez y Transferencia de Riesgo:**\
     A partir de los catorce (14) años, la instrucción sobre biología reproductiva compleja, química de estupefacientes (con fines preventivos de toxicología, Art. 139.8) y análisis social avanzará estrictamente bajo la **Validación de Consentimiento Expreso** de los progenitores, quienes mantienen la soberanía absoluta para permitir o vetar la participación de su hijo en dichas cátedras hasta que este alcance la Soberanía Plena a los veintiún (21) años (Art. 96.3.a).
@@ -3495,7 +3495,7 @@ d)  Derecho a la Educación Remota Protegida: Si el daño psicológico impide al
 
 5\. De la Rehabilitación del Individuo Post-Coercitivo: La República reconoce el impacto clínico y el trauma derivado de la permanencia bajo sistemas de control social totalitario. El sistema de salud proveerá protocolos especializados para la rehabilitación de la autonomía personal, el fortalecimiento del juicio crítico y el tratamiento del estrés post-traumático.
 
-6\. Cortafuegos de Voluntariedad y No-Injerencia: Los servicios mencionados en el inciso anterior serán estrictamente voluntarios. Se prohíbe terminantemente al Estado, bajo pena de Muerte Civil del funcionario responsable, utilizar diagnósticos clínicos, psicológicos o psiquiátricos para invalidar el disenso político, imponer programas de \"reorientación\" o recluir a ciudadanos sin una evidencia fáctica de peligro inminente para terceros, validada por el TAT.
+6\. Cortafuegos de Voluntariedad y No-Injerencia: Los servicios mencionados en el inciso anterior serán estrictamente voluntarios. Se prohíbe terminantemente al Estado, bajo pena de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos del funcionario responsable, utilizar diagnósticos clínicos, psicológicos o psiquiátricos para invalidar el disenso político, imponer programas de \"reorientación\" o recluir a ciudadanos sin una evidencia fáctica de peligro inminente para terceros, validada por el TAT.
 
 ------------------------------------------------------------------------
 
@@ -3578,7 +3578,7 @@ d)  **Del Veto por Denuncia Fraudulenta de Explotación y la Reciprocidad de Rie
 
     ii. **Auditoría de Veracidad Fáctica:** El TAT realizará un cruce de telemetría en el RNS (registros de entrada/salida de la empresa, metadatos de pagos, geolocalización del dispositivo PCSC del trabajador). Si el sistema detecta que el trabajador **sí recibió pagos** o que las pruebas presentadas son **falsificaciones digitales**, la denuncia se desestimará en menos de 48 horas, luego de la detección del fraude.
 
-    iii. **Pena de Muerte Civil Migratoria:** Si se demuestra que el extranjero actuó con dolo para defraudar al sistema u obtener la ventaja de los 90 días mediante una calumnia:
+    iii. **Pena de Inhabilitación Cívica Migratoria:** Si se demuestra que el extranjero actuó con dolo para defraudar al sistema u obtener la ventaja de los 90 días mediante una calumnia:
 
 <!-- -->
 
@@ -4764,7 +4764,7 @@ Para proteger al ciudadano contra acusaciones falsas de violencia física (como 
 
 a)  **Primacía de la Evidencia Biomecánica:** En ausencia de cámaras de video, toda acusación de agresión física que resulte en lesiones (fracturas, hematomas) deberá ser validada por un **Peritaje de Causalidad Biomecánica** del TAT. Si la física de la lesión no coincide con la narrativa del acusador (ej. una mujer que alega un brazo roto pero sus movimientos en el video o testimonios demuestran lo contrario), la acusación será descartada por **Inviabilidad Fáctica**.
 
-b)  **Sanción de Reciprocidad Punitiva:** El acusador que falsifique una lesión o agresión para incriminar a un ciudadano por motivos de xenofobia, raza o animadversión personal, sufrirá la **Muerte Civil y Profesional** (Art. 109).
+b)  **Sanción de Reciprocidad Punitiva:** El acusador que falsifique una lesión o agresión para incriminar a un ciudadano por motivos de xenofobia, raza o animadversión personal, sufrirá la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** (Art. 109).
 
 c)  **Inmunidad del Acusado ante el Drama:** Se prohíbe el arresto preventivo basado únicamente en el llanto, el escándalo público o el \"testimonio emocional\" de la presunta víctima. Los Alguaciles solo podrán detener al sospechoso si existe una evidencia material inmediata o el riesgo de fuga certificado por el RNS. En Cuba 2026, el drama no sustituye al dato.
 
@@ -5453,15 +5453,15 @@ b)  **Auditoría de Insumos vs. Resultado:** El TAT desarrollará modelos de efi
 
 ------------------------------------------------------------------------
 
-## Artículo 109. Del Sello de Inviabilidad Moral y la Naturaleza Jurídica de la Muerte Civil y Profesional.
+## Artículo 109. Del Sello de Inviabilidad Moral y la Naturaleza Jurídica de la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos.
 
-Para garantizar la integridad perpetua de la República y sancionar las traiciones más graves contra la soberanía ciudadana, se instituye el **Sello de Inviabilidad Moral**, cuya aplicación conlleva la **Muerte Civil y Profesional** del infractor, bajo las siguientes definiciones estrictas e inalterables:
+Para garantizar la integridad perpetua de la República y sancionar las traiciones más graves contra la soberanía ciudadana, se instituye el **Sello de Inviabilidad Moral**, cuya aplicación conlleva la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** del infractor, bajo las siguientes definiciones estrictas e inalterables:
 
 1.  **Definición Fundamental y Prohibición Absoluta:**\
-    La Muerte Civil y Profesional es un **estatus jurídico de desconexión y exclusión**, no un acto de eliminación física. Queda terminantemente prohibido, y se considera Crimen de Lesa Humanidad, interpretar este artículo como una justificación para la pena capital, la tortura o cualquier forma de daño corporal.
+    La Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos es un **estatus jurídico de desconexión y exclusión**, no un acto de eliminación física. Queda terminantemente prohibido, y se considera Crimen de Lesa Humanidad, interpretar este artículo como una justificación para la pena capital, la tortura o cualquier forma de daño corporal.
 
-2.  **Naturaleza de la Muerte Civil (La Ruptura del Pacto):**\
-    El ciudadano sentenciado a Muerte Civil pierde la condición de \"Socio Activo\" de la Nación. Sus consecuencias son exclusivamente de carácter político y patrimonial soberano:
+2.  **Naturaleza de la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos:**\
+    El ciudadano sentenciado a Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos pierde la condición de \"Socio Activo\" de la Nación. Sus consecuencias son exclusivamente de carácter político y patrimonial soberano:
 
     a)  **Pérdida a Perpetuidad de los Derechos Políticos:** Se anula de forma irrevocable su derecho al sufragio (activo y pasivo) y su capacidad para ocupar cualquier cargo público, desde el nivel municipal hasta el nacional.
 
@@ -5469,7 +5469,7 @@ Para garantizar la integridad perpetua de la República y sancionar las traicion
 
     c)  **Inhabilitación Corporativa:** Se le prohíbe de por vida ser director, accionista o beneficiario final de cualquier Sociedad Anónima de Capital Abierto (SACA) o entidad que gestione infraestructura crítica.
 
-3.  **Naturaleza de la Muerte Profesional (El Veto al Talento Corrupto):**\
+3.  **Naturaleza de la Muerte Profesional:**\
     El individuo sentenciado a Muerte Profesional pierde el derecho a ejercer cualquier profesión que implique la confianza pública, la gestión de activos ajenos o la integridad física de terceros. Sus consecuencias son:
 
     a)  **Revocación Irreversible de Licencias:** Se anula de forma permanente toda licencia, certificación o acreditación profesional emitida o reconocida por el Estado o el TAT.
@@ -5479,14 +5479,14 @@ Para garantizar la integridad perpetua de la República y sancionar las traicion
     c)  **Derecho al Trabajo Básico:** El individuo no queda condenado a la indigencia. Conserva el derecho a ejercer trabajos no cualificados o de bajo riesgo en el sector privado que no requieran confianza pública certificada.
 
 4.  **El Sello de Inviabilidad Moral (El Mecanismo de Ejecución):**\
-    La Muerte Civil y Profesional no es una decisión administrativa, sino el resultado de una sentencia judicial firme.
+    La Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos no es una decisión administrativa, sino el resultado de una sentencia judicial firme.
 
     a)  Se implementará mediante la aplicación algorítmica de un **Sello Criptográfico de Inviabilidad Moral** en el Pasaporte de Ciudadanía Soberana (PCSC) del individuo, por orden exclusiva del Tribunal de Defensa de la Constitución (TDC).
 
     b)  Este sello es público, permanente e inexpugnable. El RNS lo usará como filtro para bloquear cualquier intento del individuo de registrarse para votar, postularse a un cargo, recibir dividendos de AS o validar una licencia profesional.
 
 5.  **Crímenes que Activan el Sello:**\
-    La aplicación de la Muerte Civil y Profesional está reservada exclusivamente para los siguientes delitos, demostrados más allá de toda duda razonable ante un tribunal:
+    La aplicación de la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos está reservada exclusivamente para los siguientes delitos, demostrados más allá de toda duda razonable ante un tribunal:
 
     a)  Alta Traición a la Patria (Disp. Transitoria Cuarta.1) y Alta Traición a la Fe Pública (Art. 145.7.d).
 
@@ -5496,22 +5496,22 @@ Para garantizar la integridad perpetua de la República y sancionar las traicion
 
     d)  Genocidio o Crímenes de Lesa Humanidad (Art. 22.15).
 
-6.  De la Inmunidad contra la Instrumentalización Política de la Sanción (Protocolo de Revisión Tripartita): Para garantizar que el Sello de Inviabilidad Moral (Muerte Civil y Profesional) nunca sea utilizado por el poder político de turno como herramienta de persecución, cancelación ideológica o purga selectiva, se establece el siguiente protocolo de blindaje absoluto:
+6.  De la Inmunidad contra la Instrumentalización Política de la Sanción (Protocolo de Revisión Tripartita): Para garantizar que el Sello de Inviabilidad Moral (Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos) nunca sea utilizado por el poder político de turno como herramienta de persecución, cancelación ideológica o purga selectiva, se establece el siguiente protocolo de blindaje absoluto:
 
 <!-- -->
 
-a)  Veto de Iniciativa Unilateral: Queda prohibido que cualquier funcionario, incluyendo al Presidente de la República, Ministros o el Oficial de Mayor Rango del CNSPOC, o similares, solicite o inicie de forma unilateral el proceso de Muerte Civil contra un ciudadano. El proceso solo podrá iniciarse de oficio por el Registro Nacional Soberano (RNS) ante la detección de anomalías de telemetría fáctica (Art. 144.1) o mediante denuncia ciudadana unánime ratificada por dos tercios (2/3) de los miembros sorteados de la Cámara de Vigilancia Aleatoria (CVA).
+a)  Veto de Iniciativa Unilateral: Queda prohibido que cualquier funcionario, incluyendo al Presidente de la República, Ministros o el Oficial de Mayor Rango del CNSPOC, o similares, solicite o inicie de forma unilateral el proceso de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos contra un ciudadano. El proceso solo podrá iniciarse de oficio por el Registro Nacional Soberano (RNS) ante la detección de anomalías de telemetría fáctica (Art. 144.1) o mediante denuncia ciudadana unánime ratificada por dos tercios (2/3) de los miembros sorteados de la Cámara de Vigilancia Aleatoria (CVA).
 
 b)  Auditoría de Sesgo de Facción (Filtro de Impacto Competitivo): Presentada la denuncia, el TAT ejecutará obligatoriamente una auditoría sobre los datos del acusado. Si el TAT determina que la aplicación de la sanción genera una ventaja competitiva asimétrica (política, comercial o de control de mercado) a favor de la rama del Ejecutivo, de una corporación SACA específica o de una facción ideológica, y existen indicios que señalen una sospecha razonable que muestren una persecución hacia la persona el proceso será declarado Nulo por Vicio de Intención (Código Malicioso), archivándose la causa de forma definitiva, si no se demuestra lo contrario.
 
-c)  El Derecho al Exilio Soberano (Válvula de Descompresión del Conflicto): El ciudadano sancionado con la Muerte Civil y Profesional conservará de forma inalienable el derecho a liquidar o no según estime conveniente la totalidad de sus Acciones de Mercado (AM) y su patrimonio inmobiliario registrado en el RNS siempre y cuando no haya una sentencia judicial firme por la cual se indique lo contrario en un proceso por un cargo penal diferente o previo. El Estado facilitará su salida física inmediata del territorio nacional (en el caso que así lo desee el ciudadano) bajo salvoconducto digital. Queda estrictamente prohibida la imposición de \"secuestro domiciliario\" o la retención forzosa de la persona en el territorio de la República. La soberanía se defiende aislando al nodo incompatible, no destruyendo su vehículo biológico.
+c)  El Derecho al Exilio Soberano (Válvula de Descompresión del Conflicto): El ciudadano sancionado con la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos conservará de forma inalienable el derecho a liquidar o no según estime conveniente la totalidad de sus Acciones de Mercado (AM) y su patrimonio inmobiliario registrado en el RNS siempre y cuando no haya una sentencia judicial firme por la cual se indique lo contrario en un proceso por un cargo penal diferente o previo. El Estado facilitará su salida física inmediata del territorio nacional (en el caso que así lo desee el ciudadano) bajo salvoconducto digital. Queda estrictamente prohibida la imposición de \"secuestro domiciliario\" o la retención forzosa de la persona en el territorio de la República. La soberanía se defiende aislando al nodo incompatible, no destruyendo su vehículo biológico.
 
 7\. De la Jerarquía del Daño, la Irreversibilidad de la Traición y el Protocolo de Reintegración Excepcional.
 
 La República, si bien reconoce la capacidad de redención del individuo, establece una distinción fundamental basada en la naturaleza y la escala del daño infligido al cuerpo de la Nación.
 
 a)  **Definición de la Sanción Irreversible (La Marca de Caín):**\
-    La Muerte Civil y Profesional (Art. 109) será de carácter **perpetuo, irreversible e inexpugnable** para todo ciudadano convicto por los siguientes crímenes, los cuales constituyen una ruptura definitiva del pacto de civilización:
+    La Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (Art. 109) será de carácter **perpetuo, irreversible e inexpugnable** para todo ciudadano convicto por los siguientes crímenes, los cuales constituyen una ruptura definitiva del pacto de civilización:
 
 <!-- -->
 
@@ -5524,7 +5524,7 @@ iii. El uso de menores de edad como instrumentos para la comisión de delitos de
 <!-- -->
 
 b)  **El Protocolo de Reintegración Excepcional (El Camino de Retorno):**\
-    Para todos los demás delitos que conllevan la Muerte Civil y Profesional (ej. Alta Traición a la Fe Pública, Sabotaje Económico, Simulación de Soberanía), el infractor podrá solicitar la restitución parcial de sus derechos económicos, pero jamás sus derechos políticos, bajo el cumplimiento estricto y sucesivo de las siguientes condiciones:
+    Para todos los demás delitos que conllevan la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (ej. Alta Traición a la Fe Pública, Sabotaje Económico, Simulación de Soberanía), el infractor podrá solicitar la restitución parcial de sus derechos económicos, pero jamás sus derechos políticos, bajo el cumplimiento estricto y sucesivo de las siguientes condiciones:
 
 <!-- -->
 
@@ -6393,7 +6393,7 @@ c)  **Mecanismo de Recuperación:** Al comenzar a generar dividendos, el proyect
 
 1\. Derecho a la Duda Metódica: Ningún \"Consenso Científico\" o \"Verdad Técnica\" avalada por el Estado o el ICI podrá ser utilizado para silenciar, sancionar o discriminar civilmente a un individuo que sostenga una tesis contraria.
 
-2\. Blindaje del Disidente: Se prohíbe la \"Muerte Civil Digital\" o la restricción de derechos basada en el perfilado de opiniones o hallazgos científicos discrepantes.
+2\. Blindaje del Disidente: Se prohíbe la \"Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos Digitales\" o la restricción de derechos basada en el perfilado de opiniones o hallazgos científicos discrepantes.
 
 ------------------------------------------------------------------------
 
@@ -6640,7 +6640,7 @@ b)  Presunción de Lavado e Intervención: Ante una desviación de Balance Mater
 
     a)  Incompatibilidad de Interés: La función de auditoría es estrictamente técnica y evaluativa. El beneficio económico del auditor debe nacer de la Eficiencia del Proceso (ahorro de recursos estatales) y no de la Extracción de Capital del ciudadano.
 
-    b)  Tipificación de Acoso Fiscal: Cualquier intento de un funcionario de forzar una \"liquidación paralela\" mediante la interpretación subjetiva de datos, con el fin de inflar artificialmente el ingreso estatal, será tratado como Extorsión Institucional y acarreará la Muerte Civil y Profesional (Art. 109).
+    b)  Tipificación de Acoso Fiscal: Cualquier intento de un funcionario de forzar una \"liquidación paralela\" mediante la interpretación subjetiva de datos, con el fin de inflar artificialmente el ingreso estatal, será tratado como Extorsión Institucional y acarreará la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (Art. 109).
 
 10. **Del Protocolo de Interfaz Contable Soberana (PICS) y la Contabilidad Federada.** Para garantizar que la eficiencia algorítmica no sacrifique la complejidad del mundo comercial, se instituye un sistema de contabilidad federada que operará bajo las siguientes reglas inalterables:
 
@@ -6711,7 +6711,7 @@ b)  Presunción de Lavado e Intervención: Ante una desviación de Balance Mater
 
 8.  Del Delito de Malversación de Recursos de Salvaguarda por Fraude Procesal: Se tipifica como Sabotaje a la Justicia el acto de instrumentalizar las leyes de protección a la mujer para fines de extorsión, difamación o beneficio personal en disputas de carácter civil o patrimonial.
 
-    a)  Pérdida de Prioridad: El individuo que, mediante el testimonio teatral (Art. 93.6) o la falsificación de la narrativa causal, sea descubierto intentando desviar recursos estatales destinados a víctimas reales, sufrirá la Muerte Civil y Profesional.
+    a)  Pérdida de Prioridad: El individuo que, mediante el testimonio teatral (Art. 93.6) o la falsificación de la narrativa causal, sea descubierto intentando desviar recursos estatales destinados a víctimas reales, sufrirá la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos.
 
     b)  Protección del Presupuesto de Víctimas: El TAT auditará trimestralmente la eficiencia de los fondos de ayuda. El 100% de los recursos debe ir a casos donde el riesgo biológico sea verificado de forma fáctica. La \"percepción subjetiva de opresión\" no constituye un hecho imponible para la asignación de recursos públicos. No obstante, cada caso debe ser evaluado individualmente dependiendo el grado de complejidad.
 
@@ -6749,7 +6749,7 @@ b)  Presunción de Lavado e Intervención: Ante una desviación de Balance Mater
 
     b)  **Extorsión Civil:** Privación de derechos sucesorios, laborales o de propiedad privada del miembro sancionado.
 
-    c)  **Muerte Civil Social:** El fomento del ostracismo que impida al individuo el acceso a servicios básicos de la República (salud, educación, comercio, y otros de similar índole).
+    c)  **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos Sociales:** El fomento del ostracismo que impida al individuo el acceso a servicios básicos de la República (salud, educación, comercio, y otros de similar índole).
 
 3.  Cualquier organización que trascienda estos límites será tipificada como **Estructura Coercitiva Anticonstitucional**, procediéndose a su disolución inmediata y la confiscación de sus bienes a favor del Tesoro Municipal.
 
@@ -6815,7 +6815,7 @@ b)  Presunción de Lavado e Intervención: Ante una desviación de Balance Mater
 
     a)  **Seguro de Vulnerabilidad Cognitiva:** El Fondo de Auxilio Mutuo (Art. 62) cubrirá el 50% de la pérdida material de ciudadanos vulnerables estafados físicamente, mientras el BJT persigue al infractor.
 
-    b)  **Agravante por Abuso de Confianza:** La estafa realizada mediante el aprovechamiento de la falta de alfabetización digital o física del ciudadano se castigará con la **Pérdida de la Ciudadanía (Muerte Civil)** si el daño excede el Mínimo Vital de la víctima.
+    b)  **Agravante por Abuso de Confianza:** La estafa realizada mediante el aprovechamiento de la falta de alfabetización digital o física del ciudadano se castigará con la **Pérdida de la Ciudadanía (Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos)** si el daño excede el Mínimo Vital de la víctima.
 
 6.  **De la Primacía de la Eficiencia y la Inviolabilidad de la Gestión de Recursos Propios:** Se establece que el ejercicio de la soberanía individual dentro de la propiedad privada incluye el derecho al uso de recursos naturales (sol, viento, agua de lluvia) para el mantenimiento vital, quedando protegida esta función contra normativas estéticas o de mercado.
 
@@ -6957,7 +6957,7 @@ ii. **Ámbito Nacional:** Si el delito fue tipificado como Atentado a la Segurid
 
 c)  **Restauración de Derechos y Sello de Reputación:** Una vez que el erario público liquide el 20% a la víctima, el Registro Nacional Soberano (RNS) emitirá un Certificado de Solvencia Total. El estigma digital del antecedente migrará a una capa de archivo protegido, devolviendo al ciudadano su plena capacidad comercial y el acceso total a su Capa C de Capital de Maniobra. La República invierte este 20% como un activo para recuperar a un contribuyente neto y eliminar el costo social del paria.
 
-7\. **Del Derecho a la Restitución de la Imagen Civil.** La filtración maliciosa de datos privados o el uso de información de la Capa Gamma para fines de extorsión o escarnio público será castigado con la Muerte Civil Profesional del funcionario responsable y una indemnización equivalente al 50% de las Acciones Soberanas del infractor en favor de la víctima.
+7\. **Del Derecho a la Restitución de la Imagen Civil.** La filtración maliciosa de datos privados o el uso de información de la Capa Gamma para fines de extorsión o escarnio público será castigado con la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos del funcionario responsable y una indemnización equivalente al 50% de las Acciones Soberanas del infractor en favor de la víctima.
 
 8\. **Veto de Cronicidad y Subsidiariedad Final:** Si el ciudadano caído rechaza voluntariamente acogerse a las Rampas de Redignificación y decide permanecer en la inacción o el vicio, el Estado queda relevado de toda obligación de sostenimiento material. La red de salvación final será exclusivamente de índole privada y voluntaria, a través del Fondo Municipal de Auxilio Mutuo y Dignidad (Artículo 62), operado por la fraternidad vecinal y no por coacción fiscal.
 
@@ -7222,7 +7222,7 @@ Una vez que la población civil está conectada al RNS y ya no depende del cárt
 
 a)  Se autoriza la extracción quirúrgica de los líderes criminales identificados por telemetría.
 
-b)  Se aplicará la **Muerte Civil y Profesional** (Art. 109) y la **Extinción de Dominio (Ruina Algorítmica)** sobre todos los bienes, Acciones Soberanas (AS) y cuentas de los líderes y colaboradores del cártel, transfiriendo esos fondos a la reconstrucción del propio barrio.
+b)  Se aplicará la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** (Art. 109) y la **Extinción de Dominio (Restitución Patrimonial Forzosa)** sobre todos los bienes, Acciones Soberanas (AS) y cuentas de los líderes y colaboradores del cártel, transfiriendo esos fondos a la reconstrucción del propio barrio.
 
 **4. Fase Delta: Urbanización de Oficio (Formateo del Terreno):**\
 Neutralizada la amenaza fáctica, el Municipio está constitucionalmente obligado a aplicar el **Artículo 110.4 (Urbanización de Oficio)**.
@@ -7592,7 +7592,7 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
     b)  Confiscación del Capital Excedente (49%): El cuarenta y nueve por ciento (49%) restante del capital social (que correspondería a las Acciones de Mercado - AM) será decomisado de forma incondicional por el Estado y transferido a las cuentas de indemnización de la UAR para saldar las deudas de restitución con las víctimas directas de la represión física o económica ejecutada por los familiares de los infractores.
 
-    c)  Extracción del Mando y Muerte Civil de los Socios: Los familiares y testaferros de la dictadura perderán de forma inmediata y perpetua cualquier derecho de voto, administración, representación o empleo directivo en la nueva SACA. Se les aplicará el Sello de Inviabilidad Moral y la Muerte Civil y Profesional (Art. 109). La gestión operativa de la empresa será asumida de forma transitoria por un Comisario Técnico del TAT, quien convocará a una licitación ciega para su administración privada laica.
+    c)  Extracción del Mando y Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos de los Socios: Los familiares y testaferros de la dictadura perderán de forma inmediata y perpetua cualquier derecho de voto, administración, representación o empleo directivo en la nueva SACA. Se les aplicará el Sello de Inviabilidad Moral y la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (Art. 109). La gestión operativa de la empresa será asumida de forma transitoria por un Comisario Técnico del TAT, quien convocará a una licitación ciega para su administración privada laica.
 
 3.  El Antivirus contra el Testaferrismo (Algoritmo de Enjambre): La interposición de personas naturales ajenas al núcleo familiar (testaferros o \"hombres de paja\") no impedirá la aplicación de este artículo. El RNS, mediante el análisis criptográfico de grafos de relaciones y transferencias de divisas (Algoritmo de Enjambre - Art. 117.5.b), rastreará el origen del flujo de fondos. De demostrarse que el capital real o el control fáctico de la empresa pertenece a familiares de la cúpula, la SACA se constituirá de oficio, y el testaferro perderá el cien por ciento (100%) de sus bienes personales registrados por el delito de Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d)
 

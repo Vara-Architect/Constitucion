@@ -2862,10 +2862,10 @@ d)  **Inmunidad Fiscal al Patrimonio Vehicular:** Los medios de transporte y maq
 
 e)  **Penalización a la Vacancia Improductiva (Anti-Hoarding):** Para evitar la manipulación artificial del mercado inmobiliario, se establece una tasa de compensación sobre inmuebles residenciales de propiedad corporativa que permanezcan desocupados por más de dieciocho (18) meses. El recaudo de dicha tasa se destinará exclusivamente a fondos de capital semilla para emprendimiento juvenil local.
 
-**4. Del Arrendamiento de Fricción Cero, Uso Efímero y Desalojo Algorítmico (Protocolo Anti-Okupa).**\
+**4. Del Arrendamiento de Fricción Cero, Uso Efímero y Desalojo por ocupación ilegal.**\
 La República reconoce que el derecho de propiedad incluye la facultad de ceder temporalmente el uso y disfrute de un espacio (habitaciones, terrenos para acampar, locales comerciales) mediante acuerdos de libre mercado. Para evitar la usurpación amparada en la burocracia, se establece el régimen de **Contrato de Uso Efímero con Extinción Automática**:
 
-a)  **El Contrato Inteligente de Arrendamiento:** Todo ciudadano o empresa (SACA/SEP) que desee rentar un espacio por un tiempo determinado, generará un contrato digital a través del Registro Nacional Soberano (RNS) utilizando los Pasaportes de Ciudadanía Soberana (PCSC) de ambas partes. El contrato establecerá de forma inalterable la fecha y hora exacta de inicio (Time-In) y expiración (Time-To-Live).
+a)  **El Contrato Inteligente de Arrendamiento:** Todo ciudadano o empresa (SACA/SEP) que desee rentar un espacio por un tiempo determinado, generará un contrato digital a través del Registro Nacional Soberano (RNS) utilizando los Pasaportes de Ciudadanía Soberana (PCSC) de ambas partes. El contrato establecerá de forma inalterable la fecha y hora exacta de inicio y expiración.
 
 b)  **Soberanía del Propietario sobre el Cierre:** El poder de extensión o terminación del contrato reside exclusiva y unilateralmente en el propietario del bien. Cumplido el plazo fáctico establecido en el RNS, el derecho de permanencia del ocupante se extingue de pleno derecho (Null Pointer). El Estado no reconoce \"tácitas reconducciones\" ni \"derechos de antigüedad\" en ocupaciones temporales.
 

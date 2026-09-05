@@ -2314,7 +2314,7 @@ b)  **Incentivo al Denunciante:** Aquel empleado o ciudadano que **denuncie y pr
 
 c)  **De la Verificación de Buena Fe y Sanción al Denunciante Instrumental.** El incentivo económico del diez por ciento (10%) previsto para el denunciante solo se liquidará una vez que el Tribunal emita una **Sentencia Condenatoria Firme** contra los corruptos, basada en pruebas materiales irrefutables aportadas o facilitadas por el denunciante.
 
-    i.  **Activación de la Reciprocidad Punitiva:** Si el Tribunal de Defensa de la Constitución (TDC) determina, conforme al Artículo 88, que la denuncia de soborno fue fabricada, simulada o instrumentalizada con el fin de obtener la recompensa o dañar a un tercero, el denunciante perderá todo derecho a protección de identidad y será sentenciado por **Alta Traición a la Integridad Sistémica**.
+    i.  Activación de la Reciprocidad Punitiva: Si el tribunal competente determina, de conformidad con las garantías y el estándar probatorio del Artículo 93, Incisos 5 y 7, que la denuncia de soborno fue fabricada, simulada o instrumentalizada con dolo manifiesto con el fin de obtener la recompensa o perjudicar a un tercero, el denunciante perderá todo derecho a reserva de identidad y será procesado conforme a la escala de reciprocidad punitiva allí establecida.".
 
     ii. **Pena Específica por Perjurio Lucrativo:** En este caso, el denunciante falso será condenado a la misma pena de inhabilitación perpetua y cárcel que pretendía para el acusado, y deberá abonar al Estado y al afectado una multa equivalente al **monto que pretendía cobrar como recompensa**, la cual será ejecutada sobre sus Acciones Soberanas (AS) y/o Acciones de Mercado (AM) si las hubiese.
 
@@ -5707,7 +5707,7 @@ b)  Ninguna SACA podrá declarar, ni el RNS procesar, distribución alguna que e
 
 3\. El límite máximo de tenencia de Acciones Soberanas por ciudadano es de cinco (5) acciones por SACA, acumulables únicamente por herencia en línea directa o por designación de tutor legal.
 
-4\. Las acciones que excedan dicho límite se convertirán automáticamente en Acciones de Mercado (AM), perdiendo su carácter de inalienables y sus derechos políticos privilegiados, pero conservando sus derechos económicos o según disponga el Artículo 112.
+4\. Las acciones que excedan dicho límite se convertirán automáticamente en Acciones de Mercado (AM), perdiendo su carácter de inalienables y sus derechos políticos privilegiados, pero conservando sus derechos económicos, de conformidad con lo establecido en el Artículo 119 y el Artículo 123 de la presente Constitución.
 
 5\. **Régimen de Disposición de Flujos (Regla 30/30/40):** El flujo mensual de dividendos de la AS se divide automáticamente en tres capas de seguridad:
 

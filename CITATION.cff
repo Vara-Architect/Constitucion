@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Para citar o referenciar este documento institucional, utilice los siguientes metadatos."
+title: "Constitución de la República de Cuba 2026: El Blueprint de la Isla de Safiro"
+authors:
+  - name: "Vara-Architect"
+version: 1.0.0
+date-released: 2026-08-31
+url: "https://github.com/Vara-Architect/Constitucion"
+repository-code: "https://github.com/Vara-Architect/Constitucion"
+license: CC-BY-SA-4.0
+keywords:
+  - "cuba"
+  - "constitucion"
+  - "derecho-constitucional"
+  - "open-source-governance"
+  - "cuba-2026"
+abstract: "Arquitectura jurídica y diseño institucional integral para la República de Cuba 2026. Introduce un modelo municipalista con descentralización fiscal 70/30, el Registro Nacional Soberano (RNS), la Propiedad Ciudadana Directa mediante Sociedades Anónimas de Capital Abierto (SACA) y un esquema de justicia transicional de suma positiva."

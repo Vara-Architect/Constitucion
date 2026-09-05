@@ -2478,20 +2478,18 @@ i)  Otros definidos en esta constitución.
 
 j)  **El resto de gastos estatales debe ser asumido por cada municipio en su gestión local.** El estado nacional es prioritariamente un ente gestor a nivel macro, no un micro gestor de emergencia.
 
-3\. Transferencia Nacional: El treinta por ciento (30%) restante será transferido al Tesoro Nacional para financiar las funciones del estado: Relaciones Exteriores, Defensa Nacional, Justicia Federal, el Fondo de Convergencia e Infraestructura Nacional (FCIN), entre otros.
+3\.  Blindaje de Flujo: Se prohíbe la creación de fondos centralizados, cuentas interpuestas o intermediarios administrativos que retengan, administren o desvíen los recursos recaudados. El flujo de caja municipal correspondiente al setenta por ciento (70%) es originario, autónomo e inembargable por el Estado central."
 
-4\. Blindaje de Flujo: Se prohíbe la creación de fondos centralizados o intermediarios que retengan o desvíen estos recursos. El flujo de caja municipal es Inembargable por el Estado central.
+4\. **De los Fondos Rotativos y de Impulso Estratégico Municipal Sectorial.** Los Municipios quedan facultados para crear programas de Subvención de Desarrollo Local financiados con su cuota del setenta por ciento (70%). La determinación de estos programas y sectores es competencia exclusiva, indelegable y soberana de la Asamblea Municipal. La Asamblea Municipal decidirá qué sectores específicos (tecnológicos, marítimos, agrícolas o industriales) recibirán inyecciones de capital, ya sea bajo un esquema de ciclo rotativo (capital retornable) o a fondo perdido para disminuir sus costos operativos. Como mínimo el 80% del monto total de la subvención debe ser deducido íntegramente del precio final de venta del producto o servicio al ciudadano.
 
-5\. **De los Fondos Rotativos y de Impulso Estratégico Municipal Sectorial.** Los Municipios quedan facultados para crear programas de Subvención de Desarrollo Local financiados con su cuota del setenta por ciento (70%). La determinación de estos programas y sectores es competencia exclusiva, indelegable y soberana de la Asamblea Municipal. La Asamblea Municipal decidirá qué sectores específicos (tecnológicos, marítimos, agrícolas o industriales) recibirán inyecciones de capital, ya sea bajo un esquema de ciclo rotativo (capital retornable) o a fondo perdido para disminuir sus costos operativos. Como mínimo el 80% del monto total de la subvención debe ser deducido íntegramente del precio final de venta del producto o servicio al ciudadano.
-
-6\. **Autarquía en la Ejecución del Gasto:**\
+5\. **Autarquía en la Ejecución del Gasto:**\
 El setenta por ciento (70%) retenido por el Municipio es de **Ejecución Discrecional Interna**.
 
 a)  El Alcalde y la Asamblea Municipal tienen la facultad de asignar recursos según sus propias prioridades de desarrollo, sin requerir el \"Visto Bueno\" de la Tesorería Nacional o del Presidente de la República.
 
 b)  **Límite de No-Contradicción:** El presupuesto municipal solo podrá ser bloqueado por el TDC si se demuestra fehacientemente (vía auditoría del RNS) que los fondos están siendo desviados para violar Cláusulas Pétreas (ej: creación de partidos políticos, subvención a la discriminación o compra de armamento pesado ofensivo fuera del control nacional).
 
-7\. Del Fondo de Innovación Táctica y Gestión de Riesgo (Sandbox Presupuestario): Con el fin de evitar la parálisis operativa, las Asambleas Municipales y el Poder Ejecutivo Nacional podrán destinar hasta un máximo del tres por ciento (3%) de su recaudación neta a un Fondo de Innovación Táctica.
+6\. Del Fondo de Innovación Táctica y Gestión de Riesgo (Sandbox Presupuestario): Con el fin de evitar la parálisis operativa, las Asambleas Municipales y el Poder Ejecutivo Nacional podrán destinar hasta un máximo del tres por ciento (3%) de su recaudación neta a un Fondo de Innovación Táctica.
 
 a)  Los proyectos financiados por este fondo quedan eximidos del requisito de Validación por Adversario Técnico (V.A.T.) previo, siempre que su ejecución sea documentada en tiempo real en la Capa Alfa del RNS.
 
@@ -2499,11 +2497,11 @@ b)  El fracaso técnico, operativo o económico de un proyecto ejecutado bajo es
 
 c)  Este fondo puede ser ampliado puntualmente hasta un 3% adicional en casos de necesidad real certificada por mayoría simple del congreso (nacional o municipal según corresponda), con estudio de factibilidad previo aprobado por el TAT.
 
-8\. **Del Procedimiento de Acceso y Evaluación Ciega.** Tanto los particulares como las sociedades comerciales podrán acceder a estos fondos y subvenciones mediante la presentación de proyectos técnicos específicos. El otorgamiento se regirá por el Protocolo de Evaluación Ciega: los proyectos serán calificados por un Comité Técnico independiente que desconocerá la identidad de los proponentes hasta la emisión del fallo, garantizando la igualdad de oportunidades y el mérito técnico superior, proscribiendo toda asignación directa. Los retornos, reintegros o la recuperación de capital semilla derivados del éxito operativo retornarán de forma automática y algorítmica al mismo fondo en el Registro Nacional Soberano para financiar nuevos ciclos productivos locales.
+7\. **Del Procedimiento de Acceso y Evaluación Ciega.** Tanto los particulares como las sociedades comerciales podrán acceder a estos fondos y subvenciones mediante la presentación de proyectos técnicos específicos. El otorgamiento se regirá por el Protocolo de Evaluación Ciega: los proyectos serán calificados por un Comité Técnico independiente que desconocerá la identidad de los proponentes hasta la emisión del fallo, garantizando la igualdad de oportunidades y el mérito técnico superior, proscribiendo toda asignación directa. Los retornos, reintegros o la recuperación de capital semilla derivados del éxito operativo retornarán de forma automática y algorítmica al mismo fondo en el Registro Nacional Soberano para financiar nuevos ciclos productivos locales.
 
-9\. **De la Salvaguarda contra el Conflicto de Intereses y la Exclusión Ejecutiva.** Queda terminantemente prohibida la participación, recomendación o ejercicio de derecho a veto por parte del Alcalde o del poder ejecutivo local en las fases de diseño, evaluación y adjudicación de estos fondos. Todo funcionario público que posea intereses económicos privados en una empresa proponente de subvención queda inhabilitado para participar en cualquier etapa del proceso de evaluación o votación. La violación de este precepto (o el intento del Alcalde de direccionar estos recursos) anulará la subvención y será juzgada como Traición a la Estabilidad Económica\*\*, conllevando la destitución fulminante\*\*. El ejercicio de un cargo público no excluye a la empresa de competir, siempre que se garantice la abstención del funcionario y el TAT certifique el mérito técnico superior de la propuesta.
+8\. **De la Salvaguarda contra el Conflicto de Intereses y la Exclusión Ejecutiva.** Queda terminantemente prohibida la participación, recomendación o ejercicio de derecho a veto por parte del Alcalde o del poder ejecutivo local en las fases de diseño, evaluación y adjudicación de estos fondos. Todo funcionario público que posea intereses económicos privados en una empresa proponente de subvención queda inhabilitado para participar en cualquier etapa del proceso de evaluación o votación. La violación de este precepto (o el intento del Alcalde de direccionar estos recursos) anulará la subvención y será juzgada como Traición a la Estabilidad Económica\*\*, conllevando la destitución fulminante\*\*. El ejercicio de un cargo público no excluye a la empresa de competir, siempre que se garantice la abstención del funcionario y el TAT certifique el mérito técnico superior de la propuesta.
 
-10\. **Distribución Secundaria y Deber de Solidaridad Federada (Aportes al FCIN):**
+9\. **Distribución Secundaria y Deber de Solidaridad Federada (Aportes al FCIN):**
 
 a) En ejercicio de la fraternidad confederada y para garantizar la nivelación territorial, el **Patrimonio Fiscal Municipal Originario (el 70% propio)** estará sujeto a la deducción algorítmica de aportes de nivelación horizontal destinados al Fondo de Convergencia e Infraestructura Nacional (FCIN). Dichos fondos no ingresan al Estado central, sino que operan como un fideicomiso inter-municipal de convergencia.
 
@@ -2521,7 +2519,7 @@ d)  La clasificación de los municipios en las categorías anteriores será dete
 
 e)  Los recursos del FCIN así recaudados se distribuirán exclusivamente conforme a lo establecido en el Artículo 125 de esta Constitución, priorizando la inversión productiva en los municipios de convergencia.
 
-11\. **Del Gasto Público como Inversión en Infraestructura Vital:**\
+10\. **Del Gasto Público como Inversión en Infraestructura Vital:**\
 Se reconoce la legitimidad del gasto público destinado a la creación y mantenimiento de activos físicos esenciales para la soberanía y la vida. Este gasto se regirá por el **Principio de Realidad Material**:
 
 a)  **Gasto en Infraestructura de Soberanía:** El financiamiento de edificios institucionales (Sede del TDC, TAT, cuarteles de Salvaguarda, y similares) se realizará estrictamente bajo criterios de eficiencia técnica y austeridad funcional, con cargo a las partidas correspondientes del treinta por ciento (30%) nacional o el setenta por ciento (70%) municipal según su jurisdicción.
@@ -2530,7 +2528,7 @@ b)  **Mandato de Conectividad Vital (El Puente de Supervivencia):** En comunidad
 
 c)  **Prohibición de Gasto Inflacionario:** Todo proyecto de obra pública debe contar con el respaldo de capital ahorrado y auditado en el RNS. Se prohíbe el inicio de obras públicas basadas en la emisión de deuda superior a la capacidad de ahorro real del nodo ejecutor.
 
-12\. **Del Espacio Público, la Estética Cívica y el Límite al Gasto Ornamental:**\
+11\. **Del Espacio Público, la Estética Cívica y el Límite al Gasto Ornamental:**\
 La República reconoce que el bienestar biológico y cognitivo (IBBES) incluye el acceso a espacios de recreación, parques y el fomento de la identidad cultural. Sin embargo, para evitar el consumo de capital en activos no productivos durante fases de escasez, se establece:
 
 a)  **Jerarquía de Necesidades:** Ningún fondo público podrá destinarse a obras ornamentales, monumentos o estética urbana mientras el Índice de Estabilidad Vital (IEV) del municipio se encuentre por debajo del umbral de seguridad (85%).
@@ -4866,7 +4864,7 @@ a)  **Independencia Presupuestaria:**\
 b)  **La Regla del Cincuenta por Ciento (50% Particular):**\
     Para garantizar la agilidad y la competitividad en la innovación, la distribución del FIA se regirá por el Principio de Participación Ciudadana:
 
-    i.  **Reserva de Innovación Privada:** Al menos el **cincuenta por ciento (50%)** del presupuesto anual del FIA deberá adjudicarse mediante licitaciones ciegas (Art. 44.8) a investigadores particulares, científicos independientes, laboratorios universitarios o **Sociedades de Emprendimiento Particular (SEP)**.
+    i.  **Reserva de Innovación Privada:** Al menos el **cincuenta por ciento (50%)** del presupuesto anual del FIA deberá adjudicarse mediante licitaciones ciegas (Art. 44.7) a investigadores particulares, científicos independientes, laboratorios universitarios o **Sociedades de Emprendimiento Particular (SEP)**.
 
     ii. **Incentivo por Riesgo:** El Estado financiará el riesgo de la investigación, permitiendo que el innovador particular mantenga la propiedad intelectual de sus patentes, otorgando a la República una **Licencia de Uso Perpetua e Irrevocable** para fines de defensa nacional.
 
@@ -5212,7 +5210,7 @@ b)  **Deducción Algorítmica y Uso Finalista:** Cumplido cualquiera de los dos 
 
 c)  **Caducidad del Estado de Excepción Financiera:** El Impuesto Extraordinario de Guerra posee naturaleza estrictamente temporal. La recaudación cesará en el instante en que el TAT certifique la neutralización técnica de la amenaza material, o cuando la Cámara de Representantes decrete el cese de las hostilidades. Emitido el cese, el RNS restituirá de forma inmediata la retención fiscal ordinaria a favor de los Municipios.
 
-d)  **De la Excepción Única a la Distribución Primaria:** La Contribución Extraordinaria de Defensa regulada en este artículo constituye la única causal de rango constitucional que faculta al Registro Nacional Soberano (RNS) para alterar la Distribución Primaria del setenta por ciento (70%) de titularidad municipal en favor del Mando Militar Nacional, sin perjuicio de los mecanismos de ecualización secundaria inter-municipal previstos en el Artículo 44.10.
+d)  **De la Excepción Única a la Distribución Primaria:** La Contribución Extraordinaria de Defensa regulada en este artículo constituye la única causal de rango constitucional que faculta al Registro Nacional Soberano (RNS) para alterar la Distribución Primaria del setenta por ciento (70%) de titularidad municipal en favor del Mando Militar Nacional, sin perjuicio de los mecanismos de ecualización secundaria inter-municipal previstos en el Artículo 44.9.
 
 5\. Gestión Directa y Auditoría: Los fondos movilizados no se integran al presupuesto general, sino que se gestionan a través de una Agencia de Propósito Único (ej. Agencia Espacial, Mando de Disuasión), bajo auditoría permanente en tiempo real grabada en el Registro Nacional Soberano.
 
@@ -5260,7 +5258,7 @@ a)  Declarada la movilización por el Congreso, se establece el Régimen de Ince
 
 b)  Exención Corporativa: Las utilidades netas derivadas de contratos de defensa certificados por el TAT gozarán de un Impuesto Único Proporcional (Flat Tax) del cero por ciento (0%) durante la vigencia del conflicto. Esta exención se aplicará estrictamente a la persona jurídica para maximizar la capacidad de producción y reabastecimiento.
 
-c)  Contribución del Trabajo: La exención definida en el inciso anterior no se extiende a los salarios, dividendos personales o bonificaciones percibidas por los trabajadores y accionistas de dichas empresas. Estas rentas personales mantendrán el gravamen constitucional general (29%/30%), garantizando la continuidad del flujo fiscal hacia los servicios públicos y la seguridad social.
+c)  Contribución del Trabajo: La exención definida en el inciso anterior no se extiende a los salarios, dividendos personales o bonificaciones percibidas por los trabajadores y accionistas de dichas empresas. Estas rentas personales mantendrán el gravamen constitucional general (29%/31%), garantizando la continuidad del flujo fiscal hacia los servicios públicos y la seguridad social.
 
 d)  Auditoría de Propósito: El RNS ejecutará la trazabilidad finalista de cada contrato. Cualquier beneficio fiscal obtenido mediante la simulación de producción bélica será sancionado como Delito de Traición Constitucional y conllevará la incautación de los activos de la empresa.
 
@@ -7619,7 +7617,7 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
 9\. AET (Arrendamiento Estratégico Temporal): Contrato de uso de suelo agrícola sin transferencia de titularidad, con reversión de mejoras al propietario original.
 
-10\. SACA-Bonds (Bonos de Compensación): Instrumentos financieros transitorios para la compensación de expropiaciones del régimen anterior. Se pagan con el 25% de utilidades de las SACA.
+10\. **ACT (Acción de Compensación Temporal):** Título patrimonial transitorio representativo de hasta el veinticinco por ciento (25%) del capital social de una Sociedad Anónima de Capital Abierto (SACA), emitido para la indemnización y amortización de deudas originadas por confiscaciones históricas, cuyos derechos económicos amortizan el pasivo hasta su extinción definitiva, momento en el cual revierte al Fideicomiso Nacional de Pensiones
 
 11\. EER (Endeudamiento Excepcional de Reconstrucción): Facultad limitada (máx. 10 años) para endeudarse por encima del 20% del PIB, exclusivamente para infraestructura vital.
 

@@ -665,7 +665,7 @@ iv. **El Delito de Filtrado Ilegítimo (Data Profiling):** Cualquier funcionario
 
 <!-- -->
 
-b)  **Ceguera Genealógica del RNS (Data Sanitization):** Queda estrictamente prohibido que el Registro Nacional Soberano (RNS), censos nacionales, o formularios de empleo público y privado contengan campos, metadatos o clasificaciones referidas a raza, tribu, etnia, casta o religión heredada. El Estado se niega a procesar la \"identidad de tribu\". El ciudadano es, algorítmicamente, solo un Ciudadano.
+b)  **Ceguera Tribal y Proscripción de Categorías Colectivistas:** Queda estrictamente prohibido que el Registro Nacional Soberano establezca clasificaciones, campos o discriminaciones sustentadas en conceptos de raza, casta, adscripción comunitaria o fe religiosa. Lo anterior se entiende sin perjuicio del registro técnico, civil e individual de la filiación biológica ascendente y descendente, necesario exclusivamente para el ejercicio del régimen sucesorio de la propiedad privada y la verificación de los requisitos constitucionales de arraigo e idoneidad soberana establecidos en el Artículo 16.
 
 c)  **Proscripción del Determinismo Laboral:** Se declara nula de pleno derecho cualquier costumbre, reglamento comunitario o \"ley tradicional\" que reserve oficios, profesiones o cargos a un linaje específico, o que prohíba a individuos de determinado origen el ejercicio de actividades comerciales, intelectuales o de gobierno. El talento no tiene jurisdicción de nacimiento.
 
@@ -6183,7 +6183,7 @@ c)  El principio de Soberanía Individual y primacía de los derechos naturales.
 
 d)  La prohibición absoluta de reelección presidencial indefinida, junto al respeto a la dignidad e intimidad de los servidores públicos.
 
-e)  El principio de **Distribución Fiscal Primaria (70% Municipal / 30% Nacional)** y el automatismo de retención local descentralizada (Artículo 44).
+e)  El principio de Distribución Fiscal Primaria (70% Municipal / 30% Nacional) y el automatismo de retención local descentralizada (Artículo 44), cuya plena vigencia rige de forma inmutable, con la única excepción de la modulación temporal y regresiva estrictamente prevista para la Fase I en la Disposición Transitoria Undécima.
 
 f)  El esquema de privacidad ciudadana.
 
@@ -7454,7 +7454,7 @@ c)  **Ejecución Patrimonial Fulminante:** La sanción por este delito no se lim
 
 ## DISPOSICIÓN TRANSITORIA SÉPTIMA: De la Disolución de Entidades y Asignación de Acciones.
 
-Se decreta la extinción irrevocable de la personalidad jurídica del Partido Comunista de Cuba, sus organizaciones de masas, satélites y dependencias, incluyendo conglomerados industriales y financieros bajo administración militar o política. Estos activos integran la Masa Concursal de Restitución. Todo ciudadano cubano por nacimiento, mayor de edad al momento de la promulgación, recibirá gratuitamente una (1) Acción Soberana de cada SACA creada. Las acciones son invendibles por los primeros siete (7) años (Dominio Protegido). El usufructo por arrendamiento se limita al 30% de dividendos, requiriendo el Certificado de Educación Financiera (CEF).
+Se decreta la extinción irrevocable de la personalidad jurídica del Partido Comunista de Cuba, sus organizaciones de masas, satélites y dependencias, incluyendo conglomerados industriales y financieros bajo administración militar o política. Estos activos integran la Masa Concursal de Restitución. Todo ciudadano cubano por nacimiento, mayor de edad al momento de la promulgación, recibirá gratuitamente una (1) Acción Soberana de cada SACA creada. El título de la Acción Soberana (AS) es estrictamente inalienable, intransferible y perpetuo en su titularidad. Durante los primeros siete (7) años a partir de la entrada en vigor de esta Constitución (Periodo de Protección y Maduración), queda absolutamente prohibido cualquier contrato de arrendamiento o pignoración sobre el flujo de dividendos de las Capas B y C, garantizándose que la totalidad de los rendimientos ingrese directamente al titular para consolidar su estabilidad económica inicial. Transcurrido dicho plazo, las operaciones sobre el flujo se regirán por el régimen ordinario del Artículo 115, requiriendo el Certificado de Educación Financiera (CEF).
 
 ## DISPOSICIÓN TRANSITORIA OCTAVA: Del Protocolo de Pago a Acreedores.
 

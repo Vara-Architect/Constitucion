@@ -1014,7 +1014,7 @@ A.  **Proscripción de la Expulsión en Masa:**\
 
 I.  **Opción de Labor de Pasaje (Trabajo por Ticket):** Se le ofrecerá al individuo la posibilidad de integrarse voluntariamente en una Rampa de Redignificación (Art. 151) por un periodo breve y determinado (de preferencia no superior a 30 días). El salario generado se acreditará íntegramente y de forma prioritaria para la compra del boleto de transporte y una ración de viaje. Cumplida la meta financiera, la salida se ejecuta inmediatamente.
 
-II. **Beca de Salida Humanitaria:** El Estado podrá cubrir el costo del traslado utilizando los fondos provenientes de donaciones internacionales o de la Diáspora registrados en el RNS para fines humanitarios (Art. 145.4).
+II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el Registro Nacional Soberano, conforme a las previsiones del Artículo 20, Inciso 15.a y el Artículo 25, Inciso 5.".
 
 III. **Asunción de Pérdida Sistémica (El Préstamo de Gracia):** En casos de urgencia médica o política donde la salida no pueda esperar, el Fondo Catastrófico Nacional adelantará el costo del viaje. Esta suma quedará registrada en el historial del PCSC-Temporal del extranjero como una **Deuda Pendiente con la República**.
 
@@ -1061,7 +1061,7 @@ b)  Las inversiones extranjeras que se constituyan bajo la modalidad de Sociedad
 
 i.  Bonificación Fiscal: Una reducción de tres (3) puntos porcentuales sobre el Impuesto Único Proporcional (Flat Tax) de la sociedad durante los primeros diez años de operación.
 
-ii. Prioridad de Concesión: Preferencia en la adjudicación de contratos de infraestructura o servicios bajo el régimen de Arrendamiento Estratégico (Artículo 54.4).
+ii. **Prioridad de Concesión y Arrendamiento Productivo:** Preferencia técnica en igualdad de condiciones para la adjudicación de contratos bajo el régimen de Concesión Administrativa de infraestructuras y servicios públicos (Artículo 11 y Artículo 35), así como para la suscripción de contratos de Arrendamiento Estratégico Temporal en actividades productivas (Artículo 54.4).
 
 iii. Simplificación Administrativa: Acceso al protocolo de registro y auditoría simplificada por parte de los municipios y el Estado.
 
@@ -1333,9 +1333,9 @@ c)  **Monopolio de la Fuerza Legítima:** La aplicación de la ley y el uso de l
 a)  **De la Proscripción del Limbo Investigativo y la Caducidad Algorítmica de la Prisión Provisional.**\
     La República proscribe la utilización de la investigación policial o judicial como mecanismo de castigo anticipado. El \"arresto bajo investigación\" no puede convertirse en una condena fáctica. Se instituye el **Habeas Corpus Algorítmico**:
 
-    i.  **Plazo Criptográfico de Instrucción:** Al momento de ejecutarse un arresto, el oficial actuante debe registrar la captura en el Registro Nacional Soberano (RNS). En ese milisegundo, el RNS inicia una cuenta regresiva inalterable de **setenta y dos (72) horas**.
+    i.  **Plazo Criptográfico de Instrucción:** Al momento de ejecutarse un arresto, el oficial actuante debe registrar la captura en el Registro Nacional Soberano (RNS). En ese instante, el RNS inicia una cuenta regresiva inalterable de **setenta y dos (72) horas**.
 
-    ii. **Liberación por *Time-Out*:** Si cumplidas las 72 horas el fiscal no ha ingresado en el RNS un pliego formal de cargos respaldado por Pruebas Fácticas Prevalentes (Art. 49.7), la celda o instalación de detención perderá su amparo legal. El sistema emitirá una orden automática de liberación. Mantener al ciudadano retenido en el minuto 73 constituye **Delito de Secuestro Agravado** por parte de la cadena de mando del centro de detención.
+    ii. **Liberación por *Time-Out*:** Si cumplidas las 72 horas el fiscal no ha ingresado en el RNS un pliego formal de cargos respaldado por Pruebas Fácticas Prevalentes (Art. 49.7), la celda o instalación de detención perderá su amparo legal. El sistema emitirá una orden automática de liberación. Mantener al ciudadano retenido posterior al vencimiento del plazo constituye **Delito de Secuestro Agravado** por parte de la cadena de mando del centro de detención. Nobstante, ante la declaración formal del Protocolo de Baja Tecnología o Pérdida de Enlace de Red, el reloj de liberación automática se suspende temporalmente en sus efectos sin que medie delito alguno, transfiriendo de inmediato la obligación de revisión personal y física del detenido a un panel presencial de Alguaciles y Jueces Municipales mediante acta en el Libro Físico.
 
     iii. **Plazo Máximo de Prisión Preventiva:** Si se formulan cargos y un juez dicta prisión preventiva (aplicable exclusivamente en riesgo de fuga comprobado o crímenes de sangre), el RNS establecerá un límite perentorio de **sesenta (60) días calendario** para el inicio del juicio público.
 
@@ -2728,7 +2728,7 @@ a)  **El Sello de Billetera Verificada:** El RNS permitirá a los ciudadanos vin
 
 b)  **Inmunidad por Escrow Algorítmico:** Toda SACA o Negociante Universal que acepte criptodivisas como pago, está obligado a ofrecer una \"Caja de Seguridad de Bloqueo\" (Smart Escrow) auditada por el TAT. Si el estafador intenta enviar los fondos a un \"Mixer\" para desaparecer el rastro, el RNS activará la **Alerta de Inconsistencia Termodinámica** y bloqueará la salida del valor hacia nodos fuera de la jurisdicción cubana si detecta dolo.
 
-c)  **Responsabilidad del Intercambiador (P2P):** Las plataformas o individuos que actúen como \"Cajeros\" (cambio de efectivo por cripto) son responsables solidarios (Art. 22.16) si facilitan la salida de capital robado sin verificar el **Sello de Origen de Fondos**.
+c)  **Responsabilidad del Intermediario de Liquidación:** Las personas naturales o jurídicas que actúen habitualmente como intermediarios de canje entre signos monetarios materiales y activos digitales, incurrirán en responsabilidad civil y patrimonial solidaria, conforme al **Artículo 4.5.a y al Artículo 22.17**, si facilitan la transferencia o extracción de capital ilícito omitiendo la verificación registral del origen de los fondos.
 
 10\. La infraestructura estratégica de la Nación y de las Sociedades de Capital Ciudadano es Inembargable e Impignorable. Ninguna deuda pública o privada podrá utilizar como garantía los activos físicos o flujos de caja derivados del patrimonio restituido al pueblo cubano (Artículo 110).
 
@@ -3433,17 +3433,17 @@ ii. **El Veto a la Ignorancia:** Se enseñará explícitamente a identificar cu�
 
 17\. De la Verdad Procesal en el Entorno Escolar, Filtro Anti-Calumnia y Movilidad Académica Multi-Ruta. La República declara el acoso sistemático (bullying) como un Acto de Sabotaje al Capital Intelectual. No obstante, para evitar que la ley sea usada como arma de difamación, se establece:
 
-a)  El Debido Proceso de Verificación: Ninguna sanción será aplicada basándose únicamente en una denuncia verbal.
+a)  **El Debido Proceso de Verificación:** Ninguna sanción será aplicada basándose únicamente en una denuncia verbal.
 
 <!-- -->
 
-i.  Auditoría de Telemetría: El TAT y el CNSPOC auditarán los registros del RNS (Art. 134.4) y testimonios cruzados para validar la agresión.
+i.  **Auditoría Probatoria de Hechos:** El órgano arbitral competente auditará los asientos inalterables del Registro Nacional Soberano, conforme a los protocolos del Artículo 144, Inciso 1, contrastándolos con las declaraciones testificales para verificar la veracidad material de los hechos denunciados."
 
-ii. Delito de Denuncia Calumniosa: El alumno o tutor que fabrique una acusación de acoso para dañar a un tercero o desplazar a un competidor, sufrirá la Reciprocidad Punitiva (Art. 93.7), asumiendo la multa y el estigma que pretendía imponer.
+ii. **Delito de Denuncia Calumniosa:** El alumno o tutor que fabrique una acusación de acoso para dañar a un tercero o desplazar a un competidor, sufrirá la Reciprocidad Punitiva (Art. 93.7), asumiendo la multa y el estigma que pretendía imponer.
 
 <!-- -->
 
-b)  Sanción Patrimonial de Resarcimiento: Validada la agresión, el costo del daño psicológico y físico será debitado de la Capa C de las Acciones Soberanas (AS) de los padres del agresor (Art. 60.7.b).
+b)  **Sanción Patrimonial de Resarcimiento:** Validada la agresión, el costo del daño psicológico y físico será debitado de la Capa C de las Acciones Soberanas (AS) de los padres del agresor (Art. 60.7.b).
 
 c)  Derecho al Reinicio y Multi-Ruta:
 

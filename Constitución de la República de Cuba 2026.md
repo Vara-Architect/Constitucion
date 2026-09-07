@@ -3175,6 +3175,8 @@ b)  **El Contrato de Unión Soberana:** Las partes deberán inscribir su víncul
 
 c)  **El Vínculo de Simetría Somática:** Todo Contrato de Unión Soberana (Art. 59.13.b) lleva implícita la renuncia mutua a cualquier forma de coacción física. El uso de la fuerza física demostrado dentro de la pareja extingue de pleno derecho los beneficios fiscales de la unión y activa la Responsabilidad Civil Objetiva del agresor, quien deberá indemnizar a la víctima mediante la deducción automática de sus dividendos de Acciones Soberanas (AS).
 
+d)  **Protección de las Uniones Preexistentes y Prohibición de Retroceso:** Toda unión o matrimonio celebrado válidamente y todo Contrato de Unión Soberana inscrito antes de la entrada en vigor de una ley posterior conservará su existencia, validez, estado civil y efectos patrimoniales, hereditarios, migratorios y familiares. Ninguna ley, decreto, reglamento o acto administrativo podrá anularlo, disolverlo, desconocerlo o privarlo de sus efectos por razón de la identidad, sexo, origen, fe, condición o cualquier otra característica personal de sus integrantes. Una norma posterior que establezca requisitos distintos para nuevas uniones solo podrá aplicarse hacia el futuro y nunca podrá perjudicar los derechos ya consolidados de las uniones preexistentes. Lo anterior no impide la nulidad o disolución individual decretada por autoridad judicial competente cuando se pruebe falta de consentimiento, fraude esencial, violencia o incumplimiento grave de las obligaciones legales.
+
 14\. De la Incomunicabilidad del Patrimonio Originario frente a la Unión Soberana.\
 El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" tiene un límite infranqueable: el Núcleo Soberano.
 

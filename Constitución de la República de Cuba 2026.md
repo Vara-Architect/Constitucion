@@ -1202,7 +1202,7 @@ b)  **El Silencio Estratégico Correlacionado:** El cese de comunicaciones ofici
 
 2\. **Legítima Defensa y Porte:** Se garantiza el derecho natural a la tenencia y porte de armas (de baja capacidad) para la protección de su integridad, familia y propiedad. La ley reglamentaria tendrá carácter no-prohibicionista. El ejercicio de este derecho se vincula a la responsabilidad de defensa común.
 
-a)  Esta medida no entrará en vigor hasta después de terminado la FASE III prevista en la Disposición Transitoria Undécima.
+a)  Esta medida no entrará en vigor hasta después de terminada la FASE III prevista en la Disposición Transitoria Undécima.
 
 b)  El presidente dispondrá de la potestad de autorizar o postergar posterior a este periodo su entrada en vigencia.
 
@@ -3227,9 +3227,9 @@ E.  En caso de fallecimiento de ambos progenitores sin que exista tutor legal de
 
 F.  Esta cuenta se extinguirá automáticamente cuando el menor alcance la mayoría de edad, momento en el cual el saldo remanente (si lo hubiere) se transferirá a su Cuenta de Inversión Soberana (CIS) como parte del fondo acumulado. Cualquier reclamación sobre la administración de la cuenta durante la minoría de edad deberá resolverse antes de la extinción, siendo el saldo final inimpugnable una vez transferido.
 
-    i.  **Blindaje y Destino a la Cuenta de Inversión Soberana (CIS):** Los dividendos correspondientes a la Capa B (Gestión Estratégica) y la Capa C (Capital de Maniobra) generados durante la minoría de edad quedarán bloqueados mediante contrato inteligente en el RNS. Queda constitucionalmente prohibido a los padres, tutores o al Estado disponer, pignorar o arrendar estos fondos. Este capital se acumulará de forma ininterrumpida durante su minoría de edad según disponga el tiempo establecido en la ley orgánica al respecto. Al alcanzar el titular la mayoría de edad y culminar su Servicio Civil de Soberanía (Art. 111.2), la totalidad de este fondo histórico será transferida de forma automática e irrevocable a su **Cuenta de Inversión Soberana (CIS)**. Estos fondos acumulados no podrán liquidarse para gasto de consumo corriente en el mercado físico; su ejecución quedará restringida de forma inalterable a las opciones de Inyección de Capital Productivo establecidas en el Artículo 115 (creación de empresas, adquisición de vivienda, educación superior o bienes de capital). Únicamente los nuevos dividendos generados a partir de su emancipación operarán bajo el régimen ordinario de libre disposición para el consumo.
+    ii.  **Blindaje y Destino a la Cuenta de Inversión Soberana (CIS):** Los dividendos correspondientes a la Capa B (Gestión Estratégica) y la Capa C (Capital de Maniobra) generados durante la minoría de edad quedarán bloqueados mediante contrato inteligente en el RNS. Queda constitucionalmente prohibido a los padres, tutores o al Estado disponer, pignorar o arrendar estos fondos. Este capital se acumulará de forma ininterrumpida durante su minoría de edad según disponga el tiempo establecido en la ley orgánica al respecto. Al alcanzar el titular la mayoría de edad y culminar su Servicio Civil de Soberanía (Art. 111.2), la totalidad de este fondo histórico será transferida de forma automática e irrevocable a su **Cuenta de Inversión Soberana (CIS)**. Estos fondos acumulados no podrán liquidarse para gasto de consumo corriente en el mercado físico; su ejecución quedará restringida de forma inalterable a las opciones de Inyección de Capital Productivo establecidas en el Artículo 115 (creación de empresas, adquisición de vivienda, educación superior o bienes de capital). Únicamente los nuevos dividendos generados a partir de su emancipación operarán bajo el régimen ordinario de libre disposición para el consumo.
 
-    ii. **Se establece como única excepción de ejecución anticipada:** La liberación de capital para el pago de formación técnica, politécnica o educación superior universitaria del menor. La ejecución de este fondo se realizará exclusivamente mediante transferencia algorítmica directa desde la cuenta del menor hacia la cuenta comercial de la institución educativa acreditada en el RNS, sin intermediación líquida de los tutores legales, garantizando la inversión temprana e inalienable en su patrimonio intelectual.
+    iii. **Se establece como única excepción de ejecución anticipada:** La liberación de capital para el pago de formación técnica, politécnica o educación superior universitaria del menor. La ejecución de este fondo se realizará exclusivamente mediante transferencia algorítmica directa desde la cuenta del menor hacia la cuenta comercial de la institución educativa acreditada en el RNS, sin intermediación líquida de los tutores legales, garantizando la inversión temprana e inalienable en su patrimonio intelectual.
 
 **17. Del Santuario de la Maternidad y el Blindaje Biológico Generacional.**\
 La República reconoce que la gestación, el parto y la crianza temprana son el acto de ingeniería fundamental que sostiene la existencia de la Nación. Se instituye la Maternidad como un **Activo Estratégico Protegido** por encima de cualquier otra consideración económica o laboral.
@@ -4481,7 +4481,7 @@ d)  Se establece la Guardia de Emergencia Constitucional. En caso de que el TDC 
 
 a)  **Subordinación del Cuerpo de Programadores:** Se instituye la subordinación jerárquica, técnica y funcional del **Cuerpo de Programadores de la Arquitectura Soberana** ante el Tribunal de Defensa de la Constitución. Los programadores del Registro Nacional Soberano (RNS) actúan bajo el estatus de **Alguaciles Digitales de la Constitución**.
 
-b)  El cuerpo de programadores NO FORMA PARTE del cuerpo de alguaciles civiles de la constitución (Artículo 89) sino que se establecen como un cuerpo aparte.
+b)  El cuerpo de programadores no forma parte del cuerpo de alguaciles civiles de la Constitución (Artículo 89) sino que se establece como un cuerpo aparte.
 
 c)  La contraloría de la República se apoya en el cuerpo de programadores para ejercer sus funciones cuando es requerido.
 
@@ -7322,7 +7322,7 @@ Cada Municipio tiene el derecho y la obligación de redactar y mantener su propi
 
 ## DISPOSICIÓN PERMANENTE ADICIONAL:
 
-Toda acción militar, financiamiento extraordinario o incentivo industrial regulado bajo estos artículos (96, 99.3, 101.2, 105.5) estará sujeto a la **Capa Alfa de Transparencia Total en su donación inicial hasta su asignación a una unidad o compra específica que sea segura mantenerla como pública (sin revelar el destino de lo comprado)**, siendo auditable en tiempo real por cualquier **[ciudadano]{.underline}** a través del Registro Nacional Soberano, sin que la seguridad nacional pueda invocarse para ocultar el flujo de fondos o la ejecución presupuestaria hasta la asignación o compra especifica.
+Toda acción militar, financiamiento extraordinario o incentivo industrial regulado bajo estos artículos (96, 99.3, 101.2, 105.5) estará sujeto a la **Capa Alfa de Transparencia Total en su donación inicial hasta su asignación a una unidad o compra específica que sea segura mantenerla como pública (sin revelar el destino de lo comprado)**, siendo auditable en tiempo real por cualquier **ciudadano** a través del Registro Nacional Soberano, sin que la seguridad nacional pueda invocarse para ocultar el flujo de fondos o la ejecución presupuestaria hasta la asignación o compra especifica.
 
 ------------------------------------------------------------------------
 

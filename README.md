@@ -62,3 +62,16 @@ Invitamos a juristas, economistas, ingenieros y ciudadanos de la diáspora y la 
 > *"Quien entrega su libertad a un salvador, inevitablemente despertará ante un amo."*
 
 vara.architect.constitucion@gmail.com
+
+## 🌐 English Executive Summary: The Safiro Blueprint
+
+This repository hosts a complete, open-source constitutional architecture designed for the future institutional reconstruction and post-authoritarian transition of Cuba (2026). 
+
+Rather than relying on abstract political declarations, this blueprint treats constitutional law as a **state-level operating system** governed by incentive design, mechanism theory, and decentralized checks:
+
+1. **70/30 Fiscal Municipalism:** Mandatory statutory decentralization where 70% of all fiscal tax revenues are retained directly by the originating municipality, permanently dismantling the centralized budgetary monopoly of Havana.
+2. **Direct Citizen Equity (The SACA Model):** State monopolies are converted into open public corporations where 51% of voting equity is distributed directly and non-transferably to Cuban citizens by birthright, preventing oligarchic asset capture (avoiding the 1990s post-Soviet privatization failure mode).
+3. **Positive-Sum Transitional Justice:** Statutory legal protection for current residents in their primary homes to prevent eviction shocks and social displacement, paired with structured institutional arbitration and compensation.
+4. **Sovereign National Registry (RNS):** An immutable, publicly auditable registry protocol for land titles, property rights, and civil identity.
+
+The full statutory text is licensed under **CC BY-SA 4.0** with native academic citation metadata (`CITATION.cff`). Contributions, issues, and peer critiques are welcome via GitHub pull requests and issues.

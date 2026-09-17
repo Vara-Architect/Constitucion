@@ -1005,7 +1005,7 @@ A.  **Proscripción de la Expulsión en Masa:**\
 
 (A) **Búsqueda de Nodo Seguro:** Antes de ejecutar el abandono del territorio, la Cancillería y el RNS ofrecerán al individuo un listado de Jurisdicciones **de Tercer Destino** (países con tratados de reciprocidad o zonas internacionales) que estén dispuestos a recibirlo.
 
-(B) L**ibertad de Tránsito de Salida:** El individuo tiene el derecho de elegir su punto de salida. El Estado no puede imponer el punto de origen (Cuba, en el caso de los que huyen) como destino forzoso si el ciudadano cuenta con medios o visas para un tercer país.
+(B) **Libertad de Tránsito de Salida:** El individuo tiene el derecho de elegir su punto de salida. El Estado no puede imponer el punto de origen (Cuba, en el caso de los que huyen) como destino forzoso si el ciudadano cuenta con medios o visas para un tercer país.
 
 (C) **Del Financiamiento del Enrutamiento de Salida.**\
     Si el individuo carece de los medios económicos para costear su traslado hacia una jurisdicción de tercer destino seguro, la República activará el **Protocolo de Salida Asistida**, bajo las siguientes opciones excluyentes:
@@ -1014,7 +1014,7 @@ A.  **Proscripción de la Expulsión en Masa:**\
 
 I.  **Opción de Labor de Pasaje (Trabajo por Ticket):** Se le ofrecerá al individuo la posibilidad de integrarse voluntariamente en una Rampa de Redignificación (Art. 151) por un periodo breve y determinado (de preferencia no superior a 30 días). El salario generado se acreditará íntegramente y de forma prioritaria para la compra del boleto de transporte y una ración de viaje. Cumplida la meta financiera, la salida se ejecuta inmediatamente.
 
-II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el Registro Nacional Soberano, conforme a las previsiones del Artículo 20, Inciso 15.a y el Artículo 25, Inciso 5.".
+II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el Registro Nacional Soberano, conforme a las previsiones del Artículo 20, Inciso 15.a y el Artículo 25, Inciso 5.
 
 III. **Asunción de Pérdida Sistémica (El Préstamo de Gracia):** En casos de urgencia médica o política donde la salida no pueda esperar, el Fondo Catastrófico Nacional adelantará el costo del viaje. Esta suma quedará registrada en el historial del PCSC-Temporal del extranjero como una **Deuda Pendiente con la República**.
 
@@ -1237,7 +1237,7 @@ El derecho a la tenencia y porte de armas para la legítima defensa (Art. 21.2) 
 
 <!-- -->
 
-        i.  **De la Inviolabilidad y Automatización del Flujo:** Los fondos correspondientes a este suelo presupuestario, una vez aprobados por la Asamblea Municipal en el ejercicio de su soberanía fiscal, adquieren carácter de \*\*Gasto Autoejecutable\*\*. El Alcalde carece de facultad constitucional o técnica para detener, aplazar o condicionar estos pagos. El \*\*Registro Nacional Soberano (RNS)\*\* ejecutará la transferencia de haberes de forma directa, algorítmica e inmediata a las cuentas de los milicianos y proveedores de defensa certificados, bastando la certificación de la Asamblea y la validación técnica del Comandante Operativo Federal. La interferencia manual en este flujo automatizado será tipificada como malversación de fondos de defensa.
+        i.  **De la Inviolabilidad y Automatización del Flujo:** Los fondos correspondientes a este suelo presupuestario, una vez aprobados por la Asamblea Municipal en el ejercicio de su soberanía fiscal, adquieren carácter de **Gasto Autoejecutable**. El Alcalde carece de facultad constitucional o técnica para detener, aplazar o condicionar estos pagos. El **Registro Nacional Soberano (RNS)** ejecutará la transferencia de haberes de forma directa, algorítmica e inmediata a las cuentas de los milicianos y proveedores de defensa certificados, bastando la certificación de la Asamblea y la validación técnica del Comandante Operativo Federal. La interferencia manual en este flujo automatizado será tipificada como malversación de fondos de defensa.
 
         ii. **Del Régimen de Donaciones en Tiempo de Paz:** Se prohíbe terminantemente la aceptación de donaciones directas, suministros o financiamiento proveniente de personas jurídicas, Sociedades Anónimas de Capital Abierto (SACA), entidades extranjeras, fundaciones políticas o fondos ideológicos. Cualquier donativo destinado a la Milicia deberá canalizarse obligatoriamente a través del fondo común municipal habilitado para este propósito, bajo supervisión de la Asamblea Municipal y con trazabilidad pública inalterable en el RNS. La aceptación de fondos privados fuera de este cauce se considerará **cohecho agravado y quebrantamiento de la lealtad miliciana**, conllevando la disolución inmediata de la unidad, la destitución de sus mandos y el procesamiento penal de todos los involucrados, sin perjuicio de la confiscación de los bienes recibidos.
 
@@ -1794,7 +1794,7 @@ c)  **Definición de Frontera:** La República reconoce que la ropa es la últim
 
 1\. Definición de Agresión Identitaria: Se prohíbe el uso del aparato estatal, los fondos públicos o las Redes de Datos Nacionales para la promoción de ideologías que postulen la inferioridad natural, la exclusión civil o la eliminación física de individuos basados en su origen étnico, fe religiosa, identidad biológica o neurodiversidad.
 
-2\. El Antisemitismo como Alerta Temprana: La República reconoce el antisemitismo como una patología social histórica que precede al colapso de las libertades civiles. Cualquier política pública o discurso oficial que promueva el libelo de sangre, la negación de la historia del pueblo judío o la incitación al odio contra la comunidad judía, será tratado como una Violación de Salvaguarda Jurídica qu atenta contra la libertad individual del ser humano y su dignidad plena (Artículo 1.2).
+2\. El Antisemitismo como Alerta Temprana: La República reconoce el antisemitismo como una patología social histórica que precede al colapso de las libertades civiles. Cualquier política pública o discurso oficial que promueva el libelo de sangre, la negación de la historia del pueblo judío o la incitación al odio contra la comunidad judía, será tratado como una Violación de Salvaguarda Jurídica que atenta contra la libertad individual del ser humano y su dignidad plena (Artículo 1.2).
 
 3\. Sanción por Deshumanización: Aquel funcionario o ciudadano que utilice su posición para privar a un tercero de sus derechos civiles mediante la estigmatización colectiva, incurrirá en una Responsabilidad Solidaria Agravada. El daño se tasará no solo por la acción física, sino por el intento de \"borrado civil\" del otro.
 
@@ -2076,7 +2076,7 @@ La República de Cuba reconoce que el gasto público no es un acto de consumo si
 
 3.  **Condición de Adjudicación Preferente (La Regla del Empate Matemático):** Si tras correr el algoritmo del CNS, el costo real para la Nación de la empresa extranjera resulta ser inferior al de la empresa local, el Estado aún estará obligado a adjudicar el contrato a la empresa nacional si la diferencia (el sobrecosto final) no excede un Margen de Resiliencia Industrial (ej. 15%), determinado anualmente por el Senado de Rectores en función del valor estratégico del sector. El Estado asume este costo marginal como una \"inversión en soberanía\" para retener el \"efecto derrame\" (know-how, tecnología y cadena de suministro) dentro del territorio nacional.
 
-4.  **Excepciones por Inviabilidad Fáctica, Inversiónde la Carga y Reloj de Caducidad (Timeout Protocol):** Para evitar la parálisis operativa del Estado mediante búsquedas burocráticas exhaustivas, se proscribe exigir a las autoridades la demostración material de la no-existencia de proveedores nacionales. La adjudicación a corporaciones extranjeras se regirá por un modelo de Proclama Pública con tiempo de Caducidad:
+4.  **Excepciones por Inviabilidad Fáctica, Inversión de la Carga y Reloj de Caducidad (Timeout Protocol):** Para evitar la parálisis operativa del Estado mediante búsquedas burocráticas exhaustivas, se proscribe exigir a las autoridades la demostración material de la no-existencia de proveedores nacionales. La adjudicación a corporaciones extranjeras se regirá por un modelo de Proclama Pública con tiempo de Caducidad:
 
     a)  **Emplazamiento Convocatorio Oficial:** Ante la necesidad de una obra o servicio público, el Estado publicará los pliegos y requerimientos técnicos en la Capa Pública del Registro Nacional Soberano, iniciándose un plazo de preclusión perentorio e improrrogable de quince (15) a cuarenta y cinco (45) días naturales.
 
@@ -2125,7 +2125,7 @@ b)  La reincidencia en la adulteración de suministros vitales (comida, medicina
 7\. De la Soberanía sobre el Hardware, Titularidad Absoluta sobre Bienes Muebles y Derecho Inalienable a la Reparación.: La República garantiza el derecho inalienable del ciudadano a reparar, modificar, transformar y mantener sus bienes muebles por cuenta propia o mediante terceros de su elección, en los términos que se detallan a continuación:
 
 a)  **Del Agotamiento del Derecho de Propiedad Intelectual y de Marca, y Proscripción de la Servidumbre por Software (Anti-Licensing).**\
-    La República reconoce el Principio de Agotamiento del Derecho en la primera venta. Tras la transferencia de capital por el valor de mercado de un bien mueble, el interés jurídico del fabricante o desarrollador sobre el uso, disposición física o lógica del objeto se extingue de pleno derecho. En particular, el agotamiento del derecho de marca implica que el fabricante no podrá condicionar la reparación o mantenimiento del objeto al uso exclusivo de piezas, componentes o servicios provistos bajo su propia marca. La titularidad del ciudadano es absoluta, indivisible y prevalece sobre cualquier acuerdo de licencia posterior a la adquisición. Se declaran nulas, írritas y de ningún valor legal aquellas cláusulas contractuales o términos de uso que pretendan calificar la adquisición de hardware como un arrendamiento, concesión temporal o \"licencia de uso\". Si el bien posee una naturaleza física, el adquirente es Propietario y no mero usuario, independientemente del software que integre la operatividad del mismo. El fabricante conserva sus legítimos derechos sobre sus diseños industriales y secretos comerciales (v.gr., composición de aleaciones, procesos de templado, etc.), sin que ello le exima de cumplir con las obligaciones de transparencia técnica establecidas en el presente artículo; la reserva de un secreto comercial no justifica en ningún caso la ocultación de los procedimientos básicos de desmontaje, montaje, reparación y mantenimiento del objeto.
+    La República reconoce el Principio de Agotamiento del Derecho en la primera venta. Tras la transferencia de capital por el valor de mercado de un bien mueble, el interés jurídico del fabricante o desarrollador sobre el uso, disposición física o lógica del objeto se extingue de pleno derecho. En particular, el agotamiento del derecho de marca implica que el fabricante no podrá condicionar la reparación o mantenimiento del objeto al uso exclusivo de piezas, componentes o servicios provistos bajo su propia marca. La titularidad del ciudadano es absoluta, indivisible y prevalece sobre cualquier acuerdo de licencia posterior a la adquisición. Se declaran nulas, írritas y de ningún valor legal aquellas cláusulas contractuales o términos de uso que pretendan calificar la adquisición de hardware como un arrendamiento, concesión temporal o \"licencia de uso\". Si el bien posee una naturaleza física, el adquirente es Propietario y no mero usuario, independientemente del software que integre la operatividad del mismo. El fabricante conserva sus legítimos derechos sobre sus diseños industriales y secretos comerciales (v. gr., composición de aleaciones, procesos de templado, etc.), sin que ello le exima de cumplir con las obligaciones de transparencia técnica establecidas en el presente artículo; la reserva de un secreto comercial no justifica en ningún caso la ocultación de los procedimientos básicos de desmontaje, montaje, reparación y mantenimiento del objeto.
 
 b)  **De la Intervención Técnica y Prohibición de Mecanismos de Bloqueo.**\
     Todo propietario posee la facultad jurídica de acceder, modificar, reparar o sustituir los componentes físicos y el código de control (firmware/software) de sus dispositivos. Se prohíbe el uso de \"bloqueos de software\", \"perfilado de piezas\", \"perfilado criptográfico de componentes\" o cualquier otro mecanismo técnico-digital destinado a impedir el funcionamiento del objeto tras una reparación no oficial. El acto deliberado de un fabricante o proveedor consistente en provocar la inhabilitación funcional remota, el bloqueo lógico o la inutilización técnica de un bien mueble como represalia o consecuencia de su intervención o reparación no autorizada, se tipifica como Delito de Sabotaje a la Propiedad Privada.
@@ -2141,12 +2141,12 @@ e)  **De la Interoperabilidad Forzosa y Prioridad de Estándares Abiertos.**\
     El ciudadano tiene el derecho de sustituir sistemas internos (como motores, placas lógicas, baterías, sistemas de refrigeración y otros) por tecnologías de otras marcas. Se priorizará la adopción de formatos y estándares técnicos abiertos, reconocidos internacionalmente, siempre que sean funcional y técnicamente viables, con el fin de crear un ecosistema donde el propietario pueda reemplazar piezas sin quedar cautivo de un único proveedor. No podrá limitarse legal ni técnicamente la simbiosis de componentes de distintas marcas en un mismo hardware cuando dicha interoperabilidad sea factible. El Tribunal de Arbitraje Técnico (TAT) velará por que los estándares de conexión sean abiertos y públicos, impidiendo la creación de monopolios de repuestos mediante conectores o protocolos propietarios; en caso de que un fabricante alegue inviabilidad técnica para la interoperabilidad, deberá probarlo fehacientemente ante el TAT.
 
 f)  **De la Excepción de Seguridad Biológica, Riesgo Asumido por el Propietario y Régimen de Garantía Comercial.**\
-    La única excepción válida para restringir la modificación de un objeto será el Riesgo Vital Probado para terceros (Art. 150.10). El Tribunal de Arbitraje Técnico (TAT) será el único juez para determinar si una modificación técnica (como la alteración de frenos, emisiones, sistemas de sujeción, o la sustitución de materiales constitutivos ---[v.gr](https://v.gr/)., cambiar un capó de aluminio por uno de fibra de vidrio o compuestos alternativos---) constituye un peligro fáctico e inminente para la vida o la integridad física de terceros. Las \"recomendaciones de uso\" del fabricante son meramente informativas y no tienen fuerza de ley sobre el propietario.\
+    La única excepción válida para restringir la modificación de un objeto será el Riesgo Vital Probado para terceros (Art. 150.10). El Tribunal de Arbitraje Técnico (TAT) será el único juez para determinar si una modificación técnica (como la alteración de frenos, emisiones, sistemas de sujeción, o la sustitución de materiales constitutivos ---v. gr., cambiar un capó de aluminio por uno de fibra de vidrio o compuestos alternativos---) constituye un peligro fáctico e inminente para la vida o la integridad física de terceros. Las \"recomendaciones de uso\" del fabricante son meramente informativas y no tienen fuerza de ley sobre el propietario.\
     El propietario asume toda responsabilidad técnica, civil y funcional por las modificaciones que realice, operando bajo su propio riesgo. El fabricante no podrá oponerse a dichas modificaciones ni condicionar la titularidad del bien por razón de ellas. La garantía comercial no caducará en su totalidad por una modificación; únicamente quedará sin efecto sobre aquellos componentes que hayan sido sustituidos o que se demuestre fehacientemente, mediante peritaje del TAT, que han resultado dañados como consecuencia directa y exclusiva de dicha modificación. El resto de componentes del objeto conservarán íntegramente su garantía original.
 
 g)  **Del Ámbito de Aplicación Universal, Cláusula de Razonabilidad Técnica y Vocación de Permanencia.**\
     Las disposiciones del presente artículo son de orden público y se aplican a la totalidad de los bienes muebles, cualquiera que sea su naturaleza (tecnológica, electrónica, mecánica, electromecánica, de transporte, electrodoméstica, de maquinaria industrial, o de cualquier otra índole) que sean comercializados dentro del territorio nacional. La presente ley tiene vocación de permanencia y generalidad, concibiendo el derecho a la reparación y la soberanía del propietario sobre sus bienes como principios fundacionales e irreversibles del ordenamiento jurídico, con el fin de que sus efectos trasciendan en el tiempo sin necesidad de reformas ulteriores ante el surgimiento de nuevas tecnologías.\
-    No obstante, si la naturaleza, complejidad, nivel de especialización o el estado de la técnica de un producto hiciera materialmente imposible o técnicamente irrazonable la aplicación íntegra de uno o varios de los incisos anteriores ([v.gr](https://v.gr/)., por requerir entornos de manufactura ultracontrolados con atmósfera inerte, protocolos de bioseguridad que impidan la intervención del usuario final, estándares de calibración que solo puedan ser ejecutados con equipos de metrología de única tenencia del fabricante, o sistemas cuya manipulación por terceros conlleve un riesgo sistémico no mitigable), el fabricante, importador o su representante legal podrá solicitar ante el Tribunal de Arbitraje Técnico (TAT) una excepción fundada y acotada a dichas obligaciones.\
+    No obstante, si la naturaleza, complejidad, nivel de especialización o el estado de la técnica de un producto hiciera materialmente imposible o técnicamente irrazonable la aplicación íntegra de uno o varios de los incisos anteriores (v. gr., por requerir entornos de manufactura ultracontrolados con atmósfera inerte, protocolos de bioseguridad que impidan la intervención del usuario final, estándares de calibración que solo puedan ser ejecutados con equipos de metrología de única tenencia del fabricante, o sistemas cuya manipulación por terceros conlleve un riesgo sistémico no mitigable), el fabricante, importador o su representante legal podrá solicitar ante el Tribunal de Arbitraje Técnico (TAT) una excepción fundada y acotada a dichas obligaciones.\
     El TAT resolverá la solicitud en un plazo perentorio, evaluando estrictamente la concurrencia de criterios objetivos de razonabilidad. La carga de la prueba para demostrar la inviabilidad técnica recaerá exclusivamente sobre quien solicita la excepción, no siendo suficientes la mera alegación de complejidad comercial, la reserva de secreto industrial, la pérdida de rentabilidad o los acuerdos de distribución para obtener la dispensa. La excepción, en caso de ser concedida, será específica para aquel producto o familia homogénea de productos, y el TAT deberá revisarla periódicamente (cada dos años) a fin de determinar si los avances tecnológicos han hecho viable la aplicación plena de la ley. La negativa infundada del TAT o su silencio administrativo se interpretarán a favor del propietario y de la plena aplicabilidad del presente artículo.
 
 8\. **De la Certificación Técnica de Consumo y la Inmunidad Dietética:**\
@@ -2310,7 +2310,7 @@ b)  **Incentivo al Denunciante:** Aquel empleado o ciudadano que **denuncie y pr
 
 c)  **De la Verificación de Buena Fe y Sanción al Denunciante Instrumental.** El incentivo económico del diez por ciento (10%) previsto para el denunciante solo se liquidará una vez que el Tribunal emita una **Sentencia Condenatoria Firme** contra los corruptos, basada en pruebas materiales irrefutables aportadas o facilitadas por el denunciante.
 
-    i.  Activación de la Reciprocidad Punitiva: Si el tribunal competente determina, de conformidad con las garantías y el estándar probatorio del Artículo 93, Incisos 5 y 7, que la denuncia de soborno fue fabricada, simulada o instrumentalizada con dolo manifiesto con el fin de obtener la recompensa o perjudicar a un tercero, el denunciante perderá todo derecho a reserva de identidad y será procesado conforme a la escala de reciprocidad punitiva allí establecida.".
+    i.  Activación de la Reciprocidad Punitiva: Si el tribunal competente determina, de conformidad con las garantías y el estándar probatorio del Artículo 93, Incisos 5 y 7, que la denuncia de soborno fue fabricada, simulada o instrumentalizada con dolo manifiesto con el fin de obtener la recompensa o perjudicar a un tercero, el denunciante perderá todo derecho a reserva de identidad y será procesado conforme a la escala de reciprocidad punitiva allí establecida.
 
     ii. **Pena Específica por Perjurio Lucrativo:** En este caso, el denunciante falso será condenado a la misma pena de inhabilitación perpetua y cárcel que pretendía para el acusado, y deberá abonar al Estado y al afectado una multa equivalente al **monto que pretendía cobrar como recompensa**, la cual será ejecutada sobre sus Acciones Soberanas (AS) y/o Acciones de Mercado (AM) si las hubiese.
 
@@ -3433,7 +3433,7 @@ a)  **El Debido Proceso de Verificación:** Ninguna sanción será aplicada bas�
 
 <!-- -->
 
-i.  **Auditoría Probatoria de Hechos:** El órgano arbitral competente auditará los asientos inalterables del Registro Nacional Soberano, conforme a los protocolos del Artículo 144, Inciso 1, contrastándolos con las declaraciones testificales para verificar la veracidad material de los hechos denunciados."
+i.  **Auditoría Probatoria de Hechos:** El órgano arbitral competente auditará los asientos inalterables del Registro Nacional Soberano, conforme a los protocolos del Artículo 144, Inciso 1, contrastándolos con las declaraciones testificales para verificar la veracidad material de los hechos denunciados.
 
 ii. **Delito de Denuncia Calumniosa:** El alumno o tutor que fabrique una acusación de acoso para dañar a un tercero o desplazar a un competidor, sufrirá la Reciprocidad Punitiva (Art. 93.7), asumiendo la multa y el estigma que pretendía imponer.
 
@@ -4457,7 +4457,7 @@ b)  Se prohíbe la creación de sub-organismos cuya única función sea el consu
 
 2\. **Facultad de Anulación de Oficio y Suspensión:**
 
-a)  El TDC posee la potestad absoluta para suspender y anular de pleno derecho cualquier ley, decreto, ordenanza, acto administrativo o sentencia judicial que vulnere los principios de Soberanía Individual, Propiedad Privada, Identidad Nacional, la distribución fiscal municipalista y cualquiera otra (siempre qr no esté recogida en esta constitución) que vulnere clausulas petreas.
+a)  El TDC posee la potestad absoluta para suspender y anular de pleno derecho cualquier ley, decreto, ordenanza, acto administrativo o sentencia judicial que vulnere los principios de Soberanía Individual, Propiedad Privada, Identidad Nacional, la distribución fiscal municipalista y cualquiera otra (siempre que no esté recogida en esta constitución) que vulnere cláusulas pétreas.
 
 b)  El TDC anulará de oficio cualquier ley o contrato que pretenda revertir la asignación de acciones individuales o que debilite la autonomía del Fideicomiso Nacional de Pensiones frente al Poder Ejecutivo.
 
@@ -5421,7 +5421,7 @@ c)  La facilitación de procesos electorales en los Nodos Municipales en el plaz
 
     b)  Penalización por Fallo Sistémico: El resarcimiento a las víctimas se ejecutará primero contra el patrimonio personal y las Acciones Soberanas de los técnicos responsables (Capa B y C), y subsidiariamente contra el Municipio, la SACA operadora o la empresa particular.
 
-6.  El Sello de Inviabilidad Moral por Traición, Sabotaje a la Verdad o Perjurio Tecnológico: Todo funcionario de alta jerarquía condenado mediante sentencia judicial firme por traición a la patria (Artículo 21.4.F y, cuando corresponda, Artículo 129.2), Sabotaje a la Verdad (Artículo 4.4.d-e) o Perjurio Tecnológico Agravado (Artículo 22.21.b.ii) recibirá en su PCSC el Sello de Inviabilidad Moral conforme al Artículo 109. La venta o tráfico de secretos de seguridad nacional quedará sujeta a la tipificación y al régimen sancionador de la futura Ley Orgánica de Seguridad Nacional.
+6.  El Sello de Inviabilidad Moral por Traición, Sabotaje a la Verdad o Perjurio Tecnológico: Todo funcionario de alta jerarquía condenado mediante sentencia judicial firme por traición a la patria (Artículo 21.4.e y, cuando corresponda, Artículo 129.2), Sabotaje a la Verdad (Artículo 4.4.d-e) o Perjurio Tecnológico Agravado (Artículo 22.21.b.ii) recibirá en su PCSC el Sello de Inviabilidad Moral conforme al Artículo 109. La venta o tráfico de secretos de seguridad nacional quedará sujeta a la tipificación y al régimen sancionador de la futura Ley Orgánica de Seguridad Nacional.
 
     a)  Este sello prohíbe permanentemente que el individuo vuelva a trabajar para el Estado, que administre dinero de otros ciudadanos o que sea dueño de acciones en empresas estratégicas (SACAs).
 
@@ -7279,15 +7279,12 @@ La República reconoce que cada generación de ciudadanos posee el derecho inali
 
 ------------------------------------------------------------------------
 
-## 
+## Artículo 166. Del Pacto de Unión Soberana y la Estructura Nacional.
 
-## Artículo 166. De la estructura nacional:
-
-En caso de adhesión de nuevos territorios o municipios mediante el Pacto de Unión Soberana, estos se integrarán al RNS como **Nodos de Nueva Formación**. Sus derechos fiscales (el 70/30) y sus Acciones Soberanas (AS) se activarán de forma proporcional a los activos físicos aportados a la Red Nacional, según tasación del TAT.
 
 1.  Del Derecho de Adhesión y Consulta Local: Cualquier territorio, región o municipio podrá solicitar su integración formal a la República de Cuba Libre bajo el Pacto de Unión Soberana. Para su validez, la solicitud requerirá la aprobación de la mayoría absoluta de los ciudadanos de dicho territorio mediante referéndum interno auditado y certificado.
 
-2.  De la Integración Nodal y Derechos Fiscales: Aprobada la adhesión, los nuevos territorios se integrarán al Registro Nacional Soberano (RNS) como Nodos de Nueva Formación. Sus derechos de retención fiscal (el algoritmo 70/30) y la emisión de sus Acciones Soberanas (AS) se activarán de forma proporcional a los activos físicos e infraestructura aportados a la Red Nacional, según tasación técnica del TAT.\"
+2.  De la Integración Nodal y Derechos Fiscales: Aprobada la adhesión, los nuevos territorios se integrarán al Registro Nacional Soberano (RNS) como Nodos de Nueva Formación. Sus derechos de retención fiscal (el algoritmo 70/30) y la emisión de sus Acciones Soberanas (AS) se activarán de forma proporcional a los activos físicos e infraestructura aportados a la Red Nacional, según tasación técnica del TAT.
 
 ------------------------------------------------------------------------
 
@@ -7309,8 +7306,6 @@ Se instituye el LEC como el espacio permanente de estudio, debate y propuesta pa
 
 5.  **Producción Normativa:** Las conclusiones del LEC que alcancen un consenso técnico del 75% serán enviadas a la Cámara de Representantes como **Iniciativas de Evolución**, con carácter de tratamiento preferente.
 
-#### 
-
 # TÍTULO XXIV. EL ÁGORA MUNICIPAL: EL CABILDO DE SOBERANÍA LOCAL
 
 ------------------------------------------------------------------------
@@ -7324,8 +7319,6 @@ Cada Municipio tiene el derecho y la obligación de redactar y mantener su propi
 2.  **Soberanía de Proximidad:** El CEL será el defensor de los intereses específicos del territorio (agro, minería, turismo, o industria). Los ciudadanos podrán proponer ajustes a la distribución del 70% local mediante el CEL.
 
 3.  **Auditoría Ciudadana:** La Constitución no es propiedad del Alcalde, sino del Pueblo. El CEL tiene la potestad de auditar si las ordenanzas municipales cumplen con el fin de proteger al ciudadano. Si el Alcalde intenta bloquear el CEL, el RNS activará automáticamente la Alerta de Opacidad (Art. 48.2).
-
-## 
 
 ## DISPOSICIÓN PERMANENTE ADICIONAL:
 
@@ -7344,8 +7337,6 @@ Toda acción militar, financiamiento extraordinario o incentivo industrial regul
 2.  **Tabula Rasa:** Se declara la **Nulidad Absoluta** de cualquier cláusula de \"irrevocabilidad\" ideológica. La historia no es un contrato de esclavitud.
 
 3.  Se suspende la vigencia de leyes, decretos y resoluciones administrativas del régimen anterior. Durante 24 meses, la Comisión Nacional de Reconstrucción (CNR) validará únicamente las normas compatibles con este nuevo orden.
-
-#### 
 
 ## DISPOSICIÓN TRANSITORIA SEGUNDA. Del Periodo de Conversión, Migración al RNS y Digitalización Forzosa.
 

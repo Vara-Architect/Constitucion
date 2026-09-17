@@ -840,7 +840,7 @@ i.  Protocolo de Aceptación de Términos: Al activar la App Soberana de Interfa
 
 ii. Sello de Lectura fáctica: El RNS registrará un Log de Instrucción vinculado a la biometría del extranjero. Este log constituye la prueba jurídica de que la información fue entregada y visualizada en el idioma del usuario.
 
-iii. Validez de la Sanción: Una vez que el dispositivo registra la visualización del manual de instrucciones (Art. 17.5.e.1), el extranjero queda legalmente sujeto a la Presunción de Conocimiento Total. A partir de ese instante, la \"ignorancia de la ley\" queda anulada como argumento de defensa ante el TAT o los Tribunales Municipales.
+iii. Validez de la Sanción: Una vez que el dispositivo registra la visualización del manual de instrucciones (Art. 17.5.e.i), el extranjero queda legalmente sujeto a la Presunción de Conocimiento Total. A partir de ese instante, la \"ignorancia de la ley\" queda anulada como argumento de defensa ante el TAT o los Tribunales Municipales.
 
 iv. Actualización Geográfica: Si el extranjero se desplaza a un municipio con ordenanzas especiales, el dispositivo emitirá una Notificación Push de Legalidad Local. El ignorar la notificación se tipificará como Negligencia Táctica en caso de que la persona infrinja la ley en dicho sitio.
 
@@ -1130,7 +1130,7 @@ a)  **Principio de Santuario y No Devolución:** La República de Cuba reconoce 
 
 b)  **Cláusula de Exclusión por Criminalidad:** El asilo será denegado a quienes posean antecedentes por crímenes de lesa humanidad, terrorismo o delitos comunes graves. Los prófugos serán detenidos para su extradición o deportación a un tercer país seguro.
 
-c)  Bloqueo Migratorio y Subordinación a Sentencias (Arraigo por Deuda Civil): En caso de que los fondos digitales del extranjero sean insuficientes\... el RNS emitirá de forma automática una Alerta de Retención Migratoria. Queda prohibida la salida del infractor hasta que la deuda sea saldada. El derecho a liquidar bienes previo a una deportación queda estrictamente supeditado a la inexistencia de sentencias firmes de confiscación, multas o indemnizaciones dictadas por el TDC, el TAT o los Tribunales Ordinarios. Ninguna orden de deportación cancelará deudas de restitución ni liberará activos bajo embargo judicial.
+c)  **Subordinación de Salida a Sentencias Civiles:** El derecho de asilo o salida humanitaria no extinguirá las deudas líquidas y exigibles por daños a terceros o restitución patrimonial dictadas por los tribunales de la República. El RNS ejecutará la retención preventiva de bienes y activos del solicitante hasta el resarcimiento de las obligaciones pendientes.
 
 d)  **Protocolo de Verificación Biométrico (72 Horas):** El ingreso requiere verificación obligatoria en bases de datos de seguridad internacional (INTERPOL). Durante este lapso, el solicitante permanecerá en zonas de custodia de tránsito. La falsedad de antecedentes activa la deportación inmediata.
 
@@ -1335,7 +1335,7 @@ a)  **De la Proscripción del Limbo Investigativo y la Caducidad Algorítmica de
 
     i.  **Plazo Criptográfico de Instrucción:** Al momento de ejecutarse un arresto, el oficial actuante debe registrar la captura en el Registro Nacional Soberano (RNS). En ese instante, el RNS inicia una cuenta regresiva inalterable de **setenta y dos (72) horas**.
 
-    ii. **Liberación por *Time-Out*:** Si cumplidas las 72 horas el fiscal no ha ingresado en el RNS un pliego formal de cargos respaldado por Pruebas Fácticas Prevalentes (Art. 49.7), la celda o instalación de detención perderá su amparo legal. El sistema emitirá una orden automática de liberación. Mantener al ciudadano retenido posterior al vencimiento del plazo constituye **Delito de Secuestro Agravado** por parte de la cadena de mando del centro de detención. Nobstante, ante la declaración formal del Protocolo de Baja Tecnología o Pérdida de Enlace de Red, el reloj de liberación automática se suspende temporalmente en sus efectos sin que medie delito alguno, transfiriendo de inmediato la obligación de revisión personal y física del detenido a un panel presencial de Alguaciles y Jueces Municipales mediante acta en el Libro Físico.
+    ii. **Liberación por *Time-Out*:** Si cumplidas las 72 horas el fiscal no ha ingresado en el RNS un pliego formal de cargos respaldado por Pruebas Fácticas Prevalentes (Art. 49.7), la celda o instalación de detención perderá su amparo legal. El sistema emitirá una orden automática de liberación. Mantener al ciudadano retenido posterior al vencimiento del plazo constituye **Delito de Secuestro Agravado** por parte de la cadena de mando del centro de detención. No obstante, ante la declaración formal del Protocolo de Baja Tecnología o Pérdida de Enlace de Red, el reloj de liberación automática se suspende temporalmente en sus efectos sin que medie delito alguno, transfiriendo de inmediato la obligación de revisión personal y física del detenido a un panel presencial de Alguaciles y Jueces Municipales mediante acta en el Libro Físico.
 
     iii. **Plazo Máximo de Prisión Preventiva:** Si se formulan cargos y un juez dicta prisión preventiva (aplicable exclusivamente en riesgo de fuga comprobado o crímenes de sangre), el RNS establecerá un límite perentorio de **sesenta (60) días calendario** para el inicio del juicio público.
 
@@ -2478,7 +2478,7 @@ i)  Otros definidos en esta constitución.
 
 j)  **El resto de gastos estatales debe ser asumido por cada municipio en su gestión local.** El estado nacional es prioritariamente un ente gestor a nivel macro, no un micro gestor de emergencia.
 
-3\.  Blindaje de Flujo: Se prohíbe la creación de fondos centralizados, cuentas interpuestas o intermediarios administrativos que retengan, administren o desvíen los recursos recaudados. El flujo de caja municipal correspondiente al setenta por ciento (70%) es originario, autónomo e inembargable por el Estado central."
+3\.  Blindaje de Flujo: Se prohíbe la creación de fondos centralizados, cuentas interpuestas o intermediarios administrativos que retengan, administren o desvíen los recursos recaudados. El flujo de caja municipal correspondiente al setenta por ciento (70%) es originario, autónomo e inembargable por el Estado central.
 
 4\. **De los Fondos Rotativos y de Impulso Estratégico Municipal Sectorial.** Los Municipios quedan facultados para crear programas de Subvención de Desarrollo Local financiados con su cuota del setenta por ciento (70%). La determinación de estos programas y sectores es competencia exclusiva, indelegable y soberana de la Asamblea Municipal. La Asamblea Municipal decidirá qué sectores específicos (tecnológicos, marítimos, agrícolas o industriales) recibirán inyecciones de capital, ya sea bajo un esquema de ciclo rotativo (capital retornable) o a fondo perdido para disminuir sus costos operativos. Como mínimo el 80% del monto total de la subvención debe ser deducido íntegramente del precio final de venta del producto o servicio al ciudadano.
 
@@ -2499,7 +2499,7 @@ c)  Este fondo puede ser ampliado puntualmente hasta un 3% adicional en casos de
 
 7\. **Del Procedimiento de Acceso y Evaluación Ciega.** Tanto los particulares como las sociedades comerciales podrán acceder a estos fondos y subvenciones mediante la presentación de proyectos técnicos específicos. El otorgamiento se regirá por el Protocolo de Evaluación Ciega: los proyectos serán calificados por un Comité Técnico independiente que desconocerá la identidad de los proponentes hasta la emisión del fallo, garantizando la igualdad de oportunidades y el mérito técnico superior, proscribiendo toda asignación directa. Los retornos, reintegros o la recuperación de capital semilla derivados del éxito operativo retornarán de forma automática y algorítmica al mismo fondo en el Registro Nacional Soberano para financiar nuevos ciclos productivos locales.
 
-8\. **De la Salvaguarda contra el Conflicto de Intereses y la Exclusión Ejecutiva.** Queda terminantemente prohibida la participación, recomendación o ejercicio de derecho a veto por parte del Alcalde o del poder ejecutivo local en las fases de diseño, evaluación y adjudicación de estos fondos. Todo funcionario público que posea intereses económicos privados en una empresa proponente de subvención queda inhabilitado para participar en cualquier etapa del proceso de evaluación o votación. La violación de este precepto (o el intento del Alcalde de direccionar estos recursos) anulará la subvención y será juzgada como Traición a la Estabilidad Económica\*\*, conllevando la destitución fulminante\*\*. El ejercicio de un cargo público no excluye a la empresa de competir, siempre que se garantice la abstención del funcionario y el TAT certifique el mérito técnico superior de la propuesta.
+8\. **De la Salvaguarda contra el Conflicto de Intereses y la Exclusión Ejecutiva.** Queda terminantemente prohibida la participación, recomendación o ejercicio de derecho a veto por parte del Alcalde o del poder ejecutivo local en las fases de diseño, evaluación y adjudicación de estos fondos. Todo funcionario público que posea intereses económicos privados en una empresa proponente de subvención queda inhabilitado para participar en cualquier etapa del proceso de evaluación o votación. La violación de este precepto (o el intento del Alcalde de direccionar estos recursos) anulará la subvención y será juzgada como Traición a la Estabilidad Económica, conllevando la destitución fulminante. El ejercicio de un cargo público no excluye a la empresa de competir, siempre que se garantice la abstención del funcionario y el TAT certifique el mérito técnico superior de la propuesta.
 
 9\. **Distribución Secundaria y Deber de Solidaridad Federada (Aportes al FCIN):**
 
@@ -4226,7 +4226,7 @@ b)  Algoritmo de Creación de Nuevas Secretarías (Filtro de Fricción Sistémic
 
 i.  Certificación de No-Invasión del TAT: El Tribunal de Arbitraje Técnico (TAT) emitirá un dictamen físico vinculante demostrando que la función del nuevo órgano propuesto no puede ser ejecutada por los Nodos Municipales de forma descentralizada (Art. 69), ni por las Sociedades Anónimas de Capital Abierto (SACA), y que su ausencia compromete el Índice de Estabilidad Vital (IEV) de la Nación entera.
 
-ii. Validación del Cónclave de las Cinco Coronas (Art. 75: La propuesta, con el informe del TAT, requerirá la firma digital concurrente de los quince (15) miembros del Cónclave, validando la necesidad de sincronización nacional del nuevo servicio.
+ii. Validación del Cónclave de las Cinco Coronas (Art. 75): La propuesta, con el informe del TAT, requerirá la firma digital concurrente de los quince (15) miembros del Cónclave, validando la necesidad de sincronización nacional del nuevo servicio.
 
 iii. Aprobación Legislativa y Presupuesto Autárquico: La Cámara de Representantes deberá aprobar la creación del nuevo órgano mediante una Ley Orgánica con voto favorable de las tres cuartas partes (75%) de sus miembros. Dicho órgano no podrá financiarse con deuda pública (Art. 49.3), sino exclusivamente detrayendo recursos de la cuota nacional preexistente del treinta por ciento (30%), garantizando que la creación de un nuevo órgano reduzca el presupuesto del resto del Ejecutivo, impidiendo la hipertrofia del gasto público.
 
@@ -4345,7 +4345,7 @@ c)  Esta protección no cubre delitos en flagrancia de violencia física grave, 
 
 3\. Inexistencia de Fondos Reservados: El Presidente carece de capacidad para mover, asignar o prometer fondos públicos de forma discrecional. Todo gasto de la Casa Presidencial está pre-programado en el algoritmo del Tesoro Nacional y es auditable en tiempo real por cualquier ciudadano de catorce años.
 
-4\. Veto de la Realidad: Si el Presidente emite una orden de emergencia que el Tribunal de Arbitraje Técnico (TAT) declara como \"Falsedad Técnica\" (conforme al **Veto de la Realidad definido en el Artículo 74.5**, la orden queda revocada de pleno derecho y se activa automáticamente el proceso de destitución por el Delito de Engaño Constitucional.
+4\. Veto de la Realidad: Si el Presidente emite una orden de emergencia que el Tribunal de Arbitraje Técnico (TAT) declara como \"Falsedad Técnica\" (conforme al **Veto de la Realidad definido en el Artículo 74.5**), la orden queda revocada de pleno derecho y se activa automáticamente el proceso de destitución por el Delito de Engaño Constitucional.
 
 5\. Prohibición de la Guardia Pretoriana: Se prohíbe la creación de cuerpos de seguridad o inteligencia que respondan personalmente al Presidente. Su protección física y su servicio de inteligencia dependen de oficiales rotativos del CNSPOC, cuya lealtad primera es a la Constitución y no a la persona del mandatario.
 
@@ -5352,7 +5352,7 @@ El territorio bajo administración nacional no será anexionado ni sometido a la
 
 a)  **Presunción de Vigencia Local:** Se mantendrán vigentes las leyes civiles, mercantiles y de convivencia del territorio ocupado, siempre que estas no vulneren el derecho a la vida, la integridad física, o se conviertan en herramientas de sabotaje contra las fuerzas de salvaguarda.
 
-b)  **Filtro de Incompatibilidad (Art. 144.1):** El Tribunal de Arbitraje Técnico (TAT) identificará y suspenderá únicamente aquellas leyes locales que sean consideradas \"Código legal Malicioso\" (tiranía, discriminación o expropiación arbitraria, entre otras), sustituyéndolas temporalmente por el estándar de justicia de esta Constitución.
+b)  **Filtro de Incompatibilidad (Artículos 134.4 y 88.2):** El Tribunal de Arbitraje Técnico (TAT), mediante la sanitización técnica prevista en el Artículo 134.4, identificará las leyes locales incompatibles con esta Constitución. El Tribunal de Defensa de la Constitución (TDC) resolverá su suspensión o anulación conforme al Artículo 88.2, sustituyéndolas temporalmente por el estándar de justicia de esta Constitución.
 
 **2. Garantía de Mínimo Biológico de Emergencia:**\
 La ocupación militar conlleva la **Responsabilidad Civil del Administrador**. El Estado cubano, a través de la logística militar y el Fondo Catastrófico Nacional, garantizará a la población civil del área controlada:
@@ -5425,7 +5425,7 @@ c)  La facilitación de procesos electorales en los Nodos Municipales en el plaz
 
     b)  Penalización por Fallo Sistémico: El resarcimiento a las víctimas se ejecutará primero contra el patrimonio personal y las Acciones Soberanas de los técnicos responsables (Capa B y C), y subsidiariamente contra el Municipio, la SACA operadora o la empresa particular.
 
-6.  El Sello de Inviabilidad Moral por Traición o Perjurio: Todo funcionario de alta jerarquía condenado por el delito de traición a la patria (Art. 74.8.e), venta de secretos de seguridad nacional o perjurio técnico probado ante el TAT, recibirá en su PCSC un Sello de Inviabilidad Moral.
+6.  El Sello de Inviabilidad Moral por Traición, Sabotaje a la Verdad o Perjurio Tecnológico: Todo funcionario de alta jerarquía condenado mediante sentencia judicial firme por traición a la patria (Artículo 21.4.F y, cuando corresponda, Artículo 129.2), Sabotaje a la Verdad (Artículo 4.4.d-e) o Perjurio Tecnológico Agravado (Artículo 22.21.b.ii) recibirá en su PCSC el Sello de Inviabilidad Moral conforme al Artículo 109. La venta o tráfico de secretos de seguridad nacional quedará sujeta a la tipificación y al régimen sancionador de la futura Ley Orgánica de Seguridad Nacional.
 
     a)  Este sello prohíbe permanentemente que el individuo vuelva a trabajar para el Estado, que administre dinero de otros ciudadanos o que sea dueño de acciones en empresas estratégicas (SACAs).
 
@@ -5485,15 +5485,17 @@ Para garantizar la integridad perpetua de la República y sancionar las traicion
     b) Este sello es público, permanente e inexpugnable. El RNS lo usará como filtro para bloquear cualquier intento del individuo de registrarse para votar, postularse a un cargo, recibir dividendos de AS o validar una licencia profesional.
 
 5\.  **Crímenes que Activan el Sello:**\
-    La aplicación de la Inhabilitación Cívica y Desconexión Fiduciaria está reservada exclusivamente para los siguientes delitos, demostrados más allá de toda duda razonable ante un tribunal:
+    La aplicación de la Inhabilitación Cívica y Desconexión Fiduciaria está reservada exclusivamente para los siguientes delitos, demostrados más allá de toda duda razonable mediante sentencia judicial firme:
 
-    a) Alta Traición a la Patria (Disp. Transitoria Cuarta.1) y Alta Traición a la Fe Pública (Art. 145.7.d).
+    a) Alta Traición a la Patria (Disp. Transitoria Sexta.1) y Alta Traición a la Fe Pública (Art. 145.7.d).
 
     b) Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d).
 
-    c) Sabotaje Activo contra la infraestructura vital de la Nación (Art. 13.2).
+    c) Sabotaje a la Verdad (Artículo 4.4.d-e) y Perjurio Tecnológico Agravado (Artículo 22.21.b.ii).
 
-    d) Genocidio o Crímenes de Lesa Humanidad (Art. 22.15).
+    d) Sabotaje Activo contra la infraestructura vital de la Nación (Art. 13.2).
+
+    e) Genocidio o Crímenes de Lesa Humanidad (Art. 22.15).
 
 6\.  **De la Inmunidad contra la Instrumentalización Política de la Sanción (Protocolo de Revisión Tripartita):**\
     Para garantizar que el Sello de Inviabilidad Moral (Inhabilitación Cívica y Desconexión Fiduciaria) nunca sea utilizado por el poder político de turno como herramienta de persecución, cancelación ideológica o purga selectiva, se establece el siguiente protocolo de blindaje absoluto:
@@ -5515,7 +5517,7 @@ Para garantizar la integridad perpetua de la República y sancionar las traicion
 
     i. Genocidio, Tortura o Crímenes de Lesa Humanidad (Art. 22.15).
 
-    ii. Alta Traición a la Patria que implique la colaboración activa con una potencia enemiga en tiempos de guerra declarada o agresión fáctica (Disp. Transitoria Cuarta.1).
+    ii. Alta Traición a la Patria que implique la colaboración activa con una potencia enemiga en tiempos de guerra declarada o agresión fáctica (Disp. Transitoria Sexta.1).
 
     iii. El uso de menores de edad como instrumentos para la comisión de delitos de sangre (Art. 59.8.e).
 
@@ -6023,7 +6025,7 @@ Las acciones que excedan el límite de herencia no pasarán al mercado abierto d
 
 2\. Prioridad de la Memoria: El primer acto de cualquier fuerza de resistencia o reconstrucción será la recuperación y blindaje de los Archivos Analógicos Municipales. Quien posee el registro de la propiedad y la identidad, posee la legitimidad del Estado.
 
-3\. Lustración por Supervivencia: Cualquier ciudadano que haya colaborado con la potencia ocupante en la destrucción de los registros de soberanía nacional será juzgado por Alta Traición (Disposición Transitoria Cuarta.1), perdiendo de forma inmediata sus derechos civiles.
+3\. Lustración por Supervivencia: Cualquier ciudadano que haya colaborado con la potencia ocupante en la destrucción de los registros de soberanía nacional será juzgado por Alta Traición (Disposición Transitoria Sexta.1), perdiendo de forma inmediata sus derechos civiles.
 
 ------------------------------------------------------------------------
 
@@ -6263,34 +6265,30 @@ c)  Referéndum de los Tres Tercios: Ratificación popular por el setenta y cinc
 
 3\. Veto de Opacidad: El Tribunal de Defensa de la Constitución (TDC) anulará de pleno derecho cualquier norma cuya complejidad técnica actúe como una barrera de facto a la soberanía ciudadana.
 
-**4. Caducidad Inexorable de la Norma Restrictiva (Sunset Law):**\
-Toda ley orgánica, decreto municipal o disposición nacional que imponga una prohibición, una carga fiscal extraordinaria o una restricción de movimiento, nacerá con una **Fecha de Extinción Obligatoria** no superior a cinco (5) años (o el periodo que el Congreso fije, nunca mayor a diez).
+**4. Caducidad Perentoria de la Regulación Restrictiva (Sunset Law):**\
+Toda ley orgánica, decreto municipal o regulación administrativa, técnica o fiscal que imponga una prohibición, una carga extraordinaria o una restricción al libre ejercicio de derechos, nacerá con una **Fecha de Extinción Obligatoria** de cinco (5) años.
 
-a)  **Inversión del Proceso:** Al cumplirse el plazo, la ley **muere automáticamente** en el RNS.
+a)  **Extinción Automática:** Al cumplirse el plazo, la norma caducará de pleno derecho y desaparecerá del Registro Nacional Soberano (RNS).
 
-b)  **Revalidación Fáctica:** Para que una ley sea extendida, el TAT debe emitir un **Informe de Vigencia de Causa**. Si el problema que originó la ley (ej. una pandemia, una crisis económica, un conflicto o tensión política o militar con un país enemigo, etcétera) ya no existe en los datos, la ley no puede ser renovada. El Congreso debe votar su extensión basándose en el dato, no en la ideología.
+b)  **Informe de Vigencia de Causa:** Para que la norma sea prorrogada, el Tribunal de Arbitraje Técnico (TAT) deberá demostrar que la causa objetiva que la originó persiste en los datos. Si el problema ya no existe, la norma no podrá ser renovada.
 
-5\. **Protocolo de Caducidad Automática (Sunset Law):** Toda regulación administrativa, técnica o fiscal de carácter restrictivo caducará de pleno derecho a los cinco (5) años de su promulgación. Para su renovación, el ente regulador deberá presentar una Auditoría de Impacto ante el TAT que demuestre:
+c)  **Auditoría de Impacto:** El ente regulador deberá presentar ante el TAT, con seis meses de antelación, una auditoría que demuestre que la norma no ha impedido el nacimiento de nuevas empresas en el sector, que el beneficio social supera el costo de cumplimiento y que no existe una tecnología que la haya vuelto obsoleta.
 
-a)  Que la norma no ha impedido el nacimiento de nuevas empresas en el sector.
+d)  **Ratificación y Extinción por Silencio:** La prórroga requerirá la aprobación del TAT y el voto favorable del Congreso. En ausencia de auditoría aprobada y ratificación legislativa, la norma desaparecerá automáticamente del ordenamiento jurídico.
 
-b)  Que el beneficio social es superior al costo de cumplimiento.
+5\. **Prohibición del Principio de Precaución Regulatoria:** Se prohíbe regular tecnologías, modelos de negocio o descubrimientos científicos antes de que estos hayan causado un daño tangible y cuantificable. El miedo a lo desconocido no es Fuente de Derecho. El innovador goza de la presunción de inocencia técnica; el Estado debe probar el daño antes de imponer la traba.
 
-c)  Que no existe una tecnología que haga la norma obsoleta. En ausencia de auditoría aprobada, la norma desaparece del ordenamiento.
+6\. **Arquitectura de Cumplimiento Orgánico:** Las normas de convivencia y las infraestructuras públicas deberán diseñarse bajo el criterio de Inducción Positiva. Se priorizará el diseño sistémico que haga del cumplimiento de la ley la opción más lógica y natural para el ciudadano, reduciendo al mínimo la necesidad de imposición coercitiva o señalización punitiva constante.
 
-6\. **Prohibición del Principio de Precaución Regulatoria:** Se prohíbe regular tecnologías, modelos de negocio o descubrimientos científicos antes de que estos hayan causado un daño tangible y cuantificable. El miedo a lo desconocido no es Fuente de Derecho. El innovador goza de la presunción de inocencia técnica; el Estado debe probar el daño antes de imponer la traba.
+7\. **Cláusula de Primacía de la Sustancia sobre la Forma:** El Tribunal de Arbitraje Técnico (TAT) anulará cualquier estructura societaria, contrato o arquitectura financiera cuya única finalidad demostrable sea el arbitraje de capas fiscales o el ocultamiento de la titularidad real de los beneficios. La República no reconoce la validez jurídica de la opacidad. Todo flujo de capital debe tener un origen y un destino identificable en el RNS para gozar de la protección de los tribunales nacionales.
 
-7\. **Arquitectura de Cumplimiento Orgánico:** Las normas de convivencia y las infraestructuras públicas deberán diseñarse bajo el criterio de Inducción Positiva. Se priorizará el diseño sistémico que haga del cumplimiento de la ley la opción más lógica y natural para el ciudadano, reduciendo al mínimo la necesidad de imposición coercitiva o señalización punitiva constante.
-
-8\. **Cláusula de Primacía de la Sustancia sobre la Forma:** El Tribunal de Arbitraje Técnico (TAT) anulará cualquier estructura societaria, contrato o arquitectura financiera cuya única finalidad demostrable sea el arbitraje de capas fiscales o el ocultamiento de la titularidad real de los beneficios. La República no reconoce la validez jurídica de la opacidad. Todo flujo de capital debe tener un origen y un destino identificable en el RNS para gozar de la protección de los tribunales nacionales.
-
-9\. **Garantía de Acceso Multinivel:** El Registro Nacional Soberano (RNS) integrará en su interfaz una arquitectura de **\"Doble Lectura\"**.
+8\. **Garantía de Acceso Multinivel:** El Registro Nacional Soberano (RNS) integrará en su interfaz una arquitectura de **\"Doble Lectura\"**.
 
 a)  Cada artículo técnico de la Constitución contará con un enlace directo a su explicación correspondiente en el Manual de Ciudadanía Soberana.
 
 b)  El sistema educativo nacional evaluará la competencia del estudiante no en la memorización de artículos, sino en la **capacidad operativa para ejercer sus derechos** (uso del PCSC, contacto con Facilitadores y auditoría de dividendos).
 
-10\. **De la Integridad en las Relaciones con Estados Hostiles:**\
+9\. **De la Integridad en las Relaciones con Estados Hostiles:**\
 Las leyes o sanciones dirigidas contra naciones extranjeras o entidades externas deben cumplir con el **Tríptico de Legitimidad**:
 
 a)  **Causalidad Probada:** El TDC debe certificar que dicho Estado ha violado activamente las **Cláusulas Pétreas** de la República de Cuba en la jurisdicción cubana o ha realizado agresiones fácticas (ciberataques, sabotajes, entre otros dirigidos a dañar la nación).
@@ -7618,7 +7616,7 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
 9\. AET (Arrendamiento Estratégico Temporal): Contrato de uso de suelo agrícola sin transferencia de titularidad, con reversión de mejoras al propietario original.
 
-10\. **ACT (Acción de Compensación Temporal):** Título patrimonial transitorio representativo de hasta el veinticinco por ciento (25%) del capital social de una Sociedad Anónima de Capital Abierto (SACA), emitido para la indemnización y amortización de deudas originadas por confiscaciones históricas, cuyos derechos económicos amortizan el pasivo hasta su extinción definitiva, momento en el cual revierte al Fideicomiso Nacional de Pensiones
+10\. **ACT (Acción de Compensación Temporal):** Título patrimonial transitorio representativo de hasta el veinticinco por ciento (25%) del capital social de una Sociedad Anónima de Capital Abierto (SACA), emitido para la indemnización y amortización de deudas originadas por confiscaciones históricas, cuyos derechos económicos amortizan el pasivo hasta su extinción definitiva, momento en el cual revierte al Fideicomiso Nacional de Pensiones.
 
 11\. EER (Endeudamiento Excepcional de Reconstrucción): Facultad limitada (máx. 10 años) para endeudarse por encima del 20% del PIB, exclusivamente para infraestructura vital.
 

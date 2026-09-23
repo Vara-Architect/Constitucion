@@ -4063,53 +4063,62 @@ Dada la concentración de poder intelectual en este Cónclave, se prohíbe la op
 
 ------------------------------------------------------------------------
 
-## Artículo 76. Del Poder Legislativo (Cámara de Representantes). Del Sistema de Candidatura Uninominal y la Escalera de Servicio.
+## Artículo 76. Del Poder Legislativo (Cámara de Representantes), la Desestatización de los Partidos Políticos y la Escalera de Servicio.
 
-Se prohíbe la existencia de partidos políticos, listas cerradas o cualquier forma de asociación electoral que obligue al candidato a subordinar su conciencia a una disciplina de grupo. La representación es **Personal e Individual**.
+Se garantiza el derecho a la libre asociación política, pero se proscribe constitucionalmente la cartelización del poder. Los Partidos Políticos son reconocidos única y exclusivamente como asociaciones civiles de derecho privado, carentes de personería de derecho público, fueros especiales o monopolio de representación. La representación legislativa es personal, individual e intransferible.
 
-**1. La Escalera de Servicio (Regla de Idoneidad Sugerida):** Para garantizar la madurez en la gestión de la Espada (Ejecutivo) y la Voz (Legislativo), la República establece un orden de prelación basado en el mérito auditado por el RNS:
+1\. **La Escalera de Servicio (Regla de Idoneidad Sugerida):** Para garantizar la madurez en la gestión de la Espada (Ejecutivo) y la Voz (Legislativo), la República establece un orden de prelación basado en el mérito auditado por el RNS:
 
-a)  **Para ser Representante (Cámara):** Se recomienda (sin que ello sea un impedimento para cualquier candidato) haber servido un mandato como Delegado de Distrito o poseer una certificación de alta competencia técnica/académica en áreas estratégicas.
+    a)  **Para ser Representante (Cámara):** Se recomienda (sin que ello sea un impedimento para cualquier candidato) haber servido un mandato como Delegado de Distrito o poseer una certificación de alta competencia técnica/académica en áreas estratégicas.
 
-b)  **Para ser Presidente de la República:** Se establece como requisito preferente (sin que ello evite que otros candidatos puedan presentarse) haber ejercido la Jefatura de un Municipio (Alcalde) con un Índice de Estabilidad Vital (IEV) superior al 80% durante su mandato.
+    b)  **Para ser Presidente de la República:** Se establece como requisito preferente (sin que ello evite que otros candidatos puedan presentarse) haber ejercido la Jefatura de un Municipio (Alcalde) con un Índice de Estabilidad Vital (IEV) superior al 80% durante su mandato.
 
-c)  La elección de cualquier candidato le obligará a tomar un curso impartido por el TDC, la Contraloría General de la República, la Fiscalía General de la República, el Ejército, la Policía y el TAT, y/o cualquiera otra rama que la presidencia saliente considere necesaria, antes de la toma de posesión, que le prepare de forma integral para ejercer su cargo.
+    c)  La elección de cualquier candidato le obligará a tomar un curso impartido por el TDC, la Contraloría General de la República, la Fiscalía General de la República, el Ejército, la Policía y el TAT, y/o cualquiera otra rama que la presidencia saliente considere necesaria, antes de la toma de posesión, que le prepare de forma integral para ejercer su cargo.
 
-d)  **Del Curso de Transición Soberana y la Certificación de Mando:**\
+    d)  **Del Curso de Transición Soberana y la Certificación de Mando:**\
     La elección, designación o sorteo de cualquier ciudadano para ejercer un cargo en el Poder Ejecutivo Nacional, Alcaldías, la Cámara de Representantes o las Altas Cortes (TDC, TSJ, TAT), no lo faculta para el ejercicio inmediato de sus funciones sin la previa acreditación de sus competencias institucionales.
 
 <!-- -->
 
-i.  **El Instituto de Transición Soberana:** Todo candidato electo o designado deberá someterse, antes de su toma de posesión, a un ciclo intensivo e ineludible de instrucción y certificación administrado conjuntamente por el Senado Técnico de Rectores y el Tribunal de Arbitraje Técnico (TAT).
+        i.  **El Instituto de Transición Soberana:** Todo candidato electo o designado deberá someterse, antes de su toma de posesión, a un ciclo intensivo e ineludible de instrucción y certificación administrado conjuntamente por el Senado Técnico de Rectores y el Tribunal de Arbitraje Técnico (TAT).
 
-ii. **Contenido del Peritaje:** Este ciclo no será ideológico, sino estrictamente fáctico. El funcionario deberá demostrar dominio absoluto sobre:
+        ii. **Contenido del Peritaje:** Este ciclo no será ideológico, sino estrictamente fáctico. El funcionario deberá demostrar dominio absoluto sobre:
 
-    - La arquitectura algorítmica del Registro Nacional Soberano (RNS).
+            - La arquitectura algorítmica del Registro Nacional Soberano (RNS).
 
-    - Las restricciones del Techo Impositivo (Art. 43) y la Prohibición de Financiamiento Inorgánico (Art. 49.1).
+            - Las restricciones del Techo Impositivo (Art. 43) y la Prohibición de Financiamiento Inorgánico (Art. 49.1).
 
-    - La inviolabilidad de las Acciones Soberanas (AS) y el funcionamiento de la termodinámica económica (Art. 38).
+            - La inviolabilidad de las Acciones Soberanas (AS) y el funcionamiento de la termodinámica económica (Art. 38).
 
-iii. **Condición Sine Qua Non:** La asunción del cargo, la emisión de su firma digital como autoridad y el acceso a las llaves criptográficas del Estado (Capa Alfa o Beta) quedarán suspendidos de pleno derecho hasta que el RNS registre la **Aprobación del Certificado de Mando** por parte del funcionario. El que no conoce los límites de la máquina, no recibe las llaves del motor.
+        iii. **Condición Sine Qua Non:** La asunción del cargo, la emisión de su firma digital como autoridad y el acceso a las llaves criptográficas del Estado (Capa Alfa o Beta) quedarán suspendidos de pleno derecho hasta que el RNS registre la **Aprobación del Certificado de Mando** por parte del funcionario. El que no conoce los límites de la máquina, no recibe las llaves del motor.
 
-**2. Mecanismo de Postulación por Aval Ciudadano:** Sin partidos, el ciudadano se postula mediante el **Aval de Confianza**.
+2\. **Mecanismo de Postulación de Origen Exclusivamente Municipal y Nulidad de Postulación Corporativa:**
+La República proscribe el monopolio de postulación partidista. Ningún partido político, asociación civil, sindicato, ONG o corporación posee personería jurídica ni capacidad legal ante el Registro Nacional Soberano (RNS) para inscribir, postular, reservar cuotas o asignar candidatos a ningún cargo de elección popular. La única vía de entrada al sistema representativo es el arraigo físico y fáctico en el municipio.
 
-a)  El candidato debe obtener la firma digital (vía PCSC) de un porcentaje del padrón de su distrito (ej. 2%) para activar su candidatura en el RNS.
+    a) El Aval de Confianza Local: El ciudadano se postula a sí mismo, a título estrictamente individual. Para activar su candidatura en el RNS, debe obtener la firma digital (vía PCSC) de un porcentaje mínimo (establecido por la ley electoral, ej. 2%) del padrón de ciudadanos inscritos exclusivamente en el distrito municipal que pretende representar.
+    b) Soberanía de Origen: Todo escaño en la Cámara de Representantes es una emanación directa del Nodo Municipal. Es nula de pleno derecho la figura del "Diputado Nacional por Lista". Si el candidato no cuenta con la validación electoral de sus propios vecinos, el sistema rechazará su postulación desde la base, independientemente del apoyo mediático o financiero que posea a nivel nacional.
+    c)  La campaña electoral se basará en la exposición de su historial de vida, su perfil técnico y su propuesta grabada en la Capa Alfa del RNS. Se prohíbe la financiación externa de campañas; el Estado garantiza espacios de visibilidad digital idénticos para todos los candidatos habilitados.
 
-b)  La campaña electoral se basará en la exposición de su historial de vida, su perfil técnico y su propuesta grabada en la Capa Alfa del RNS. Se prohíbe la financiación externa de campañas; el Estado garantiza espacios de visibilidad digital idénticos para todos los candidatos habilitados.
+3\. **Inmutabilidad de la Corona y Régimen de Descompresión:**\
+Se reafirma el Principio de Incompatibilidad Galvánica (Art. 74.2). El ciudadano que haya servido en cargos de decisión en la Rama Judicial o Legislativa, deberá cumplir un periodo estricto de descompresión de ocho (8) años antes de poder aspirar a cargos en la Rama Ejecutiva, o viceversa.
 
-**3. Inmutabilidad de la Corona y Régimen de Descompresión:**\
-Se reafirma el Principio de Incompatibilidad Galvánica (Art. 74.2). El ciudadano que haya servido en cargos de decisión en la Rama Judicial (El Libro) o Legislativa (La Voz), deberá cumplir un periodo estricto de descompresión de ocho (8) años antes de poder aspirar a cargos en la Rama Ejecutiva (La Espada), o viceversa.
-
-a)  Incompatibilidad Vitalicia para la Dirigencia Máxima: Se exceptúa del régimen de descompresión temporal de ocho (8) años a aquellos ciudadanos que hayan alcanzado la dirigencia máxima en sus respectivas ramas (Presidente de la República, Presidente de la Cámara de Representantes, Presidente del TDC, TSJ o TAT). Para estos altos dignatarios, la prohibición de ocupar la titularidad o cargos de mando en otra rama del Estado será de carácter vitalicio, absoluto e inalienable, impidiendo perpetuamente la concentración o rotación de caudillos en la cima del poder.
+    a)  Incompatibilidad Vitalicia para la Dirigencia Máxima: Se exceptúa del régimen de descompresión temporal de ocho (8) años a aquellos ciudadanos que hayan alcanzado la dirigencia máxima en sus respectivas ramas (Presidente de la República, Presidente de la Cámara de Representantes, Presidente del TDC, TSJ o TAT). Para estos altos dignatarios, la prohibición de ocupar la titularidad o cargos de mando en otra rama del Estado será de carácter vitalicio, absoluto e inalienable, impidiendo perpetuamente la concentración o rotación de caudillos en la cima del poder.
 
 4\. Unicameralidad y Representación Directa: El Poder Legislativo reside exclusivamente en una Cámara de Representantes unicameral. Los representantes serán elegidos mediante voto directo, secreto y uninominal en distritos municipales proporcionales a la población.
 
-5\. Proscripción de Listas Partidistas: Quedan prohibidos los escaños de lista de partido, la representación corporativa o las cuotas ideológicas. El representante responde única y directamente ante los ciudadanos de su distrito municipal mediante mandato imperativo de defensa constitucional.
+5\. Proscripción de la Boleta Partidista y Listas Cerradas: Quedan prohibidos los escaños de lista de partido y las cuotas ideológicas. La boleta electoral, tanto física como digital en el RNS, será de formato Estrictamente Nominal y Ciego. Solo contendrá el nombre, el rostro y el número del candidato. Queda prohibida la inclusión de logotipos, acrónimos, colores o identificadores de partidos políticos en el instrumento de votación. El representante responde única y directamente ante los ciudadanos de su distrito municipal mediante mandato imperativo.
+
+    a) Nulidad del Mandato Imperativo de Facción: El escaño pertenece al distrito municipal y al ciudadano electo, nunca a la organización política que lo apoyó. Queda declarado nulo de pleno derecho cualquier estatuto partidista, contrato o "disciplina de voto" que pretenda obligar a un representante a votar en contra de su conciencia o del interés técnico de su distrito. La expulsión o renuncia de un representante a un partido político no afectará en modo alguno su titularidad sobre el escaño.
 
 6\. Revocabilidad y Temporalidad: El mandato será de cuatro años, siendo revocable en cualquier momento mediante referéndum convocado por la mayoría simple de los electores del distrito.
 
-7\. Neutralidad Algorítmica del Distrito: La demarcación de los distritos uninominales se realizará mediante un Algoritmo de Código Abierto (Open Source) basado estrictamente en criterios de densidad poblacional y contigüidad geográfica, prohibiéndose cualquier manipulación política (Gerrymandering).
+7\. **De la Demarcación Distrital y Proscripción de la Geometría Partidista:**
+La delimitación territorial de los distritos electorales constituye una función estrictamente matemática y demográfica, ajena a la discrecionalidad política. Su ejecución, ya sea mediante comisiones técnicas independientes o sistemas informáticos auditables, se regirá de forma exclusiva por los principios de: igualación poblacional, contigüidad territorial y máxima compacidad geométrica.
+
+    a) Ceguera Demográfica Inviolable: Queda constitucionalmente prohibida la utilización, consulta o integración de datos relativos a historial de sufragio, afiliación política, origen étnico, ingresos económicos o lugar de residencia de los representantes en ejercicio, como variables para el trazado de las fronteras electorales.
+    b) Aislamiento del Poder Público: Se prohíbe terminantemente al Poder Legislativo, al Poder Ejecutivo y a cualquier asociación civil o política intervenir en el diseño, debate, modificación o aprobación de los mapas distritales. La jurisdicción sobre la cartografía electoral recae en exclusiva sobre el órgano electoral técnico, bajo la auditoría vinculante del Tribunal de Arbitraje Técnico (TAT).
+    c) Cristalización Jurídica (Seguridad Registral): Para garantizar la predictibilidad del sufragio, las fronteras electorales deberán ser publicadas con carácter definitivo e inalterable al menos ciento ochenta (180) días antes de la celebración de cualquier proceso electoral ordinario.
+    d) Tipificación del Fraude Geométrico: La manipulación del trazado territorial ejecutada con el propósito objetivo de concentrar, diluir o aislar artificialmente el peso electoral de un sector de la población ciudadana, independientemente del método técnico empleado, constituye el Delito de Fraude a la Geometría Soberana, conllevando la inhabilitación a perpetuidad de los autores materiales e intelectuales.
 
 8\. Escrutinio Criptográfico Híbrido: El sistema de votación será híbrido. El registro digital se grabará en el Registro Nacional Soberano de forma inalterable y auditable en tiempo real. En caso de discrepancia técnica, prevalecerá el Respaldo Analógico (Voto Físico) custodiado en archivos municipales bajo vigilancia de la milicia local.
 
@@ -4118,15 +4127,15 @@ a)  Incompatibilidad Vitalicia para la Dirigencia Máxima: Se exceptúa del rég
 10\. **De la Inercia Jurisdiccional y el Censo Electoral Dinámico.**\
 La soberanía municipal reside en el cuerpo de ciudadanos con arraigo fáctico en el territorio. Se establece el mecanismo de Inercia Jurisdiccional para garantizar la fidelidad del voto a los intereses locales:
 
-a)  **Periodo de Enfriamiento:** El derecho al voto en elecciones municipales de alcaldes y delegados de distrito, así como la participación en plebiscitos locales, requiere una **Residencia Soberana Activa mínima de tres (3) años (1,095 días)** en el municipio correspondiente, registrados de forma ininterrumpida en el RNS.
+    a)  **Periodo de Enfriamiento:** El derecho al voto en elecciones municipales de alcaldes y delegados de distrito, así como la participación en plebiscitos locales, requiere una **Residencia Soberana Activa mínima de tres (3) años (1,095 días)** en el municipio correspondiente, registrados de forma ininterrumpida en el RNS.
 
-b)  **Voto en Tránsito:** Durante el periodo de enfriamiento, el ciudadano no perderá su derecho al sufragio, pero deberá ejercerlo obligatoriamente en su municipio de origen previo. El RNS habilitará automáticamente la boleta digital del nodo anterior mediante el PCSC (Pasaporte de Ciudadanía Soberana).
+    b)  **Voto en Tránsito:** Durante el periodo de enfriamiento, el ciudadano no perderá su derecho al sufragio, pero deberá ejercerlo obligatoriamente en su municipio de origen previo. El RNS habilitará automáticamente la boleta digital del nodo anterior mediante el PCSC (Pasaporte de Ciudadanía Soberana).
 
-c)  **Validación de Permanencia Física:** El cumplimiento del periodo de arraigo no será una mera declaración jurada. El RNS verificará algorítmicamente la residencia mediante la telemetría de consumo de servicios vitales (energía, agua, datos) y el registro de transacciones comerciales de supervivencia en el nodo de destino.
+    c)  **Validación de Permanencia Física:** El cumplimiento del periodo de arraigo no será una mera declaración jurada. El RNS verificará algorítmicamente la residencia mediante la telemetría de consumo de servicios vitales (energía, agua, datos) y el registro de transacciones comerciales de supervivencia en el nodo de destino.
 
-d)  **Excepción por Fundación:** En el caso de municipios de nueva creación o territorios recién integrados bajo el Pacto de Unión Soberana (Art. 166), el periodo de inercia quedará en suspenso únicamente para los primeros pobladores fundadores certificados por el TAT, permitiendo la conformación del primer gobierno local de forma inmediata.
+    d)  **Excepción por Fundación:** En el caso de municipios de nueva creación o territorios recién integrados bajo el Pacto de Unión Soberana (Art. 166), el periodo de inercia quedará en suspenso únicamente para los primeros pobladores fundadores certificados por el TAT, permitiendo la conformación del primer gobierno local de forma inmediata.
 
-e)  **Recalibración por Interés Patrimonial:** Si un ciudadano adquiere la titularidad de una vivienda principal en el nuevo municipio y liquida el Flat Tax correspondiente en dicha jurisdicción, el periodo de inercia podrá reducirse a dieciocho (18) meses, previa auditoría de buena fe por el TMDC local.
+    e)  **Recalibración por Interés Patrimonial:** Si un ciudadano adquiere la titularidad de una vivienda principal en el nuevo municipio y liquida el Flat Tax correspondiente en dicha jurisdicción, el periodo de inercia podrá reducirse a dieciocho (18) meses, previa auditoría de buena fe por el TMDC local.
 
 ------------------------------------------------------------------------
 

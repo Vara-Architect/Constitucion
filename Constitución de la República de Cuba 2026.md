@@ -176,20 +176,23 @@ b)  Estos servidores gozarán de Inmunidad Diplomática Digital. La arquitectura
 
 c)  El control de las llaves criptográficas de acceso a la Embajada de Datos reside exclusivamente en el Tribunal de Defensa de la Constitución (TDC). La activación del nodo espejo solo procederá en caso de Colapso del Amparo Físico certificado por el TAT y el TDC.
 
-4\. **Del Deber de Memoria y Resiliencia Documental.**\
-La República garantiza la integridad histórica de sus registros ante cualquier evento de degradación tecnológica o política. Hasta tanto se desarrolle e implemente una tecnología de almacenamiento masivo de duración milenaria certificada por el TAT, se establece el **Mecanismo de Copiado Multimodal**:
+4\. Del Deber de Memoria, Resiliencia Documental y Soberanía Histórica.
+La República garantiza la integridad, inmutabilidad y continuidad histórica de sus registros públicos y títulos patrimoniales ante cualquier catástrofe física, energética o política. Se establece con rango constitucional el Mecanismo de Copiado Multimodal Obligatorio:
 
-a)  **Jerarquía de Formatos de Resguardo:** El Registro Nacional Soberano (RNS) ejecutará trimestralmente un protocolo de respaldo obligatorio en tres (3) capas de soporte de distinta naturaleza física, por lo que el estado cubano y sus municipios orientarán la búsqueda de una estructura que permita:
+    a) Jerarquía de Formatos de Resguardo en Tres Capas Físicas:
+    El Registro Nacional Soberano ejecutará trimestralmente un protocolo de respaldo ineludible en tres estratos de distinta naturaleza física:
 
-    i.  **Capa Alfa (Digital Distribuida):** Almacenamiento en red cifrada y descentralizada en todos los Nodos Municipales.
+        i. Capa Alfa (Digital Distribuida): Almacenamiento en red descentralizada, cifrada e interoperable, con réplica en la totalidad de los Nodos Municipales de la República.
 
-    ii. **Capa Beta (Óptica/Analógica de Media Duración):** Grabado en soportes de alta resistencia química y térmica (v.g. M-DISC, micro-fichas de alta resolución o formatos equivalentes de lectura no dependiente de software propietario) con vida útil estimada no menor a 100 años.
+        ii. Capa Beta (Física de Media Duración): Fijación en soportes de alta resistencia química, térmica y electromagnética, independientes de software propietario y con vida útil estimada no menor a cien (100) años.
 
-    iii. **Capa Gamma (Física de Alta Densidad):** Grabado láser de los \"Datos Semilla\" (regulados bajo la Ley Orgánica del RNS en el Art. 163.1) en placas metálicas o sintéticas de resistencia geológica.
+        iii. Capa Gamma (Física de Resistencia Geológica): Grabado indeleble de los Datos Semilla esenciales de la Nación en materiales de durabilidad milenaria y máxima resistencia mecánica.
 
-b)  **De la Obligación de Recopiado Activo (Protocolo del Escriba):** El TAT auditará el estado de los soportes cada diez (10) años. Ante la detección de degradación física o la aparición de una **Tecnología de Preservación de Ciclo Superior**, la autoridad tendrá la obligación constitucional de migrar y duplicar la información al nuevo formato. Se prohíbe dejar la memoria nacional en formatos obsoletos cuyo hardware de lectura haya desaparecido del mercado.
+    b) De la Obligación de Recopiado Activo (Protocolo del Escriba):
+    El Tribunal de Arbitraje Técnico auditará obligatoriamente el estado de conservación de los soportes cada diez (10) años. Ante la detección de degradación material o la aparición de tecnologías de preservación de ciclo superior, la autoridad tiene el mandato constitucional de migrar y duplicar la información. Queda terminantemente prohibido mantener la memoria nacional en formatos cuyo instrumental o dispositivos de lectura hayan desaparecido del mercado o carezcan de estándares abiertos de reproducción.
 
-c)  **Descentralización del Riesgo:** Queda prohibida la centralización de las copias de seguridad en un solo Nodo o Provincia. Cada municipio tendrá la potestad y el recurso para custodiar una copia del \"Estado Estructural\" de la Nación, asegurando que el país pueda ser reconstruido desde cualquier Nodo si el centro desaparece.
+    c) Descentralización del Riesgo y Soberanía Nodal de Reconstrucción:
+    Queda prohibida la concentración de las copias de seguridad en una sola sede territorial o repositorio centralizado. Cada Municipio tiene la potestad y la obligación de custodiar un duplicado íntegro del Estado Estructural de la Nación, garantizando que la República pueda reconstruir su orden civil, registral y patrimonial desde cualquier Nodo si el resto del territorio resultare devastado.
 
 ------------------------------------------------------------------------
 

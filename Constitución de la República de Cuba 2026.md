@@ -420,7 +420,7 @@ b)  El Estado central tiene prohibido \"armonizar\" o igualar los impuestos muni
 **6. Del Umbral de Autonomía y la Supervivencia de Grado Cero.**\
 Para mitigar riesgos de colapso sistémico en cadena, todo Nodo Municipal debe certificar ante el TAT su capacidad operativa independiente bajo las siguientes condiciones:
 
-a)  **Autarquía de Servicios Vitales:** Cada municipio debe poseer infraestructura crítica de generación de energía y almacenamiento de agua potable capaz de sostener a su población base de forma aislada durante un periodo de ciento veinte (120) días sin interconexión con la Red Nacional (RRI).
+a)  **Autarquía de Servicios Vitales:** Cada municipio debe poseer infraestructura crítica de generación de energía y almacenamiento de agua potable capaz de sostener a su población base de forma aislada durante un periodo de treinta (30) días sin interconexión con la Red Nacional (RRI).
 
 b)  **Soberanía del Sustento Local:** La especialización económica no podrá sacrificar la seguridad biológica del nodo. El Tribunal de Arbitraje Técnico (TAT) tendrá la potestad de vetar modelos económicos municipales que, por hiper-especialización, dependan en un cien por ciento (100%) de suministros externos para la alimentación básica.
 
@@ -1101,6 +1101,7 @@ ii. Los ciudadanos por naturalización adquirirán el derecho al voto municipal 
 <!-- -->
 
 b)  **Límite de Concentración y Saturación Territorial:** Con el fin de evitar la creación de enclaves culturales aislados (Ghetos) que operen como estados dentro del Estado, ningún Municipio podrá otorgar residencia a extranjeros en una proporción superior al quince por ciento (15%) de su población nativa censada. Superado este umbral, el Registro Nacional Soberano (RNS) bloqueará automáticamente nuevos registros de residencia en dicha jurisdicción, derivando el flujo migratorio hacia zonas con capacidad de absorción cultural y económica.
+    i. Se excluye del cómputo del 15% a los titulares de visados de investigación científica, estudiantes universitarios o personal técnico asignado a proyectos estratégicos de interés nacional certificados por el TAT.
 
 c)  **Incompatibilidad de Lealtades en el Mando:** Se prohíbe el ejercicio de cargos de Alta Jerarquía (TDC, TAT, Presidencia, Comandos Militares) a ciudadanos que posean doble nacionalidad o vínculos contractuales con potencias extranjeras. La gestión de la República requiere una lealtad indivisible. El hallazgo de una ciudadanía extranjera oculta en un funcionario será causa de destitución por **Simulación de Soberanía (Art. 117)**.
 
@@ -2750,7 +2751,7 @@ La República reconoce que el signo monetario es solo un vehículo de valor; el 
 
     d)  **Inoponibilidad del \"Origen de Fondos\" para el Canje:** El Estado no podrá invocar la \"lucha contra el mercado negro\" o la \"acumulación ilícita\" como excusa para limitar el canje. Si existe sospecha de delito, el Estado debe iniciar un proceso judicial individualizado (Art. 22), pero jamás puede usar la política monetaria como un mazo para castigar a toda la población mediante la pérdida de valor.
 
-16\. Veto de Responsabilidad Intergeneracional: Ninguna legislatura podrá contratar deuda pública cuyo vencimiento de capital o intereses exceda el término de diez (10) años. Todo instrumento de crédito con vencimiento superior requerirá de la ratificación por mayoría absoluta del Censo de Ciudadanos menores de treinta y cinco (35) años mediante referéndum fiscal automático.
+16\. Veto de Responsabilidad Intergeneracional: Ninguna legislatura podrá contratar deuda pública cuyo vencimiento de capital o intereses exceda el término de quince (15) años. Todo instrumento de crédito con vencimiento superior requerirá de la ratificación por mayoría absoluta del Censo de Ciudadanos menores de treinta y cinco (35) años mediante referéndum fiscal automático.
 
 17\. Inexistencia de Deuda Pública sin Colateral Real: Se declara nula de pleno derecho toda deuda pública que no esté respaldada por un Fondo de Amortización Real y Segregado en el Registro Nacional Soberano al momento de su suscripción.
 
@@ -2920,6 +2921,7 @@ d)  **Transparencia en la Autorización:** El proceso de otorgamiento de licenci
 ## Artículo 54. Propiedad Agraria, Arrendamiento Estratégico (AET) Límites y Excepción Urbana.
 
 **1. Límite a la Concentración de Suelo Primario:** Para asegurar la soberanía productiva y evitar monopolios extractivos, ninguna persona jurídica podrá poseer en propiedad (título de dominio) más del cinco por ciento (5%) de la tierra cultivable o de explotación forestal de un mismo municipio. No obstante, para proyectos de alta escala que requieran mayor superficie, la entidad podrá expandir su operación mediante Arrendamiento Estratégico (AET) con terceros propietarios, fomentando la cooperación entre la gran industria y el pequeño propietario sin concentrar la tenencia del suelo.
+    a)  El límite del 5% pueda ampliarse hasta un veinte por ciento (20%) exclusivamente para proyectos de silvicultura comercial de ciclo largo certificados bajo la regla de reposición del Artículo 157.
 
 2**. De la Inmunidad del Sector Agroindustrial y de Transformación.**\
 Se declara la Cadena de Suministro Alimentario como infraestructura crítica protegida por la Inmunidad de Mercado.
@@ -7107,7 +7109,8 @@ b)  **Contrato Integrado:** La compra de la nueva propiedad incluirá la adhesi�
 
 ## Artículo 156. De la Limitación al Acaparamiento.
 
-Ninguna persona natural o jurídica podrá poseer más del **tres por ciento (3%)** del inventario habitacional residencial de un municipio. Esta limitación del tres por ciento (3%) aplica estrictamente al inventario de vivienda de uso residencial permanente. Quedan excluidas de este límite las propiedades destinadas a la explotación turística (hoteles, hostales, tiempos compartidos), zonas francas industriales y las unidades de vivienda destinadas a empleados de SACAs enclavadas en el municipio, siempre que su uso comercial esté registrado y auditado por el TAT.
+Ninguna persona natural o jurídica podrá poseer más del **tres por ciento (3%)** del inventario habitacional residencial de un municipio. Esta limitación del tres por ciento (3%) aplica estrictamente al inventario de vivienda de uso residencial permanente. Quedan excluidas de este límite las propiedades destinadas a la explotación turística (hoteles, hostales, tiempos compartidos), zonas francas industriales y las unidades de vivienda destinadas a empleados de SACAs enclavadas en el municipio, siempre que su uso comercial esté registrado y auditado por el TAT. 
+    a) Quedan excluidas de este límite las unidades de obra nueva en fase de desarrollo o comercialización por parte de promotores certificados, otorgándoles un plazo de gracia de veinticuatro (24) meses tras el fin de obra para su venta individual.
 
 ------------------------------------------------------------------------
 

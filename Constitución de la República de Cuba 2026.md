@@ -776,7 +776,7 @@ El PCSC no es un documento de identidad pasivo, sino un **Módulo de Identidad A
 
     b)  **Capa Biométrica (El Vínculo):** La activación del chip requiere la concurrencia de la biometría fáctica del titular. El PCSC es personalísimo e intransferible; el intento de clonación o manipulación del hardware se tipifica como **Falsificación de Identidad Nacional**.
 
-    c)  **Capa de Red (El RNS):** El PCSC es el nodo cliente del Registro Nacional Soberano. Cada interacción genera un registro inmutable en la blockchain nacional, garantizando que el ciudadano sea el único \"dueño de la llave\" de su vida económica y civil.
+    c)  **Capa de Red (El RNS):** El PCSC es el nodo cliente del Registro Nacional Soberano. Cada interacción genera un registro inmutable en la red descentralizada de consenso criptográfico de la Nación, garantizando que el ciudadano sea el único "dueño de la llave" de su vida económica y civil.
 
 5\. Del Pasaporte Soberano Temporal para Extranjeros y el Protocolo de Interfaz de Invitado.
 
@@ -1571,7 +1571,7 @@ a)  **Grabación Directa al RNS con Firma de Origen:**\
 
     i.  Estos dispositivos generarán un **Hash Criptográfico Secuencial** en tiempo real, firmado por la clave privada del hardware y anclada al Registro Nacional Soberano (RNS).
 
-    ii. Se prohíbe el uso de software intermedio de edición o procesamiento antes de la subida del archivo al RNS. El flujo debe ser crudo (*raw data*) desde el sensor de la cámara hasta el bloque de la blockchain nacional.
+    ii. Se prohíbe el uso de software intermedio de edición o procesamiento antes de la subida del archivo al RNS. El flujo debe ser crudo (raw data) desde el sensor de captura hasta su asiento en el registro criptográfico inmutable nacional
 
 b)  **Proscripción del \"Corte y Costura\" (Nulidad por Interrupción de Hash):**
 
@@ -1650,7 +1650,7 @@ El dispositivo físico (teléfono móvil, ordenador, sensores domóticos, vehíc
 5\.Del Principio de Propiedad del Dato y el Pago por información o Entrenamiento de Inteligencia Artificial.
 La República reconoce que la experiencia, la voz, el texto y las decisiones del ciudadano no son "datos públicos gratuitos", sino Propiedad Intelectual y Biológica.
 
-    a) El Dato como Activo de Mercado (AM): Queda terminantemente prohibido a cualquier empresa, nacional o extranjera, la recolección de textos, audios, imágenes o preferencias de los ciudadanos cubanos (mediante Web Scraping, minería de datos o cualquier método de extracción masiva) con el propósito de entrenar Modelos de Lenguaje (LLMs), redes neuronales o sistemas de Inteligencia Artificial presentes o futuros, a menos que medie un Contrato Inteligente de Arrendamiento de Datos en el RNS. (Ajuste: se agregan "redes neuronales o sistemas presentes o futuros" para que no evadan la prohibición cuando la IA deje de basarse solo en LLMs).
+    a) El Dato como Activo de Mercado (AM): Queda terminantemente prohibido a cualquier empresa, nacional o extranjera, la recolección de textos, audios, imágenes o preferencias de los ciudadanos cubanos (mediante extracción masiva automatizada, minería de datos o métodos análogos) con el propósito de entrenar modelos cognitivos sintéticos, redes de aprendizaje o sistemas de inteligencia artificial presentes o futuros, a menos que medie un Contrato Inteligente de Arrendamiento de Datos en el RNS.
     b) Monetización Soberana (Micro-Regalías): Si el ciudadano decide voluntariamente aportar su información para el entrenamiento de IA o para recibir publicidad segmentada, la corporación deberá transferirle una regalía en micro-pagos directos a la Capa C (Capital de Maniobra) de su cuenta en el RNS por cada bloque de datos utilizado. El Estado no permite la minería gratuita en la mente de la Nación.
     c) Prohibición expresa: Se prohíbe expresamente el uso de esta información vendida con el objetivo de dañar, extorsionar, espiar al usuario y otras de similar índole.
     d) Excepción: La Constitución establece los medios mediante los cuales es legal el acceso no autorizado a los datos del usuario.
@@ -2660,7 +2660,7 @@ c)  **Arbitraje de Flujo Rápido:** En caso de disputa en frontera municipal, el
 
 6\. De la Integración Financiera Global y la Prevención de Ilícitos: La República de Cuba reafirma su compromiso con la integridad del sistema financiero internacional.
 
-    a)  Interoperabilidad y Estándares (SWIFT/ISO): El sistema bancario nacional y el Registro Nacional Soberano (RNS) adoptarán los estándares técnicos necesarios (sean los actuales o futuros) para garantizar la interoperabilidad plena con las redes de pagos internacionales y sistemas de liquidación global.
+    a)  Interoperabilidad Financiera Global: El sistema bancario nacional y el Registro Nacional Soberano (RNS) adoptarán los protocolos técnicos de mensajería y liquidación necesarios para garantizar la interoperabilidad plena con las redes de pagos y compensación internacional.
 
     b)  Cooperación contra el Crimen Financiero: Si bien se protege la privacidad del patrimonio lícito (Artículo 8), el Estado cooperará activamente con organismos internacionales en la prevención y persecución del lavado de activos, el financiamiento al terrorismo y la proliferación de armas.
 
@@ -2681,7 +2681,7 @@ Se instituye el TDAM como la herramienta fundamental del Registro Nacional Sober
 
         i.  **Carga del Pagador:** El derecho a generar la evidencia reside prioritariamente en quien entrega el valor (pagador o donante).
 
-        ii. **Protocolo de Escaneo Directo:** El receptor del valor tiene el derecho de presentar un código QR pre-generado en su PCSC con los datos de la transacción para facilitar el registro. El acto de escanear dicho código por parte del pagador constituye la perfección de la prueba digital.
+        ii. **Protocolo de Enlace Directo:** El receptor del valor tiene el derecho de presentar un identificador óptico, electromagnético o de proximidad pre-generado en su PCSC con los datos de la transacción para facilitar el registro. La lectura o captura de dicho identificador por parte del pagador constituye la perfección de la prueba digital.
 
     d)  **Versatilidad de Modelos y Nota Abierta:** El RNS proveerá interfaces adaptativas para diversos escenarios, incluyendo:
 
@@ -2704,7 +2704,7 @@ Se instituye el TDAM como la herramienta fundamental del Registro Nacional Sober
     d) Del Resguardo de la Transacción Analógica y la Cédula de Entrega: Para que las transacciones en efectivo gocen del amparo de restitución forzosa ante los Alguaciles de la Constitución en caso de estafa (Artículo 22.17), las partes conservan el derecho voluntario de emitir el Ticket de Testimonio Material en el Registro Nacional Soberano (RNS), sin que la omisión de este registro invalide la licitud del intercambio físico acordado entre partes libres.
 
 9\. **Del Arbitraje de Activos Descentralizados y la Pasarela de Seguridad.**\
-Se prohíbe la indefensión del ciudadano ante estafas en redes blockchain externas (Bitcoin, Ethereum, Monero).
+Se prohíbe la indefensión del ciudadano ante fraudes o sustracciones en redes descentralizadas externas y mercados de criptoactivos.
 
     a)  **El Sello de Billetera Verificada:** El RNS permitirá a los ciudadanos vincular sus direcciones de criptodivisas externas a su identidad soberana (Capa Gamma).
 
@@ -2799,7 +2799,7 @@ La República reconoce que el signo monetario es solo un vehículo de valor; el 
 
 ## Artículo 51. De la Resiliencia Monetaria y el Fideicomiso de Reserva.
 
-1\. Protocolo de Resiliencia Geográfica: El Estado y los Municipios garantizarán mediante empresas de preferencia privadas la transaccionalidad en zonas de baja conectividad o ante fallos sistémicos mediante tecnología de proximidad (NFC) y dispositivos de hardware de valor almacenado. Estas transacciones tendrán plena validez jurídica y se sincronizarán con el Registro Nacional Soberano de forma diferida.
+1\. Protocolo de Resiliencia Geográfica: El Estado y los Municipios garantizarán mediante empresas de preferencia privadas la transaccionalidad en zonas de baja conectividad o ante fallos sistémicos mediante tecnologías seguras de enlace de corto alcance o proximidad y dispositivos de hardware de valor almacenado. Estas transacciones tendrán plena validez jurídica y se sincronizarán con el Registro Nacional Soberano de forma diferida.
 
 2\. Esterilización de Capitales: El Fideicomiso Nacional de Reserva capturará el exceso de divisas provenientes de exportaciones estratégicas para su inversión en activos globales, actuando como mecanismo de control de la apreciación monetaria (Emisión o Reducción Monetaria) para preservar la competitividad de las exportaciones nacionales.
 
@@ -3264,7 +3264,7 @@ ii. La ignorancia de los padres sobre la conducta del menor no exime la responsa
 
 8\. **Del Blindaje de la Atención y la Proscripción de Dispositivos en la Educación Básica y Media:** La República reconoce que la atención sostenida es el recurso cognitivo más escaso y valioso de la Nación. Para garantizar el desarrollo de la corteza prefrontal y el tejido social directo, se establece la **Prohibición Absoluta de Conexión Externa** en las etapas de formación inicial.
 
-a)  **Proscripción Nominal y Evolutiva:** Queda terminantemente prohibido el ingreso, porte o uso de teléfonos celulares, relojes inteligentes (smartwatches), gafas de realidad aumentada, interfaces neuronales, o cualquier dispositivo presente o futuro de conexión a redes externas, por parte de los alumnos en instituciones de educación primaria, secundaria y técnica de nivel medio.
+a)  **Proscripción de Dispositivos Conectados:** Queda terminantemente prohibido el ingreso, porte o uso de dispositivos personales de comunicación, terminales de cómputo portátil, pantallas personales, interfaces neuronales o cualquier dispositivo de enlace a redes externas, presente o futuro, por parte de los alumnos en instituciones de educación primaria, secundaria y técnica de nivel medio.
 
 b)  **Perímetro Cero:** Esta prohibición rige sin excepciones durante la totalidad de la jornada escolar, abarcando tanto el interior de las aulas como los pasillos, áreas deportivas y zonas de recreo. La tecnología no debe mediar ni interrumpir la interacción humana, el conflicto natural, ni el juego físico.
 
@@ -3908,7 +3908,7 @@ d)  **Protección al Auxiliante de Terceros:** En el caso de defensa de ancianos
 
 4\. De la Flagrancia en Aglomeraciones y el Delito de Traspaso: En situaciones de aglomeración pública donde se verifique el despojo de bienes mediante técnicas de disimulo, relevo o transferencia de objetos robados entre múltiples sujetos, el CCTR aplicará protocolos de identificación inmediata y retención técnica. La complicidad por ocultamiento o auxilio en la huida será tratada como coautoría material del delito contra la propiedad. El personal del CCTR podrá hacer uso de registros biométricos portátiles vinculados al PCSC para verificar identidades en el lugar de los hechos.
 
-5\. Protección de Activos Estratégicos y Ganaderos: El CCTR es el garante de la seguridad de la clase comercial agraria. Se establece como prioridad operativa la prevención y persecución del hurto y sacrificio de ganado, el robo de cosechas y el saqueo de maquinaria. Todo activo registrado con dispositivos de Identificación por Radiofrecuencia (RFID) o marcadores digitales será rastreable por el CCTR, teniendo estos la autoridad de inspeccionar vehículos y cargamentos en zonas rurales para verificar la legalidad de la propiedad en tránsito contra el registro público inalterable.
+5\. Protección de Activos Estratégicos y Ganaderos: El CCTR es el garante de la seguridad de la clase comercial agraria. Se establece como prioridad operativa la prevención y persecución del hurto y sacrificio de ganado, el robo de cosechas y el saqueo de maquinaria. Todo activo registrado con dispositivos telemétricos, identificadores de proximidad o marcadores digitales será rastreable por el CCTR, teniendo estos la autoridad de inspeccionar vehículos y cargamentos en zonas rurales para verificar la legalidad de la propiedad en tránsito contra el registro público inalterable.
 
 6\. Integración Tecnológica y Reporte Ciudadano: Todo procedimiento, detención o reporte de incidente realizado por el CCTR deberá ser grabado y subido de forma automática a la Capa de Gestión Pública (Artículo 6.1.a) del Registro Nacional Soberano. Los ciudadanos podrán activar alertas de auxilio mediante la geolocalización de su PCSC, obligando al CCTR a una respuesta inmediata cuya demora o negligencia será sancionada administrativamente por el Tribunal de Arbitraje Técnico (TAT).
 
@@ -7519,7 +7519,7 @@ Para mitigar el impacto antropológico del cambio de régimen económico y prote
 
 6.  Durante los primeros doce (12) meses de transición, se suspende la exigencia de contraprestación laboral para el acceso al Voucher de Supervivencia Calórica.
 
-    a)  El Estado Nacional, mediante los suministros de la USDA y aportes del exilio, garantiza una Canasta Básica de Supervivencia gratuita y universal para todo residente en la isla.
+    a)  El Estado Nacional, mediante reservas agroalimentarias internacionales y aportes de la diáspora, garantiza una Canasta Básica de Supervivencia gratuita y universal para todo residente en la isla.
 
     b)  Este periodo se define como 'Tregua de Recuperación Biológica', destinada a sanar la desnutrición sistémica del pueblo antes de su plena integración al mercado de Acciones Soberanas.
 

@@ -1203,7 +1203,7 @@ c)  **Doctrina de la Doble Naturaleza del Perímetro y el Muro Biológico:** La 
 
     ii. Sin embargo, si una turba o grupo de individuos, amparándose en el derecho a la protesta, sitia, acorrala o ataca físicamente mediante el uso de objetos contundentes, cortantes, fuego o fuerza abrumadora (asimetría numérica) a cualquier ciudadano, funcionario o servidor público que se encuentre dentro o protegiendo una instalación, los agresores pierden de pleno derecho el estatus de manifestantes civiles y se constituyen legalmente como **Amenaza Letal (Agresor Predatorio)**.
 
-    iii. En este supuesto, el ciudadano o servidor público sitiado recupera la totalidad de su derecho inalienable a la supervivencia biológica, estando facultado constitucionalmente para ejercer la **Fuerza Letal de Legítima Defensa** con los medios a su alcance, sin que se le pueda imputar delito de represión, homicidio o abuso de fuerza, siempre que el acto se limite estrictamente a neutralizar la amenaza inminente a su integridad física y la de quienes le rodean. La Constitución no exige el martirio de ningún individuo en nombre de la ira popular.
+    iii. En este supuesto, el ciudadano o servidor público sitiado recupera la totalidad de su derecho inalienable a la supervivencia biológica, estando facultado constitucionalmente para ejercer la **Fuerza Letal de Legítima Defensa** con los medios a su alcance, sin que se le pueda imputar delito de represión, homicidio o abuso de fuerza, siempre que el acto se limite estrictamente a neutralizar la amenaza inminente a su integridad física y la de quienes le rodean. No será exigible el sacrificio ni la inacción de quien ejerza la legítima defensa frente a un asalto que ponga en peligro inminente su vida.
 
     iv. **Inexistencia de Justificación para el Daño a Terceros:** El Derecho de Resistencia (Art. 21.1) es una facultad para restaurar la Constitución, no una patente de corso para el pillaje o la destrucción de propiedad privada. Ninguna causa política, por legítima que sea, exime al manifestante de la responsabilidad civil y penal por daños causados a propiedades de ciudadanos ajenos al conflicto. La \"ira popular\" es una descripción sociológica, no una categoría jurídica eximente.
 
@@ -1377,13 +1377,13 @@ d)  **Sanción Patrimonial por Coacción:** Los individuos identificados como pa
 
 8\. **Del Estándar de Prueba y Presunción de Inocencia Real.** Ningún ciudadano podrá ser condenado penalmente basándose exclusivamente en un testimonio subjetivo. Se requiere obligatoriamente la concurrencia de pruebas materiales, digitales o periciales que corroboren la imputación. La duda razonable (*In Dubio Pro Reo*) es una barrera infranqueable; el Estado prefiere un culpable libre que un inocente en cautiverio.
 
-a)  **De la Insuficiencia del Testimonio Visual:** Queda prohibida la condena a penas privativas de libertad superiores a cinco (5) años basándose exclusivamente en el reconocimiento ocular o testimonios subjetivos.
+    a)  **De la Insuficiencia del Testimonio Visual:** Queda prohibida la condena a penas privativas de libertad superiores a cinco (5) años basándose exclusivamente en el reconocimiento ocular o testimonios subjetivos.
 
-<!-- -->
+    <!-- -->
 
-i.  **Exigencia de Huella Material:** Para delitos graves (robo, asesinato, violación), el sistema exige la concurrencia de al menos una **Prueba de Identidad Inapelable**: ADN, huella dactilar, registro biométrico facial certificado por el TAT o telemetría del RNS (geolocalización del PCSC).
+        i.  **Exigencia de Huella Material:** Para delitos graves (robo, asesinato, violación), el sistema exige la concurrencia de al menos una **Prueba de Identidad Inapelable**: ADN, huella dactilar, registro biométrico facial certificado por el TAT o telemetría del RNS (geolocalización del PCSC).
 
-ii. **El Filtro del Doble:** Ante cualquier alegación de inocencia basada en la existencia de un tercero idéntico, el RNS ejecutará un **Barrido Biométrico Nacional** de forma automática para localizar posibles colisiones de imagen.
+        ii. **El Filtro del Doble:** Ante cualquier alegación de inocencia basada en la existencia de un tercero idéntico, el RNS ejecutará un **Barrido Biométrico Nacional** de forma automática para localizar posibles colisiones de imagen.
 
 9\. **De la Inviolabilidad de la Conciencia y No Autoincriminación.** Ningún ciudadano podrá ser compelido a declarar contra sí mismo, ni a prestar testimonio bajo juramento que pueda resultar en su propia incriminación penal. El silencio del investigado es un derecho absoluto y no podrá ser interpretado como indicio de culpabilidad.
 
@@ -1393,85 +1393,85 @@ ii. **El Filtro del Doble:** Ante cualquier alegación de inocencia basada en la
 
 12\. **Del Deber de Cumplimiento Normativo y Obediencia Técnica.** La soberanía individual no faculta al ciudadano para el incumplimiento de las leyes ni para la desobediencia de las órdenes legales emanadas de la autoridad en el ejercicio de sus funciones.
 
-a)  **Presunción de Legitimidad y Crítica Verbal:** Las órdenes emitidas por agentes de seguridad y funcionarios de control se presumen legales cuando se ajusten a los protocolos registrados en el RNS. El ciudadano posee el derecho absoluto a manifestar su disconformidad o crítica verbal durante la ejecución del acto sin que ello constituya delito de desacato. No obstante, la crítica no suspende la obligación de cumplimiento físico inmediato del mandato oficial.
+    a)  **Presunción de Legitimidad y Crítica Verbal:** Las órdenes emitidas por agentes de seguridad y funcionarios de control se presumen legales cuando se ajusten a los protocolos registrados en el RNS. El ciudadano posee el derecho absoluto a manifestar su disconformidad o crítica verbal durante la ejecución del acto sin que ello constituya delito de desacato. No obstante, la crítica no suspende la obligación de cumplimiento físico inmediato del mandato oficial.
 
-b)  **Derecho de Impugnación y Auditoría:** Todo ciudadano que considere haber cumplido una orden arbitraria o técnica defectuosa tiene el derecho de activar una Auditoría de Procedimiento ante el Tribunal de Arbitraje Técnico (TAT). La demostración de ilegalidad en la orden generará el derecho a la indemnización y la destitución del funcionario responsable si correspondiera.
+    b)  **Derecho de Impugnación y Auditoría:** Todo ciudadano que considere haber cumplido una orden arbitraria o técnica defectuosa tiene el derecho de activar una Auditoría de Procedimiento ante el Tribunal de Arbitraje Técnico (TAT). La demostración de ilegalidad en la orden generará el derecho a la indemnización y la destitución del funcionario responsable si correspondiera.
 
-13**. Del Sistema Penal Productivo y la Justicia Restitutiva.**\
+13\. **Del Sistema Penal Productivo y la Justicia Restitutiva.**\
 La pena privativa de libertad no otorga al infractor el derecho a ser mantenido financieramente por los ciudadanos honestos mediante el pago de impuestos, ni lo exime de sus responsabilidades civiles y familiares.
 
-a)  **El Mandato de Autosostenimiento:** Todo recinto penitenciario operará como una unidad de producción económica. El ciudadano convicto estará en la obligación ineludible de trabajar dentro de las instalaciones para sufragar su propia existencia y reparar el daño causado.
+    a)  **El Mandato de Autosostenimiento:** Todo recinto penitenciario operará como una unidad de producción económica. El ciudadano convicto estará en la obligación ineludible de trabajar dentro de las instalaciones para sufragar su propia existencia y reparar el daño causado.
 
-b)  **Ingeniería del Flujo de Reparación:** La utilidad neta generada por la labor del interno será administrada por el RNS y fraccionada obligatoriamente en tres (3) vectores simultáneos:
+    b)  **Ingeniería del Flujo de Reparación:** La utilidad neta generada por la labor del interno será administrada por el RNS y fraccionada obligatoriamente en tres (3) vectores simultáneos:
 
-<!-- -->
+    <!-- -->
 
-i.  **Vector de Operación:** Pago al Estado o al Municipio por el costo real de su alimentación, vestimenta y custodia (Prisión de Costo Cero para el contribuyente).
+        i.  **Vector de Operación:** Pago al Estado o al Municipio por el costo real de su alimentación, vestimenta y custodia (Prisión de Costo Cero para el contribuyente).
 
-ii. **Vector de Restitución:** Cuota de indemnización mensual transferida directamente a la víctima del delito o a sus herederos, hasta saldar la deuda impuesta por el tribunal.
+        ii. **Vector de Restitución:** Cuota de indemnización mensual transferida directamente a la víctima del delito o a sus herederos, hasta saldar la deuda impuesta por el tribunal.
 
-iii. **Vector de Responsabilidad Familiar:** Si el recluso posee hijos menores de edad, cónyuge u otros dependientes legales fuera del recinto, una fracción inalienable de su producción será derivada a sus cuentas para su sostenimiento, impidiendo que el delito del individuo genere indigencia en su linaje.
+        iii. **Vector de Responsabilidad Familiar:** Si el recluso posee hijos menores de edad, cónyuge u otros dependientes legales fuera del recinto, una fracción inalienable de su producción será derivada a sus cuentas para su sostenimiento, impidiendo que el delito del individuo genere indigencia en su linaje.
 
-<!-- -->
+    <!-- -->
 
-c)  La negativa del recluso a participar en el Sistema Penal Productivo lo limitará a recibir estrictamente el mínimo biológico de supervivencia certificado, sin acceso a beneficios, reducción de pena o flujo para sus dependientes. Quedan exceptuados de la obligación de labor física aquellos cuya incapacidad sea certificada por el TAT por razones de edad, senilidad, enfermedad, discapacidad física o mental severa. En estos casos, el Fondo de Auxilio Mutuo asumirá el costo de su manutención básica para preservar la dignidad humana.
+    c)  La negativa del recluso a participar en el Sistema Penal Productivo lo limitará a recibir estrictamente el mínimo biológico de supervivencia certificado, sin acceso a beneficios, reducción de pena o flujo para sus dependientes. Quedan exceptuados de la obligación de labor física aquellos cuya incapacidad sea certificada por el TAT por razones de edad, senilidad, enfermedad, discapacidad física o mental severa. En estos casos, el Fondo de Auxilio Mutuo asumirá el costo de su manutención básica para preservar la dignidad humana.
 
-d)  **De la Segregación por Grado de Infección Social:** Se prohíbe terminantemente el contacto físico, visual o comunicativo entre internos de distintas categorías de peligrosidad. El Tribunal de Arbitraje Técnico (TAT) definirá los centros de internamiento mediante el **Algoritmo de Triage Penal**:
+    d)  **De la Segregación por Grado de Infección Social:** Se prohíbe terminantemente el contacto físico, visual o comunicativo entre internos de distintas categorías de peligrosidad. El Tribunal de Arbitraje Técnico (TAT) definirá los centros de internamiento mediante el **Algoritmo de Triage Penal**:
 
-<!-- -->
+    <!-- -->
 
-i.  **Nivel I (Recuperación Biológica):** Para menores y adultos convictos por delitos comunes no violentos (hurtos menores, infracciones técnicas). Estos centros se enfocan en la **Rampa de Redignificación** y el aprendizaje de oficios.
+        i.  **Nivel I (Recuperación Biológica):** Para menores y adultos convictos por delitos comunes no violentos (hurtos menores, infracciones técnicas). Estos centros se enfocan en la **Rampa de Redignificación** y el aprendizaje de oficios.
 
-ii. **Nivel II (Contención Activa):** Para delitos con violencia física no vinculados a estructuras de crimen organizado.
+        ii. **Nivel II (Contención Activa):** Para delitos con violencia física no vinculados a estructuras de crimen organizado.
 
-iii. **Nivel III (Aislamiento Predatorio/Sarcófago):** Para miembros de pandillas, carteles o terroristas. Estos centros operarán bajo la **Doctrina de Vacío de Mando**. El aislamiento es total. Queda prohibida cualquier interacción con internos de Nivel I o II. El intento de un interno de Nivel III de comunicarse con uno de Nivel I será juzgado como **Intento de Homicidio de la voluntad social** y sumará penas adicionales de forma automática en el RNS.
+        iii. **Nivel III (Aislamiento de Máxima Seguridad y Contención Estricta):** Para miembros de pandillas, carteles o terroristas. Estos centros operarán bajo la **Doctrina de Vacío de Mando**. El aislamiento es total. Queda prohibida cualquier interacción con internos de Nivel I o II. El quebrantamiento deliberado de este aislamiento para contactar a internos de menor peligrosidad constituirá falta disciplinaria gravísima y sumará penas accesorias de régimen cerrado en el RNS.
 
-<!-- -->
+    <!-- -->
 
-e)  **Responsabilidad Civil del Alcaide por Contaminación:** Si por negligencia administrativa o corrupción, un delincuente predatorio es colocado en el mismo espacio que un delincuente común y esto resulta en la muerte, lesión o radicalización del segundo, el funcionario responsable será juzgado por **Negligencia Criminal Agravada**.
+    e)  **Responsabilidad Civil del Alcaide por Contaminación:** Si por negligencia administrativa o corrupción, un delincuente predatorio es colocado en el mismo espacio que un delincuente común y esto resulta en la muerte, lesión o radicalización del segundo, el funcionario responsable será juzgado por **Negligencia Criminal Agravada**.
 
-<!-- -->
+    <!-- -->
 
-i.  El Estado indemnizará a la familia del afectado utilizando la **Capa de Maniobra de los activos del funcionario negligente**. La administración de la justicia no puede ser una fábrica de monstruos.
+        i.  El Estado indemnizará a la familia del afectado utilizando la Capa de Maniobra de los activos del funcionario negligente, garantizando que el régimen penitenciario evite el contagio criminógeno y preserve la seguridad física de los reclusos.
 
 14\. **De la Proscripción del Derecho Penal de Autor y la Exigencia Ineludible del Acto Material Lesivo.**
 
-a)  **Nulidad de la Peligrosidad Predelictiva:** Queda terminantemente prohibida la imposición de sanciones, medidas de seguridad o privaciones de libertad sustentadas en perfiles de riesgo probabilístico, peligrosidad sin delito o juicios sobre el carácter, moralidad o pensamiento del ciudadano.
+    a)  **Nulidad de la Peligrosidad Predelictiva:** Queda terminantemente prohibida la imposición de sanciones, medidas de seguridad o privaciones de libertad sustentadas en perfiles de riesgo probabilístico, peligrosidad sin delito o juicios sobre el carácter, moralidad o pensamiento del ciudadano.
 
-b)  **Primacía del Hecho Objetivo Consumado:** La jurisdicción penal de la República solo se activa ante la manifestación de un acto material externo, un daño físico consumado o un acto preparatorio inequívoco mediante medios materiales comprobables. El pensamiento, la opinión y la conducta que no lesione derechos de terceros no constituyen materia justiciable.
+    b)  **Primacía del Hecho Objetivo Consumado:** La jurisdicción penal de la República solo se activa ante la manifestación de un acto material externo, un daño físico consumado o un acto preparatorio inequívoco mediante medios materiales comprobables. El pensamiento, la opinión y la conducta que no lesione derechos de terceros no constituyen materia justiciable.
 
-c)  **Ilegalidad de los Algoritmos de Riesgo Para Justificar Arrestos Preventivos:** Queda tipificado como **Abuso de Autoridad Agravado** el uso de Inteligencia Artificial (IA), bases de datos del Registro Nacional Soberano o historiales de infracciones menores por parte de fiscales, policías o el CICM (Cuerpo de Investigación Criminal Municipal) para generar \"Índices de Probabilidad Criminal\" que justifiquen arrestos preventivos, allanamientos o intercepción de comunicaciones sin evidencia material de un delito en curso.
+    c)  **Ilegalidad de los Algoritmos de Riesgo Para Justificar Arrestos Preventivos:** Queda tipificado como **Abuso de Autoridad Agravado** el uso de Inteligencia Artificial (IA), bases de datos del Registro Nacional Soberano o historiales de infracciones menores por parte de fiscales, policías o el CICM (Cuerpo de Investigación Criminal Municipal) para generar \"Índices de Probabilidad Criminal\" que justifiquen arrestos preventivos, allanamientos o intercepción de comunicaciones sin evidencia material de un delito en curso.
 
-d)  **El Principio de Justicia del Presente Fáctico:** Ningún ciudadano podrá ser privado de sus derechos civiles hoy bajo el alegato de que su libertad representa un \"riesgo teórico\" para el orden de mañana. Ninguna persona podrá ser privada de su libertad por razones preventivas sin la existencia de indicios objetivos y materiales de la comisión de un delito o una sospecha razonable. El encarcelamiento sin causa justificada constituye delito.
+    d)  **El Principio de Justicia del Presente Fáctico:** Ningún ciudadano podrá ser privado de sus derechos civiles hoy bajo el alegato de que su libertad representa un \"riesgo teórico\" para el orden de mañana. Ninguna persona podrá ser privada de su libertad por razones preventivas sin la existencia de indicios objetivos y materiales de la comisión de un delito o una sospecha razonable. El encarcelamiento sin causa justificada constituye delito.
 
-**15. De la Imprescriptibilidad de la Asimetría, la Caducidad Diferenciada y los Delitos de Sangre.**\
+15\. **De la Imprescriptibilidad de la Asimetría, la Caducidad Diferenciada y los Delitos de Sangre.**\
 Sin perjuicio de la garantía de Cosa Juzgada para procesos válidamente concluidos con sentencia firme (Artículo 93), y con el fin de regular la extinción de la acción penal y la facultad sancionadora del Estado, el sistema de justicia aplicará la caducidad del tiempo basándose estrictamente en la gravedad del daño, la naturaleza del acto y la asimetría del poder, bajo los siguientes tres protocolos inalterables:
 
-a)  **Caducidad Administrativa y Civil (El Límite al Estado):** Ninguna falta administrativa, tributaria, contravención civil o delito penal de carácter no violento que no involucre daño físico a terceros, podrá ser investigada, perseguida o enjuiciada tras un periodo de cinco (5) años de inactividad probada de la autoridad competente. La negligencia del Estado en el cobro, la fiscalización o la persecución procesal no puede mantener al ciudadano como rehén de la burocracia a perpetuidad.\
-    *Excepción de Jerarquía y Saqueo:* **Quedan expresamente excluidos de este beneficio de caducidad** los actos de corrupción, enriquecimiento ilícito, confiscación arbitraria, diseño de represión sistémica, delitos de lesa nación o cualquier maniobra de ingeniería social cometidos por funcionarios de la Alta Jerarquía del Estado, el Partido Único o la policía política del régimen anterior a esta Constitución o cualquier régimen futuro (a la entrada en vigor de esta Constitución) de similares características en el territorio nacional, sea de alcance municipal, regional o nacional. Dichos actos y sus autores no gozan del beneficio del olvido administrativo y se regirán por los plazos extendidos, la imprescriptibilidad patrimonial y las sanciones de inhabilitación perpetua definidos en las Disposiciones Transitorias Cuarta, Quinta y Sexta. La \"Paz Jurídica\" de los cinco años es un derecho del ciudadano común, no una amnistía encubierta para los arquitectos de la tiranía.
+    a)  **Caducidad Administrativa y Civil (El Límite al Estado):** Ninguna falta administrativa, tributaria, contravención civil o delito penal de carácter no violento que no involucre daño físico a terceros, podrá ser investigada, perseguida o enjuiciada tras un periodo de cinco (5) años de inactividad probada de la autoridad competente. La negligencia del Estado en el cobro, la fiscalización o la persecución procesal no puede mantener al ciudadano como rehén de la burocracia a perpetuidad.\
+        *Excepción de Jerarquía y Saqueo:* **Quedan expresamente excluidos de este beneficio de caducidad** los actos de corrupción, enriquecimiento ilícito, confiscación arbitraria, diseño de represión sistémica, delitos de lesa nación o cualquier maniobra de ingeniería social cometidos por funcionarios de la Alta Jerarquía del Estado, el Partido Único o la policía política del régimen anterior a esta Constitución o cualquier régimen futuro (a la entrada en vigor de esta Constitución) de similares características en el territorio nacional, sea de alcance municipal, regional o nacional. Dichos actos y sus autores no gozan del beneficio del olvido administrativo y se regirán por los plazos extendidos, la imprescriptibilidad patrimonial y las sanciones de inhabilitación perpetua definidos en las Disposiciones Transitorias Cuarta, Quinta y Sexta. La \"Paz Jurídica\" de los cinco años es un derecho del ciudadano común, no una amnistía encubierta para los arquitectos de la tiranía.
 
-b)  **Asimetría de Poder (La Responsabilidad del Funcionario):** La acción penal y la responsabilidad civil por delitos cometidos por funcionarios públicos en el ejercicio de su cargo contra la soberanía individual, la propiedad privada ciudadana o los recursos del Tesoro Nacional, son imprescriptibles mientras el infractor mantenga vínculos de poder, inmunidad de facto, protección institucional o residencia en jurisdicciones extranjeras que nieguen o dificulten su extradición. El reloj de la prescripción procesal permanecerá congelado jurídicamente y solo se activará el día y la hora en que el infractor pise territorio nacional en condición de ciudadano común, sin fueros de protección y plenamente accesible a la justicia.\
-    *Cláusula de Memoria y Día Cero:* El tiempo transcurrido bajo el amparo de un régimen totalitario o autoritario no computa para la prescripción de los delitos cometidos por sus agentes. Para todos los efectos legales, el cómputo del tiempo para la justicia comienza a marcar el \"Día Cero\" de la promulgación de esta Constitución. Ningún jerarca, oficial o burócrata podrá alegar la \"obediencia debida\" o el \"paso del tiempo\" transcurrido bajo la impunidad de la dictadura como eximente de responsabilidad civil o penal.
+    b)  **Asimetría de Poder (La Responsabilidad del Funcionario):** La acción penal y la responsabilidad civil por delitos cometidos por funcionarios públicos en el ejercicio de su cargo contra la soberanía individual, la propiedad privada ciudadana o los recursos del Tesoro Nacional, son imprescriptibles mientras el infractor mantenga vínculos de poder, inmunidad de facto, protección institucional o residencia en jurisdicciones extranjeras que nieguen o dificulten su extradición. El reloj de la prescripción procesal permanecerá congelado jurídicamente y solo se activará el día y la hora en que el infractor pise territorio nacional en condición de ciudadano común, sin fueros de protección y plenamente accesible a la justicia.\
+        *Cláusula de Memoria y Día Cero:* El tiempo transcurrido bajo el amparo de un régimen totalitario o autoritario no computa para la prescripción de los delitos cometidos por sus agentes. Para todos los efectos legales, el cómputo del tiempo para la justicia comienza a marcar el \"Día Cero\" de la promulgación de esta Constitución. Ningún jerarca, oficial o burócrata podrá alegar la \"obediencia debida\" o el \"paso del tiempo\" transcurrido bajo la impunidad de la dictadura como eximente de responsabilidad civil o penal.
 
-c)  **La Mancha Inborrable (Delitos de Sangre y Naturaleza Depredatoria):** El tiempo no extingue la responsabilidad sobre la anulación de la vida humana o la destrucción de la integridad física profunda. Quedan exceptuados de toda prescripción legal, amnistía, indulto o caducidad, aplicable a cualquier ciudadano, extranjero o autoridad civil y militar **que no haya sido previamente juzgado mediante debido proceso**, la persecución de los siguientes delitos:
+    c)  **La Mancha Inborrable (Delitos de Sangre y Naturaleza Depredatoria):** El tiempo no extingue la responsabilidad sobre la anulación de la vida humana o la destrucción de la integridad física profunda. Quedan exceptuados de toda prescripción legal, amnistía, indulto o caducidad, aplicable a cualquier ciudadano, extranjero o autoridad civil y militar **que no haya sido previamente juzgado mediante debido proceso**, la persecución de los siguientes delitos:
 
-<!-- -->
+    <!-- -->
 
-i.  Homicidio doloso, asesinato o ejecución extrajudicial.
+        i.  Homicidio doloso, asesinato o ejecución extrajudicial.
 
-ii. **Violación, y el abuso sexual infantil en su modalidad depredatoria:** Entendiéndose por tal aquel donde existe una asimetría significativa de edad, autoridad o poder coercitivo entre el agresor y la víctima, o el uso de violencia. Quedan excluidas de la imprescriptibilidad las relaciones consensuales entre pares adolescentes o aquellas situaciones históricas de unión temprana que no implicaron violencia ni coacción depredadora, las cuales se regirán por los plazos de prescripción ordinaria.
+        ii. **Violación, y el abuso sexual infantil en su modalidad depredatoria:** Entendiéndose por tal aquel donde existe una asimetría significativa de edad, autoridad o poder coercitivo entre el agresor y la víctima, o el uso de violencia. Quedan excluidas de la imprescriptibilidad las relaciones consensuales entre pares adolescentes o aquellas situaciones históricas de unión temprana que no implicaron violencia ni coacción depredadora, las cuales se regirán por los plazos de prescripción ordinaria.
 
-iii. Tortura y crímenes de lesa humanidad.
+        iii. Tortura y crímenes de lesa humanidad.
 
-iv. Secuestro, desaparición forzada y trata de personas.
+        iv. Secuestro, desaparición forzada y trata de personas.
 
-<!-- -->
+    <!-- -->
 
-A.  La República establece como principio fundacional que el mero paso del tiempo no convierte al depredador físico en un ciudadano inocente, ni limpia la sangre derramada. La justicia sobre la vida carece de fecha de vencimiento y no admite rescate económico sustitutivo.
+    A.  La República establece como principio fundacional que el mero paso del tiempo no convierte al depredador físico en un ciudadano inocente, ni limpia la sangre derramada. La justicia sobre la vida carece de fecha de vencimiento y no admite rescate económico sustitutivo.
 
-<!-- -->
+    <!-- -->
 
-d)  Suspensión del Reloj de Prescripción por Condena Errónea: El reloj de la justicia procesal para el verdadero criminal se detiene por completo mientras un inocente esté privado de libertad pagando su pena. La negligencia o el error del Estado en capturar al verdadero culpable no le otorga a este el beneficio del tiempo, ni genera impunidad. Al momento de certificar la inocencia y liberar al afectado, se activa de pleno derecho el Mandato de Captura Inmediata contra el verdadero perpetrador, reiniciándose su reloj de prescripción desde el Día Cero.
+    d)  Suspensión del Reloj de Prescripción por Condena Errónea: El reloj de la justicia procesal para el verdadero criminal se detiene por completo mientras un inocente esté privado de libertad pagando su pena. La negligencia o el error del Estado en capturar al verdadero culpable no le otorga a este el beneficio del tiempo, ni genera impunidad. Al momento de certificar la inocencia y liberar al afectado, se activa de pleno derecho el Mandato de Captura Inmediata contra el verdadero perpetrador, reiniciándose su reloj de prescripción desde el Día Cero.
 
 16\. **De la Protección de la Justicia frente a la Victimización Táctica y la Inmunidad del Denunciante de Orden.**
 
@@ -1479,7 +1479,7 @@ a)  **Proscripción del Falso Positivo Emocional:** El sistema de justicia y las
 
 b)  **Inmunidad del Custodio del Sistema (El Acusador Legítimo):** El ciudadano que denuncie en flagrancia un acto de corrupción, fraude a la propiedad ciudadana o alteración de las reglas de mercado, goza de Presunción de Rectitud. Queda prohibido a la fuerza pública arrestar, coaccionar o someter a fuerza física al denunciante bajo el pretexto de \"alteración del orden público\" ante el quiebre emocional del infractor. La fuerza coercitiva que penalice a quien defiende el sistema, invirtiendo la carga de la culpa hacia el ciudadano honesto, será tipificada como **Delito de Inversión de la Justicia y Arresto Arbitrario**, acarreando la destitución inmediata y responsabilidad patrimonial del oficial actuante.
 
-c)  **Auditoría de Actos en Flagrancia (El Ojo Imparcial):** Ante una disputa en espacio público o privado donde una parte acuse fraude y la otra alegue victimización, el protocolo de actuación de la autoridad exige la inmovilización de la escena y la revisión inmediata del registro audiovisual, los testimonios de testigos y la telemetría del RNS (Art. 144.1). La verdad jurídica reside en el dato, no en el drama.
+c)  **Auditoría de Actos en Flagrancia:** Ante una disputa en espacio público o privado donde se alegue infracción o agresión, el protocolo de actuación de la autoridad exige la preservación de la escena y la revisión pericial inmediata del registro audiovisual, los testimonios presenciales y la telemetría del RNS (Art. 144.1). La resolución de la causa se fundará exclusivamente en la prueba fáctica y pericial verificable, careciendo de valor probatorio las meras alegaciones histriónicas no corroboradas por la evidencia material.
 
 17\. **Del Régimen de Restitución Patrimonial Agravada e Indemnización Exponencial:**\
 La República no subsidia el crimen ni reconoce la privación de libertad como medio válido de cancelación de la deuda civil por robo, asalto o fraude. Se establece el principio de Restitución Múltiple e Ineludible:
@@ -1524,7 +1524,7 @@ f)  Del Espacio de Gracia y Sanación: La República reconoce que el castigo fí
 
     ii. Las instituciones religiosas y civiles podrán operar centros de formación en valores dentro de las prisiones.
 
-    iii. El cumplimiento exitoso de programas de ética y civismo certificados por la sociedad civil permitirá al recluso acceder a la 'Capa de Perdón Social', facilitando su transición a las Acciones de Mercado (AM) tras cumplir su condena. No solo reconstruimos el daño económico, buscamos reconstruir el Lev Jadash (Corazón Nuevo).
+    iii. El cumplimiento exitoso de programas de ética y civismo certificados por la sociedad civil permitirá al recluso acceder a la Capa de Rehabilitación Cívica, facilitando su reintegración económica plena tras cumplir su condena, en orden a la efectiva reinserción social y moral del sancionado.
 
 18**. Derecho Universal a la Apelación Técnica y Jurídica:** Todo dictamen o sentencia emitido por un Tribunal Municipal (TMDC) o por el Tribunal de Arbitraje Técnico (TAT) es apelable en segunda instancia.
 
@@ -1651,7 +1651,7 @@ El dispositivo físico (teléfono móvil, ordenador, sensores domóticos, vehíc
 La República reconoce que la experiencia, la voz, el texto y las decisiones del ciudadano no son "datos públicos gratuitos", sino Propiedad Intelectual y Biológica.
 
     a) El Dato como Activo de Mercado (AM): Queda terminantemente prohibido a cualquier empresa, nacional o extranjera, la recolección de textos, audios, imágenes o preferencias de los ciudadanos cubanos (mediante extracción masiva automatizada, minería de datos o métodos análogos) con el propósito de entrenar modelos cognitivos sintéticos, redes de aprendizaje o sistemas de inteligencia artificial presentes o futuros, a menos que medie un Contrato Inteligente de Arrendamiento de Datos en el RNS.
-    b) Monetización Soberana (Micro-Regalías): Si el ciudadano decide voluntariamente aportar su información para el entrenamiento de IA o para recibir publicidad segmentada, la corporación deberá transferirle una regalía en micro-pagos directos a la Capa C (Capital de Maniobra) de su cuenta en el RNS por cada bloque de datos utilizado. El Estado no permite la minería gratuita en la mente de la Nación.
+    b) Monetización Soberana (Micro-Regalías): Si el ciudadano decide voluntariamente aportar su información para el entrenamiento de modelos de inteligencia artificial o para recibir publicidad segmentada, la entidad receptora deberá transferirle una contraprestación en micro-pagos directos a la Capa C (Capital de Maniobra) de su cuenta en el RNS por cada bloque de datos utilizado, quedando prohibida la captación no remunerada de activos cognitivos de los ciudadanos.
     c) Prohibición expresa: Se prohíbe expresamente el uso de esta información vendida con el objetivo de dañar, extorsionar, espiar al usuario y otras de similar índole.
     d) Excepción: La Constitución establece los medios mediante los cuales es legal el acceso no autorizado a los datos del usuario.
 
@@ -1710,7 +1710,7 @@ iv. **Coacción al Abandono:** Secuestro o retención física de miembros que de
 
 > c\) **Protocolo de Intervención Quirúrgica:** En estos casos, la intervención estatal debe ser específica contra los líderes instigadores y no contra la feligresía general. La carga de la prueba recae sobre el Estado, que deberá grabar y documentar la operación para su posterior validación ante el Tribunal de Defensa de la Constitución (TDC).
 
-6\. **Del Muro entre el Altar y el Monopolio Comercial (Proscripción de la Teocracia Económica).**\
+6\. **De la Separación entre Entidades Religiosas y Mercados Estratégicos.**\
 La República garantiza la libertad de culto y la propiedad de los recintos sagrados, pero prohíbe terminantemente la acumulación de poder macroeconómico por parte de instituciones religiosas, iglesias, logias, sectas u organizaciones de fe, para evitar la coacción laboral mediante la dependencia financiera.
 
 a)  **Límite de Propiedad Comercial Religiosa:** Toda institución de fe tiene derecho a poseer y operar empresas de escala menor (editoriales, tiendas de insumos religiosos, artesanías) bajo la figura de Sociedad de Emprendimiento Particular (SEP). Sin embargo, si la entidad religiosa expande su operación hacia industrias críticas (alimentación masiva, minería, telecomunicaciones, energía, banca) o supera el límite de facturación o empleados establecido para las macroempresas por el Tribunal de Arbitraje Técnico (TAT), **pierde de pleno derecho el permiso para ser titular del cien por ciento (100%) del capital.**
@@ -1727,7 +1727,7 @@ ii. El **cincuenta y uno por ciento (51%)** restante se convertirá en Acciones 
 
 c)  **Opción de Venta Directa:** En caso de rechazar la conversión a SACA, la institución religiosa está obligada a liquidar y vender la empresa a entidades civiles laicas registradas en el Registro Nacional Soberano (RNS).
 
-7\. **De la Incompatibilidad de la Toga y el Oro (Regla de Liderazgo).**\
+7\. **De la Incompatibilidad entre el Liderazgo Religioso y la Dirección Corporativa.**\
 Para erradicar el conflicto de intereses entre la autoridad moral y la coacción corporativa:
 
 a)  Se establece la **Incompatibilidad de Jerarquía Simultánea**. Ningún ciudadano que ejerza como líder espiritual oficial, sacerdote, imán, pastor titular, u homólogo en una institución religiosa registrada en el RNS, podrá ejercer simultáneamente como Director Ejecutivo (CEO), accionista mayoritario (AM) de control o miembro de la Junta Directiva de una macroempresa civil o SACA.
@@ -1739,7 +1739,7 @@ Queda tipificado como **Delito de Extorsión Teocrática** el condicionamiento d
 
 a)  Si el TAT verifica mediante auditoría del RNS que una empresa despide, acosa o penaliza a un empleado por motivos de apostasía (Art. 149) o negativa a comulgar con la fe de los directivos, **el velo corporativo será levantado automáticamente**.
 
-b)  El Estado ejecutará la confiscación de las Acciones de Mercado (AM) o Capa de Capital de Maniobra de los empleadores culpables, indemnizando a la víctima con el lucro cesante de cinco (5) años. El mercado es un espacio civil y laico; el chantaje del alma se paga con la ruina del bolsillo.
+b)  El Estado ejecutará la confiscación de las Acciones de Mercado (AM) o Capa de Capital de Maniobra de los empleadores culpables, indemnizando a la víctima con el lucro cesante de cinco (5) años. El mercado es un espacio civil y laico; toda coacción laboral basada en motivos de fe acarreará la responsabilidad civil objetiva e indemnización integral a favor del trabajador.
 
 **9. Primacía de la Ejecución Cívica en el Bienestar:** El Estado Nacional reconoce que las comunidades de fe y organizaciones civiles poseen una eficiencia superior en la gestión de la compasión humana.
 
@@ -1753,7 +1753,7 @@ a)  **Inmunidad de Gestión:** El Estado no podrá intervenir en los estatutos i
 
 b)  **Capacidad Prestacional:** Se otorga a estas entidades el derecho de gestionar infraestructuras de bienestar (hospitales, escuelas, asilos) financiadas por el sistema de Vouchers (Art. 60/61), siempre que cumplan con los estándares técnicos del TAT.
 
-c)  **Proscripción del Monopolio de la Bondad:** Queda prohibido que el Estado se declare \"único proveedor\" de servicios sociales. La caridad privada y comunitaria es un derecho inalienable del individuo y su grupo de fe.
+c)  **Pluralidad en la Provisión de Servicios Sociales y Beneficencia Privada:** Queda prohibido que el Estado se declare \"único proveedor\" de servicios sociales. La caridad privada y comunitaria es un derecho inalienable del individuo y su grupo de fe.
 
 11\. **De la Soberanía Estética y el Blindaje Somático:** Como extensión de la libertad de conciencia y la propiedad privada original, se establece la Soberanía Absoluta del individuo sobre su indumentaria y apariencia:
 
@@ -1829,7 +1829,7 @@ La República reconoce que el humor, la música, la sátira y las expresiones ar
 
 a)  **Inmunidad de la Sátira:** Queda constitucionalmente prohibida la censura, penalización o persecución civil de obras musicales, rutinas de comedia, parodias o arte visual bajo la excusa de que resultan \"ofensivas\", \"contraproducentes\" o \"contrarias a la moral pública\". El derecho a ofender el sentimiento ajeno mediante la ficción o el sarcasmo es absoluto.
 
-b)  **El Arte como Diagnóstico (Excepción de Extremismo):** Si una expresión artística o musical refleja o hace apología de narrativas extremas o antisociales (excluyendo el financiamiento mercenario proscrito en el Art. 31.7), el Estado no la prohibirá. El Tribunal de Arbitraje Técnico (TAT) y el legislador tienen el mandato de **analizar dicha expresión como un síntoma de fricción en el sistema**, investigando si subyace una marginación económica o institucional real, pero el emisor conservará su libertad y anonimato. La fiebre no se cura rompiendo el termómetro.
+b)  **El Arte y la Crítica como Indicadores de Tensión Social:** Si una expresión artística o musical refleja o hace apología de narrativas extremas o antisociales (excluyendo el financiamiento mercenario proscrito en el Art. 31.7), el Estado no la prohibirá. Las autoridades competentes analizarán dichas manifestaciones como indicios objetivos de descontento o fricción estructural en la sociedad, investigando las causas materiales subyacentes, conservando el creador o emisor la plenitud de sus derechos civiles y la protección contra la persecución penal.
 
 ------------------------------------------------------------------------
 

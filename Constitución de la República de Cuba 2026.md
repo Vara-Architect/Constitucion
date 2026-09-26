@@ -2764,7 +2764,7 @@ La República reconoce que el signo monetario es solo un vehículo de valor; el 
 
     a)  **Principio de Tasa Única y Libre Flotación:** Se establece el principio de Unicidad Cambiaria Universal. El valor de intercambio entre la moneda nacional y cualquier divisa extranjera, activo digital o metal precioso será determinado única y exclusivamente por la interacción de la oferta y la demanda en el mercado libre y abierto.
 
-    b)  **Proscripción del Privilegio Cambiario (Anti-Arbitraje Institucional):** Queda terminantemente prohibido al Estado, al Banco Central, al Tesoro Nacional, a los Municipios o a cualquier autoridad administrativa la fijación, publicación o imposición de tipos de cambio oficiales, preferenciales, subsidiados o diferenciados para ningún sector.
+    b)  **Proscripción del Privilegio Cambiario:** Queda terminantemente prohibido al Estado, al Banco Central, al Tesoro Nacional, a los Municipios o a cualquier autoridad administrativa la fijación, publicación o imposición de tipos de cambio oficiales, preferenciales, subsidiados o diferenciados para ningún sector.
 
     <!-- -->
 

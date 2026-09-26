@@ -772,71 +772,71 @@ e)  El TDC mediante el cuerpo de programadores es el órgano encargado de adapta
 **4. De la Naturaleza Física y Criptográfica del PCSC.**\
 El PCSC no es un documento de identidad pasivo, sino un **Módulo de Identidad Activa**. Se define por su arquitectura en tres capas:
 
-a)  **Capa de Posesión (El Dispositivo):** Una tarjeta de estado sólido con chip criptográfico de circuito cerrado, capaz de ejecutar firmas digitales RSA/ECC de forma aislada (*air-gapped*). Es el único instrumento legal para la liberación de fondos de las Capas A, B y C de las Acciones Soberanas.
+    a) Capa de Posesión (El Dispositivo): Un soporte o dispositivo físico de custodia personal dotado de un enclave criptográfico seguro, con aislamiento físico y lógico total respecto a redes externas (air-gapped), capaz de ejecutar operaciones de firma y autenticación bajo estándares de alta seguridad y resistencia poscuántica. Constituye el instrumento material exclusivo e ineludible para autorizar la liberación de fondos de las Capas A, B y C de las Acciones Soberanas.
 
-b)  **Capa Biométrica (El Vínculo):** La activación del chip requiere la concurrencia de la biometría fáctica del titular. El PCSC es personalísimo e intransferible; el intento de clonación o manipulación del hardware se tipifica como **Falsificación de Identidad Nacional**.
+    b)  **Capa Biométrica (El Vínculo):** La activación del chip requiere la concurrencia de la biometría fáctica del titular. El PCSC es personalísimo e intransferible; el intento de clonación o manipulación del hardware se tipifica como **Falsificación de Identidad Nacional**.
 
-c)  **Capa de Red (El RNS):** El PCSC es el nodo cliente del Registro Nacional Soberano. Cada interacción genera un registro inmutable en la blockchain nacional, garantizando que el ciudadano sea el único \"dueño de la llave\" de su vida económica y civil.
+    c)  **Capa de Red (El RNS):** El PCSC es el nodo cliente del Registro Nacional Soberano. Cada interacción genera un registro inmutable en la blockchain nacional, garantizando que el ciudadano sea el único \"dueño de la llave\" de su vida económica y civil.
 
 5\. Del Pasaporte Soberano Temporal para Extranjeros y el Protocolo de Interfaz de Invitado.
 
 La República garantiza la interoperabilidad de todo individuo que pise suelo nacional con el Registro Nacional Soberano (RNS). Los ciudadanos extranjeros que no posean estatus de residencia permanente accederán al sistema mediante el **PCSC-Temporal (PCSC-T)**:
 
-a)  **Activación Obligatoria por Aplicación:** Todo extranjero que ingrese al territorio nacional deberá activar en su dispositivo móvil o equivalente futuro la **App Soberana de Interfaz**. La validación inicial se realizará mediante el escaneo criptográfico del pasaporte de origen, generando una identidad nodal efímera en el RNS.
+    a)  **Activación Obligatoria por Aplicación:** Todo extranjero que ingrese al territorio nacional deberá activar en su dispositivo móvil o equivalente futuro la **App Soberana de Interfaz**. La validación inicial se realizará mediante el escaneo criptográfico del pasaporte de origen, generando una identidad nodal efímera en el RNS.
 
-b)  **Funcionalidad de la Interfaz:** El PCSC-T faculta al extranjero para:
+    b)  **Funcionalidad de la Interfaz:** El PCSC-T faculta al extranjero para:
 
-<!-- -->
+    <!-- -->
 
-i.  Realizar y recibir pagos en la Capa de Mercado (Divisas/Cripto).
+        i.  Realizar y recibir pagos en la Capa de Mercado (Divisas/Cripto).
 
-ii. Firmar contratos temporales de servicio, transporte y arrendamiento (Art. 53.4).
+        ii. Firmar contratos temporales de servicio, transporte y arrendamiento (Art. 53.4).
 
-iii. Acceder al sistema de salud y emergencias (Art. 20.9.d).
+        iii. Acceder al sistema de salud y emergencias (Art. 20.9.d).
 
-iv. Recibir notificaciones del Tribunal de Arbitraje Técnico (TAT) en caso de conflicto.
+        iv. Recibir notificaciones del Tribunal de Arbitraje Técnico (TAT) en caso de conflicto.
 
-<!-- -->
+    <!-- -->
 
-c)  **Seguridad y Límites Operativos:** Dado que el PCSC-T reside en un hardware no soberano (el teléfono del extranjero), el sistema aplicará **Límites de Fricción de Seguridad**. Las transacciones que excedan el umbral técnico definido por el TAT requerirán una validación multifactor o la concurrencia de un Ciudadano Soberano con PCSC físico.
+    c)  **Seguridad y Límites Operativos:** Dado que el PCSC-T reside en un hardware no soberano (el teléfono del extranjero), el sistema aplicará **Límites de Fricción de Seguridad**. Las transacciones que excedan el umbral técnico definido por el TAT requerirán una validación multifactor o la concurrencia de un Ciudadano Soberano con PCSC físico.
 
-d)  **Transmutación a Residencia:** Si el extranjero opta por el estatus de residente laboral o inversor (Art. 20.4 y 20.16), el RNS emitirá, previa auditoría de cumplimiento, el **Dispositivo PCSC Físico de Hardware**, elevando sus privilegios de seguridad y eliminando las restricciones de interfaz.
+    d)  **Transmutación a Residencia:** Si el extranjero opta por el estatus de residente laboral o inversor (Art. 20.4 y 20.16), el RNS emitirá, previa auditoría de cumplimiento, el **Dispositivo PCSC Físico de Hardware**, elevando sus privilegios de seguridad y eliminando las restricciones de interfaz.
 
-e)  De la Interfaz de Instrucción y el Derecho a la Orientación Fáctica: La República garantiza que ningún extranjero sufra indefensión por desconocimiento de las normativas técnicas o administrativas del país.
+    e)  De la Interfaz de Instrucción y el Derecho a la Orientación Fáctica: La República garantiza que ningún extranjero sufra indefensión por desconocimiento de las normativas técnicas o administrativas del país.
 
-<!-- -->
+    <!-- -->
 
-i.  Manual de Instrucciones Integrado: El Pasaporte de Ciudadanía Soberana Temporal (PCSC-T), independientemente del dispositivo o interfaz de acceso que lo soporte, contará obligatoriamente con un Módulo de Navegación Institucional.
+        i.  Manual de Instrucciones Integrado: El Pasaporte de Ciudadanía Soberana Temporal (PCSC-T), independientemente del dispositivo o interfaz de acceso que lo soporte, contará obligatoriamente con un Módulo de Navegación Institucional.
 
-ii. Contenido de la Interfaz: Al activarse el estatus de invitado, el dispositivo pondrá a disposición del titular, de forma automática y en su idioma de origen:
+        ii. Contenido de la Interfaz: Al activarse el estatus de invitado, el dispositivo pondrá a disposición del titular, de forma automática y en su idioma de origen:
 
-<!-- -->
+            <!-- -->
 
-A.  El mapa actualizado de los trámites lícitos y prohibidos.
+            A.  El mapa actualizado de los trámites lícitos y prohibidos.
 
-B.  La ubicación y protocolos de contacto con los Facilitadores de Garantías Soberanas (Art. 88.10.e).
+            B.  La ubicación y protocolos de contacto con los Facilitadores de Garantías Soberanas (Art. 88.10.e).
 
-C.  El glosario de términos de la red nacional y los límites del Flat Tax.
+            C.  El glosario de términos de la red nacional y los límites del Flat Tax.
 
-D.  La normativa de convivencia específica del municipio donde se encuentre el dispositivo (Sincronización Geográfica).
+            D.  La normativa de convivencia específica del municipio donde se encuentre el dispositivo (Sincronización Geográfica).
 
-<!-- -->
+            <!-- -->
 
-iii. Obligatoriedad de información: La obligatoriedad de esta información recae sobre el software del Registro Nacional Soberano (RNS), el cual debe ser capaz de proyectar esta interfaz en cualquier tecnología de visualización presente o futura que cumpla los estándares de seguridad nacional.
+        iii. Obligatoriedad de información: La obligatoriedad de esta información recae sobre el software del Registro Nacional Soberano (RNS), el cual debe ser capaz de proyectar esta interfaz en cualquier tecnología de visualización presente o futura que cumpla los estándares de seguridad nacional.
 
-<!-- -->
+    <!-- -->
 
-f)  De la Notificación Fehaciente y la Extinción de la Excusa de Ignorancia: El acceso de extranjeros al territorio nacional bajo el PCSC-Temporal implica la aceptación de la Jurisdicción Civil Única (Art. 149).
+    f)  De la Notificación Fehaciente y la Extinción de la Excusa de Ignorancia: El acceso de extranjeros al territorio nacional bajo el PCSC-Temporal implica la aceptación de la Jurisdicción Civil Única (Art. 149).
 
-<!-- -->
+        <!-- -->
 
-i.  Protocolo de Aceptación de Términos: Al activar la App Soberana de Interfaz, el sistema obligará al extranjero a realizar un recorrido por las Normas Críticas de Convivencia y Fiscalidad.
+        i.  Protocolo de Aceptación de Términos: Al activar la App Soberana de Interfaz, el sistema obligará al extranjero a realizar un recorrido por las Normas Críticas de Convivencia y Fiscalidad.
 
-ii. Sello de Lectura fáctica: El RNS registrará un Log de Instrucción vinculado a la biometría del extranjero. Este log constituye la prueba jurídica de que la información fue entregada y visualizada en el idioma del usuario.
+        ii. Sello de Lectura fáctica: El RNS registrará un Log de Instrucción vinculado a la biometría del extranjero. Este log constituye la prueba jurídica de que la información fue entregada y visualizada en el idioma del usuario.
 
-iii. Validez de la Sanción: Una vez que el dispositivo registra la visualización del manual de instrucciones (Art. 17.5.e.i), el extranjero queda legalmente sujeto a la Presunción de Conocimiento Total. A partir de ese instante, la \"ignorancia de la ley\" queda anulada como argumento de defensa ante el TAT o los Tribunales Municipales.
+        iii. Validez de la Sanción: Una vez que el dispositivo registra la visualización del manual de instrucciones (Art. 17.5.e.i), el extranjero queda legalmente sujeto a la Presunción de Conocimiento Total. A partir de ese instante, la \"ignorancia de la ley\" queda anulada como argumento de defensa ante el TAT o los Tribunales Municipales.
 
-iv. Actualización Geográfica: Si el extranjero se desplaza a un municipio con ordenanzas especiales, el dispositivo emitirá una Notificación Push de Legalidad Local. El ignorar la notificación se tipificará como Negligencia Táctica en caso de que la persona infrinja la ley en dicho sitio.
+        iv. Actualización Geográfica: Si el extranjero se desplaza a un municipio con ordenanzas especiales, el dispositivo emitirá una Notificación Push de Legalidad Local. El ignorar la notificación se tipificará como Negligencia Táctica en caso de que la persona infrinja la ley en dicho sitio.
 
 ------------------------------------------------------------------------
 
@@ -850,9 +850,9 @@ iv. Actualización Geográfica: Si el extranjero se desplaza a un municipio con 
 
 4\. **El Derecho de Reintegración Soberana (Postliminii):** Todo ciudadano cubano que, habiendo sido privado de su posesión material por razones de exilio forzoso o persecución política bajo el régimen anterior, retorne a la República, tendrá derecho a la Restitucionalidad Integral de Estatus.
 
-a)  El RNS reconocerá su tiempo fuera del territorio como "Servicio en la Diáspora", otorgándole la antigüedad necesaria para el ejercicio de derechos políticos de forma inmediata.
+    a)  El RNS reconocerá su tiempo fuera del territorio como "Servicio en la Diáspora", otorgándole la antigüedad necesaria para el ejercicio de derechos políticos de forma inmediata.
 
-b)  Las Acciones Soberanas (AS) acumuladas por su linaje le serán entregadas con carácter retroactivo desde el momento de la digitalización del padrón.
+    b)  Las Acciones Soberanas (AS) acumuladas por su linaje le serán entregadas con carácter retroactivo desde el momento de la digitalización del padrón.
 
 ------------------------------------------------------------------------
 
@@ -862,26 +862,26 @@ b)  Las Acciones Soberanas (AS) acumuladas por su linaje le serán entregadas co
 
 2\. Habilitación para Cargos Públicos: Se crea el CCC como requisito habilitante para todo cargo público. La inhabilitación y/o Destitución Automática será resultado exclusivamente de una sentencia judicial firme que pruebe:
 
-a)  La participación directa en órganos de represión o dirección del régimen totalitario anterior.
+    a)  La participación directa en órganos de represión o dirección del régimen totalitario anterior.
 
-b)  La promoción activa de sistemas teocráticos o totalitarios que propugnen la abolición de esta Constitución tras asumir el cargo.
+    b)  La promoción activa de sistemas teocráticos o totalitarios que propugnen la abolición de esta Constitución tras asumir el cargo.
 
-c)  El perjurio demostrado en el proceso de certificación.
+    c)  El perjurio demostrado en el proceso de certificación.
 
 La inhabilitación será Perpetua para la Alta Jerarquía definida en la Disposición Transitoria Sexta y la Disposición temporal (según determine la ley) para el resto de los casos.
 
 3\. Del Protocolo de Asimilación y la Adhesión al Ethos Soberano.\
 La naturalización no es un proceso administrativo de tiempo, sino un acto de Transformación Civil. Para obtener la nacionalidad por adopción, el solicitante deberá superar el Examen de Idoneidad Republicana, administrado por el Senado Técnico de Rectores, que verificará:
 
-a)  Dominio de la Lengua y la Historia: No como ejercicio nostálgico, sino como herramienta de integración en el Registro Nacional Soberano y comprensión de las causas de la decadencia colectivista.
+    a)  Dominio de la Lengua y la Historia: No como ejercicio nostálgico, sino como herramienta de integración en el Registro Nacional Soberano y comprensión de las causas de la decadencia colectivista.
 
-b)  Demostración de Autosuficiencia: Haber operado de forma exitosa y sin infracciones en las Rampas de Redignificación o en el mercado libre nacional por un periodo mínimo de cinco (5) años, sin haber dependido del Fondo de Auxilio Mutuo.
+    b)  Demostración de Autosuficiencia: Haber operado de forma exitosa y sin infracciones en las Rampas de Redignificación o en el mercado libre nacional por un periodo mínimo de cinco (5) años, sin haber dependido del Fondo de Auxilio Mutuo.
 
-c)  El Rito de Adhesión Consciente y el Veto de Proximidad (Jurado Comunitario): La obtención de la nacionalidad cubana no es un trámite meramente burocrático; exige la asimilación real al Ethos de la Nación. La culminación del proceso será la prestación del Juramento del Ciudadano Soberano (al final del presente documento) ante la Asamblea Municipal. La violación posterior de este juramento mediante la promoción de ideologías colectivistas, teocráticas o contrarias a la soberanía individual, será causa de Revocación Inmediata de la Nacionalidad y expulsión del territorio, al considerarse un vicio de origen en el consentimiento del naturalizado.
+    c)  El Rito de Adhesión Consciente y el Veto de Proximidad (Jurado Comunitario): La obtención de la nacionalidad cubana no es un trámite meramente burocrático; exige la asimilación real al Ethos de la Nación. La culminación del proceso será la prestación del Juramento del Ciudadano Soberano (al final del presente documento) ante la Asamblea Municipal. La violación posterior de este juramento mediante la promoción de ideologías colectivistas, teocráticas o contrarias a la soberanía individual, será causa de Revocación Inmediata de la Nacionalidad y expulsión del territorio, al considerarse un vicio de origen en el consentimiento del naturalizado.
 
-    i.  Audiencia Pública de Naturalización: Previo al juramento, la solicitud del extranjero será publicada en la Capa Alfa del RNS del municipio donde reside.
+        i.  Audiencia Pública de Naturalización: Previo al juramento, la solicitud del extranjero será publicada en la Capa Alfa del RNS del municipio donde reside.
 
-    ii. Veto Vecinal: Se convocará a un Jurado de Proximidad compuesto por cincuenta (50) ciudadanos cubanos por nacimiento que residan en un radio de quinientos (500) metros del solicitante. Si el jurado, mediante mayoría simple, expone pruebas de incivilidad, desprecio por la cultura local, ruido, o comportamiento antisocial, la naturalización será vetada y suspendida por cinco (5) años. El Estado no impone a un nuevo "hermano" si la familia local lo rechaza.
+        ii. Veto Vecinal: Se convocará a un Jurado de Proximidad compuesto por cincuenta (50) ciudadanos cubanos por nacimiento que residan en un radio de quinientos (500) metros del solicitante. Si el jurado, mediante mayoría simple, expone pruebas de incivilidad, desprecio por la cultura local, ruido, o comportamiento antisocial, la naturalización será vetada y suspendida por cinco (5) años. El Estado no impone a un nuevo "hermano" si la familia local lo rechaza.
 
 4\. **De la Integración de la Diáspora en la Reconstrucción.**\
 La República reconoce a los hijos y nietos de la Diáspora como parte integrante de la Nación. El sistema facilitará su retorno y acceso a la función pública técnica, priorizando su linaje histórico sobre su estatus migratorio previo. El Registro Nacional Soberano (RNS) habilitará una **Capa de Validación de Ancestros** para simplificar la acreditación del linaje soberano sin necesidad de trámites burocráticos extranjeros.
@@ -897,147 +897,141 @@ La República reconoce a los hijos y nietos de la Diáspora como parte integrant
 **3. Del Freno Algorítmico de Sobrecarga Poblacional (El Cap Físico).**\
 La admisión de nuevos residentes extranjeros no está dictada por cuotas políticas, sino por la termodinámica del territorio.
 
-a)  **Sensor de Capacidad de Red:** Si el Tribunal de Arbitraje Técnico (TAT) certifica que el Índice de Estabilidad Vital (IEV) de un Municipio cae por debajo del ochenta y cinco por ciento (85%) (saturación de red eléctrica, estrés hídrico, ocupación hospitalaria o colapso de transporte), el Registro Nacional Soberano (RNS) **bloqueará automáticamente la emisión de nuevos permisos de residencia** para extranjeros en dicho nodo.
+    a)  **Sensor de Capacidad de Red:** Si el Tribunal de Arbitraje Técnico (TAT) certifica que el Índice de Estabilidad Vital (IEV) de un Municipio cae por debajo del ochenta y cinco por ciento (85%) (saturación de red eléctrica, estrés hídrico, ocupación hospitalaria o colapso de transporte), el Registro Nacional Soberano (RNS) **bloqueará automáticamente la emisión de nuevos permisos de residencia** para extranjeros en dicho nodo.
 
-b)  **Preferencia Soberana:** Durante el bloqueo, la poca infraestructura disponible se reserva exclusivamente para el crecimiento demográfico natural de los ciudadanos cubanos. El extranjero no puede competir por recursos en escasez contra el ciudadano originario.
+    b)  **Preferencia Soberana:** Durante el bloqueo, la poca infraestructura disponible se reserva exclusivamente para el crecimiento demográfico natural de los ciudadanos cubanos. El extranjero no puede competir por recursos en escasez contra el ciudadano originario.
 
 **4. Del Visado de Rendimiento y la Extinción por Inactividad.**\
 La residencia extranjera en la República no es un estatus vitalicio, es un Contrato de Productividad Continuada.
 
-a)  **Vinculación Fiscal Estricta:** Todo permiso de residencia laboral o de inversión está atado algorítmicamente a la declaración del Impuesto Único Proporcional (Flat Tax).
+    a)  **Vinculación Fiscal Estricta:** Todo permiso de residencia laboral o de inversión está atado algorítmicamente a la declaración del Impuesto Único Proporcional (Flat Tax).
 
-b)  **Reloj de Caducidad:** Si un residente extranjero (no nacionalizado) registra **ciento veinte (120) días continuos** sin generar utilidad gravable, sin contrato de trabajo vigente o sin demostrar autosuficiencia financiera mediante capital inyectado, el RNS anulará de pleno derecho su permiso de residencia, activando una orden de salida del país en 30 días. La residencia se extinguirá automáticamente tras ciento veinte (120) días continuos sin actividad económica generadora de ingresos.
+    b)  **Reloj de Caducidad:** Si un residente extranjero (no nacionalizado) registra **ciento veinte (120) días continuos** sin generar utilidad gravable, sin contrato de trabajo vigente o sin demostrar autosuficiencia financiera mediante capital inyectado, el RNS anulará de pleno derecho su permiso de residencia, activando una orden de salida del país en 30 días. La residencia se extinguirá automáticamente tras ciento veinte (120) días continuos sin actividad económica generadora de ingresos.
 
-c)  **De la Pausa Algorítmica por Fuerza Mayor (Cláusula de Crisis Severa):**\
-    El Reloj de Caducidad de ciento veinte (120) días para residentes extranjeros no es un instrumento ciego. Se suspenderá automáticamente el conteo, sin pérdida de estatus migratorio, cuando el Registro Nacional Soberano (RNS) reciba certificación médica, policial o técnica de una Crisis Personal Severa. Se definen como tales, de manera estricta:
+    c)  **De la Pausa Algorítmica por Fuerza Mayor (Cláusula de Crisis Severa):** El Reloj de Caducidad de ciento veinte (120) días para residentes extranjeros no es un instrumento ciego. Se suspenderá automáticamente el conteo, sin pérdida de estatus migratorio, cuando el Registro Nacional Soberano (RNS) reciba certificación médica, policial o técnica de una Crisis Personal Severa. Se definen como tales, de manera estricta:
 
-<!-- -->
+        <!-- -->
 
-i.  Enfermedad incapacitante o accidente grave del titular o de un dependiente directo.
+        i.  Enfermedad incapacitante o accidente grave del titular o de un dependiente directo.
 
-ii. Fallecimiento de un familiar de primer grado (activando la Pausa de Luto, Art. 151.5).
+        ii. Fallecimiento de un familiar de primer grado (activando la Pausa de Luto, Art. 151.5).
 
-iii. Pérdida total de vivienda o negocio por catástrofe natural o siniestro no imputable al titular.
+        iii. Pérdida total de vivienda o negocio por catástrofe natural o siniestro no imputable al titular.
 
-> Esta pausa se mantendrá vigente por el tiempo que el Tribunal de Arbitraje Técnico (TAT) o la autoridad médica certifiquen la incapacidad física o el duelo, reanudándose el conteo de los 120 días solo cuando el individuo recupere su capacidad fáctica para operar en el mercado.
+    > Esta pausa se mantendrá vigente por el tiempo que el Tribunal de Arbitraje Técnico (TAT) o la autoridad médica certifiquen la incapacidad física o el duelo, reanudándose el conteo de los 120 días solo cuando el individuo recupere su capacidad fáctica para operar en el mercado.
 
-d)  **Del Veto por Autolesión y Fraude de Vulnerabilidad (La Cláusula Anti-Mutilación):**\
-    Queda terminantemente excluida del amparo de Fuerza Mayor (inciso anterior) cualquier crisis severa que haya sido provocada de manera dolosa por el propio individuo.\
-    Si el TAT o el Cuerpo de Investigación (CICM) determinan que el residente extranjero **se ha autolesionado (mutilación física, amputación deliberada por desesperación), ha incendiado su propia propiedad, o ha escenificado un accidente** con el fin de evadir el reloj de caducidad o acceder a fondos de emergencia, la protección se anula de pleno derecho. El acto de dañar el propio vehículo biológico o patrimonio para defraudar a la Nación se tipifica como **Sabotaje Migratorio**, reactivando inmediatamente la deportación y ejecutando la incautación de bienes para resarcir los gastos médicos y logísticos incurridos por el Estado.
+    d)  **Del Veto por Autolesión y Fraude de Vulnerabilidad (La Cláusula Anti-Mutilación):**\
+        Queda terminantemente excluida del amparo de Fuerza Mayor (inciso anterior) cualquier crisis severa que haya sido provocada de manera dolosa por el propio individuo.\
+        Si el TAT o el Cuerpo de Investigación (CICM) determinan que el residente extranjero **se ha autolesionado (mutilación física, amputación deliberada por desesperación), ha incendiado su propia propiedad, o ha escenificado un accidente** con el fin de evadir el reloj de caducidad o acceder a fondos de emergencia, la protección se anula de pleno derecho. El acto de dañar el propio vehículo biológico o patrimonio para defraudar a la Nación se tipifica como **Sabotaje Migratorio**, reactivando inmediatamente la deportación y ejecutando la incautación de bienes para resarcir los gastos médicos y logísticos incurridos por el Estado.
 
 **5. Incompatibilidad Absoluta con el Auxilio Público.**\
 Se prohíbe el turismo de bienestar.
 
-a)  El acceso al Fondo Municipal de Auxilio Mutuo, Vouchers de Emergencia no vitales o cualquier red de caridad financiada por el contribuyente cubano, está **estrictamente vedado** para residentes extranjeros.
+    a)  El acceso al Fondo Municipal de Auxilio Mutuo, Vouchers de Emergencia no vitales o cualquier red de caridad financiada por el contribuyente cubano, está **estrictamente vedado** para residentes extranjeros.
 
-b)  **Deportación Automática:** Si un residente extranjero solicita formalmente asistencia económica al Estado para su manutención básica, dicho acto constituye prueba plena de insolvencia y ruptura del Contrato de Productividad (Art 20.4). El RNS revocará instantáneamente su residencia y procederá a su deportación.
+    b)  **Deportación Automática:** Si un residente extranjero solicita formalmente asistencia económica al Estado para su manutención básica, dicho acto constituye prueba plena de insolvencia y ruptura del Contrato de Productividad (Art 20.4). El RNS revocará instantáneamente su residencia y procederá a su deportación.
 
 **6. Doctrina de Tolerancia Cero al Gangsterismo Extranjero.**\
 Para evitar la formación de redes criminales transnacionales o \"sociedades paralelas\" violentas:
 
-a)  Cualquier residente extranjero que sea identificado por el Cuerpo Nacional de Seguridad (CNSPOC) o el RNS participando en actos de pandillerismo, extorsión, motines públicos violentos o porte ilegal de armas, **pierde el derecho al debido proceso ordinario de apelación civil**.
+    a)  Cualquier residente extranjero que sea identificado por el Cuerpo Nacional de Seguridad (CNSPOC) o el RNS participando en actos de pandillerismo, extorsión, motines públicos violentos o porte ilegal de armas, **pierde el derecho al debido proceso ordinario de apelación civil**.
 
-b)  Su estatus migratorio será cancelado en flagrancia y será expulsado del territorio nacional en un plazo no mayor a setenta y dos (72) horas, previa confiscación de todos sus bienes y cuentas para cubrir los costos de su propia deportación y el daño causado.
+    b)  Su estatus migratorio será cancelado en flagrancia y será expulsado del territorio nacional en un plazo no mayor a setenta y dos (72) horas, previa confiscación de todos sus bienes y cuentas para cubrir los costos de su propia deportación y el daño causado.
 
 **7. Condición de Neutralidad del Residente Extranjero:**\
 El extranjero residente en Cuba es un invitado bajo el Contrato de Productividad (Art. 20.4).
 
-a)  Queda **estrictamente prohibida** la participación de residentes extranjeros, turistas o asilados en manifestaciones políticas, organización de movimientos de masas o activismo financiado que altere el orden público de la República.
+    a)  Queda **estrictamente prohibida** la participación de residentes extranjeros, turistas o asilados en manifestaciones políticas, organización de movimientos de masas o activismo financiado que altere el orden público de la República.
 
-b)  La violación de esta norma no requiere un juicio penal largo; es una ruptura del contrato migratorio que activa la **Deportación Expedita (72 horas)** y la incautación de fianzas.
+    b)  La violación de esta norma no requiere un juicio penal largo; es una ruptura del contrato migratorio que activa la **Deportación Expedita (72 horas)** y la incautación de fianzas.
 
 8\. **Del Tratado de Reciprocidad en Justicia Civil y Devolución de Activos.**\
 La República de Cuba propondrá a la comunidad internacional la firma de \"Tratados de Transparencia Nodal\".
 
-a)  **La Doctrina de la \"Mano Tendida\":** Cuba ofrecerá a los gobiernos extranjeros acceso a su tecnología de rastreo de estafas (RNS) a cambio de la colaboración en la captura de criminales que usen sus territorios para atacar a ciudadanos cubanos.
+    a)  **La Doctrina de la \"Mano Tendida\":** Cuba ofrecerá a los gobiernos extranjeros acceso a su tecnología de rastreo de estafas (RNS) a cambio de la colaboración en la captura de criminales que usen sus territorios para atacar a ciudadanos cubanos.
 
-b)  **El Principio de \"Costo de Captura\":** En caso de estafas internacionales, Cuba propondrá que el país que realice el arresto efectivo pueda retener un porcentaje técnico (ej. 5%) de los fondos recuperados para cubrir sus costos operativos, garantizando que la justicia sea económicamente sostenible para ambas naciones.
+    b)  **El Principio de \"Costo de Captura\":** En caso de estafas internacionales, Cuba propondrá que el país que realice el arresto efectivo pueda retener un porcentaje técnico (ej. 5%) de los fondos recuperados para cubrir sus costos operativos, garantizando que la justicia sea económicamente sostenible para ambas naciones.
 
-c)  **Protección contra el Imperialismo Jurídico:** Cuba reconoce la soberanía absoluta de cada Nación sobre su suelo. El BJT no podrá iniciar investigaciones en países que no hayan firmado Tratados de Reciprocidad, limitándose en esos casos a emitir alertas de riesgo a los ciudadanos para que no operen financieramente con dichos nodos de opacidad.
+    c)  **Protección contra el Imperialismo Jurídico:** Cuba reconoce la soberanía absoluta de cada Nación sobre su suelo. El BJT no podrá iniciar investigaciones en países que no hayan firmado Tratados de Reciprocidad, limitándose en esos casos a emitir alertas de riesgo a los ciudadanos para que no operen financieramente con dichos nodos de opacidad.
 
 9\. **Del Estatus Derivado de la Infancia Migrante, la Proporcionalidad de Servicios y la Unidad de Retorno.** La República reconoce la Soberanía de la Familia (Art. 59) como un principio universal que aplica tanto a nacionales como a extranjeros. Para garantizar la protección de los menores dependientes de ciudadanos extranjeros residentes, sin que esto constituya una carga parasitaria para el erario público ni un vacío legal de permanencia, se establece el **Protocolo de Accesoriedad Migratoria**:
 
-a)  **Principio de Estatus Derivado:** Los menores de edad de nacionalidad extranjera que ingresen o residan en la República al amparo de sus progenitores o tutores legales poseerán una **Visa de Dependencia Biológica**. Estos menores quedan exentos del mandato de autosuficiencia y del \"Reloj de Caducidad por Inactividad\" de 120 días (Art. 20.4.b). Su estatus de legalidad está vinculado algorítmicamente y en tiempo real a la vigencia del Contrato de Productividad del titular principal (el progenitor).
+    a)  **Principio de Estatus Derivado:** Los menores de edad de nacionalidad extranjera que ingresen o residan en la República al amparo de sus progenitores o tutores legales poseerán una **Visa de Dependencia Biológica**. Estos menores quedan exentos del mandato de autosuficiencia y del \"Reloj de Caducidad por Inactividad\" de 120 días (Art. 20.4.b). Su estatus de legalidad está vinculado algorítmicamente y en tiempo real a la vigencia del Contrato de Productividad del titular principal (el progenitor).
 
-b)  **Voucher Educativo y Sanitario por Aporte (Circuito Cerrado):** Los menores extranjeros tendrán garantizado el acceso al sistema educativo y de salud de la República. Sin embargo, en estricta aplicación de la prohibición de subsidio asimétrico (Art. 20.5), el financiamiento de sus Vouchers de Libertad (Educación y Salud) **provendrá directa y proporcionalmente del hecho ineludible del pago del Impuesto Único (Flat Tax) abonado por sus progenitores**. El extranjero financia la integración de su propia descendencia mediante su productividad activa registrada en el RNS.
+    b)  **Voucher Educativo y Sanitario por Aporte (Circuito Cerrado):** Los menores extranjeros tendrán garantizado el acceso al sistema educativo y de salud de la República. Sin embargo, en estricta aplicación de la prohibición de subsidio asimétrico (Art. 20.5), el financiamiento de sus Vouchers de Libertad (Educación y Salud) **provendrá directa y proporcionalmente del hecho ineludible del pago del Impuesto Único (Flat Tax) abonado por sus progenitores**. El extranjero financia la integración de su propia descendencia mediante su productividad activa registrada en el RNS.
 
-c)  **Unidad de Retorno Indivisible (Anti-Separación):** En caso de que el progenitor titular incurra en insolvencia, cometa un delito que active la Deportación Automática (Art. 20.6), o vea extinguida su residencia por inactividad, la Visa de Dependencia Biológica del menor caducará de pleno derecho en el mismo instante. **El Estado cubano procederá a la expulsión expedita de la unidad familiar completa.** Queda constitucionalmente prohibida la separación de menores extranjeros de sus padres con el fin de retenerlos como \"pupilos del Estado\", así como la utilización del menor como \"ancla legal\" para detener la deportación de un adulto insolvente o infractor.
+    c)  **Unidad de Retorno Indivisible (Anti-Separación):** En caso de que el progenitor titular incurra en insolvencia, cometa un delito que active la Deportación Automática (Art. 20.6), o vea extinguida su residencia por inactividad, la Visa de Dependencia Biológica del menor caducará de pleno derecho en el mismo instante. **El Estado cubano procederá a la expulsión expedita de la unidad familiar completa.** Queda constitucionalmente prohibida la separación de menores extranjeros de sus padres con el fin de retenerlos como \"pupilos del Estado\", así como la utilización del menor como \"ancla legal\" para detener la deportación de un adulto insolvente o infractor.
 
-d)  **Escudo Biológico de Tránsito:** Si durante el proceso de deportación o tránsito hacia la salida del país, el menor extranjero se encontrara en estado de vulnerabilidad extrema o emergencia médica, el Estado activará el **Voucher de Supervivencia Limitado** (Art. 20.15.b) con cargo al Fondo Catastrófico Nacional, garantizando exclusivamente el triage médico y la nutrición básica para preservar su vida hasta el abandono del territorio, priorizando la humanidad sin comprometer la soberanía.
+    d)  **Escudo Biológico de Tránsito:** Si durante el proceso de deportación o tránsito hacia la salida del país, el menor extranjero se encontrara en estado de vulnerabilidad extrema o emergencia médica, el Estado activará el **Voucher de Supervivencia Limitado** (Art. 20.15.b) con cargo al Fondo Catastrófico Nacional, garantizando exclusivamente el triage médico y la nutrición básica para preservar su vida hasta el abandono del territorio, priorizando la humanidad sin comprometer la soberanía.
 
-e)  **Del Conflicto de Insolvencia, la Escalera de Empleo y el Principio de No Devolución.** Si un Refugiado Político o Asilado Humanitario Certificado agota el Reloj de 120 días por inactividad económica, el Estado procederá bajo el mandato inquebrantable de No Devolución (Anti-Refoulement) a su país de origen persecutor, aplicando en su lugar la **Escalera de Inserción Obligatoria** en el siguiente orden secuencial:
+    e)  **Del Conflicto de Insolvencia, la Escalera de Empleo y el Principio de No Devolución.** Si un Refugiado Político o Asilado Humanitario Certificado agota el Reloj de 120 días por inactividad económica, el Estado procederá bajo el mandato inquebrantable de No Devolución (Anti-Refoulement) a su país de origen persecutor, aplicando en su lugar la **Escalera de Inserción Obligatoria** en el siguiente orden secuencial:
 
-<!-- -->
+        <!-- -->
 
-i.  **Fase 1: La Oferta Estatal Directa (Bolsa de Empleo Soberana):** Antes de aplicar medidas de contingencia, el Municipio de residencia, a través del RNS, presentará al refugiado una terna (mínimo de tres) ofertas de empleo reales disponibles en el mercado laboral local, Consorcios de Propósito Único (CPU) o SACAs. El Estado actúa como enrutador laboral.
+        i.  **Fase 1: La Oferta Estatal Directa (Bolsa de Empleo Soberana):** Antes de aplicar medidas de contingencia, el Municipio de residencia, a través del RNS, presentará al refugiado una terna (mínimo de tres) ofertas de empleo reales disponibles en el mercado laboral local, Consorcios de Propósito Único (CPU) o SACAs. El Estado actúa como enrutador laboral.
 
-ii. **Fase 2: Ingreso a las Rampas de Redignificación (Art. 151):** Si el refugiado rechaza las ofertas del mercado regular por no ser de su agrado, o si fracasa en la retención del empleo ordinario, el Estado le ofrecerá el ingreso voluntario a las Rampas de Redignificación (labores manuales, mantenimiento cívico, agricultura básica de proximidad).
+        ii. **Fase 2: Ingreso a las Rampas de Redignificación (Art. 151):** Si el refugiado rechaza las ofertas del mercado regular por no ser de su agrado, o si fracasa en la retención del empleo ordinario, el Estado le ofrecerá el ingreso voluntario a las Rampas de Redignificación (labores manuales, mantenimiento cívico, agricultura básica de proximidad).
 
-iii. **Fase 3: Servicio Cívico de Contingencia (El Último Recurso):** Solo si el refugiado **rechaza todas las opciones anteriores o se niega injustificadamente a trabajar** en las Rampas de Redignificación, entonces, y solo entonces, el Estado activará el Protocolo de Contingencia Extrema. El refugiado será trasladado a instalaciones de albergue supervisado, donde se le garantizará exclusivamente la ración calórica vital (Capa A) a cambio del mantenimiento de dicha instalación, hasta que la Cancillería logre su reubicación definitiva en un Tercer País Seguro. El asilo protege la vida contra el tirano externo, pero no subsidia la inacción voluntaria frente al pueblo que lo acoge.
+        iii. **Fase 3: Servicio Cívico de Contingencia (El Último Recurso):** Solo si el refugiado **rechaza todas las opciones anteriores o se niega injustificadamente a trabajar** en las Rampas de Redignificación, entonces, y solo entonces, el Estado activará el Protocolo de Contingencia Extrema. El refugiado será trasladado a instalaciones de albergue supervisado, donde se le garantizará exclusivamente la ración calórica vital (Capa A) a cambio del mantenimiento de dicha instalación, hasta que la Cancillería logre su reubicación definitiva en un Tercer País Seguro. El asilo protege la vida contra el tirano externo, pero no subsidia la inacción voluntaria frente al pueblo que lo acoge.
 
-<!-- -->
+        <!-- -->
 
-f)  **Protocolo de Enrutamiento de Santuario e Involuntariedad de Retorno (Anti-Refoulement).** La República establece la primacía irrefutable del derecho a la vida sobre el cumplimiento de los contratos de productividad migratoria. Si un ciudadano extranjero amparado bajo el estatus de **Refugiado Político o Asilado Humanitario Certificado** incurre en el agotamiento del Reloj de Caducidad de ciento veinte (120) días por inactividad económica (Art. 20.4), y la activación de la Fase 3 del inciso anterior, el Registro Nacional Soberano (RNS) activará el **Protocolo de Enrutamiento de Santuario**:
+    f)  **Protocolo de Enrutamiento de Santuario e Involuntariedad de Retorno (Anti-Refoulement).** La República establece la primacía irrefutable del derecho a la vida sobre el cumplimiento de los contratos de productividad migratoria. Si un ciudadano extranjero amparado bajo el estatus de **Refugiado Político o Asilado Humanitario Certificado** incurre en el agotamiento del Reloj de Caducidad de ciento veinte (120) días por inactividad económica (Art. 20.4), y la activación de la Fase 3 del inciso anterior, el Registro Nacional Soberano (RNS) activará el **Protocolo de Enrutamiento de Santuario**:
 
-    i.  **Del Protocolo de Enrutamiento Individualizado y Proscripción de la Expulsión Colectiva.**
+        i.  **Del Protocolo de Enrutamiento Individualizado y Proscripción de la Expulsión Colectiva:** La República de Cuba proscribe y declara como **Acto de Barbaría Administrativa** la deportación masiva o colectiva de ciudadanos extranjeros. Para garantizar la justicia del dato sobre el drama de la masa, se establece:
 
-> La República de Cuba proscribe y declara como **Acto de Barbaría Administrativa** la deportación masiva o colectiva de ciudadanos extranjeros. Para garantizar la justicia del dato sobre el drama de la masa, se establece:
+            A.  **Proscripción de la Expulsión en Masa:**Queda terminantemente prohibida la ejecución de órdenes de deportación, salida obligatoria o repatriación que afecten a grupos de personas sin una previa sentencia judicial o técnica **individualizada**.
 
-A.  **Proscripción de la Expulsión en Masa:**\
-    Queda terminantemente prohibida la ejecución de órdenes de deportación, salida obligatoria o repatriación que afecten a grupos de personas sin una previa sentencia judicial o técnica **individualizada**.
+            <!-- -->
 
-<!-- -->
+                (A) El sistema RNS bloqueará automáticamente cualquier intento de procesar \"salidas por lotes\".
 
-(A) El sistema RNS bloqueará automáticamente cualquier intento de procesar \"salidas por lotes\".
+                (B) Cada individuo o unidad familiar (Art. 20.9) debe poseer un expediente único con telemetría de su conducta, productividad y nivel de riesgo. La expulsión de un inocente junto a un infractor bajo una \"medida general\" se tipifica como **Delito de Perversión de la Justicia**.
 
-(B) Cada individuo o unidad familiar (Art. 20.9) debe poseer un expediente único con telemetría de su conducta, productividad y nivel de riesgo. La expulsión de un inocente junto a un infractor bajo una \"medida general\" se tipifica como **Delito de Perversión de la Justicia**.
+            B.  **El Deber de Enrutamiento Alternativo (La Cláusula de Salida Justa):**\
+            Si el Tribunal de Arbitraje Técnico (TAT) determina que un extranjero no cumple con los requisitos de permanencia (Art. 20.4) pero su devolución al punto de origen implica un riesgo biológico o político (Art. 20.9.e.i), el Estado cubano tiene la **obligación de proponer alternativas**:
 
-    A.  **El Deber de Enrutamiento Alternativo (La Cláusula de Salida Justa):**\
-        Si el Tribunal de Arbitraje Técnico (TAT) determina que un extranjero no cumple con los requisitos de permanencia (Art. 20.4) pero su devolución al punto de origen implica un riesgo biológico o político (Art. 20.9.e.i), el Estado cubano tiene la **obligación de proponer alternativas**:
+            <!-- -->
 
-<!-- -->
+                (A) **Búsqueda de Nodo Seguro:** Antes de ejecutar el abandono del territorio, la Cancillería y el RNS ofrecerán al individuo un listado de Jurisdicciones **de Tercer Destino** (países con tratados de reciprocidad o zonas internacionales) que estén dispuestos a recibirlo.
 
-(A) **Búsqueda de Nodo Seguro:** Antes de ejecutar el abandono del territorio, la Cancillería y el RNS ofrecerán al individuo un listado de Jurisdicciones **de Tercer Destino** (países con tratados de reciprocidad o zonas internacionales) que estén dispuestos a recibirlo.
+                (B) **Libertad de Tránsito de Salida:** El individuo tiene el derecho de elegir su punto de salida. El Estado no puede imponer el punto de origen (Cuba, en el caso de los que huyen) como destino forzoso si el ciudadano cuenta con medios o visas para un tercer país.
 
-(B) **Libertad de Tránsito de Salida:** El individuo tiene el derecho de elegir su punto de salida. El Estado no puede imponer el punto de origen (Cuba, en el caso de los que huyen) como destino forzoso si el ciudadano cuenta con medios o visas para un tercer país.
+                (C) **Del Financiamiento del Enrutamiento de Salida:** Si el individuo carece de los medios económicos para costear su traslado hacia una jurisdicción de tercer destino seguro, la República activará el **Protocolo de Salida Asistida**, bajo las siguientes opciones excluyentes:
 
-(C) **Del Financiamiento del Enrutamiento de Salida.**\
-    Si el individuo carece de los medios económicos para costear su traslado hacia una jurisdicción de tercer destino seguro, la República activará el **Protocolo de Salida Asistida**, bajo las siguientes opciones excluyentes:
+                    <!-- -->
 
-<!-- -->
+                    I.  **Opción de Labor de Pasaje (Trabajo por Ticket):** Se le ofrecerá al individuo la posibilidad de integrarse voluntariamente en una Rampa de Redignificación (Art. 151) por un periodo breve y determinado (de preferencia no superior a 30 días). El salario generado se acreditará íntegramente y de forma prioritaria para la compra del boleto de transporte y una ración de viaje. Cumplida la meta financiera, la salida se ejecuta inmediatamente.
 
-I.  **Opción de Labor de Pasaje (Trabajo por Ticket):** Se le ofrecerá al individuo la posibilidad de integrarse voluntariamente en una Rampa de Redignificación (Art. 151) por un periodo breve y determinado (de preferencia no superior a 30 días). El salario generado se acreditará íntegramente y de forma prioritaria para la compra del boleto de transporte y una ración de viaje. Cumplida la meta financiera, la salida se ejecuta inmediatamente.
+                    II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el Registro Nacional Soberano, conforme a las previsiones del Artículo 20, Inciso 15.a y el Artículo 25, Inciso 5.
 
-II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el Registro Nacional Soberano, conforme a las previsiones del Artículo 20, Inciso 15.a y el Artículo 25, Inciso 5.
+                    III. **Asunción de Pérdida Sistémica (El Préstamo de Gracia):** En casos de urgencia médica o política donde la salida no pueda esperar, el Fondo Catastrófico Nacional adelantará el costo del viaje. Esta suma quedará registrada en el historial del PCSC-Temporal del extranjero como una **Deuda Pendiente con la República**.
 
-III. **Asunción de Pérdida Sistémica (El Préstamo de Gracia):** En casos de urgencia médica o política donde la salida no pueda esperar, el Fondo Catastrófico Nacional adelantará el costo del viaje. Esta suma quedará registrada en el historial del PCSC-Temporal del extranjero como una **Deuda Pendiente con la República**.
+                        - Esta deuda no impedirá su salida.
 
-     - Esta deuda no impedirá su salida.
+                        - Sin embargo, actuará como un **Bloqueo de Reingreso y de Transacción**: el individuo no podrá volver a entrar a la República, ni contratar con SACAs o empresas cubanas en el extranjero, hasta que la deuda sea liquidada a valor presente.
 
-     - Sin embargo, actuará como un **Bloqueo de Reingreso y de Transacción**: el individuo no podrá volver a entrar a la República, ni contratar con SACAs o empresas cubanas en el extranjero, hasta que la deuda sea liquidada a valor presente.
+                            A.  **El Derecho a la Última Instancia Humana:** Ninguna deportación podrá ser ejecutada por un algoritmo ciego. Todo proceso de salida obligatoria debe contar con la validación de un **Facilitador de Garantías Soberanas (Art.  88.10.e)**, quien certificará que se han agotado las ofertas de empleo (Art. 20.9.e.i) y que no existe riesgo de muerte en el destino elegido.
 
-       A.  **El Derecho a la Última Instancia Humana:**\
-           Ninguna deportación podrá ser ejecutada por un algoritmo ciego. Todo proceso de salida obligatoria debe contar con la validación de un **Facilitador de Garantías Soberanas (Art.  88.10.e)**, quien certificará que se han agotado las ofertas de empleo (Art. 20.9.e.i) y que no existe riesgo de muerte en el destino elegido.
+                        i.  **Reubicación en Tercer País Seguro:** La Cancillería de la República, en coordinación con el Tribunal de Arbitraje Técnico (TAT) y organismos internacionales, dispondrá de un plazo de gracia para gestionar la reubicación voluntaria o asistida del refugiado hacia una jurisdicción neutral y segura que esté dispuesta a recibirlo.
 
-     i.  **Reubicación en Tercer País Seguro:** La Cancillería de la República, en coordinación con el Tribunal de Arbitraje Técnico (TAT) y organismos internacionales, dispondrá de un plazo de gracia para gestionar la reubicación voluntaria o asistida del refugiado hacia una jurisdicción neutral y segura que esté dispuesta a recibirlo.
+                        ii. **El Escudo de Supervivencia por Contraprestación (El Limbo Soberano):** Si la reubicación internacional resultase fáctica o diplomáticamente imposible, el Estado no abandonará al refugiado a la inanición ni le otorgará subsidios líquidos extraídos del erario público. El refugiado y su núcleo familiar serán transferidos a la jurisdicción de **Servicio Cívico de Contingencia**:
 
-     ii. **El Escudo de Supervivencia por Contraprestación (El Limbo Soberano):** Si la reubicación internacional resultase fáctica o diplomáticamente imposible, el Estado no abandonará al refugiado a la inanición ni le otorgará subsidios líquidos extraídos del erario público. El refugiado y su núcleo familiar serán transferidos a la jurisdicción de **Servicio Cívico de Contingencia**:
+                            A.  El Estado, a través del Fondo Catastrófico Nacional, proveerá albergue de seguridad en instalaciones bajo supervisión de los Alguaciles, garantizando la ración calórica vital (Capa A) y la educación de los menores en la red de Vouchers de Gracia (Art. 60).
 
-         A.  El Estado, a través del Fondo Catastrófico Nacional, proveerá albergue de seguridad en instalaciones bajo supervisión de los Alguaciles, garantizando la ración calórica vital (Capa A) y la educación de los menores en la red de Vouchers de Gracia (Art. 60).
+                            B.  Como contraprestación ineludible por este escudo de vida, los adultos de la unidad familiar quedarán sujetos al cumplimiento de cuotas de labor en mantenimiento de infraestructura, saneamiento o producción alimentaria de Estado, hasta que logren reinsertarse en el mercado laboral privado o se materialice su salida hacia un tercer país.
 
-         B.  Como contraprestación ineludible por este escudo de vida, los adultos de la unidad familiar quedarán sujetos al cumplimiento de cuotas de labor en mantenimiento de infraestructura, saneamiento o producción alimentaria de Estado, hasta que logren reinsertarse en el mercado laboral privado o se materialice su salida hacia un tercer país.
+                            C.  En caso de un rechazo manifiesto a cualquier tipo de labor (y si no tuviesen ingresos suficientes por vías alternativas) se acelerará su deportación como prioridad estatal.
 
-         C.  En caso de un rechazo manifiesto a cualquier tipo de labor (y si no tuviesen ingresos suficientes por vías alternativas) se acelerará su deportación como prioridad estatal.
-
-     iii. **Protección del Estatus de Cautiverio del Menor:** En ningún caso se penalizará a los menores dependientes del refugiado político por la insolvencia de sus progenitores. La educación y el sustento del menor bajo este protocolo quedan blindados por el principio de Separación del Fracaso Parental (Art. 59.8), asegurando que el santuario otorgado por la República no fracture la unidad del hogar.
+                        iii. **Protección del Estatus de Cautiverio del Menor:** En ningún caso se penalizará a los menores dependientes del refugiado político por la insolvencia de sus progenitores. La educación y el sustento del menor bajo este protocolo quedan blindados por el principio de Separación del Fracaso Parental (Art. 59.8), asegurando que el santuario otorgado por la República no fracture la unidad del hogar.
 
 10\. Del Derecho a la Portabilidad de Estatus y Prohibición de Retención Documental. Para evitar la formación de trampas migratorias y servidumbre laboral:
 
-a)  Soberanía de la Visa: El permiso de residencia (Art. 20.4) es otorgado por la República a través del RNS y no pertenece al empleador. El extranjero tiene el derecho absoluto de cambiar de empleo, renunciar o buscar nuevas oportunidades sin requerir el permiso, firma o \"visto bueno\" de su empleador actual.
+    a)  Soberanía de la Visa: El permiso de residencia (Art. 20.4) es otorgado por la República a través del RNS y no pertenece al empleador. El extranjero tiene el derecho absoluto de cambiar de empleo, renunciar o buscar nuevas oportunidades sin requerir el permiso, firma o \"visto bueno\" de su empleador actual.
 
-b)  Prohibición de Retención de Dispositivos: Queda tipificado como Delito de Secuestro Civil la retención forzosa del pasaporte extranjero o del dispositivo PCSC-T (Art. 17.5) por parte de cualquier empleador o particular. El acceso a la identidad digital es un derecho humano biológico (Art. 3).
+    b)  Prohibición de Retención de Dispositivos: Queda tipificado como Delito de Secuestro Civil la retención forzosa del pasaporte extranjero o del dispositivo PCSC-T (Art. 17.5) por parte de cualquier empleador o particular. El acceso a la identidad digital es un derecho humano biológico (Art. 3).
 
-c)  El Periodo de Gracia por Despido: Si un extranjero es despedido, su reloj de 120 días (Art. 20.4) se inicia en el momento de la terminación del contrato, pero gozará de una Pausa de Búsqueda Activa de 60 días naturales adicionales si demuestra que el despido fue injustificado según el TAT. El Estado protege su derecho a encontrar un nuevo \"nodo\" de productividad.
+    c)  El Periodo de Gracia por Despido: Si un extranjero es despedido, su reloj de 120 días (Art. 20.4) se inicia en el momento de la terminación del contrato, pero gozará de una Pausa de Búsqueda Activa de 60 días naturales adicionales si demuestra que el despido fue injustificado según el TAT. El Estado protege su derecho a encontrar un nuevo \"nodo\" de productividad.
 
 11\. Prohibición de Privilegio Asimétrico: Se prohíbe terminantemente al Estado otorgar incentivos, exenciones o protecciones a capitales o personas extranjeras que no estén disponibles, en igualdad de condiciones, para el ciudadano cubano. La inversión extranjera se considera un complemento de la economía nacional y nunca un sustituto de la libertad de empresa del nacional.
 
@@ -1047,139 +1041,139 @@ c)  El Periodo de Gracia por Despido: Si un extranjero es despedido, su reloj de
 
 14\. Del Incentivo a la Copropiedad y Alianza Nacional:
 
-a)  La República fomenta la creación de riqueza compartida mediante la alianza estratégica entre el capital extranjero y el capital ciudadano nacional.
+    a)  La República fomenta la creación de riqueza compartida mediante la alianza estratégica entre el capital extranjero y el capital ciudadano nacional.
 
-b)  Las inversiones extranjeras que se constituyan bajo la modalidad de Sociedad de Capital Mixto Ciudadano, donde la participación de personas naturales cubanas por nacimiento sea igual o superior al veinticinco por ciento (25%) del capital social, gozarán de los siguientes beneficios de Vía Rápida Soberana:
+    b)  Las inversiones extranjeras que se constituyan bajo la modalidad de Sociedad de Capital Mixto Ciudadano, donde la participación de personas naturales cubanas por nacimiento sea igual o superior al veinticinco por ciento (25%) del capital social, gozarán de los siguientes beneficios de Vía Rápida Soberana:
 
-<!-- -->
+        <!-- -->
 
-i.  Bonificación Fiscal: Una reducción de tres (3) puntos porcentuales sobre el Impuesto Único Proporcional (Flat Tax) de la sociedad durante los primeros diez años de operación.
+        i.  Bonificación Fiscal: Una reducción de tres (3) puntos porcentuales sobre el Impuesto Único Proporcional (Flat Tax) de la sociedad durante los primeros diez años de operación.
 
-ii. **Prioridad de Concesión y Arrendamiento Productivo:** Preferencia técnica en igualdad de condiciones para la adjudicación de contratos bajo el régimen de Concesión Administrativa de infraestructuras y servicios públicos (Artículo 11 y Artículo 35), así como para la suscripción de contratos de Arrendamiento Estratégico Temporal en actividades productivas (Artículo 54.4).
+        ii. **Prioridad de Concesión y Arrendamiento Productivo:** Preferencia técnica en igualdad de condiciones para la adjudicación de contratos bajo el régimen de Concesión Administrativa de infraestructuras y servicios públicos (Artículo 11 y Artículo 35), así como para la suscripción de contratos de Arrendamiento Estratégico Temporal en actividades productivas (Artículo 54.4).
 
-iii. Simplificación Administrativa: Acceso al protocolo de registro y auditoría simplificada por parte de los municipios y el Estado.
+        iii. Simplificación Administrativa: Acceso al protocolo de registro y auditoría simplificada por parte de los municipios y el Estado.
 
-<!-- -->
+        <!-- -->
 
-c)  Se prohíbe el uso de testaferros o sociedades pantalla para simular la participación nacional. La detección de fraude en la composición del capital nacional conllevará la revocación inmediata de todos los beneficios y la incautación del exceso de utilidades percibidas a favor del Tesoro Municipal.
+    c)  Se prohíbe el uso de testaferros o sociedades pantalla para simular la participación nacional. La detección de fraude en la composición del capital nacional conllevará la revocación inmediata de todos los beneficios y la incautación del exceso de utilidades percibidas a favor del Tesoro Municipal.
 
-d)  La ley orgánica correspondiente legislará acerca de la financiación a nacionales por parte de inversionistas que deseen acceder a este beneficio.
+    d)  La ley orgánica correspondiente legislará acerca de la financiación a nacionales por parte de inversionistas que deseen acceder a este beneficio.
 
-e)  Se excluye a la SACA de esta modalidad.
+    e)  Se excluye a la SACA de esta modalidad.
 
 15\. **Del Régimen de Contingencia Migratoria y el Voucher de Emergencia.**\
 Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o fiscal de los Municipios, se activará el **Protocolo de Carga Humanitaria**:
 
-a)  **Segregación Presupuestaria:** Se prohíbe el acceso de no-ciudadanos al sistema general de Vouchers de Libertad (Art. 60 y 61) financiados por la recaudación ordinaria municipal (el 70%). La atención migratoria se financiará exclusivamente mediante el **Fondo Nacional Catastrófico**  y aportes de organismos internacionales registrados en el RNS.
+    a)  **Segregación Presupuestaria:** Se prohíbe el acceso de no-ciudadanos al sistema general de Vouchers de Libertad (Art. 60 y 61) financiados por la recaudación ordinaria municipal (el 70%). La atención migratoria se financiará exclusivamente mediante el **Fondo Nacional Catastrófico**  y aportes de organismos internacionales registrados en el RNS.
 
-b)  **El Voucher de Supervivencia (Limitado):** Los refugiados recibirán un **Voucher de Emergencia de Transición**, con validez de noventa (90) días, que cubrirá exclusivamente:
+    b)  **El Voucher de Supervivencia (Limitado):** Los refugiados recibirán un **Voucher de Emergencia de Transición**, con validez de noventa (90) días, que cubrirá exclusivamente:
 
-    - Triaje médico de urgencia
+        - Triaje médico de urgencia
 
-    - Inmunización básica y
+        - Inmunización básica y
 
-    - Nutrición calórica mínima.
+        - Nutrición calórica mínima.
 
-> Este voucher solo es canjeable en Centros de Contingencia acreditados por el TAT.
+    > Este voucher solo es canjeable en Centros de Contingencia acreditados por el TAT.
 
-c)  **Integración por Rampa de Redignificación:** Cumplido el periodo de emergencia, la permanencia del extranjero quedará sujeta a su incorporación obligatoria en las **Rampas de Redignificación (Art. 151)**. El extranjero que trabaje en proyectos de infraestructura nacional o saneamiento, ganará \"Créditos de Estancia\", los cuales financiarán gradualmente su acceso a servicios educativos técnicos para sus hijos.
+    c)  **Integración por Rampa de Redignificación:** Cumplido el periodo de emergencia, la permanencia del extranjero quedará sujeta a su incorporación obligatoria en las **Rampas de Redignificación (Art. 151)**. El extranjero que trabaje en proyectos de infraestructura nacional o saneamiento, ganará \"Créditos de Estancia\", los cuales financiarán gradualmente su acceso a servicios educativos técnicos para sus hijos.
 
-d)  **Prohibición de Dilución Soberana:** Bajo ninguna circunstancia se emitirán Acciones Soberanas (AS) o dividendos para refugiados o residentes temporales. El Núcleo Soberano (Art. 117) es una propiedad privada por nacimiento e inalienable.
+    d)  **Prohibición de Dilución Soberana:** Bajo ninguna circunstancia se emitirán Acciones Soberanas (AS) o dividendos para refugiados o residentes temporales. El Núcleo Soberano (Art. 117) es una propiedad privada por nacimiento e inalienable.
 
 16\. La República adopta el principio de Apertura de Frontera Productiva. Todo ciudadano extranjero que ingrese al país bajo estatus de turista podrá transmutar su condición migratoria a residente laboral o inversor mediante una simple declaración jurada de propósito registrada ante el Registro Nacional Soberano. El registro de una actividad económica o la acreditación de capital inicial anulará cualquier traba administrativa o requerimiento de visa previa, otorgando de pleno derecho la capacidad legal para trabajar, contratar e invertir.
 
 17\. **De la Protección contra la Alteración Demográfica y Cultural.**
 
-a)  **Voto Calificado por Arraigo y Generación:** Se establece la distinción entre **Soberanía Originaria** y **Soberanía Adquirida**.
+    a)  **Voto Calificado por Arraigo y Generación:** Se establece la distinción entre **Soberanía Originaria** y **Soberanía Adquirida**.
 
-<!-- -->
+        <!-- -->
 
-i.  Únicamente los cubanos por nacimiento poseen el derecho inalienable a votar en referéndums de reforma sobre las **Cláusulas Pétreas (Art. 129)**.
+        i.  Únicamente los cubanos por nacimiento poseen el derecho inalienable a votar en referéndums de reforma sobre las **Cláusulas Pétreas (Art. 129)**.
 
-ii. Los ciudadanos por naturalización adquirirán el derecho al voto municipal tras diez (10) años de residencia efectiva y el voto nacional tras quince (15) años, previa reválida del Examen de Idoneidad Republicana. La soberanía no es un derecho de suelo, es una conquista del entendimiento.
+        ii. Los ciudadanos por naturalización adquirirán el derecho al voto municipal tras diez (10) años de residencia efectiva y el voto nacional tras quince (15) años, previa reválida del Examen de Idoneidad Republicana. La soberanía no es un derecho de suelo, es una conquista del entendimiento.
 
-<!-- -->
+        <!-- -->
 
-b)  **Límite de Concentración y Saturación Territorial:** Con el fin de evitar la creación de enclaves culturales aislados (Ghetos) que operen como estados dentro del Estado, ningún Municipio podrá otorgar residencia a extranjeros en una proporción superior al quince por ciento (15%) de su población nativa censada. Superado este umbral, el Registro Nacional Soberano (RNS) bloqueará automáticamente nuevos registros de residencia en dicha jurisdicción, derivando el flujo migratorio hacia zonas con capacidad de absorción cultural y económica.
-    i. Se excluye del cómputo del 15% a los titulares de visados de investigación científica, estudiantes universitarios o personal técnico asignado a proyectos estratégicos de interés nacional certificados por el TAT.
+    b)  **Límite de Concentración y Saturación Territorial:** Con el fin de evitar la creación de enclaves culturales aislados (Ghetos) que operen como estados dentro del Estado, ningún Municipio podrá otorgar residencia a extranjeros en una proporción superior al quince por ciento (15%) de su población nativa censada. Superado este umbral, el Registro Nacional Soberano (RNS) bloqueará automáticamente nuevos registros de residencia en dicha jurisdicción, derivando el flujo migratorio hacia zonas con capacidad de absorción cultural y económica.
+        i. Se excluye del cómputo del 15% a los titulares de visados de investigación científica, estudiantes universitarios o personal técnico asignado a proyectos estratégicos de interés nacional certificados por el TAT.
 
-c)  **Incompatibilidad de Lealtades en el Mando:** Se prohíbe el ejercicio de cargos de Alta Jerarquía (TDC, TAT, Presidencia, Comandos Militares) a ciudadanos que posean doble nacionalidad o vínculos contractuales con potencias extranjeras. La gestión de la República requiere una lealtad indivisible. El hallazgo de una ciudadanía extranjera oculta en un funcionario será causa de destitución por **Simulación de Soberanía (Art. 117)**.
+    c)  **Incompatibilidad de Lealtades en el Mando:** Se prohíbe el ejercicio de cargos de Alta Jerarquía (TDC, TAT, Presidencia, Comandos Militares) a ciudadanos que posean doble nacionalidad o vínculos contractuales con potencias extranjeras. La gestión de la República requiere una lealtad indivisible. El hallazgo de una ciudadanía extranjera oculta en un funcionario será causa de destitución por **Simulación de Soberanía (Art. 117)**.
 
-d)  **Cláusula de Expulsión por Incompatibilidad Civil:** El extranjero residente que participe en actividades destinadas a la reinstauración del colectivismo, la imposición de leyes religiosas sobre la ley civil, o el sabotaje de la propiedad privada, perderá de pleno derecho su permiso de estancia y será deportado de forma expedita, con prohibición de reingreso permanente. La República es un santuario de libertad, no un refugio para sus enemigos.
+    d)  **Cláusula de Expulsión por Incompatibilidad Civil:** El extranjero residente que participe en actividades destinadas a la reinstauración del colectivismo, la imposición de leyes religiosas sobre la ley civil, o el sabotaje de la propiedad privada, perderá de pleno derecho su permiso de estancia y será deportado de forma expedita, con prohibición de reingreso permanente. La República es un santuario de libertad, no un refugio para sus enemigos.
 
 18\. **Del Principio de Responsabilidad Territorial Universal y Retención Migratoria.**
 
-a)  **Igualdad ante el Daño:** Las disposiciones constitucionales relativas a la Responsabilidad Civil Objetiva por daños a la infraestructura, agresión a funcionarios, personal médico, docente o vandalismo (Artículos 60.7, 61.4 y 150.10), son de aplicación universal y estricta para todo extranjero, turista, residente temporal o diplomático sin inmunidad expresa, que se encuentre en el territorio de la República.
+    a)  **Igualdad ante el Daño:** Las disposiciones constitucionales relativas a la Responsabilidad Civil Objetiva por daños a la infraestructura, agresión a funcionarios, personal médico, docente o vandalismo (Artículos 60.7, 61.4 y 150.10), son de aplicación universal y estricta para todo extranjero, turista, residente temporal o diplomático sin inmunidad expresa, que se encuentre en el territorio de la República.
 
-b)  **Mecánica de Ejecución (El Embargo PCSC):** Dado que el extranjero carece de Acciones Soberanas (AS) para la deducción automática, el Registro Nacional Soberano (RNS) ejecutará el cobro de las indemnizaciones y multas directamente sobre los fondos vinculados a su Pasaporte de Ciudadanía Soberana y Comercial (PCSC), sus tarjetas de crédito internacionales registradas al ingreso, o sus Acciones de Mercado (AM) si fuere inversor.
+    b)  **Mecánica de Ejecución (El Embargo PCSC):** Dado que el extranjero carece de Acciones Soberanas (AS) para la deducción automática, el Registro Nacional Soberano (RNS) ejecutará el cobro de las indemnizaciones y multas directamente sobre los fondos vinculados a su Pasaporte de Ciudadanía Soberana y Comercial (PCSC), sus tarjetas de crédito internacionales registradas al ingreso, o sus Acciones de Mercado (AM) si fuere inversor.
 
-c)  Bloqueo Migratorio Automático (Arraigo por Deuda Civil): En caso de que los fondos digitales del extranjero sean insuficientes para cubrir la totalidad del daño causado por él o por los menores a su cargo, el RNS emitirá de forma automática una Alerta de Retención Migratoria. Queda constitucionalmente prohibida la salida del país del infractor hasta que la deuda civil con el Estado, el Municipio o el ciudadano afectado sea saldada en su totalidad. La República no subsidia el turismo depredador ni la incivilidad foránea.
+    c)  Bloqueo Migratorio Automático (Arraigo por Deuda Civil): En caso de que los fondos digitales del extranjero sean insuficientes para cubrir la totalidad del daño causado por él o por los menores a su cargo, el RNS emitirá de forma automática una Alerta de Retención Migratoria. Queda constitucionalmente prohibida la salida del país del infractor hasta que la deuda civil con el Estado, el Municipio o el ciudadano afectado sea saldada en su totalidad. La República no subsidia el turismo depredador ni la incivilidad foránea.
 
-    i.  **Excepción por Reciprocidad y Ejecución Transnacional:** Se exceptúa de la retención física a las personas nacionales o residentes de Estados que mantengan Tratados de Reciprocidad en Justicia Civil y Devolución de Activos (Art. 20.8) vigentes con la República. En estos casos, el RNS transmitirá el expediente de deuda al Buró de Justicia Transnacional (BJT) para su cobro automatizado, retención en origen o embargo transfronterizo en la jurisdicción de destino, permitiendo la salida del territorio sin impunidad del daño.
+        i.  **Excepción por Reciprocidad y Ejecución Transnacional:** Se exceptúa de la retención física a las personas nacionales o residentes de Estados que mantengan Tratados de Reciprocidad en Justicia Civil y Devolución de Activos (Art. 20.8) vigentes con la República. En estos casos, el RNS transmitirá el expediente de deuda al Buró de Justicia Transnacional (BJT) para su cobro automatizado, retención en origen o embargo transfronterizo en la jurisdicción de destino, permitiendo la salida del territorio sin impunidad del daño.
 
-    ii. **Excepción por seguro:** Los extranjeros que al momento de visitar la nación sus países de origen no mantienen tratados de reciprocidad podrán acudir a aseguradoras (previo a ingresar al país, o antes de suceder el hecho en el interior del país) que cubran sus daños en caso de que estos excedan su capacidad de pago.
+        ii. **Excepción por seguro:** Los extranjeros que al momento de visitar la nación sus países de origen no mantienen tratados de reciprocidad podrán acudir a aseguradoras (previo a ingresar al país, o antes de suceder el hecho en el interior del país) que cubran sus daños en caso de que estos excedan su capacidad de pago.
 
 19\. Del Derecho de Asilo, el Filtro de Seguridad y la Ventana de Supervivencia.
 
-a)  **Principio de Santuario y No Devolución:** La República de Cuba reconoce el asilo político y humanitario. Queda constitucionalmente prohibida la devolución (non-refoulement) de cualquier ser humano hacia territorios donde enfrente riesgo probado de ejecución, tortura o exterminio, prevaleciendo el derecho a la vida sobre la irregularidad documental.
+    a)  **Principio de Santuario y No Devolución:** La República de Cuba reconoce el asilo político y humanitario. Queda constitucionalmente prohibida la devolución (non-refoulement) de cualquier ser humano hacia territorios donde enfrente riesgo probado de ejecución, tortura o exterminio, prevaleciendo el derecho a la vida sobre la irregularidad documental.
 
-b)  **Cláusula de Exclusión por Criminalidad:** El asilo será denegado a quienes posean antecedentes por crímenes de lesa humanidad, terrorismo o delitos comunes graves. Los prófugos serán detenidos para su extradición o deportación a un tercer país seguro.
+    b)  **Cláusula de Exclusión por Criminalidad:** El asilo será denegado a quienes posean antecedentes por crímenes de lesa humanidad, terrorismo o delitos comunes graves. Los prófugos serán detenidos para su extradición o deportación a un tercer país seguro.
 
-c)  **Subordinación de Salida a Sentencias Civiles:** El derecho de asilo o salida humanitaria no extinguirá las deudas líquidas y exigibles por daños a terceros o restitución patrimonial dictadas por los tribunales de la República. El RNS ejecutará la retención preventiva de bienes y activos del solicitante hasta el resarcimiento de las obligaciones pendientes.
+    c)  **Subordinación de Salida a Sentencias Civiles:** El derecho de asilo o salida humanitaria no extinguirá las deudas líquidas y exigibles por daños a terceros o restitución patrimonial dictadas por los tribunales de la República. El RNS ejecutará la retención preventiva de bienes y activos del solicitante hasta el resarcimiento de las obligaciones pendientes.
 
-d)  **Protocolo de Verificación Biométrico (72 Horas):** El ingreso requiere verificación obligatoria en bases de datos de seguridad internacional (INTERPOL). Durante este lapso, el solicitante permanecerá en zonas de custodia de tránsito. La falsedad de antecedentes activa la deportación inmediata.
+    d)  **Protocolo de Verificación Biométrico (72 Horas):** El ingreso requiere verificación obligatoria en bases de datos de seguridad internacional (INTERPOL). Durante este lapso, el solicitante permanecerá en zonas de custodia de tránsito. La falsedad de antecedentes activa la deportación inmediata.
 
-e)  **Régimen de Contingencia y la Ventana de Supervivencia de 90 Días:** Para garantizar la vida sin comprometer la estabilidad fiscal de los municipios, se establece un periodo de gracia humanitaria bajo las siguientes reglas de hierro:
+    e)  **Régimen de Contingencia y la Ventana de Supervivencia de 90 Días:** Para garantizar la vida sin comprometer la estabilidad fiscal de los municipios, se establece un periodo de gracia humanitaria bajo las siguientes reglas de hierro:
 
-<!-- -->
+        <!-- -->
 
-i.  **Segregación Presupuestaria Estricta:** Se prohíbe el acceso de los refugiados al sistema general de Vouchers de Libertad y al Fondo Municipal de Auxilio Mutuo. El erario local no asume la carga migratoria.
+        i.  **Segregación Presupuestaria Estricta:** Se prohíbe el acceso de los refugiados al sistema general de Vouchers de Libertad y al Fondo Municipal de Auxilio Mutuo. El erario local no asume la carga migratoria.
 
-ii. **El Voucher de Supervivencia (90 Días):** Superado el filtro de seguridad, el refugiado recibirá un *Voucher de Emergencia de Transición*, con validez improrrogable de noventa (90) días. Este voucher cubrirá exclusivamente:
+        ii. **El Voucher de Supervivencia (90 Días):** Superado el filtro de seguridad, el refugiado recibirá un *Voucher de Emergencia de Transición*, con validez improrrogable de noventa (90) días. Este voucher cubrirá exclusivamente:
 
-<!-- -->
+        <!-- -->
 
-A)  Triaje médico de urgencia,
+            A)  Triaje médico de urgencia,
 
-B)  Inmunización y
+            B)  Inmunización y
 
-C)  Nutrición calórica básica en centros acreditados.
+            C)  Nutrición calórica básica en centros acreditados.
 
-<!-- -->
+            <!-- -->
 
-iii. **Financiamiento No Impositivo:** Este Voucher de 90 días será financiado de forma exclusiva mediante el **Fondo Catastrófico Nacional** (reservas de emergencia a nivel de Estado central) y mediante aportes canalizados a través del RNS por parte de **organismos internacionales, la Diáspora y el Patrocinio Privado** (ONGs, instituciones religiosas).
+        iii. **Financiamiento No Impositivo:** Este Voucher de 90 días será financiado de forma exclusiva mediante el **Fondo Catastrófico Nacional** (reservas de emergencia a nivel de Estado central) y mediante aportes canalizados a través del RNS por parte de **organismos internacionales, la Diáspora y el Patrocinio Privado** (ONGs, instituciones religiosas).
 
-<!-- -->
+        <!-- -->
 
-f)  **Derecho Inmediato a la Autosuficiencia (Habilitación Laboral Automática):** Desde el primer día de su admisión temporal, el refugiado goza de capacidad legal plena para trabajar, ejercer el comercio y contratar libremente, sin necesidad de permisos de extranjería adicionales. Queda sujeto inmediatamente al pago del Impuesto Único (Flat Tax).
+    f)  **Derecho Inmediato a la Autosuficiencia (Habilitación Laboral Automática):** Desde el primer día de su admisión temporal, el refugiado goza de capacidad legal plena para trabajar, ejercer el comercio y contratar libremente, sin necesidad de permisos de extranjería adicionales. Queda sujeto inmediatamente al pago del Impuesto Único (Flat Tax).
 
-g)  **Caducidad y Deportación por Insolvencia:** Si al término de la Ventana de Supervivencia de noventa (90) días, el refugiado no ha logrado su autosuficiencia económica mediante el trabajo (literal e) ni ha conseguido un Patrocinador Privado que asuma sus costos de vida en el RNS, será sujeto a reubicación internacional o repatriación voluntaria asistida, siempre que su vida no corra peligro inminente en el destino.
+    g)  **Caducidad y Deportación por Insolvencia:** Si al término de la Ventana de Supervivencia de noventa (90) días, el refugiado no ha logrado su autosuficiencia económica mediante el trabajo (literal e) ni ha conseguido un Patrocinador Privado que asuma sus costos de vida en el RNS, será sujeto a reubicación internacional o repatriación voluntaria asistida, siempre que su vida no corra peligro inminente en el destino.
 
-h)  **Fase de Integración:** A partir del día 91, la ayuda se mantendrá vinculada a la participación en el Programa de Servicio Cívico.
+    h)  **Fase de Integración:** A partir del día 91, la ayuda se mantendrá vinculada a la participación en el Programa de Servicio Cívico.
 
-i)  **Escala de Sustitución:** Si el refugiado obtiene empleo privado, el valor del Voucher no se retira de golpe, sino que disminuye en una relación de 0.50 por cada 1.00 ganado en salario real, hasta su extinción total al alcanzar la autosuficiencia (nunca por más de 360 días hábiles).
+    i)  **Escala de Sustitución:** Si el refugiado obtiene empleo privado, el valor del Voucher no se retira de golpe, sino que disminuye en una relación de 0.50 por cada 1.00 ganado en salario real, hasta su extinción total al alcanzar la autosuficiencia (nunca por más de 360 días hábiles).
 
 20\. Del Reencuentro Histórico y el Estatus Preferencial Iberoamericano.
 
-a)  **Reconocimiento del Vínculo Originario:** La República de Cuba reconoce a España y a las naciones hermanas de Iberoamérica no como estados extranjeros ordinarios, sino como partes integrantes de una misma Comunidad Histórica, Cultural y de Sangre. La guerra de independencia se entiende como un proceso de emancipación política, no como una ruptura de la fraternidad civil ni biológica.
+    a)  **Reconocimiento del Vínculo Originario:** La República de Cuba reconoce a España y a las naciones hermanas de Iberoamérica no como estados extranjeros ordinarios, sino como partes integrantes de una misma Comunidad Histórica, Cultural y de Sangre. La guerra de independencia se entiende como un proceso de emancipación política, no como una ruptura de la fraternidad civil ni biológica.
 
-b)  **Principio de Reciprocidad Asimétrica Favorable:** En virtud de los lazos de consanguinidad y la historia compartida, se establece un régimen de **Trato Preferencial** para los nacionales del Reino de España y de las Repúblicas Iberoamericanas, condicionado estrictamente a que sus países de origen otorguen facilidades análogas a los ciudadanos cubanos.
+    b)  **Principio de Reciprocidad Asimétrica Favorable:** En virtud de los lazos de consanguinidad y la historia compartida, se establece un régimen de **Trato Preferencial** para los nacionales del Reino de España y de las Repúblicas Iberoamericanas, condicionado estrictamente a que sus países de origen otorguen facilidades análogas a los ciudadanos cubanos.
 
-<!-- -->
+        <!-- -->
 
-i.  **Residencia Acelerada:** El plazo para optar a la naturalización o residencia permanente para los ciudadanos de origen hispano se reduce a la mitad del tiempo exigido para el resto de los extranjeros.
+        i.  **Residencia Acelerada:** El plazo para optar a la naturalización o residencia permanente para los ciudadanos de origen hispano se reduce a la mitad del tiempo exigido para el resto de los extranjeros.
 
-ii. **Habilitación Laboral Directa:** Los títulos académicos y profesionales emitidos en España y naciones del bloque iberoamericano gozarán de homologación simplificada y expedita, eliminando trabas burocráticas para el ejercicio profesional, fomentando el intercambio de conocimiento en nuestra lengua común.
+        ii. **Habilitación Laboral Directa:** Los títulos académicos y profesionales emitidos en España y naciones del bloque iberoamericano gozarán de homologación simplificada y expedita, eliminando trabas burocráticas para el ejercicio profesional, fomentando el intercambio de conocimiento en nuestra lengua común.
 
-<!-- -->
+     <!-- -->
 
-c)  **Restauración de la Memoria y la Propiedad de Hermandad:**
+    c)  **Restauración de la Memoria y la Propiedad de Hermandad:**
 
-<!-- -->
+        <!-- -->
 
-i.  **Sociedades Regionales:** El Estado garantiza la perpetuidad y la autonomía patrimonial de las Sociedades Españolas, Centros Gallegos, Asturianos, Canarios y demás agrupaciones de origen regional fundadas en Cuba. Sus inmuebles históricos (palacios sociales, hospitales, panteones) son inembargables y se reconoce su función como embajadas culturales de la sociedad civil.
+        i.  **Sociedades Regionales:** El Estado garantiza la perpetuidad y la autonomía patrimonial de las Sociedades Españolas, Centros Gallegos, Asturianos, Canarios y demás agrupaciones de origen regional fundadas en Cuba. Sus inmuebles históricos (palacios sociales, hospitales, panteones) son inembargables y se reconoce su función como embajadas culturales de la sociedad civil.
 
-ii. **Fin de la Leyenda Negra:** El sistema educativo nacional purgará los currículos de la manipulación ideológica que fomenta el odio hacia la herencia hispánica. La historia se enseñará con rigor documental, reconociendo tanto los conflictos civiles como la construcción conjunta de la identidad nacional.
+        ii. **Fin de la Leyenda Negra:** El sistema educativo nacional purgará los currículos de la manipulación ideológica que fomenta el odio hacia la herencia hispánica. La historia se enseñará con rigor documental, reconociendo tanto los conflictos civiles como la construcción conjunta de la identidad nacional.
 
 ------------------------------------------------------------------------
 

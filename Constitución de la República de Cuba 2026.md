@@ -2024,7 +2024,7 @@ b)  El Estado no podrá intervenir en la fijación de precios de fletes, arrenda
 c)  En caso de emergencia nacional o desastre total, el uso de la propiedad vehicular privada por parte del Estado para fines de socorro será siempre de carácter temporal, sujeto a compensación inmediata a valor de mercado y bajo la responsabilidad del Estado por cualquier deterioro o pérdida del bien.
 
 7\. **Estatuto de Inmunidad a la Innovación y Límites de Fricción Sistémica:**\
-Se prohíbe la regulación técnica, fiscal o administrativa previa sobre modelos de negocio o tecnologías disruptivas que no hayan computado diez (10) años de existencia operativa en el mercado nacional. Queda proscrita la aplicación del \"principio de precaución\" burocrático como barrera a la entrada. No obstante, para garantizar la integridad de la República ante la hiper-aceleración tecnológica, esta inmunidad operará bajo el **Principio de Escala y Fusible Automático**:
+Se prohíbe la regulación técnica, fiscal o administrativa previa sobre modelos de negocio o tecnologías disruptivas que no hayan computado diez (10) años de existencia operativa en el mercado nacional. Queda proscrita la aplicación del \"principio de precaución\" burocrático como barrera a la entrada. No obstante, para garantizar la integridad de la República ante la hiper-aceleración tecnológica, esta inmunidad operará bajo el ** Principio de Escala y Suspensión Técnica Preventiva**:
 
 a)  **Inmunidad de Origen (Fase de Aislamiento):** Toda tecnología emergente opera con libertad absoluta mientras su impacto se limite al patrimonio de sus creadores y usuarios voluntarios bajo Consentimiento Informado Técnico (Art. 25).
 
@@ -2032,7 +2032,7 @@ b)  **El Umbral de Relevancia Sistémica:** Si una tecnología (incluyendo algor
 
 c)  **Obligatoriedad del Disyuntor Matemático (Circuit Breaker):** Todo Actor Sistémico de base tecnológica está obligado a integrar en su arquitectura un protocolo de corte automático. Si el algoritmo o tecnología genera una alteración crítica en los precios vitales, flujos de datos o estabilidad de la red que exceda las desviaciones estadísticas normales (tres sigmas) en un lapso crítico, el RNS ejecutará una Suspensión de Interconexión (Halt) de forma automática e instantánea.
 
-d)  **Auditoría Post-Corte y Restauración:** La suspensión operará como un \"fusible fundido\", aislando la tecnología del mercado nacional por un máximo de veinticuatro (24) horas. Durante este lapso, el Tribunal de Arbitraje Técnico (TAT) auditará el código o la falla. Si no hay daño demostrable o dolo, la conexión se restaura. Si hay amenaza a la supervivencia biológica o económica (Efecto de Colapso), el TAT ordenará la desconexión permanente hasta su rediseño. La intervención es post-falla y basada en datos, nunca previa y basada en el miedo burocrático.
+d)  **Auditoría Post-Corte y Restauración:** La suspensión operará como una medida cautelar automática de aislamiento técnico de la tecnología respecto al mercado nacional por un plazo perentorio máximo de veinticuatro (24) horas. Durante este lapso, el Tribunal de Arbitraje Técnico (TAT) auditará el código o la falla. Si no hay daño demostrable o dolo, la conexión se restaura. Si hay amenaza a la supervivencia biológica o económica (Efecto de Colapso), el TAT ordenará la desconexión permanente hasta su rediseño. La intervención es post-falla y basada en datos, nunca previa y basada en el miedo burocrático.
 
 8\. **De la Resiliencia Macroeconómica y el Freno al Monocultivo Estratégico.**\
 La República proscribe la vulnerabilidad histórica derivada de la dependencia estructural de un único producto, renta o mercado externo.
@@ -2045,7 +2045,7 @@ b)  El excedente tributario y los dividendos estatales generados por dicho secto
 
 ## Artículo 35. De la Contratación Pública, el Efecto Multiplicador y el Algoritmo de Costo Neto Soberano (El Blindaje Anti-Dumping).
 
-La República de Cuba reconoce que el gasto público no es un acto de consumo simple, sino una inyección de energía en la red nacional. Toda licitación, compra de Estado, concesión de obra pública o contrato financiado con el erario nacional o municipal, deberá regirse por el Principio de Prioridad del Retorno, evaluado estrictamente por el Tribunal de Arbitraje Técnico (TAT).
+La República de Cuba reconoce que la contratación pública constituye una inversión estratégica en la capacidad productiva del país. Toda licitación, compra de Estado, concesión de obra pública o contrato financiado con el erario nacional o municipal, deberá regirse por el Principio de Prioridad del Retorno, evaluado estrictamente por el Tribunal de Arbitraje Técnico (TAT).
 
 1.  Proscripción del Precio Bruto como Criterio Único: Queda terminantemente prohibida la adjudicación de contratos públicos a empresas extranjeras basándose exclusivamente en el \"precio nominal más bajo\". Las empresas internacionales que operan con subsidios de sus Estados de origen o exenciones fiscales foráneas generan una asimetría artificial que destruye la capacidad productiva de la Nación.
 
@@ -2083,7 +2083,7 @@ c)  Fase 3: Evaluación y Adjudicación Vinculante: Dictamen comparativo de Cost
 
 d)  Cláusula Anti-Secuestro (Fianza de Tiempo): Para evitar que una entidad registre interés en la Fase 1 con el único fin de bloquear a la competencia extranjera o paralizar al Estado sin tener capacidad real de competir, toda \"Manifestación de Interés\" requerirá el bloqueo temporal de un porcentaje del Capital de Maniobra (Capa C) de la empresa en concepto de Fianza de Seriedad.
 
-    - Si la empresa agota la Ventana de Procesamiento de la Fase 2 y abandona la licitación, entrega un pliego en blanco o presenta una oferta clasificada por el TAT como \"temeraria o no sustentada\", la fianza será confiscada automáticamente a favor del Tesoro Nacional por el delito de Secuestro del Tiempo de la Nación.
+    - Si la empresa agota la Ventana de Procesamiento de la Fase 2 y abandona la licitación, entrega un pliego en blanco o presenta una oferta clasificada por el TAT como \"temeraria o no sustentada\", la fianza será confiscada automáticamente a favor del Tesoro Nacional por la infracción grave de obstrucción temeraria de la contratación pública.
 
 ------------------------------------------------------------------------
 
@@ -2277,13 +2277,13 @@ b)  El agresor incurrirá en el Delito de **Extorsión Sistémica**, conllevando
 
 ## Artículo 41. Del Muro de Separación entre el Capital y el Mando.
 
-1\. Prohibición Absoluta de Financiamiento Político: Ninguna empresa, pequeña o grande, ni sus propietarios, podrán destinar un solo centavo a actividades políticas, campañas o publicidad de facción. El poder del dinero termina donde empieza el derecho al voto.
+1\. **Prohibición Absoluta de Financiamiento Político:** Ninguna empresa, pequeña o grande, ni sus propietarios, podrán destinar un solo centavo a actividades políticas, campañas o publicidad de facción. El poder del dinero termina donde empieza el derecho al voto.
 
-2\. Tipificación de la Captura Legislativa: Se declara nulo e írrito todo anteproyecto de ley cuya redacción técnica haya contado con la participación de agentes privados del sector regulado. La facultad de redacción normativa técnica reside exclusivamente en el Senado de Rectores y las Facultades Universitarias. El lobbying corporativo en materia de política fiscal o comercial se tipifica como Delito de Traición a la Estabilidad Económica.
+2\. **Tipificación de la Captura Legislativa:** Se declara nulo e írrito todo anteproyecto de ley cuya redacción técnica haya contado con la participación de agentes privados del sector regulado. La facultad de redacción normativa técnica reside exclusivamente en el Senado de Rectores y las Facultades Universitarias. El lobbying corporativo en materia de política fiscal o comercial se tipifica como Delito de Traición a la Estabilidad Económica.
 
-3\. Responsabilidad Penal de \"Velo Transparente\": En caso de que una empresa cometa delitos de corrupción o monopolio coercitivo, el \"Velo Corporativo\" desaparece. Los dueños responden con su patrimonio personal. Esto asegura que el dueño cuide la conducta de su empresa como si fuera su propia vida, sin necesidad de quitársela.
+3\. **Levantamiento Judicial y Penal del Velo Corporativo:** En caso de comisión de delitos de corrupción, cohecho o prácticas monopolísticas coercitivas, se decretará el levantamiento del velo corporativo de la persona jurídica, respondiendo los administradores, directivos y beneficiarios finales con su patrimonio personal por las responsabilidades civiles y penales derivadas del ilícito.
 
-4\. Tipificación de la Captura Corporativa: Se define como Delito de Alta Traición la participación de agentes privados en la redacción, sugerencia o consultoría de normas que generen ventajas competitivas asimétricas para su sector. Toda ley técnica debe nacer de la academia y ser validada por el Senado Técnico de Rectores bajo protocolo de "Ciego Ideológico".
+4\. **Tipificación de la Captura Corporativa:** Se define como Delito de Alta Traición la participación de agentes privados en la redacción, sugerencia o consultoría de normas que generen ventajas competitivas asimétricas para su sector. Toda ley técnica debe nacer de la academia y ser validada por el Senado Técnico de Rectores bajo protocolo de "Ciego Ideológico".
 
 5\. **Del Blindaje contra el Cohecho Corporativo.** Las empresas (SACAs o Sociedades Anónimas) que utilicen el soborno para obtener ventajas competitivas, licitaciones o subvenciones, sufrirán el **Levantamiento del Velo Corporativo de Oficio**.
 
@@ -2297,7 +2297,7 @@ c)  **De la Verificación de Buena Fe y Sanción al Denunciante Instrumental.** 
 
     ii. **Pena Específica por Perjurio Lucrativo:** En este caso, el denunciante falso será condenado a la misma pena de inhabilitación perpetua y cárcel que pretendía para el acusado, y deberá abonar al Estado y al afectado una multa equivalente al **monto que pretendía cobrar como recompensa**, la cual será ejecutada sobre sus Acciones Soberanas (AS) y/o Acciones de Mercado (AM) si las hubiese.
 
-**6. De la Transparencia en Vínculos de Proximidad:**\
+6\. **De la Transparencia en Vínculos de Proximidad:**\
 La República reconoce que la eficiencia operativa puede darse entre personas con vínculos afectivos o de consanguinidad. Sin embargo, para proteger el Tesoro, se establece el **Protocolo del Tercer Ojo**:
 
 a)  **Declaración de Vínculo:** Es obligatorio registrar en el RNS cualquier relación de consanguinidad o afinidad hasta el cuarto grado entre el ejecutor (contratista/empleado) y el supervisor inmediato en toda SACA, y opcional en las instituciones no SACA.
@@ -3354,7 +3354,7 @@ b)  **Nulidad de la Máscara Académica (El Caballo de Troya):** Se tipifica com
 
 c)  **Desinfección Inmediata:** Si el Tribunal de Arbitraje Técnico (TAT) y el RNS detectan que fondos foráneos han sido triangulados hacia organizaciones estudiantiles para evadir la Ley Anti-Astroturfing (Art. 31.7), el Tribunal de Defensa de la Constitución (TDC) ordenará la **disolución fulminante** de la asociación estudiantil, la expulsión académica de los involucrados y la incautación de los activos de la institución educativa matriz si se demuestra complicidad o negligencia en la auditoría de sus instalaciones.
 
-**15. Del Axioma de Inviolabilidad Cognitiva y la Proscripción del Condicionamiento de Acceso:** La República de Cuba reconoce que el acceso a la educación y al desarrollo cognitivo es un derecho biológico y existencial, inherente a la condición humana, y desvinculado de cualquier lealtad política, condición de género, afiliación religiosa o estatus social de los progenitores.
+15\. **Del Axioma de Inviolabilidad Cognitiva y la Proscripción del Condicionamiento de Acceso:** La República de Cuba reconoce que el acceso a la educación y al desarrollo cognitivo es un derecho biológico y existencial, inherente a la condición humana, y desvinculado de cualquier lealtad política, condición de género, afiliación religiosa o estatus social de los progenitores.
 
 a)  **Nulidad de la Exclusión Ideológica o Religiosa:** Se prohíbe terminantemente, bajo pena de clausura institucional y procesamiento penal por **Delito de Secuestro Cognitivo**, que cualquier institución educativa (pública, privada, técnica o universitaria) que opere en el territorio nacional o reciba financiamiento mediante el Voucher de Libertad (Art. 60.2), deniegue la admisión, expulse o segregue a un ciudadano basándose en:
 
@@ -3387,7 +3387,7 @@ a)  **El Nucleo Educativo (Materias de Impartición Obligatoria):**\
 
     iii. **Fidelidad Epistemológica (Regla Universal):** La enseñanza del modelo evolutivo-biológico (Considerando todas las **teorías cientificas** previas como parte del currículum) como base de las ciencias naturales, y el estudio de las religiones como vectores históricos y sociológicos, tal como se define en el Artículo 60.10, constituyendo un requerimiento ineludible y de evaluación estandarizada por el Tribunal de Arbitraje Técnico (TAT) para la validación de cualquier grado académico, independientemente de la titularidad de la escuela.
 
-b)  **El Cortafuegos de Madurez Biológica (Prohibición de Contenido Radioactivo):**\
+b)  **Protección de la Madurez Cognitiva (Proscripción de Contenidos Incompatibles con el Desarrollo del Menor):**\
     Bajo el principio técnico de que la inducción de información de alta complejidad conductual en sistemas neuronales carentes de madurez prefrontal genera atrofia y desviación psicopática, **queda terminantemente prohibida** la impartición, fomento, simulación o exposición gráfica de los siguientes temas a ciudadanos menores de catorce (14) años de edad:
 
     i.  **Mecánica Sexual y Exploración Anatómica:** Queda proscrita la inducción a la exploración sexual, la exhibición de nudismo, y la instrucción sobre mecánicas reproductivas o de placer que excedan la biología anatómica descriptiva básica.
@@ -3396,8 +3396,7 @@ b)  **El Cortafuegos de Madurez Biológica (Prohibición de Contenido Radioactiv
 
     iii. **Violencia Explícita y Patologías Criminales:** Prohibición de exposición a material gráfico sobre crímenes de sangre, métodos de homicidio o psicopatía criminal que excedan la narrativa histórica general, con el fin de evitar la insensibilización o imitación por parte del menor.
 
-c)  **Clasificación Legal del Delito de Corrupción Cognitiva:**\
-    La violación del Cortafuegos de Madurez Biológica (Inciso 2) no se considera un \"error pedagógico\" ni un ejercicio de \"libertad de cátedra\". Se tipifica como **Delito de Inyección de Código Malicioso en Menores (Corrupción Cognitiva)**.
+c)  **Tipificación de la Inducción Ilícita a Menores:** La vulneración de las restricciones pedagógicas establecidas en el inciso anterior no se considerará error administrativo ni amparo de libertad de cátedra. Se tipifica como Delito de Corrupción de Menores por Inducción Ilícita.
 
     i.  Si una escuela, maestro, currículo extranjero o programa de educación en el hogar vulnera esta barrera, el Registro Nacional Soberano (RNS) suspenderá inmediatamente el 100% de los Vouchers Educativos de la institución.
 
@@ -3413,7 +3412,7 @@ e)  **Del Mandato de Instrucción en Primeros Auxilios y Triage de Emergencia.**
 
 i.  **Instrucción Escolar:** El sistema educativo integrará simulacros y formación técnica sobre: reanimación (RCP), control de hemorragias, y **Protocolos de Inmovilización básica**.
 
-ii. **El Veto a la Ignorancia:** Se enseñará explícitamente a identificar cuándo un accidentado **NO DEBE SER MOVIDO** (riesgo de lesión medular) y cómo asegurar el perímetro mientras llega los órganos de control policial, o el TAT, o los servicios médicos. La educación cubana forma \"Primeros Respondientes\", no espectadores.
+ii. **Instrucción de Respuesta Inmediata:** Se instruirá obligatoriamente sobre la inmovilización preventiva ante sospecha de trauma raquimedular y los protocolos de aseguramiento del perímetro antes de la llegada de los servicios de urgencia, capacitando a los educandos en técnicas de auxilio cívico directo.
 
 17\. De la Verdad Procesal en el Entorno Escolar, Filtro Anti-Calumnia y Movilidad Académica Multi-Ruta. La República declara el acoso sistemático (bullying) como un Acto de Sabotaje al Capital Intelectual. No obstante, para evitar que la ley sea usada como arma de difamación, se establece:
 
@@ -3540,7 +3539,7 @@ a)  Un grupo de mediadores ayudará a que las personas se entiendan y arreglen e
 4\. Principio de Igualdad Retributiva: Ante funciones idénticas en el mismo centro de trabajo, el trabajador contratado tendrá derecho a percibir la misma remuneración que el personal de la empresa principal. La empresa principal será Solidariamente Responsable de las obligaciones salariales y de seguridad social.
 
 **5. De la Protección contra el Fraude de Empleo y la Pirámide de Esfuerzo.**\
-Se tipifica como **Robo de Vida** la captación de trabajadores bajo esquemas que exijan un pago previo para \"acceder al empleo\" o que no garanticen la liquidación de haberes en el RNS.
+Se tipifica como Delito de Fraude y Explotación Laboral Agravada la captación de personas bajo esquemas que condicionen el acceso al empleo a desembolsos previos para \"acceder al empleo\" o que no garanticen la liquidación de haberes en el RNS.
 
 a)  **Mecanismo de Pago Protegido:** Queda prohibido el pago de salarios exclusivamente en efectivo o en monedas sin trazabilidad para empresas con más de 3 empleados. El salario debe pasar por el RNS para que el trabajador goce del **Seguro de Impago Automático**.
 
@@ -3624,7 +3623,7 @@ Se tipifica como **Delito de Sabotaje a la Vida Laboral** cualquier acuerdo tác
 
 a)  **Inversión de la Carga de Prueba:** Si un profesional de alta competencia demuestra que, tras una denuncia legítima, ha sido excluido sistemáticamente de su sector, el RNS activará una Auditoría de Contratación sobre las empresas del ramo. El empleador deberá probar con datos de eficiencia técnica por qué no contrató al ciudadano.
 
-b)  **Mantenimiento Biológico del Trabajador:** Queda prohibida la cláusula de \"Riesgo Asumido\" en trabajos que impliquen un desgaste físico irreversible sin un plan de capitalización médica previo. Si una SACA o empresa utiliza el cuerpo del trabajador (stunts, minería, exposición química, entre otros) de forma que cause daño crónico, la empresa deberá depositar de forma inmediata en la Capa C de las AS del afectado el valor de su jubilación anticipada total. El individuo no es carbón para la caldera de la industria.
+b)  **Mantenimiento Biológico del Trabajador:** Queda prohibida la cláusula de \"Riesgo Asumido\" en trabajos que impliquen un desgaste físico irreversible sin un plan de capitalización médica previo. Si una SACA o empresa utiliza el cuerpo del trabajador (stunts, minería, exposición química, entre otros) de forma que cause daño crónico, la empresa deberá depositar de forma inmediata en la Capa C de las AS del afectado el valor de su jubilación anticipada total. Queda prohibido someter al trabajador a regímenes de sobreexplotación que comprometan irreversiblemente su salud o integridad biológica.
 
 c)  **Derecho al Retorno y Redención de Imagen:** Ninguna empresa puede poseer la \"narrativa de fracaso\" de un individuo. El ciudadano tendrá derecho a que el RNS publique su historial de idoneidad técnica por encima de las campañas de difamación corporativa, asegurando que el \"frío\" de la industria no apague su alma.
 
@@ -3632,7 +3631,7 @@ c)  **Derecho al Retorno y Redención de Imagen:** Ninguna empresa puede poseer 
 
 a)  Axioma del Tiempo Humano: La República reconoce que el tiempo es la única propiedad finita e irrecuperable del individuo. El Estado garantiza la Soberanía del Reloj: ningún contrato laboral o compromiso comercial podrá invadir las esferas de sueño, recreación y cuidado familiar por encima de los límites de sostenibilidad biológica certificados por el TAT.
 
-b)  Proscripción del Estatus como Coacción: Se prohíbe la utilización de sistemas de clasificación, rankings de productividad pública o presiones sociales institucionalizadas que utilicen el estatus económico como medio para forzar la auto-explotación del ciudadano. La dignidad no es una variable del rendimiento. La \"lealtad corporativa\" no puede ser invocada para justificar la degradación de la salud mental o la anulación de la vida familiar (Art. 59).
+b)  Proscripción del Estatus como Coacción: Se prohíbe la utilización de sistemas de clasificación, rankings de productividad pública o presiones sociales institucionalizadas que utilicen el estatus económico como medio para forzar la auto-explotación del ciudadano. La dignidad humana prevalece sobre los índices de productividad, prohibiéndose cualquier forma de coacción institucional o laboral que degrade la salud mental o anule los derechos del núcleo familiar (Art. 59).
 
 c)  Derecho al Desconecte Digital: Se establece la Inmunidad del Silencio. La República reconoce que la productividad real nace de la regeneración del individuo. Ningún trabajador está obligado a responder comunicaciones laborales, monitorizar redes o ejecutar tareas fuera de su jornada pactada y registrada en el RNS. El intento de sancionar la desconexión se tipifica como Intrusión en la Morada Temporal del individuo.
 
@@ -3920,12 +3919,11 @@ d)  **Protección al Auxiliante de Terceros:** En el caso de defensa de ancianos
 
 ------------------------------------------------------------------------
 
-## Artículo 74. De la Membrana de Incompatibilidad Galvánica y Autarquía de las Ramas del Estado.
+## Artículo 74. De la Separación Estricta, Incompatibilidad Absoluta y Autarquía de las Ramas del Estado.
 
 Para garantizar que la República sea un sistema de frenos y contrapesos reales y no una emulsión de complicidades, se establece la Separación de Fases de las funciones del Estado bajo las siguientes reglas de hierro de cumplimiento obligatorio e inalterable:
 
-**1. Independencia Hidrofóbica de Origen:**\
-Queda terminantemente prohibida la interferencia, participación o influencia de una rama del Estado en el proceso de selección o nombramiento de los integrantes de otra. Esta incompatibilidad de origen y ejercicio se extiende obligatoriamente al primer grado de consanguinidad y afinidad (cónyuges, padres e hijos). Queda prohibido que miembros de un mismo núcleo familiar ocupen simultáneamente cargos de Alta Jerarquía en distintas ramas del Estado o dentro de una misma rama en municipios colindantes.
+1\. **Independencia Orgánica de Origen:** Queda terminantemente prohibida la interferencia, participación o influencia de una rama del Estado en el proceso de selección o nombramiento de los integrantes de otra. Esta incompatibilidad de origen y ejercicio se extiende obligatoriamente al primer grado de consanguinidad y afinidad (cónyuges, padres e hijos). Queda prohibido que miembros de un mismo núcleo familiar ocupen simultáneamente cargos de Alta Jerarquía en distintas ramas del Estado o dentro de una misma rama en municipios colindantes.
 
 a)  El **Poder Ejecutivo** emana exclusivamente del voto nacional, secreto y directo de la ciudadanía.
 
@@ -3938,7 +3936,7 @@ Con el fin de erradicar el \"carreerismo político\" y la formación de castas i
 
 a)  El ejercicio de cualquier cargo de alta jerarquía o toma de decisión en una rama del Estado (Ejecutiva, Legislativa o Judicial/Control) genera una **incompatibilidad vitalicia** para ejercer cargos en las otras dos ramas.
 
-b)  El ciudadano que opte por el servicio público debe elegir una sola vocación de poder: o la **Voz** (Legislativo), o la **Espada** (Ejecutivo/Defensa), o el **Libro** (Judicial/Técnico). Ningún hombre o mujer podrá tocar dos coronas en una misma existencia biológica. La violación de este precepto será tipificada como Intento de Captura Sistémica y anulará de pleno derecho cualquier nombramiento posterior.
+b)  El ciudadano que acceda al servicio público en cargos directivos o jurisdiccionales de una rama fundamental del Estado queda inhabilitado a perpetuidad para ejercer funciones de mando en las restantes ramas del poder público nacional. La violación de esta incompatibilidad se tipifica como Delito de Usurpación y Concentración de Poderes, acarreando la nulidad absoluta del nombramiento posterior.
 
 **3. Autarquía Financiera Algorítmica (Cero Discrecionalidad):**\
 Ninguna rama del Estado tiene potestad para aprobar, retener, negociar o condicionar el presupuesto de otra.
@@ -3990,11 +3988,11 @@ b)  **De las Tres Firmas Digitales Ineludibles:** Para que el RNS procese y ejec
 
 <!-- -->
 
-i.  **Validación de Viabilidad Ejecutiva (La Espada):** Firma del Presidente de la República, certificando la necesidad política y la capacidad operativa del Estado para ejecutar la medida.
+i.  **Validación del Poder Ejecutivo:** Firma del Presidente de la República, certificando la necesidad política y la capacidad operativa del Estado para ejecutar la medida.
 
-ii. **Validación de Integridad Técnica (El Libro):** Dictamen favorable y firma conjunta del Tribunal de Defensa de la Constitución (TDC) y el Tribunal de Arbitraje Técnico (TAT), certificando que la medida es constitucionalmente lícita y físicamente viable.
+ii. **Validación Técnica y de Constitucionalidad: Dictamen conjunto del Tribunal de Defensa de la Constitución (TDC) y el Tribunal de Arbitraje Técnico (TAT), certificando que la medida es constitucionalmente lícita y físicamente viable.
 
-iii. **Validación de No-Objeción Ciudadana (La Voz):** Ratificación de la Cámara de Vigilancia Aleatoria (CVA) mediante el voto favorable de dos tercios (2/3) de sus miembros, actuando como filtro de control social inmediato.
+iii. **Validación de Control Social:** Ratificación de la Cámara de Vigilancia Aleatoria (CVA) mediante el voto favorable de dos tercios (2/3) de sus miembros, actuando como filtro de control social inmediato.
 
 <!-- -->
 
@@ -4002,42 +4000,39 @@ c)  **Del Bloqueo Algorítmico Automático:** En ausencia de una (1) sola de las
 
 d)  **Compatibilidad Técnica:** Se aclara que este protocolo no interfiere con la independencia operativa del Cuerpo de Programadores (Art. 88.7) en tareas de mantenimiento rutinario o parches de seguridad, limitándose estrictamente a cambios en la **Lógica de Gobierno** y la **Política de Recursos**.
 
-**8. De la Inviolabilidad Galvánica de las Cuatro Potestades:**\
-Se establece la independencia absoluta y el aislamiento operativo entre el Poder Ejecutivo (La Espada), el Tribunal de Defensa de la Constitución (El Libro), el Tribunal Supremo de Justicia (La Toga) y el Tribunal de Arbitraje Técnico (La Regla).
+8\. **De la Independencia Orgánica de las Cuatro Potestades:** Se establece la independencia absoluta y el aislamiento funcional recíproco entre el Poder Ejecutivo, el Tribunal de Defensa de la Constitución, el Tribunal Supremo de Justicia y el Tribunal de Arbitraje Técnico.
 
-a)  **Prohibición de Injerencia Jerárquica:** Ninguna de las cuatro potestades tiene autoridad para ordenar, revocar, suspender o modificar las decisiones de las otras dentro de su ámbito de competencia exclusiva. La discrepancia entre poderes no se resuelve mediante subordinación, sino mediante el **Cónclave de Cierre Sistémico** (Art. 91) o la consulta a la **Cámara de Vigilancia Aleatoria** (CVA).
+    a)  **Prohibición de Injerencia Jerárquica:** Ninguna de las cuatro potestades tiene autoridad para ordenar, revocar, suspender o modificar las decisiones de las otras dentro de su ámbito de competencia exclusiva. La discrepancia entre poderes no se resuelve mediante subordinación, sino mediante el **Cónclave de Cierre Sistémico** (Art. 91) o la consulta a la **Cámara de Vigilancia Aleatoria** (CVA).
 
-b)  **Autarquía Presupuestaria de Flujo Directo:** La asignación de recursos para cada una de las cuatro ramas es automática, porcentual y autoejecutable por el Registro Nacional Soberano (RNS). Queda prohibido que el Ejecutivo detenga los fondos de un tribunal, o que un tribunal condicione la ejecución presupuestaria del otro como mecanismo de presión. El intento de manipular el flujo financiero ajeno será procesado como **Sabotaje a la Estabilidad Nacional**.
+    b)  **Autarquía Presupuestaria de Flujo Directo:** La asignación de recursos para cada una de las cuatro ramas es automática, porcentual y autoejecutable por el Registro Nacional Soberano (RNS). Queda prohibido que el Ejecutivo detenga los fondos de un tribunal, o que un tribunal condicione la ejecución presupuestaria del otro como mecanismo de presión. El intento de manipular el flujo financiero ajeno será procesado como **Sabotaje a la Estabilidad Nacional**.
 
-c)  **Independencia en la Generación de Cargos:** Queda abolido el sistema de nombramientos cruzados. Ninguna rama intervendrá en la selección de los miembros de las otras. El acceso al TDC, TAT y TSJ se realizará exclusivamente mediante **Sorteo Técnico de Idoneidad** (Art. 74.2), eliminando la deuda política de origen.
+    c)  **Independencia en la Generación de Cargos:** Queda abolido el sistema de nombramientos cruzados. Ninguna rama intervendrá en la selección de los miembros de las otras. El acceso al TDC, TAT y TSJ se realizará exclusivamente mediante **Sorteo Técnico de Idoneidad** (Art. 74.2), eliminando la deuda política de origen.
 
-d)  **Soberanía del Ámbito Fáctico (El Cuarto Poder):** Se reconoce al Tribunal de Arbitraje Técnico (TAT) como la autoridad suprema e independiente en materia de hechos físicos, datos técnicos y cumplimiento algorítmico. Ninguna sentencia del TDC o del Tribunal Supremo, ni orden del Presidente, podrá alterar un resultado técnico, una medición de sensores o una constante matemática certificada por el TAT. La ley se somete a la realidad física, y no la realidad física a la voluntad legal o política.
+    d)  **Soberanía del Ámbito Fáctico (El Cuarto Poder):** Se reconoce al Tribunal de Arbitraje Técnico (TAT) como la autoridad suprema e independiente en materia de hechos físicos, datos técnicos y cumplimiento algorítmico. Ninguna sentencia del TDC o del Tribunal Supremo, ni orden del Presidente, podrá alterar un resultado técnico, una medición de sensores o una constante matemática certificada por el TAT. La ley se somete a la realidad física, y no la realidad física a la voluntad legal o política.
 
-e)  **Delito de Intrusión de Rama:** La extralimitación de funciones de un poder que intente usurpar la soberanía operativa de otro será causal de **Destitución Fulminante** por ministerio de la ley, previa validación fáctica del TAT y ratificación humana de la CVA.
+    e)  **Delito de Intrusión de Rama:** La extralimitación de funciones de un poder que intente usurpar la soberanía operativa de otro será causal de **Destitución Fulminante** por ministerio de la ley, previa validación fáctica del TAT y ratificación humana de la CVA.
 
 ------------------------------------------------------------------------
 
-## Artículo 75. Del Cónclave de las Cinco Coronas (Consejo Supremo de Sincronización del Estado).
+## Artículo 75. Del Consejo Superior de Coordinación y Sincronización Institucional del Estado.
 
 Para garantizar la interoperabilidad, la fluidez logística y la respuesta unificada de la República ante desafíos sistémicos, sin vulnerar la independencia operativa de los poderes, se instituye el **Cónclave de las Cinco Coronas** como el órgano máximo de coordinación fáctica y estratégica de la Nación.
 
-**1. Composición Geométrica (Los 15 Nodos):**\
-El Cónclave estará integrado exclusivamente por quince (15) miembros en activo, distribuidos en paridad estricta entre las cinco ramas del Estado:
+1\. **Composición Interinstitucional Paritaria:** El Consejo estará integrado exclusivamente por quince (15) miembros en activo, distribuidos en estricta paridad entre las ramas y órganos del Estado:
 
-a)  **Por el Poder Ejecutivo (La Espada):** El Presidente de la República, el Vicepresidente y el Oficial de Mayor Rango del Cuerpo Nacional de Seguridad (CNSPOC).
+a)  **Por el Poder Ejecutivo:** El Presidente de la República, el Vicepresidente y el Oficial de Mayor Rango del CNSPOC.
 
-b)  **Por el Poder Legislativo (La Voz):** El Presidente de la Cámara de Representantes y dos (2) legisladores elegidos por sorteo técnico anual entre los representantes de los distritos.
+b)  **Por el Poder Legislativo:** El Presidente de la Cámara de Representantes y dos representantes distritales elegidos por sorteo técnico anual.
 
-c)  **Por el Poder Judicial Ordinario (La Toga):** El Presidente del Tribunal Supremo de Justicia (TSJ) y dos (2) Magistrados Supremos.
+c)  **Por el Tribunal Supremo de Justicia:** El Presidente del TSJ y dos Magistrados Supremos.
 
-d)  **Por el Tribunal de Defensa de la Constitución (El Libro):** El Presidente del TDC y dos (2) Magistrados Constitucionales.
+d)  **Por el Tribunal de Defensa de la Constitución:** El Presidente del TDC y dos Magistrados Constitucionales.
 
-e)  **Por el Tribunal de Arbitraje Técnico (La Regla):** El Director General del TAT y dos (2) Ingenieros en Jefe del Senado de Rectores.
+e)  **Por el Tribunal de Arbitraje Técnico:** El Director General del TAT y dos ingenieros o científicos principales acreditados ante el Senado de Rectores.
 
-**2. Naturaleza No Ejecutiva (La Proscripción del Politburó):**\
-El Cónclave carece de potestad para crear leyes, emitir decretos de cumplimiento ciudadano, alterar el presupuesto nacional o dictar sentencias. Constituye una mesa de **Sincronización de Enrutamiento**. Su autoridad se limita a alinear los tiempos, compartir telemetría crítica y destrabar bucles algorítmicos entre las ramas.
+2\. **Naturaleza Deliberativa y Coordinadora:** El Consejo carece de potestades legislativas, jurisdiccionales o de ejecución presupuestaria directa. Su competencia se restringe a la coordinación operativa, interoperabilidad técnica y resolución de conflictos de competencias entre órganos del Estado. Su autoridad se limita a alinear los tiempos, compartir telemetría crítica y destrabar bucles algorítmicos entre las ramas.
 
-**3. Causales de Convocatoria:**\
+3\. **Causales de Convocatoria:**\
 El Cónclave se reunirá de forma ordinaria una (1) vez al trimestre para el \"Balance de Estado\". Sin embargo, podrá ser convocado de emergencia en un plazo de doce (12) horas por la solicitud de al menos dos (2) presidentes de rama, ante los siguientes escenarios:
 
 a)  **Conflicto de Competencia Insoluble:** Cuando dos ramas del Estado reclamen jurisdicción sobre una misma crisis y el algoritmo del RNS no pueda resolver el empate.
@@ -4046,7 +4041,7 @@ b)  **Declaración de Amenaza Biológica o Bélica:** Previo a la activación de
 
 c)  **Riesgo de Colapso Financiero Nacional:** Para coordinar la respuesta de austeridad transversal si el TAT detecta una caída del Índice de Estabilidad Vital (IEV) que amenace el Mínimo Vital de la población.
 
-**4. Transparencia Radical y Criptográfica:**\
+4\. **Transparencia Radical y Criptográfica:**\
 Dada la concentración de poder intelectual en este Cónclave, se prohíbe la opacidad. Las deliberaciones ordinarias serán grabadas y subidas a la Capa Alfa (Pública) del Registro Nacional Soberano (RNS). Únicamente las sesiones convocadas por motivos de Seguridad Nacional o Defensa Estratégica (CNSPOC/Fuerzas Armadas o similares) serán resguardadas en la Capa Gamma (Bóveda de Estado, Art. 22.21.c), auditables exclusivamente por la Cámara de Vigilancia Aleatoria (CVA) tras un periodo de enfriamiento.
 
 ------------------------------------------------------------------------
@@ -4078,7 +4073,7 @@ Se garantiza el derecho a la libre asociación política, pero se proscribe cons
 
             - La inviolabilidad de las Acciones Soberanas (AS) y el funcionamiento de la termodinámica económica (Art. 38).
 
-        iii. **Condición Sine Qua Non:** La asunción del cargo, la emisión de su firma digital como autoridad y el acceso a las llaves criptográficas del Estado (Capa Alfa o Beta) quedarán suspendidos de pleno derecho hasta que el RNS registre la **Aprobación del Certificado de Mando** por parte del funcionario. El que no conoce los límites de la máquina, no recibe las llaves del motor.
+        iii. **Condición Sine Qua Non:** La asunción del cargo, la emisión de su firma digital como autoridad y el acceso a las llaves criptográficas del Estado (Capa Alfa o Beta) quedarán suspendidos de pleno derecho hasta que el RNS registre la **Aprobación del Certificado de Mando** por parte del funcionario. La acreditación de idoneidad y el conocimiento de los límites constitucionales constituyen un requisito habilitante previo e ineludible para el ejercicio del mando público.
 
 2\. **Mecanismo de Postulación de Origen Exclusivamente Municipal y Nulidad de Postulación Corporativa:**
 La República proscribe el monopolio de postulación partidista. Ningún partido político, asociación civil, sindicato, ONG o corporación posee personería jurídica ni capacidad legal ante el Registro Nacional Soberano (RNS) para inscribir, postular, reservar cuotas o asignar candidatos a ningún cargo de elección popular. La única vía de entrada al sistema representativo es el arraigo físico y fáctico en el municipio.
@@ -4106,7 +4101,7 @@ La delimitación territorial de los distritos electorales constituye una funció
     a) Ceguera Demográfica Inviolable: Queda constitucionalmente prohibida la utilización, consulta o integración de datos relativos a historial de sufragio, afiliación política, origen étnico, ingresos económicos o lugar de residencia de los representantes en ejercicio, como variables para el trazado de las fronteras electorales.
     b) Aislamiento del Poder Público: Se prohíbe terminantemente al Poder Legislativo, al Poder Ejecutivo y a cualquier asociación civil o política intervenir en el diseño, debate, modificación o aprobación de los mapas distritales. La jurisdicción sobre la cartografía electoral recae en exclusiva sobre el órgano electoral técnico, bajo la auditoría vinculante del Tribunal de Arbitraje Técnico (TAT).
     c) Cristalización Jurídica (Seguridad Registral): Para garantizar la predictibilidad del sufragio, las fronteras electorales deberán ser publicadas con carácter definitivo e inalterable al menos ciento ochenta (180) días antes de la celebración de cualquier proceso electoral ordinario.
-    d) Tipificación del Fraude Geométrico: La manipulación del trazado territorial ejecutada con el propósito objetivo de concentrar, diluir o aislar artificialmente el peso electoral de un sector de la población ciudadana, independientemente del método técnico empleado, constituye el Delito de Fraude a la Geometría Soberana, conllevando la inhabilitación a perpetuidad de los autores materiales e intelectuales.
+    d) Tipificación del Fraude Geométrico: La manipulación del trazado territorial ejecutada con el propósito objetivo de concentrar, diluir o aislar artificialmente el peso electoral de un sector de la población ciudadana, independientemente del método técnico empleado, constituye el Delito de Manipulación y Fraude Electoral Territorial, conllevando la inhabilitación perpetua para cargos públicos de los autores materiales e intelectuales.
 
 8\. Escrutinio Criptográfico Híbrido: El sistema de votación será híbrido. El registro digital se grabará en el Registro Nacional Soberano de forma inalterable y auditable en tiempo real. En caso de discrepancia técnica, prevalecerá el Respaldo Analógico (Voto Físico) custodiado en archivos municipales bajo vigilancia de la milicia local.
 
@@ -4208,8 +4203,7 @@ c)  Veto del Propietario: Se reafirma el derecho de veto del dueño de la tierra
 
 7\. Mando Supremo de Salvaguarda: El Presidente es el Comandante en Jefe de las Fuerzas Armadas y de la Milicia Nacional de Reserva. Su mando es efectivo exclusivamente para la defensa del territorio y el restablecimiento del orden constitucional ante agresiones externas o rebeliones contra las Cláusulas Pétreas.
 
-8\. Del Gabinete de Mínima Intervención y el Protocolo de Creación de Secretarías Técnicas.\
-El Poder Ejecutivo se organizará bajo un principio de Arquitectura de Microservicios. Se prohíbe la creación de ministerios, carteras, institutos o agencias públicas destinadas a la gestión, regulación o intervención de sectores económicos, culturales, académicos o productivos que puedan ser administrados por la iniciativa privada, las cooperativas o los Nodos Municipales.
+8\. Del Gabinete de Mínima Intervención y Estructura Funcional Descentralizada. El Poder Ejecutivo se organizará bajo el principio de competencia funcional estricta y subsidiaria. Se prohíbe la creación de ministerios, carteras, institutos o agencias públicas destinadas a la gestión, regulación o intervención de sectores económicos, culturales, académicos o productivos que puedan ser administrados por la iniciativa privada, las cooperativas o los Nodos Municipales.
 
 a)  Las Cinco Secretarías Base: El gabinete del Presidente se limitará estrictamente a los titulares de las Secretarías de Salvaguarda y Defensa, Representación Soberana, Tesoro y Fiscalidad, Fe Pública y Registro, y la Agencia de Redes de Interconexión (RRI).
 
@@ -4311,7 +4305,7 @@ iii. **Responsabilidad Patrimonial del Estado:** Si durante los noventa (90) dí
 
 3\. Comandante en Jefe de la Resistencia: En caso de activación del Derecho de Resistencia (Artículo 21), el Presidente asume la coordinación de la Milicia Nacional como última línea de defensa de la Constitución. No es un mando político, es un mando de Salvaguarda Existencial.
 
-4\. Inmunidad frente a la Captura Corporativa: Se prohíbe que el Presidente o el Vicepresidente tengan participaciones accionarias activas, cargos directivos o vínculos de consultoría con cualquier SACA o Consorcio durante su mandato y hasta diez años después de finalizado. Su único \"cliente\" es el Individuo Soberano.
+4\. Inmunidad frente a la Captura Corporativa: Se prohíbe que el Presidente o el Vicepresidente tengan participaciones accionarias activas, cargos directivos o vínculos de consultoría con cualquier SACA o Consorcio durante su mandato y hasta diez años después de finalizado. Su único mandato y deber constitucional es la salvaguarda de los derechos del Individuo Soberano.
 
 ------------------------------------------------------------------------
 
@@ -4364,18 +4358,17 @@ i.  **Naturaleza Asesora:** El Consejo carece de facultades ejecutivas, legislat
 
 ii. **Convocatoria en Crisis:** El Presidente en funciones podrá convocar al Consejo Consultivo ante declaraciones de guerra, emergencias nacionales, desastres biológicos o negociaciones de alta sensibilidad con potencias extranjeras, a fin de escuchar el análisis histórico de sus predecesores.
 
-iii. **Proscripción de la Sombra:** Fuera del ámbito cerrado del Consejo Consultivo, queda terminantemente prohibido a los ex-Presidentes ocupar cargos de dirección en partidos políticos, liderar facciones legislativas o emitir cualquier directiva, pública o privada, a las Fuerzas de Seguridad, el TAT o el RNS.
+iii. **Proscripción de Mando Paralelo o Coacción Extra-Institucional:** Fuera del ámbito deliberativo del Consejo Consultivo, queda terminantemente prohibido a los ex-Presidentes ocupar cargos de dirección en partidos políticos, liderar facciones legislativas o emitir cualquier directiva, pública o privada, a las Fuerzas de Seguridad, el TAT o el RNS.
 
 iv. **Pena por Usurpación:** Si el Tribunal de Defensa de la Constitución (TDC) certifica que un ex-Presidente utiliza su influencia para coaccionar, extorsionar o ejercer un mando paralelo sobre el Presidente en funciones o la burocracia estatal, dicho ex-Presidente será procesado por el delito de Sedición, perdiendo instantáneamente su fuero, su pensión vitalicia y su posición en el Consejo Consultivo.
 
 ------------------------------------------------------------------------
 
-## Artículo 85. Del Estatuto de las Coronas de Servicio, la Dignidad de Retiro y los Consejos de Sabiduría Institucional.
+## Artículo 85. Del Estatuto de Retiro Institucional, Dignidad de la Función y Consejos Consultivos Eméritos.
 
 Para garantizar el equilibrio de poderes, erradicar los incentivos perversos de asimetría económica entre las ramas del Estado y aprovechar el capital intelectual acumulado, la República instituye el régimen de Dignidad de Retiro para la Alta Jerarquía Técnica, Judicial y Militar.
 
-**1. Principio de Equivalencia de las Coronas:**\
-Ninguna rama del Estado poseerá un estatus de retiro superior en dignidad al de las demás. Los Magistrados del Tribunal de Defensa de la Constitución (TDC), los Jueces del Tribunal Supremo de Justicia (TSJ), los Miembros del Tribunal de Arbitraje Técnico (TAT) y los Altos Mandos de las Fuerzas Armadas (Jefatura de Estado Mayor) que culminen su ciclo de servicio constitucional con honores, gozarán de un régimen de protección homólogo al del Presidente de la República (Art. 84.6).
+1\. **Principio de Paridad Institucional de Retiro:** Ninguna rama del Estado poseerá un régimen de retiro privilegiado o asimétrico respecto a las demás. Los Magistrados del Tribunal de Defensa de la Constitución (TDC), los Jueces del Tribunal Supremo de Justicia (TSJ), los Miembros del Tribunal de Arbitraje Técnico (TAT) y los Altos Mandos de las Fuerzas Armadas (Jefatura de Estado Mayor) que culminen su ciclo de servicio constitucional con honores, gozarán de un régimen de protección homólogo al del Presidente de la República (Art. 84.6).
 
 **2. Condición del \"Buen Nombre\":**\
 El acceso a este estatus no es automático por el simple paso del tiempo. Requiere inexcusablemente:
@@ -4600,7 +4593,7 @@ Los Alguaciles de la Constitución son la fuerza civil policial de ejecución fo
 
 a)  **Dualidad de Mando en Crisis:** En condiciones normales, los Alguaciles ejecutan las órdenes del TDC. No obstante, ante una declaración formal de Estado de Error Sistémico (Art. 88.6.c) emitida por la Cámara de Representantes o el Consejo de Decanos, el mando de los Alguaciles revertirá de forma automática y por ministerio de la ley a la Cámara de Vigilancia Aleatoria (CVA).
 
-b)  **El Botón de Pánico Ciudadano:** La CVA, por mayoría de dos tercios de sus miembros sorteados, podrá ordenar a los Alguaciles el arresto preventivo de cualquier magistrado del TDC para su sometimiento a Juicio de Residencia, sin que el TDC pueda interponer veto o amparo alguno sobre esta orden específica.
+b)  **Facultad Extraordinaria de Protección Constitucional:** La CVA, por mayoría de dos tercios de sus miembros sorteados, podrá ordenar a los Alguaciles el arresto preventivo de cualquier magistrado del TDC para su sometimiento a Juicio de Residencia, sin que el TDC pueda interponer veto o amparo alguno sobre esta orden específica.
 
 c)  **Incompatibilidad de los Alguaciles:** Ningún Alguacil podrá haber sido empleado, alumno o familiar de los magistrados en ejercicio. El cuerpo de Alguaciles será rotado cada tres años para evitar el desarrollo de lealtades personales hacia el tribunal.
 
@@ -4635,23 +4628,23 @@ b)  **Prioridad de la Víctima sobre el Fisco:** En caso de recuperación de act
 
 ## Artículo 91. De la Supremacía Técnica y el Cónclave de Cierre Sistémico.
 
-1.  El TAT es la autoridad final en hechos físicos y sus sentencias son de cumplimiento obligatorio para el Poder Ejecutivo y los Gobiernos Municipales; el TDC es la autoridad final en derechos constitucionales.
+1\.  El TAT es la autoridad final en hechos físicos y sus sentencias son de cumplimiento obligatorio para el Poder Ejecutivo y los Gobiernos Municipales; el TDC es la autoridad final en derechos constitucionales.
 
-2.  **En los supuestos de colisión insoluble entre un dictamen de infraestructura emitido por el Tribunal de Arbitraje Técnico (TAT) y una sentencia de derechos fundamentales emitida por el Tribunal de Defensa de la Constitución (TDC), se activará el Cónclave de Cierre.**
+2\.  **En los supuestos de colisión insoluble entre un dictamen de infraestructura emitido por el Tribunal de Arbitraje Técnico (TAT) y una sentencia de derechos fundamentales emitida por el Tribunal de Defensa de la Constitución (TDC), se activará la Sala Plena de Cierre Jurisdiccional y Técnico.**
 
-<!-- -->
+    <!-- -->
 
-a)  Un Magistrado del TDC (sorteado).
+    a)  Un Magistrado del TDC (sorteado).
 
-b)  Un Ingeniero del TAT de la especialidad en conflicto.
+    b)  Un Ingeniero del TAT de la especialidad en conflicto.
 
-c)  Un Rector del Senado Técnico de Rectores.
+    c)  Un Rector del Senado Técnico de Rectores.
 
-<!-- -->
+    <!-- -->
 
-3.  **Veredicto de Realidad:** El fallo del Cónclave constituye la verdad jurídica y técnica definitiva de la República. Es inapelable, de ejecución automática en el RNS y su desobediencia por cualquier autoridad civil o militar será tipificada como **Sabotaje Institucional Agravado**.
+3\.  **Veredicto de Realidad:** El fallo del Cónclave constituye la verdad jurídica y técnica definitiva de la República. Es inapelable, de ejecución automática en el RNS y su desobediencia por cualquier autoridad civil o militar será tipificada como **Sabotaje Institucional Agravado**.
 
-4.  **De la Estructura Operativa y Escalabilidad del TAT.**
+4\.  **De la Estructura Operativa y Escalabilidad del TAT.**
 
     a)  **Naturaleza Sistémica:** El Tribunal de Arbitraje Técnico (TAT) no es un órgano centralizado, sino una jurisdicción técnica nacional. Funciona mediante la activación de **Comisiones Arbitrales Especializadas** (CAE) que operan en paralelo para resolver conflictos de forma simultánea en múltiples municipios.
 
@@ -4675,19 +4668,19 @@ c)  Un Rector del Senado Técnico de Rectores.
 
     f)  **El Peritaje Algorítmico Ciudadano:** Se faculta al TAT para integrar modelos de Inteligencia Artificial de Código Abierto (auditados por el cuerpo de programadores) para la resolución de disputas técnicas de baja complejidad o repetitivas, siempre que el ciudadano mantenga el derecho de apelación a una revisión humana de la CAE.
 
-5.  Del Principio de Ceguera Nacional en el Arbitraje. En todas las disputas técnicas, comerciales o laborales procesadas por el Tribunal de Arbitraje Técnico (TAT):
+5\.  Del Principio de Ceguera Nacional en el Arbitraje. En todas las disputas técnicas, comerciales o laborales procesadas por el Tribunal de Arbitraje Técnico (TAT):
 
     a)  Nulidad de la Identidad: El algoritmo de sorteo de peritos y la presentación de pruebas serán ciegos a la nacionalidad de las partes. Se prohíbe otorgar valor probatorio superior al testimonio de un Ciudadano Soberano frente al de un Residente Extranjero.
 
     b)  Justicia de Flujo: Si un cubano estafa a un extranjero, o viceversa, el RNS ejecutará la compensación (Art. 22.17) con la misma celeridad. Ser dueño de Acciones Soberanas (AS) no otorga inmunidad frente a una deuda legítima con un extranjero.
 
-6.  **Audiencia de Confirmación y Control Legislativo:** Si bien la preselección de los miembros del TAT se realiza mediante sorteo técnico de méritos, su nombramiento definitivo estará sujeto a una **Audiencia de Idoneidad Pública** ante la Cámara de Representantes.
+6\.  **Audiencia de Confirmación y Control Legislativo:** Si bien la preselección de los miembros del TAT se realiza mediante sorteo técnico de méritos, su nombramiento definitivo estará sujeto a una **Audiencia de Idoneidad Pública** ante la Cámara de Representantes.
 
     a)  La Cámara podrá vetar el nombramiento de un miembro del TAT mediante el voto de dos tercios (2/3) de sus integrantes si se demuestra conflicto de intereses o sesgo ideológico documentado.
 
     b)  El TAT tiene la obligación de rendir un informe semestral de transparencia ante la Cámara, detallando la lógica de los algoritmos de despacho y los criterios de eficiencia aplicados a las redes nacionales.
 
-7.  La "infalibilidad" del dato no exime al técnico de la voluntad del soberano.
+7\.  La "infalibilidad" del dato no exime al técnico de la voluntad del soberano.
 
     a)  Los Magistrados del TAT estarán sujetos al mecanismo de Revocación Popular.
 

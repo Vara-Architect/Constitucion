@@ -170,29 +170,20 @@ d)  **Inalienabilidad de la Red Troncal:** El municipio que se separa mantiene l
 
 3\. De la Continuidad de la Fe Pública y la Embajada de Datos.
 
-a)  Se instituye la Embajada de Datos Soberana. El Estado cubano mantendrá un respaldo íntegro, cifrado y en tiempo real del Registro Nacional Soberano (RNS) en servidores ubicados en jurisdicciones internacionales neutrales que posean Tratados de Estricta Reciprocidad.
+    a)  Se instituye la Embajada de Datos Soberana. El Estado cubano mantendrá un respaldo íntegro, cifrado y en tiempo real del Registro Nacional Soberano (RNS) en servidores ubicados en jurisdicciones internacionales neutrales que posean Tratados de Estricta Reciprocidad.
 
-b)  Estos servidores gozarán de Inmunidad Diplomática Digital. La arquitectura del RNS operará bajo un protocolo de fragmentación criptográfica (Sharding), distribuyendo los datos en al menos tres (3) jurisdicciones internacionales neutrales que no compartan alianzas militares o políticas entre sí, garantizando que ninguna potencia extranjera pueda capturar o apagar el sistema de forma unilateral. Su único fin es garantizar la existencia jurídica de la Nación, la identidad de sus ciudadanos y la titularidad de sus propiedades ante catástrofes físicas, climáticas o agresiones cinéticas que inhabiliten los nodos locales.
+    b)  Estos servidores gozarán de Inmunidad Diplomática Digital. La arquitectura del RNS operará bajo un protocolo de fragmentación criptográfica (Sharding), distribuyendo los datos en al menos tres (3) jurisdicciones internacionales neutrales que no compartan alianzas militares o políticas entre sí, garantizando que ninguna potencia extranjera pueda capturar o apagar el sistema de forma unilateral. Su único fin es garantizar la existencia jurídica de la Nación, la identidad de sus ciudadanos y la titularidad de sus propiedades ante catástrofes físicas, climáticas o agresiones cinéticas que inhabiliten los nodos locales.
 
-c)  El control de las llaves criptográficas de acceso a la Embajada de Datos reside exclusivamente en el Tribunal de Defensa de la Constitución (TDC). La activación del nodo espejo solo procederá en caso de Colapso del Amparo Físico certificado por el TAT y el TDC.
+    c)  El control de las llaves criptográficas de acceso a la Embajada de Datos reside exclusivamente en el Tribunal de Defensa de la Constitución (TDC). La activación del nodo espejo solo procederá en caso de Colapso del Amparo Físico certificado por el TAT y el TDC.
 
-4\. Del Deber de Memoria, Resiliencia Documental y Soberanía Histórica.
-La República garantiza la integridad, inmutabilidad y continuidad histórica de sus registros públicos y títulos patrimoniales ante cualquier catástrofe física, energética o política. Se establece con rango constitucional el Mecanismo de Copiado Multimodal Obligatorio:
-
-    a) Jerarquía de Formatos de Resguardo en Tres Capas Físicas:
-    El Registro Nacional Soberano ejecutará trimestralmente un protocolo de respaldo ineludible en tres estratos de distinta naturaleza física:
-
-        i. Capa Alfa (Digital Distribuida): Almacenamiento en red descentralizada, cifrada e interoperable, con réplica en la totalidad de los Nodos Municipales de la República.
-
-        ii. Capa Beta (Física de Media Duración): Fijación en soportes de alta resistencia química, térmica y electromagnética, independientes de software propietario y con vida útil estimada no menor a cien (100) años.
-
-        iii. Capa Gamma (Física de Resistencia Geológica): Grabado indeleble de los Datos Semilla esenciales de la Nación en materiales de durabilidad milenaria y máxima resistencia mecánica.
-
-    b) De la Obligación de Recopiado Activo (Protocolo del Escriba):
-    El Tribunal de Arbitraje Técnico auditará obligatoriamente el estado de conservación de los soportes cada diez (10) años. Ante la detección de degradación material o la aparición de tecnologías de preservación de ciclo superior, la autoridad tiene el mandato constitucional de migrar y duplicar la información. Queda terminantemente prohibido mantener la memoria nacional en formatos cuyo instrumental o dispositivos de lectura hayan desaparecido del mercado o carezcan de estándares abiertos de reproducción.
-
-    c) Descentralización del Riesgo y Soberanía Nodal de Reconstrucción:
-    Queda prohibida la concentración de las copias de seguridad en una sola sede territorial o repositorio centralizado. Cada Municipio tiene la potestad y la obligación de custodiar un duplicado íntegro del Estado Estructural de la Nación, garantizando que la República pueda reconstruir su orden civil, registral y patrimonial desde cualquier Nodo si el resto del territorio resultare devastado.
+4\. Del Deber de Memoria y Resiliencia Documental.
+La República garantiza la integridad histórica de sus registros ante cualquier evento de degradación tecnológica o política. Hasta tanto se desarrolle e implemente una tecnología de almacenamiento masivo de duración milenaria certificada por el TAT, se establece el Mecanismo de Copiado Multimodal:
+    a) Jerarquía de Formatos de Resguardo: El Registro Nacional Soberano (RNS) ejecutará trimestralmente un protocolo de respaldo obligatorio en tres (3) capas de soporte de distinta naturaleza física, por lo que el estado cubano y sus municipios orientarán la búsqueda de una estructura que permita:
+        i. Capa Alfa (Digital Distribuida): Almacenamiento en red cifrada y descentralizada en todos los Nodos Municipales.
+        ii. Capa Beta (Óptica/Analógica de Media Duración): Grabado en soportes de alta resistencia química y térmica (soportes ópticos de grado de archivo, micro-fichas de alta resolución o formatos equivalentes de lectura no dependiente de software propietario) con vida útil estimada no menor a 100 años. (Ajuste: se retira únicamente la sigla comercial "M-DISC" para que abarque cualquier disco óptico de archivo actual o futuro).
+        iii. Capa Gamma (Física de Alta Densidad): Grabado láser de los "Datos Semilla" (regulados bajo la Ley Orgánica del RNS en el Art. 163.1) en placas metálicas o sintéticas de resistencia geológica.
+    b) De la Obligación de Recopiado Activo (Protocolo del Escriba): El TAT auditará el estado de los soportes cada diez (10) años. Ante la detección de degradación física o la aparición de una Tecnología de Preservación de Ciclo Superior, la autoridad tendrá la obligación constitucional de migrar y duplicar la información al nuevo formato. Se prohíbe dejar la memoria nacional en formatos obsoletos cuyo hardware de lectura haya desaparecido del mercado.
+    c) Descentralización del Riesgo: Queda prohibida la centralización de las copias de seguridad en un solo Nodo o Provincia. Cada municipio tendrá la potestad y el recurso para custodiar una copia del "Estado Estructural" de la Nación, asegurando que el país pueda ser reconstruido desde cualquier Nodo si el centro desaparece.
 
 ------------------------------------------------------------------------
 
@@ -204,41 +195,41 @@ La República garantiza la integridad, inmutabilidad y continuidad histórica de
 
 3\. **De la Prohibición de Represalia Administrativa y Obstrucción.** Se tipifica como **Delito de Atentado a la Soberanía Ciudadana** cualquier acto de un funcionario público que condicione, retrase o deniegue la entrega de documentos o la realización de trámites como forma de represalia personal, emocional, en respuesta a críticas, o ideológica, en contra de un ciudadano.
 
-a)  **Silencio Administrativo Positivo:** Ante cualquier solicitud ciudadana que requiera intervención humana excepcional, la falta de respuesta en un plazo de setenta y dos (72) horas se interpretará como Aprobación Automática (Silencio Positivo). El sistema del RNS ejecutará el trámite de oficio y emitirá una alerta disciplinaria inmediata contra el funcionario responsable.
+    a)  **Silencio Administrativo Positivo:** Ante cualquier solicitud ciudadana que requiera intervención humana excepcional, la falta de respuesta en un plazo de setenta y dos (72) horas se interpretará como Aprobación Automática (Silencio Positivo). El sistema del RNS ejecutará el trámite de oficio y emitirá una alerta disciplinaria inmediata contra el funcionario responsable.
 
-b)  **Excepción de Riesgo Sistémico:** Este mecanismo de Aprobación Automática queda estrictamente bloqueado para solicitudes de concesiones que involucren impacto ambiental crítico, manejo de sustancias peligrosas, seguridad estructural o redes de interconexión (RRI). En estos casos, la falta de respuesta en 72 horas no generará aprobación tácita, sino que activará la intervención de oficio del Tribunal de Arbitraje Técnico (TAT) para la evaluación de la solicitud y la destitución automática del funcionario negligente.
+    b)  **Excepción de Riesgo Sistémico:** Este mecanismo de Aprobación Automática queda estrictamente bloqueado para solicitudes de concesiones que involucren impacto ambiental crítico, manejo de sustancias peligrosas, seguridad estructural o redes de interconexión (RRI). En estos casos, la falta de respuesta en 72 horas no generará aprobación tácita, sino que activará la intervención de oficio del Tribunal de Arbitraje Técnico (TAT) para la evaluación de la solicitud y la destitución automática del funcionario negligente.
 
-c)  **Inhabilitación por Arrogancia para el Funcionario:** El funcionario que actúe con dolo, soberbia o represalia en el ejercicio de su función será destituido de forma fulminante y quedará inhabilitado permanentemente para ejercer cualquier cargo, contrato o función vinculada al Estado o los Municipios. La función pública no es un favor, es un servicio técnico sometido a la Ley, no una posición de poder personal.
+    c)  **Inhabilitación por Arrogancia para el Funcionario:** El funcionario que actúe con dolo, soberbia o represalia en el ejercicio de su función será destituido de forma fulminante y quedará inhabilitado permanentemente para ejercer cualquier cargo, contrato o función vinculada al Estado o los Municipios. La función pública no es un favor, es un servicio técnico sometido a la Ley, no una posición de poder personal.
 
-d)  **De la defensa del funcionario:** Un funcionario podrá denunciar abusos por parte de los ciudadanos que en pleno cumplimiento de sus facultades exijan de forma descompuesta, o amenazando, **de forma palpable** la integridad física o emocional del funcionario. El funcionario deberá probar su acusación para que tenga lugar.
+    d)  **De la defensa del funcionario:** Un funcionario podrá denunciar abusos por parte de los ciudadanos que en pleno cumplimiento de sus facultades exijan de forma descompuesta, o amenazando, **de forma palpable** la integridad física o emocional del funcionario. El funcionario deberá probar su acusación para que tenga lugar.
 
-e)  Escala de Responsabilidad y Restitución: Con el fin de armonizar las penas con (Art. 109) (Estatuto de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos) y el (Art. 22.17) (Restitución Patrimonial Forzosa del Depredador), se establece el siguiente régimen para delitos contra el tesoro:
+    e)  Escala de Responsabilidad y Restitución: Con el fin de armonizar las penas con (Art. 109) (Estatuto de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos) y el (Art. 22.17) (Restitución Patrimonial Forzosa del Depredador), se establece el siguiente régimen para delitos contra el tesoro:
 
-    i.  Ámbito Municipal: El funcionario convicto de malversación o soborno enfrentará una inhabilitación de cinco (5) años. Queda obligado a la restitución del valor total de lo robado más un veinte por ciento (20%) de recargo adicional.
+        i.  Ámbito Municipal: El funcionario convicto de malversación o soborno enfrentará una inhabilitación de cinco (5) años. Queda obligado a la restitución del valor total de lo robado más un veinte por ciento (20%) de recargo adicional.
 
-    ii. Ámbito Nacional: Si el infractor pertenece a la Alta Jerarquía, la inhabilitación será de diez (10) años. La restitución exigida será del doble (2x) del monto malversado, de acuerdo con la escala punitiva establecida en el inciso e) de este mismo apartado.
+        ii. Ámbito Nacional: Si el infractor pertenece a la Alta Jerarquía, la inhabilitación será de diez (10) años. La restitución exigida será del doble (2x) del monto malversado, de acuerdo con la escala punitiva establecida en el inciso e) de este mismo apartado.
 
-    iii. Derecho a la Apelación: Se garantiza el derecho inalienable a presentar un recurso de apelación ante el Tribunal de Defensa de la Constitución (TDC). La presentación del recurso no implica su aprobación automática, pero asegura que un tribunal superior revise la evidencia y la justicia del fallo.
+        iii. Derecho a la Apelación: Se garantiza el derecho inalienable a presentar un recurso de apelación ante el Tribunal de Defensa de la Constitución (TDC). La presentación del recurso no implica su aprobación automática, pero asegura que un tribunal superior revise la evidencia y la justicia del fallo.
 
 4\. **Supremacía del Juicio Humano sobre Decisiones No-Binarias:** Se establece la distinción jurídica entre **Ejecución Determinista** (datos duros y flujos matemáticos) y **Juicio Algorítmico Heurístico** (decisiones basadas en predicciones, valores de bienestar o triaje de recursos). El Facilitador Humano y el Juez que intervengan en la interpretación de un Juicio Algorítmico adquieren el estatus jurídico de 'Compiladores de Fe Pública'.
 
-a)  Toda acción sugerida por el sistema del **Registro Nacional Soberano (RNS)** que implique una ponderación de valores sociales o afectación selectiva de derechos ciudadanos, deberá ser traducida a lenguaje natural por el cuerpo de **Facilitadores de Garantías Soberanas**.
+    a)  Toda acción sugerida por el sistema del **Registro Nacional Soberano (RNS)** que implique una ponderación de valores sociales o afectación selectiva de derechos ciudadanos, deberá ser traducida a lenguaje natural por el cuerpo de **Facilitadores de Garantías Soberanas**.
 
-b)  Dichas sugerencias carecen de fuerza ejecutoria automática. Requerirán la validación y firma de un **Magistrado del Tribunal de Defensa (TDC) nacional o municipal** o, en casos de impacto nacional, la ratificación por mayoría simple de la **Cámara de Representantes**.
+    b)  Dichas sugerencias carecen de fuerza ejecutoria automática. Requerirán la validación y firma de un **Magistrado del Tribunal de Defensa (TDC) nacional o municipal** o, en casos de impacto nacional, la ratificación por mayoría simple de la **Cámara de Representantes**.
 
-c)  Ningún ciudadano podrá ser objeto de sanciones, bloqueos de cuentas en el RNS, suspensiones de Capas de Acciones Soberanas (AS) o denegación de trámites civiles basados exclusivamente en ejecuciones automatizadas del sistema. Ante cualquier bloqueo preventivo o de seguridad generado algorítmicamente por el RNS, el sistema activará de forma automática y paralela una Vía de Apelación de Emergencia con un puerto de escucha humana en el TMDC local. Si transcurrido un plazo improrrogable de setenta y dos (72) horas hábiles ningún Magistrado o Guardián de la Soberanía Humano ha ratificado y firmado con su PCSC la medida restrictiva, el bloqueo algorítmico se extinguirá de pleno derecho por caducidad del Estado, restaurándose la plenitud de derechos del ciudadano de forma inmediata y automática en el RNS. No obstante, el proceso podrá ser reabierto por un juez del TSJ si se demuestra que no se pudo atender el caso por causa de fuerza mayor en un periodo posterior de hasta 2 años una vez terminada la fuerza mayor que ocasionó la interrupción.
+    c)  Ningún ciudadano podrá ser objeto de sanciones, bloqueos de cuentas en el RNS, suspensiones de Capas de Acciones Soberanas (AS) o denegación de trámites civiles basados exclusivamente en ejecuciones automatizadas del sistema. Ante cualquier bloqueo preventivo o de seguridad generado algorítmicamente por el RNS, el sistema activará de forma automática y paralela una Vía de Apelación de Emergencia con un puerto de escucha humana en el TMDC local. Si transcurrido un plazo improrrogable de setenta y dos (72) horas hábiles ningún Magistrado o Guardián de la Soberanía Humano ha ratificado y firmado con su PCSC la medida restrictiva, el bloqueo algorítmico se extinguirá de pleno derecho por caducidad del Estado, restaurándose la plenitud de derechos del ciudadano de forma inmediata y automática en el RNS. No obstante, el proceso podrá ser reabierto por un juez del TSJ si se demuestra que no se pudo atender el caso por causa de fuerza mayor en un periodo posterior de hasta 2 años una vez terminada la fuerza mayor que ocasionó la interrupción.
 
-d)  Cualquier distorsión deliberada, omisión de datos o interpretación sesgada del algoritmo para favorecer a un tercero será tipificada como **Sabotaje a la Verdad**.
+    d)  Cualquier distorsión deliberada, omisión de datos o interpretación sesgada del algoritmo para favorecer a un tercero será tipificada como **Sabotaje a la Verdad**.
 
-e)  La pena para este delito será la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** y el ingreso inmediato al **Sistema Penal Productivo** (Art. 22.13). El dolo o la distorsión deliberada de datos en el ejercicio de la función pública constituirá el delito de Sabotaje a la Verdad, sancionado con la inhabilitación perpetua y la responsabilidad patrimonial conforme a este artículo.
+    e)  La pena para este delito será la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** y el ingreso inmediato al **Sistema Penal Productivo** (Art. 22.13). El dolo o la distorsión deliberada de datos en el ejercicio de la función pública constituirá el delito de Sabotaje a la Verdad, sancionado con la inhabilitación perpetua y la responsabilidad patrimonial conforme a este artículo.
 
 5\. **De la Prohibición Absoluta del Soborno y la Corrupción.** Se establece la **Imprescriptibilidad de los Delitos contra el Tesoro y la Fe Pública**. El soborno, en sus modalidades de cohecho activo y pasivo, se define como una forma de **Alta Traición a la Estabilidad Económica**.
 
-a)  **Responsabilidad Binaria:** La ley penal castigará con idéntica severidad tanto al funcionario que solicita o acepta la dádiva (soborno pasivo) como al particular, empresa o entidad que la ofrece o entrega (soborno activo). No existe jerarquía moral en la corrupción; ambos actores son destructores del orden constitucional.
+    a)  **Responsabilidad Binaria:** La ley penal castigará con idéntica severidad tanto al funcionario que solicita o acepta la dádiva (soborno pasivo) como al particular, empresa o entidad que la ofrece o entrega (soborno activo). No existe jerarquía moral en la corrupción; ambos actores son destructores del orden constitucional.
 
-b)  **Pena de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos:** Todo funcionario convicto por soborno será destituido de forma fulminante y quedará inhabilitado de por vida para ejercer cargos públicos, contratar con el Estado o las Municipios, o participar en la administración de SACAs. El corrupto pierde el derecho a servir a la República que intentó pervertir.
+    b)  **Pena de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos:** Todo funcionario convicto por soborno será destituido de forma fulminante y quedará inhabilitado de por vida para ejercer cargos públicos, contratar con el Estado o las Municipios, o participar en la administración de SACAs. El corrupto pierde el derecho a servir a la República que intentó pervertir.
 
-c)  **Confiscación de Beneficios e Indemnización Social:** Además de la pena privativa de libertad, se aplicará la confiscación total de los bienes obtenidos mediante el acto corrupto. El infractor deberá abonar una multa equivalente al **triple del valor del soborno**, la cual será detraída automáticamente de sus Acciones Soberanas (AS), Acciones de Mercado (AM) si la hubiera y/o su patrimonio personal registrado en el RNS.
+    c)  **Confiscación de Beneficios e Indemnización Social:** Además de la pena privativa de libertad, se aplicará la confiscación total de los bienes obtenidos mediante el acto corrupto. El infractor deberá abonar una multa equivalente al **triple del valor del soborno**, la cual será detraída automáticamente de sus Acciones Soberanas (AS), Acciones de Mercado (AM) si la hubiera y/o su patrimonio personal registrado en el RNS.
 
 ------------------------------------------------------------------------
 
@@ -1649,31 +1640,25 @@ d)  **Asunción del Costo:** El Derecho al Error Personal no obliga al Estado ni
 
 3\. De la investigación comercial: La investigación comercial para el sector privado deberá ser subcontratada a un tercero siempre que implique comprometer parte alguna de la privacidad del usuario. Este tercero no podrá compartir datos personales o biométricos con su contratista salvo que la persona ejerza su derecho a prescindir de ella.
 
-a)  En ningún caso esta información podrá conservarse para un fin distinto al estadístico y será de acceso protegido.
+    a)  En ningún caso esta información podrá conservarse para un fin distinto al estadístico y será de acceso protegido.
 
-b)  El usuario debe ser consciente de la persistencia de estos datos y tener mecanismos para su eliminación con relativa facilidad.
+    b)  El usuario debe ser consciente de la persistencia de estos datos y tener mecanismos para su eliminación con relativa facilidad.
 
-4\. **De la Inviolabilidad Sensorial y la Proscripción de las políticas de Espionaje Corporativo hacia el ciudadano.**\
-El dispositivo físico (teléfono móvil, ordenador, sensores domóticos, vehículos inteligentes, y otros de similar índole actuales o futuros) es una extensión de la propiedad privada y la \"Casa\" del ciudadano (Morada Inviolable). Se prohíbe la extracción pasiva de datos sensoriales.
+4\. **De la Inviolabilidad Sensorial y la Proscripción de las políticas de Espionaje Corporativo hacia el ciudadano.**
+El dispositivo físico (teléfono móvil, ordenador, sensores domóticos, vehículos inteligentes, y otros de similar índole actuales o futuros) es una extensión de la propiedad privada y la "Casa" del ciudadano (Morada Inviolable). Se prohíbe la extracción pasiva de datos sensoriales.
 
-a)  **Nulidad de Contratos de Adhesión Ciegos:** Se declaran nulos de pleno derecho y sin valor legal los \"Términos y Condiciones de Uso\" (EULA) que incluyan cláusulas ocultas o no negociables donde el usuario \"ceda\" el acceso en segundo plano a su micrófono, cámara, geolocalización continua o teclado a favor de corporaciones de software, redes sociales, desarrolladores de Inteligencia Artificial (IA), u otros de similar índole.
+    a) Nulidad de Contratos de Adhesión Ciegos: Se declaran nulos de pleno derecho y sin valor legal los "Términos y Condiciones de Uso" (EULA) o cualquier contrato de adhesión que incluya cláusulas ocultas o no negociables donde el usuario "ceda" el acceso en segundo plano a su micrófono, cámara, geolocalización continua o teclado a favor de corporaciones de software, redes sociales, desarrolladores de Inteligencia Artificial (IA), u otros de similar índole. (Ajuste: se añade "o cualquier contrato de adhesión" para que no evadan la nulidad llamándolo "Acuerdo de Privacidad" o "Términos de Servicio").
+    b) Prohibición de Escucha Activa No Comandada: Ninguna aplicación o sistema operativo, nacional o extranjero, podrá activar la captación de audio, video o biometría sin una acción fáctica y deliberada del usuario en ese instante preciso (como la pulsación de un comando o acción física equivalente). La escucha en segundo plano para la creación de "perfiles de interés" o publicidad hiper-dirigida se tipifica como Delito de Invasión Acústica Corporativa. (Ajuste: se amplía "presionar un botón" a "comando o acción física equivalente" para cubrir pantallas táctiles, gestos o conmutadores).
+    c) Auditoría Forense del Dispositivo: El Tribunal de Arbitraje Técnico (TAT) queda facultado para realizar ingeniería inversa y auditar el código de cualquier aplicación masiva que opere en la República. Si se detecta transmisión de datos sensoriales no encriptados o no autorizados tácticamente por el ciudadano, el RNS bloqueará los servidores de dicha empresa en el territorio nacional hasta la purga del código malicioso.
+    d) Excepción: Se exceptúan los mecanismos informáticos adónde el usuario tiene control total sobre el resultado y lo hace de forma deliberada y previa, o elementos que se encuentren desconectados de la red para la escucha de información y procesamiento local, o los mecanismos activados por voz, los cuales no podrán usar este permiso para transmitir información recopilada por ninguna vía, a no ser que el usuario decida vender esa información de forma deliberada y jamás de forma autónoma.
 
-b)  **Prohibición de Escucha Activa No Comandada:** Ninguna aplicación o sistema operativo, nacional o extranjero, podrá activar la captación de audio, video o biometría sin una acción fáctica y deliberada del usuario en ese instante preciso (ej. presionar un botón para grabar). La escucha en segundo plano para la creación de \"perfiles de interés\" o publicidad hiper-dirigida se tipifica como **Delito de Invasión Acústica Corporativa**.
+5\.Del Principio de Propiedad del Dato y el Pago por información o Entrenamiento de Inteligencia Artificial.
+La República reconoce que la experiencia, la voz, el texto y las decisiones del ciudadano no son "datos públicos gratuitos", sino Propiedad Intelectual y Biológica.
 
-c)  **Auditoría Forense del Dispositivo:** El Tribunal de Arbitraje Técnico (TAT) queda facultado para realizar ingeniería inversa y auditar el código de cualquier aplicación masiva que opere en la República. Si se detecta transmisión de datos sensoriales no encriptados o no autorizados tácticamente por el ciudadano, el RNS bloqueará los servidores de dicha empresa en el territorio nacional hasta la purga del código malicioso.
-
-d)  **Excepción:** Se exceptúan los mecanismos informáticos adónde el usuario tiene control total sobre el resultado y lo hace de forma deliberada y previa, o elementos que se encuentren desconectados de la red para la escucha de información y procesamiento local, o los mecanismos activados por voz, los cuales no podrán usar este permiso para transmitir información recopilada por ninguna vía, a no ser que el usuario decida vender esa información de forma deliberada y jamás de forma autónoma.
-
-5\. **Del Principio de Propiedad del Dato y el Pago por información o Entrenamiento de Inteligencia Artificial.**\
-La República reconoce que la experiencia, la voz, el texto y las decisiones del ciudadano no son \"datos públicos gratuitos\", sino **Propiedad Intelectual y Biológica**.
-
-a)  **El Dato como Activo de Mercado (AM):** Queda terminantemente prohibido a cualquier empresa, nacional o extranjera, la recolección de textos, audios, imágenes o preferencias de los ciudadanos cubanos (Web Scraping / Data Mining) con el propósito de entrenar Modelos de Lenguaje Grande (LLMs) o sistemas de Inteligencia Artificial, a menos que medie un **Contrato Inteligente de Arrendamiento de Datos** en el RNS.
-
-b)  **Monetización Soberana (Micro-Regalías):** Si el ciudadano decide voluntariamente aportar su información para el entrenamiento de IA o para recibir publicidad segmentada, la corporación deberá transferirle una regalía en micro-pagos directos a la Capa C (Capital de Maniobra) de su cuenta en el RNS por cada bloque de datos utilizado. El Estado no permite la minería gratuita en la mente de la Nación.
-
-c)  **Prohibición expresa:** Se prohíbe expresamente el uso de esta información vendida con el objetivo de dañar, extorsionar, espiar al usuario y otras de similar índole.
-
-d)  **Excepción:** La Constitución establece los medios mediante los cuales es legal el acceso no autorizado a los datos del usuario.
+    a) El Dato como Activo de Mercado (AM): Queda terminantemente prohibido a cualquier empresa, nacional o extranjera, la recolección de textos, audios, imágenes o preferencias de los ciudadanos cubanos (mediante Web Scraping, minería de datos o cualquier método de extracción masiva) con el propósito de entrenar Modelos de Lenguaje (LLMs), redes neuronales o sistemas de Inteligencia Artificial presentes o futuros, a menos que medie un Contrato Inteligente de Arrendamiento de Datos en el RNS. (Ajuste: se agregan "redes neuronales o sistemas presentes o futuros" para que no evadan la prohibición cuando la IA deje de basarse solo en LLMs).
+    b) Monetización Soberana (Micro-Regalías): Si el ciudadano decide voluntariamente aportar su información para el entrenamiento de IA o para recibir publicidad segmentada, la corporación deberá transferirle una regalía en micro-pagos directos a la Capa C (Capital de Maniobra) de su cuenta en el RNS por cada bloque de datos utilizado. El Estado no permite la minería gratuita en la mente de la Nación.
+    c) Prohibición expresa: Se prohíbe expresamente el uso de esta información vendida con el objetivo de dañar, extorsionar, espiar al usuario y otras de similar índole.
+    d) Excepción: La Constitución establece los medios mediante los cuales es legal el acceso no autorizado a los datos del usuario.
 
 ------------------------------------------------------------------------
 
@@ -2374,7 +2359,7 @@ d)  **Periodo de Enfriamiento y Límite a la Reincidencia:** El directivo o soci
 
 a)  Se exceptúa el impuesto necesario en seguridad nocturna establecido en esta constitución para los negocios involucrados.
 
-2\. Impuesto Único de Seguridad Civil (Tarifa plana o Flat Tax): Se establece un impuesto único y proporcional sobre la utilidad neta de personas naturales y jurídicas. Este impuesto es el único tributo exigible en la República, eximiendo al ciudadano de cualquier otro gravamen sobre la renta, el consumo o el patrimonio. La utilidad neta será calculada de forma automática por el RNS restando los gastos de operación certificados de los ingresos totales, con una diferenciación obligatoria porcentual considerado por debajo el monto para los pagos realizados en la moneda nacional cubana, estableciéndose las siguientes tasas Máximas Constitucionales:
+2\. Impuesto Único de Seguridad Civil (Tarifa plana o Flat Tax): Se establece un impuesto único y proporcional sobre la utilidad neta de personas naturales y jurídicas. Este impuesto es el único tributo exigible en la República, eximiendo al ciudadano de cualquier otro gravamen sobre la renta, el consumo o el patrimonio. La utilidad neta será calculada de forma automática por el RNS restando los gastos de operación certificados de los ingresos totales, con una diferenciación porcentual bonificada para los pagos realizados en moneda nacional cubana, estableciéndose las siguientes tasas Máximas Constitucionales:
 
 a)  Tasa en Moneda Nacional: Veintinueve por ciento (29%) para obligaciones liquidadas en moneda nacional.
 
@@ -2402,7 +2387,7 @@ ii. Dictamen técnico del Tribunal de Arbitraje Técnico (TAT) que certifique qu
 
 d)  Durante su vigencia, los recursos recaudados por este piso se destinarán exclusivamente a garantizar la operatividad de la Defensa Nacional y la infraestructura crítica.
 
-4\. Techo Máximo Constitucional: El Congreso fijará anualmente la tasa impositiva, la cual bajo ninguna circunstancia podrá exceder el establecido en el inciso 2. Cualquier tasa superior será considerada acto de confiscación ilegal y nula de pleno derecho si no está establecida en esta constitución mediante los mecanismos creados en ella.
+4\. Techo Máximo Constitucional: El Congreso fijará anualmente la tasa impositiva, la cual bajo ninguna circunstancia podrá exceder las establecidas en el inciso 2. Cualquier tasa superior será considerada acto de confiscación ilegal y nula de pleno derecho si no está establecida en esta constitución mediante los mecanismos creados en ella.
 
 5\. Exención Familiar y Personal: Quedan exentos de todo gravamen los traspasos de capital entre cuentas personales (P2P) con fines de ayuda familiar, regalos, herencias directas o ahorro y cualquier forma de doble tributación sobre capitales o dividendos ya gravados. El impuesto único solo se activará mediante un \"Disparador Comercial\" al momento de generarse utilidad en cuentas registradas como actividad económica.
 
@@ -2494,7 +2479,7 @@ a)  Los proyectos financiados por este fondo quedan eximidos del requisito de Va
 
 b)  El fracaso técnico, operativo o económico de un proyecto ejecutado bajo este fondo se considerará "Costo de Aprendizaje Sistémico". Queda proscrita la imposición de sanciones civiles, penales o de inhabilitación al funcionario gestor por la pérdida de este capital, salvo que se demuestre, mediante auditoría forense del RNS, la existencia de dolo, fraude o desvío hacia patrimonios personales.
 
-c)  Este fondo puede ser ampliado puntualmente hasta un 3% adicional en casos de necesidad real certificada por mayoría simple del congreso (nacional o municipal según corresponda), con estudio de factibilidad previo aprobado por el TAT.
+c)  Este fondo puede ser ampliado puntualmente hasta un 3% adicional en casos de necesidad real certificada por mayoría simple de la Cámara de Representantes o de la Asamblea Municipal, según corresponda, con estudio de factibilidad previo aprobado por el TAT.
 
 7\. **Del Procedimiento de Acceso y Evaluación Ciega.** Tanto los particulares como las sociedades comerciales podrán acceder a estos fondos y subvenciones mediante la presentación de proyectos técnicos específicos. El otorgamiento se regirá por el Protocolo de Evaluación Ciega: los proyectos serán calificados por un Comité Técnico independiente que desconocerá la identidad de los proponentes hasta la emisión del fallo, garantizando la igualdad de oportunidades y el mérito técnico superior, proscribiendo toda asignación directa. Los retornos, reintegros o la recuperación de capital semilla derivados del éxito operativo retornarán de forma automática y algorítmica al mismo fondo en el Registro Nacional Soberano para financiar nuevos ciclos productivos locales.
 
@@ -2658,17 +2643,21 @@ c)  **Arbitraje de Flujo Rápido:** En caso de disputa en frontera municipal, el
 
 ------------------------------------------------------------------------
 
-## Artículo 49. De la Libertad Monetaria y Límites al Endeudamiento.
+## Artículo 49. De la Libertad Monetaria, la Inviolabilidad del Dinero Físico y Límites al Endeudamiento.
 
 1\. Independencia del Banco Central: El Banco Central de Cuba es una entidad técnica independiente. Se le prohíbe constitucionalmente la emisión de moneda para financiar gasto público o adquirir deuda del Tesoro (Prohibición de Financiamiento Inorgánico).
 
-2\. Libertad de Contratación Monetaria: Se garantiza la libertad total de contratación y ahorro en cualquier moneda de curso legal extranjera, metales preciosos o activos digitales que las partes acuerden. No existe el curso forzoso de un signo monetario específico para transacciones privadas.
+2\. Libertad de Contratación Monetaria y Preservación Perpetua del Efectivo Físico. Se garantiza la libertad total de contratación, ahorro e intercambio en cualquier signo monetario, sea este moneda nacional física, divisas extranjeras, metales preciosos amonedados o activos digitales descentralizados. No existirá el curso forzoso de un signo monetario específico para transacciones privadas.
+
+    a) Se declara la existencia y circulación del dinero físico tangible (billetes y monedas metálicas) como un instrumento permanente e inalienable de soberanía y libertad individual.
+
+    b) Queda terminantemente prohibido al Estado, al Banco Central o a cualquier autoridad pública eliminar, descontinuar o sustituir de forma definitiva la emisión de circulante físico. La República proscribe de manera absoluta la transición obligatoria hacia una sociedad sin efectivo.
 
 3\. Límite de Deuda Pública y Responsabilidad Intergeneracional: El endeudamiento público total no podrá exceder el veinte por ciento (20%) del PIB. Toda operación de crédito externo requerirá la aprobación de las tres cuartas partes (75%) del Congreso, previa auditoría técnica y dictamen favorable del TDC.
 
-a)  Caducidad de los Plazos: Ninguna operación de crédito público podrá pactarse a un plazo superior a los quince (15) años, garantizando que la carga de la deuda no sea transferida a la siguiente generación.
+    a)  Caducidad de los Plazos: Ninguna operación de crédito público podrá pactarse a un plazo superior a los quince (15) años, garantizando que la carga de la deuda no sea transferida a la siguiente generación.
 
-b)  Nulidad de Deuda Perpetua: Todo contrato de deuda que pretenda obligar al Tesoro por un periodo superior al ciclo de vida laboral de la legislatura que lo contrae, o que no especifique un plan de amortización dentro del plazo establecido en el inciso anterior, será nulo de pleno derecho y no vinculante para la República.
+    b)  Nulidad de Deuda Perpetua: Todo contrato de deuda que pretenda obligar al Tesoro por un periodo superior al ciclo de vida laboral de la legislatura que lo contrae, o que no especifique un plan de amortización dentro del plazo establecido en el inciso anterior, será nulo de pleno derecho y no vinculante para la República.
 
 4\. Cláusula de Reactivación Crítica: Excepcionalmente, y solo para la reconstrucción de infraestructura vital (energía y agua), el Congreso podrá autorizar una elevación temporal del techo de deuda mediante el voto de tres cuartas partes (3/4) de sus miembros y la ratificación de dos tercios (2/3) de las Asambleas Municipales. Esta medida tendrá una vigencia máxima improrrogable de sesenta (60) meses.
 
@@ -2676,56 +2665,57 @@ b)  Nulidad de Deuda Perpetua: Todo contrato de deuda que pretenda obligar al Te
 
 6\. De la Integración Financiera Global y la Prevención de Ilícitos: La República de Cuba reafirma su compromiso con la integridad del sistema financiero internacional.
 
-a)  Interoperabilidad y Estándares (SWIFT/ISO): El sistema bancario nacional y el Registro Nacional Soberano (RNS) adoptarán los estándares técnicos necesarios (sean los actuales o futuros) para garantizar la interoperabilidad plena con las redes de pagos internacionales y sistemas de liquidación global.
+    a)  Interoperabilidad y Estándares (SWIFT/ISO): El sistema bancario nacional y el Registro Nacional Soberano (RNS) adoptarán los estándares técnicos necesarios (sean los actuales o futuros) para garantizar la interoperabilidad plena con las redes de pagos internacionales y sistemas de liquidación global.
 
-b)  Cooperación contra el Crimen Financiero: Si bien se protege la privacidad del patrimonio lícito (Artículo 8), el Estado cooperará activamente con organismos internacionales en la prevención y persecución del lavado de activos, el financiamiento al terrorismo y la proliferación de armas.
+    b)  Cooperación contra el Crimen Financiero: Si bien se protege la privacidad del patrimonio lícito (Artículo 8), el Estado cooperará activamente con organismos internacionales en la prevención y persecución del lavado de activos, el financiamiento al terrorismo y la proliferación de armas.
 
-c)  Levantamiento del Secreto por Causa Probable: La reserva bancaria y la encriptación de activos digitales no podrán ser invocadas para blindar capitales de origen criminal. Ante requerimientos judiciales internacionales basados en tratados de asistencia legal mutua y debidamente validados por el Tribunal Supremo de Justicia (TSJ), se procederá a la desvelación de la información solicitada, garantizando que la República no sea utilizada como refugio de capitales ilícitos (Paraíso Fiscal de Crimen).
+    c)  Levantamiento del Secreto por Causa Probable: La reserva bancaria y la encriptación de activos digitales no podrán ser invocadas para blindar capitales de origen criminal. Ante requerimientos judiciales internacionales basados en tratados de asistencia legal mutua y debidamente validados por el Tribunal Supremo de Justicia (TSJ), se procederá a la desvelación de la información solicitada, garantizando que la República no sea utilizada como refugio de capitales ilícitos (Paraíso Fiscal de Crimen).
 
 **7. Del Derecho al Testimonio Digital de Acto Material (TDAM):**\
 Se instituye el TDAM como la herramienta fundamental del Registro Nacional Soberano (RNS) para otorgar seguridad jurídica a los intercambios físicos de bienes, servicios, divisas o valores.
 
-a)  **Naturaleza Voluntaria y No Prestacional:** El registro de una transacción mediante TDAM es un acto de libre voluntad del ciudadano. No es obligatorio para la validez del intercambio, ni constituye de forma automática un hecho imponible, salvo que la naturaleza de la transacción corresponda a una actividad económica profesional registrada.
+    a)  **Naturaleza Voluntaria y No Prestacional:** El registro de una transacción mediante TDAM es un acto de libre voluntad del ciudadano. No es obligatorio para la validez del intercambio, ni constituye de forma automática un hecho imponible, salvo que la naturaleza de la transacción corresponda a una actividad económica profesional registrada.
 
-b)  **Protección de la Libertad de Registro:**
+    b)  **Protección de la Libertad de Registro:**
 
-    i.  Queda terminantemente prohibido a cualquier autoridad o particular obligar a un ciudadano a generar o no un TDAM.
+        i.  Queda terminantemente prohibido a cualquier autoridad o particular obligar a un ciudadano a generar o no un TDAM.
 
-    ii. Se prohíbe asimismo el impedimento del uso del TDAM. El intento de prohibir a un ciudadano el escaneo o registro de una entrega de valor se considerará indicio de dolo y activará la Alerta de Riesgo en el RNS.
+        ii. Se prohíbe asimismo el impedimento del uso del TDAM. El intento de prohibir a un ciudadano el escaneo o registro de una entrega de valor se considerará indicio de dolo y activará la Alerta de Riesgo en el RNS.
 
-c)  **Mecánica Transaccional Bilateral:**
+    c)  **Mecánica Transaccional Bilateral:**
 
-    i.  **Carga del Pagador:** El derecho a generar la evidencia reside prioritariamente en quien entrega el valor (pagador o donante).
+        i.  **Carga del Pagador:** El derecho a generar la evidencia reside prioritariamente en quien entrega el valor (pagador o donante).
 
-    ii. **Protocolo de Escaneo Directo:** El receptor del valor tiene el derecho de presentar un código QR pre-generado en su PCSC con los datos de la transacción para facilitar el registro. El acto de escanear dicho código por parte del pagador constituye la perfección de la prueba digital.
+        ii. **Protocolo de Escaneo Directo:** El receptor del valor tiene el derecho de presentar un código QR pre-generado en su PCSC con los datos de la transacción para facilitar el registro. El acto de escanear dicho código por parte del pagador constituye la perfección de la prueba digital.
 
-d)  **Versatilidad de Modelos y Nota Abierta:** El RNS proveerá interfaces adaptativas para diversos escenarios, incluyendo:
+    d)  **Versatilidad de Modelos y Nota Abierta:** El RNS proveerá interfaces adaptativas para diversos escenarios, incluyendo:
 
-    i.  **Modelos Parametrizados:** Compraventa, permuta, arrendamiento, préstamo y donación.
+        i.  **Modelos Parametrizados:** Compraventa, permuta, arrendamiento, préstamo y donación.
 
-    ii. **Modelo de Nota Libre:** Un campo de registro abierto donde el ciudadano puede describir en lenguaje natural el objeto y condiciones del acto material.
+        ii. **Modelo de Nota Libre:** Un campo de registro abierto donde el ciudadano puede describir en lenguaje natural el objeto y condiciones del acto material.
 
-e)  **Valor de Verdad Jurídica:** El TDAM registrado en el RNS posee valor de **Prueba Fáctica Prevalente** ante el Tribunal de Arbitraje Técnico (TAT) y los Tribunales de la República. Ante una disputa donde una de las partes presente un TDAM y la otra carezca de evidencia registrada, la carga de la prueba se invertirá contra la parte que omitió o rechazó el registro.
+    e)  **Valor de Verdad Jurídica:** El TDAM registrado en el RNS posee valor de **Prueba Fáctica Prevalente** ante el Tribunal de Arbitraje Técnico (TAT) y los Tribunales de la República. Ante una disputa donde una de las partes presente un TDAM y la otra carezca de evidencia registrada, la carga de la prueba se invertirá contra la parte que omitió o rechazó el registro.
 
-f)  **Conversión a Factura Soberana:** Todo TDAM puede ser transformado, por voluntad del emisor y aceptación del receptor, en una Factura Comercial válida para deducciones fiscales o auditorías de capital de maniobra, integrándose automáticamente en la Capa Alfa o Beta de transparencia según corresponda.
+    f)  **Conversión a Factura Soberana:** Todo TDAM puede ser transformado, por voluntad del emisor y aceptación del receptor, en una Factura Comercial válida para deducciones fiscales o auditorías de capital de maniobra, integrándose automáticamente en la Capa Alfa o Beta de transparencia según corresponda.
 
-8\. **Del Resguardo de la Transacción Analógica (La \"Cédula de Entrega\").**\
-La República reconoce el curso legal del efectivo y metales preciosos (Art. 49.2). Sin embargo, para que estos activos gocen del **Amparo de Restitución de los Alguaciles**, se establece el Protocolo de Registro de Acto Material.
+8\. De la Tenencia Irrestricta de Dinero Físico, Soberanía de Custodia y la Transacción Analógica. La República reconoce el derecho inalienable de todo ciudadano y persona jurídica a poseer, custodiar, transportar e intercambiar dinero en efectivo en cualquier volumen, cuantía o denominación, sin que el Estado pueda imponer topes máximos de tenencia física, porcentajes obligatorios de bancarización digital ni restricciones al monto de las transacciones en metálico.
 
-a)  **La Notaría Instantánea PCSC:** Todo ciudadano que realice un intercambio físico de alto valor (efectivo, oro, divisas extranjeras) tiene el derecho de generar un **Ticket de Testimonio Material** en su Pasaporte de Ciudadanía Soberana (PCSC).
+    a) Proscripción de la Presunción de Culpabilidad Financiera: La tenencia, almacenamiento privado o movilización de altas sumas de dinero en efectivo no constituye, por sí misma, indicio de delito, falta administrativa ni hecho imponible extraordinario. Se prohíbe la incautación preventiva de dinero físico basada exclusivamente en la cuantía portada, exigiéndose orden judicial motivada y fundada en la comisión comprobada de un delito material tipificado.
 
-b)  **Función del Ticket:** Al momento de la entrega del dinero físico, el pagador puede solicitar al receptor que escanee un código QR de \"Recepción de Valor\". Esto no es un impuesto, es un **Sello de Evidencia**.
+    b) Soberanía del Excedente Tributado: El deber del ciudadano hacia la Nación se extingue con la declaración veraz de sus ingresos y la liquidación del Impuesto Único Proporcional (Flat Tax, Artículo 43). Una vez cumplida la obligación fiscal, la decisión de mantener el capital líquido en cuentas digitales o en custodia material física pertenece al ámbito exclusivo de la privacidad individual (Capa Gamma), quedando prohibida cualquier auditoría sobre el método o lugar de almacenamiento del dinero físico legítimo.
 
-c)  **Consecuencia Legal de la Opacidad:** Si un ciudadano es estafado en una transacción física y **voluntariamente omitió** el uso del Ticket de Testimonio, el Tribunal de Arbitraje Técnico (TAT) solo podrá actuar bajo \"Presunción Débil\". Si el ticket existe, el TAT activará inmediatamente el **Embargo de Acciones Soberanas** del estafador aunque el dinero robado sea físico e indetectable. El sistema cobra la deuda de los dividendos futuros del delincuente.
+    c) Protección del Pago en Efectivo: Ningún comercio, empresa pública, Sociedad Anónima de Capital Abierto (SACA) o particular podrá ser obligado por el Estado a rechazar el dinero físico como medio liberatorio de pago.
+
+    d) Del Resguardo de la Transacción Analógica y la Cédula de Entrega: Para que las transacciones en efectivo gocen del amparo de restitución forzosa ante los Alguaciles de la Constitución en caso de estafa (Artículo 22.17), las partes conservan el derecho voluntario de emitir el Ticket de Testimonio Material en el Registro Nacional Soberano (RNS), sin que la omisión de este registro invalide la licitud del intercambio físico acordado entre partes libres.
 
 9\. **Del Arbitraje de Activos Descentralizados y la Pasarela de Seguridad.**\
 Se prohíbe la indefensión del ciudadano ante estafas en redes blockchain externas (Bitcoin, Ethereum, Monero).
 
-a)  **El Sello de Billetera Verificada:** El RNS permitirá a los ciudadanos vincular sus direcciones de criptodivisas externas a su identidad soberana (Capa Gamma).
+    a)  **El Sello de Billetera Verificada:** El RNS permitirá a los ciudadanos vincular sus direcciones de criptodivisas externas a su identidad soberana (Capa Gamma).
 
-b)  **Inmunidad por Escrow Algorítmico:** Toda SACA o Negociante Universal que acepte criptodivisas como pago, está obligado a ofrecer una \"Caja de Seguridad de Bloqueo\" (Smart Escrow) auditada por el TAT. Si el estafador intenta enviar los fondos a un \"Mixer\" para desaparecer el rastro, el RNS activará la **Alerta de Inconsistencia Termodinámica** y bloqueará la salida del valor hacia nodos fuera de la jurisdicción cubana si detecta dolo.
+    b)  **Inmunidad por Escrow Algorítmico:** Toda SACA o Negociante Universal que acepte criptodivisas como pago, está obligado a ofrecer una \"Caja de Seguridad de Bloqueo\" (Smart Escrow) auditada por el TAT. Si el estafador intenta enviar los fondos a un \"Mixer\" para desaparecer el rastro, el RNS activará la **Alerta de Inconsistencia Termodinámica** y bloqueará la salida del valor hacia nodos fuera de la jurisdicción cubana si detecta dolo.
 
-c)  **Responsabilidad del Intermediario de Liquidación:** Las personas naturales o jurídicas que actúen habitualmente como intermediarios de canje entre signos monetarios materiales y activos digitales, incurrirán en responsabilidad civil y patrimonial solidaria, conforme al **Artículo 4.5.a y al Artículo 22.17**, si facilitan la transferencia o extracción de capital ilícito omitiendo la verificación registral del origen de los fondos.
+    c)  **Responsabilidad del Intermediario de Liquidación:** Las personas naturales o jurídicas que actúen habitualmente como intermediarios de canje entre signos monetarios materiales y activos digitales, incurrirán en responsabilidad civil y patrimonial solidaria, conforme al **Artículo 4.5.a y al Artículo 22.17**, si facilitan la transferencia o extracción de capital ilícito omitiendo la verificación registral del origen de los fondos.
 
 10\. La infraestructura estratégica de la Nación y de las Sociedades de Capital Ciudadano es Inembargable e Impignorable. Ninguna deuda pública o privada podrá utilizar como garantía los activos físicos o flujos de caja derivados del patrimonio restituido al pueblo cubano (Artículo 110).
 
@@ -2733,69 +2723,68 @@ c)  **Responsabilidad del Intermediario de Liquidación:** Las personas naturale
 
 12\. Del Servicio de la Deuda y su Amortización Exclusiva:
 
-a)  El servicio de la deuda pública externa e interna, incluyendo el pago de capital, intereses y comisiones, se atenderá de forma obligatoria y preferente con cargo exclusivo a la cuota del treinta por ciento (30%) de la recaudación tributaria destinada al Tesoro Nacional, conforme a la distribución fiscal definida en el Artículo 44.2.
+    a)  El servicio de la deuda pública externa e interna, incluyendo el pago de capital, intereses y comisiones, se atenderá de forma obligatoria y preferente con cargo exclusivo a la cuota del treinta por ciento (30%) de la recaudación tributaria destinada al Tesoro Nacional, conforme a la distribución fiscal definida en el Artículo 44.2.
 
-b)  Se prohíbe terminantemente la transferencia de la carga de la deuda nacional a los presupuestos municipales. Bajo ninguna circunstancia, ni aun en caso de cese de pagos o ejecución de garantías internacionales, el Gobierno Nacional podrá retener, pignorar o detraer fondos del setenta por ciento (70%) correspondiente a la autonomía municipal para el cumplimiento de obligaciones financieras federales.
+    b)  Se prohíbe terminantemente la transferencia de la carga de la deuda nacional a los presupuestos municipales. Bajo ninguna circunstancia, ni aun en caso de cese de pagos o ejecución de garantías internacionales, el Gobierno Nacional podrá retener, pignorar o detraer fondos del setenta por ciento (70%) correspondiente a la autonomía municipal para el cumplimiento de obligaciones financieras federales.
 
-c)  El Presupuesto General de la República aprobado anualmente por el Congreso deberá detallar la partida específica de amortización, la cual estará sujeta a la disponibilidad líquida del Tesoro Nacional. Si la carga del servicio de la deuda pusiera en peligro la operatividad de la Defensa Nacional o la Justicia Federal, el Poder Ejecutivo estará obligado a iniciar procesos de renegociación o auditoría de deuda antes de afectar los servicios esenciales nacionales.
+    c)  El Presupuesto General de la República aprobado anualmente por el Congreso deberá detallar la partida específica de amortización, la cual estará sujeta a la disponibilidad líquida del Tesoro Nacional. Si la carga del servicio de la deuda pusiera en peligro la operatividad de la Defensa Nacional o la Justicia Federal, el Poder Ejecutivo estará obligado a iniciar procesos de renegociación o auditoría de deuda antes de afectar los servicios esenciales nacionales.
 
-d)  Toda operación de pago de deuda será grabada de forma inalterable en el Registro Nacional Soberano, permitiendo a cada Municipio verificar en tiempo real que su cuota soberana de participación nacional está siendo empleada conforme a este mandato constitucional.
+    d)  Toda operación de pago de deuda será grabada de forma inalterable en el Registro Nacional Soberano, permitiendo a cada Municipio verificar en tiempo real que su cuota soberana de participación nacional está siendo empleada conforme a este mandato constitucional.
 
 13\. **Del Sistema Bancario de Apalancamiento Soberano:** Se faculta a las instituciones bancarias nacionales a utilizar el Núcleo Soberano Inviolable (el 51% de las acciones en manos del pueblo definido en el Artículo 117) como garantía colateral global (*Standard Sovereign Guarantee*) ante mercados internacionales de crédito.
 
-a)  El capital obtenido mediante este apalancamiento se destinará exclusivamente a la creación de Líneas de Crédito de Inversión Primaria para Sociedades Anónimas (SA) particulares, cuya cadena de suministros sea mayoritariamente nacional.
+    a)  El capital obtenido mediante este apalancamiento se destinará exclusivamente a la creación de Líneas de Crédito de Inversión Primaria para Sociedades Anónimas (SA) particulares, cuya cadena de suministros sea mayoritariamente nacional.
 
-b)  Los ciudadanos podrán pignorar el flujo futuro de sus dividendos proyectados en el Registro Nacional Soberano (RNS) para la obtención de microcréditos destinados a la fundación de empresas productivas, de conformidad con los términos de la Capa C del Artículo 115.5.c.
+    b)  Los ciudadanos podrán pignorar el flujo futuro de sus dividendos proyectados en el Registro Nacional Soberano (RNS) para la obtención de microcréditos destinados a la fundación de empresas productivas, de conformidad con los términos de la Capa C del Artículo 115.5.c.
 
 14**.** Se establece el **Blindaje Algorítmico contra el Arbitrio Político**. Queda terminantemente prohibida cualquier inyección de capital digital o impreso, aumento de partidas salariales públicas o incremento de pensiones que no cuente con la certificación de solvencia emitida por el algoritmo del Tesoro Nacional en el Registro Nacional Soberano. Ninguna autoridad, incluido el Presidente de la República, posee facultad para alterar los parámetros matemáticos de equilibrio monetario por decreto. Toda orden de pago que contravenga la disponibilidad líquida real detectada por el sistema será bloqueada automáticamente, y sus promotores serán procesados por sabotaje a la estabilidad nacional.
 
 15\. **Del Principio de Paridad en la Transición Monetaria y Proscripción del Canje Confiscatorio.**\
 La República reconoce que el signo monetario es solo un vehículo de valor; el valor mismo pertenece al ciudadano. Para evitar la repetición del despojo histórico mediante canjes fraudulentos, se establece:
 
-a)  **Inviolabilidad de la Masa Monetaria Total:** En caso de que el Estado o el Banco Central decidan sustituir el signo monetario nacional por uno nuevo, el canje será de **carácter universal, ilimitado y con paridad matemática exacta (1:1 o la tasa técnica auditada)** para la totalidad de los haberes registrados en el Registro Nacional Soberano (RNS).
+    a)  **Inviolabilidad de la Masa Monetaria Total:** En caso de que el Estado o el Banco Central decidan sustituir el signo monetario nacional por uno nuevo, el canje será de **carácter universal, ilimitado y con paridad matemática exacta (1:1 o la tasa técnica auditada)** para la totalidad de los haberes registrados en el Registro Nacional Soberano (RNS).
 
-b)  **Prohibición de Techos de Canje:** Queda terminantemente prohibido, y se tipifica como **Crimen de Alta Traición a la Estabilidad Económica**, el establecimiento de límites máximos, cuotas por núcleo familiar, o la congelación de excedentes durante una transición monetaria.
+    b)  **Prohibición de Techos de Canje:** Queda terminantemente prohibido, y se tipifica como **Crimen de Alta Traición a la Estabilidad Económica**, el establecimiento de límites máximos, cuotas por núcleo familiar, o la congelación de excedentes durante una transición monetaria.
 
-c)  **Automatización y Sincronicidad:** El canje no se realizará \"en ventanilla\" ni mediante la entrega física condicionada. Al activarse un cambio de moneda, el RNS ejecutará una **Transmutación Algorítmica Simultánea**. El saldo que el ciudadano tenía en la moneda antigua aparecerá instantáneamente en la moneda nueva, sin necesidad de trámites, permisos o inspecciones de origen previas al cambio.
+    c)  **Automatización y Sincronicidad:** El canje no se realizará \"en ventanilla\" ni mediante la entrega física condicionada. Al activarse un cambio de moneda, el RNS ejecutará una **Transmutación Algorítmica Simultánea**. El saldo que el ciudadano tenía en la moneda antigua aparecerá instantáneamente en la moneda nueva, sin necesidad de trámites, permisos o inspecciones de origen previas al cambio.
 
-d)  **Inoponibilidad del \"Origen de Fondos\" para el Canje:** El Estado no podrá invocar la \"lucha contra el mercado negro\" o la \"acumulación ilícita\" como excusa para limitar el canje. Si existe sospecha de delito, el Estado debe iniciar un proceso judicial individualizado (Art. 22), pero jamás puede usar la política monetaria como un mazo para castigar a toda la población mediante la pérdida de valor.
+    d)  **Inoponibilidad del \"Origen de Fondos\" para el Canje:** El Estado no podrá invocar la \"lucha contra el mercado negro\" o la \"acumulación ilícita\" como excusa para limitar el canje. Si existe sospecha de delito, el Estado debe iniciar un proceso judicial individualizado (Art. 22), pero jamás puede usar la política monetaria como un mazo para castigar a toda la población mediante la pérdida de valor.
 
 16\. Veto de Responsabilidad Intergeneracional: Ninguna legislatura podrá contratar deuda pública cuyo vencimiento de capital o intereses exceda el término de diez (10) años. Todo instrumento de crédito con vencimiento superior requerirá de la ratificación por mayoría absoluta del Censo de Ciudadanos menores de treinta y cinco (35) años mediante referéndum fiscal automático.
 
 17\. Inexistencia de Deuda Pública sin Colateral Real: Se declara nula de pleno derecho toda deuda pública que no esté respaldada por un Fondo de Amortización Real y Segregado en el Registro Nacional Soberano al momento de su suscripción.
 
-18\. **De la Inviolabilidad del Valor y la Prohibición de Moneda Programable.**\
-El derecho a la propiedad del capital incluye el derecho al ahorro incondicionado. Se prohíbe terminantemente al Banco Central o a cualquier entidad gubernamental la emisión, adopción o imposición de Monedas Digitales de Banco Central (CBDC) de carácter programable o dinero fiduciario condicionado.
+18\. De la Inviolabilidad del Valor, Prohibición de Moneda Programable y Desbancarización Libre. El derecho a la propiedad del capital incluye el derecho al ahorro incondicionado y desintermediado. Se prohíbe terminantemente al Banco Central o a cualquier entidad gubernamental la emisión, adopción o imposición de Monedas Digitales de Banco Central (CBDC) de carácter programable o dinero fiduciario condicionado.
 
-a)  **Proscripción de Caducidad:** Ningún flujo digital registrado a nombre de un ciudadano en el RNS podrá tener algoritmos de \"caducidad de tiempo\" (dinero que expira si no se gasta).
+    a) Proscripción de Caducidad: Ningún flujo financiero registrado a nombre de un ciudadano podrá tener algoritmos de caducidad temporal ni bloqueos basados en perfiles de comportamiento, consumo o crédito social.
 
-b)  **Libertad de Transacción:** Queda prohibido el bloqueo automático de fondos basado en perfiles de comportamiento, huella de carbono, historial médico o sistemas de crédito social. El saldo en el RNS es un activo al portador digital, ciego y neutral.
+    b) Derecho a la Desconexión Financiera: Todo ciudadano tiene el derecho constitucional de retirar el cien por ciento (100%) de sus fondos líquidos del sistema bancario comercial en dinero físico en cualquier momento, sin penalización, demoras burocráticas injustificadas ni comisiones de salida coercitivas.
 
 19\. De la Unicidad Cambiaria, el Libre Flotamiento y la Proscripción del Privilegio Monetario.
 
-a)  **Principio de Tasa Única y Libre Flotación:** Se establece el principio de Unicidad Cambiaria Universal. El valor de intercambio entre la moneda nacional y cualquier divisa extranjera, activo digital o metal precioso será determinado única y exclusivamente por la interacción de la oferta y la demanda en el mercado libre y abierto.
+    a)  **Principio de Tasa Única y Libre Flotación:** Se establece el principio de Unicidad Cambiaria Universal. El valor de intercambio entre la moneda nacional y cualquier divisa extranjera, activo digital o metal precioso será determinado única y exclusivamente por la interacción de la oferta y la demanda en el mercado libre y abierto.
 
-b)  **Proscripción del Privilegio Cambiario (Anti-Arbitraje Institucional):** Queda terminantemente prohibido al Estado, al Banco Central, al Tesoro Nacional, a los Municipios o a cualquier autoridad administrativa la fijación, publicación o imposición de tipos de cambio oficiales, preferenciales, subsidiados o diferenciados para ningún sector.
+    b)  **Proscripción del Privilegio Cambiario (Anti-Arbitraje Institucional):** Queda terminantemente prohibido al Estado, al Banco Central, al Tesoro Nacional, a los Municipios o a cualquier autoridad administrativa la fijación, publicación o imposición de tipos de cambio oficiales, preferenciales, subsidiados o diferenciados para ningún sector.
 
-<!-- -->
+    <!-- -->
 
-i.  Las Sociedades Anónimas de Capital Abierto (SACA), empresas importadoras, ministerios, funcionarios públicos y el Estado en su conjunto están sujetos obligatoriamente al mismo tipo de cambio real que rige para el ciudadano más humilde de la República.
+        i.  Las Sociedades Anónimas de Capital Abierto (SACA), empresas importadoras, ministerios, funcionarios públicos y el Estado en su conjunto están sujetos obligatoriamente al mismo tipo de cambio real que rige para el ciudadano más humilde de la República.
 
-ii. Se declara nulo de pleno derecho todo contrato, presupuesto o licitación pública que asuma un valor de la moneda nacional distinto al reflejado por la libre flotación en el Registro Nacional Soberano (RNS) en el momento exacto de la transacción.
+        ii. Se declara nulo de pleno derecho todo contrato, presupuesto o licitación pública que asuma un valor de la moneda nacional distinto al reflejado por la libre flotación en el Registro Nacional Soberano (RNS) en el momento exacto de la transacción.
 
-<!-- -->
+    <!-- -->
 
-c)  **Tipificación del Delito de Devaluación Asimétrica:** Se tipifica como **Delito de Confiscación Silenciosa y Atentado a la Equidad Nacional** la práctica de transferir el costo de la inflación o la devaluación monetaria a la ciudadanía civil mediante el uso de tasas de cambio artificiales que blinden, protejan o subsidien los costos operativos de entidades corporativas o gubernamentales. El peso de la fluctuación macroeconómica será asumido en igualdad de condiciones matemáticas por todos los actores del sistema económico.
+    c)  **Tipificación del Delito de Devaluación Asimétrica:** Se tipifica como **Delito de Confiscación Silenciosa y Atentado a la Equidad Nacional** la práctica de transferir el costo de la inflación o la devaluación monetaria a la ciudadanía civil mediante el uso de tasas de cambio artificiales que blinden, protejan o subsidien los costos operativos de entidades corporativas o gubernamentales. El peso de la fluctuación macroeconómica será asumido en igualdad de condiciones matemáticas por todos los actores del sistema económico.
 
-d)  **Transparencia del Oráculo de Precios:** El RNS utilizará un "oráculo de precios" descentralizado. Para evitar distorsiones por ataques informáticos o "flash crashes", las liquidaciones de impuestos y dividendos se basarán en el Promedio Ponderado de las últimas setenta y dos (72) horas del valor de mercado, blindando la contabilidad nacional contra la volatilidad extrema de corto plazo.
+    d)  **Transparencia del Oráculo de Precios:** El RNS utilizará un "oráculo de precios" descentralizado. Para evitar distorsiones por ataques informáticos o "flash crashes", las liquidaciones de impuestos y dividendos se basarán en el Promedio Ponderado de las últimas setenta y dos (72) horas del valor de mercado, blindando la contabilidad nacional contra la volatilidad extrema de corto plazo.
 
-<!-- -->
+    <!-- -->
 
-i.  Cualquier intento de alterar este oráculo desde el Poder Ejecutivo o el Banco Central para abaratar artificialmente la deuda del Estado o encarecer el consumo ciudadano, será investigado por el Tribunal de Arbitraje Técnico (TAT) y sancionado por el Tribunal de Defensa de la Constitución (TDC) como Sabotaje a la Fe Pública Digital, acarreando la destitución y responsabilidad patrimonial directa de los autores.
+         i.  Cualquier intento de alterar este oráculo desde el Poder Ejecutivo o el Banco Central para abaratar artificialmente la deuda del Estado o encarecer el consumo ciudadano, será investigado por el Tribunal de Arbitraje Técnico (TAT) y sancionado por el Tribunal de Defensa de la Constitución (TDC) como Sabotaje a la Fe Pública Digital, acarreando la destitución y responsabilidad patrimonial directa de los autores.
 
-<!-- -->
+    <!-- -->
 
-e)  **Inexistencia de Reservas de Cambio Exclusivas:** El Estado carece de potestad para obligar a los ciudadanos o empresas privadas a venderle sus divisas generadas por exportación, remesas o servicios a una tasa inferior a la del mercado libre. El Estado, si requiere divisas para sus operaciones, acudirá al mercado abierto compitiendo en igualdad de condiciones con el resto de los actores económicos.
+    e)  **Inexistencia de Reservas de Cambio Exclusivas:** El Estado carece de potestad para obligar a los ciudadanos o empresas privadas a venderle sus divisas generadas por exportación, remesas o servicios a una tasa inferior a la del mercado libre. El Estado, si requiere divisas para sus operaciones, acudirá al mercado abierto compitiendo en igualdad de condiciones con el resto de los actores económicos.
 
 ------------------------------------------------------------------------
 

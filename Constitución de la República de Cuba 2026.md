@@ -2429,7 +2429,7 @@ iii. **Jerarquía Normativa:** Una vez ratificados, las tasas y condiciones pref
 
 a)  Se prohíbe terminantemente contratar deuda pública que exceda el veinte por ciento (20%) del Producto Interno Bruto (PIB), operando este límite en estricta concordancia con el Artículo 49.3.
 
-b)  Toda deuda debe tener un plan de amortización registrado en el RNS que no supere los **diez (10) años**. El incumplimiento de este hito activará la suspensión inmediata de gastos de representación y bonificaciones de toda la Alta Jerarquía del Estado.
+b)  Toda deuda debe tener un plan de amortización registrado en el RNS que no supere los **quince (15) años**. El incumplimiento de este hito activará la suspensión inmediata de gastos de representación y bonificaciones de toda la Alta Jerarquía del Estado.
 
 ------------------------------------------------------------------------
 

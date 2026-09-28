@@ -3166,7 +3166,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
 a)  Separación Intransferible: Las Acciones Soberanas (AS), la Cuenta de Inversión Soberana (CIS) y los dividendos generados en la Capa A (Mínimo Vital) de cada ciudadano son Bienes Personalísimos e Incomunicables. Bajo ninguna circunstancia podrán integrarse a un régimen de bienes mancomunados, sociedad conyugal o fondo común de la pareja.
 
-b)  Blindaje contra la Deuda Conyugal: Queda proscrita la responsabilidad solidaria sobre las AS. Ningún tribunal, acreedor o banco podrá embargar, retener o pignorar las Acciones Soberanas, ni las Capas B o C de la CIS de un ciudadano, para saldar deudas comerciales, tarjetas de crédito o pasivos contraídos unilateralmente por su cónyuge o pareja de unión soberana, incluso si este último se declarara en insolvencia absoluta. La libertad del individuo no puede ser secuestrada por el lecho conyugal.
+b)  Blindaje contra la Deuda Conyugal: Queda proscrita la responsabilidad solidaria sobre las AS. Ningún tribunal, acreedor o banco podrá embargar, retener o pignorar las Acciones Soberanas, ni las Capas B o C de la CIS de un ciudadano, para saldar deudas comerciales, tarjetas de crédito o pasivos contraídos unilateralmente por su cónyuge o pareja de unión soberana, incluso si este último se declarara en insolvencia absoluta. El patrimonio soberano del ciudadano no responderá por obligaciones o deudas contraídas unilateralmente por su cónyuge o conviviente.
 
 15\. **Deber de Instrucción Constitucional y el Compendio Didáctico:**
 
@@ -4810,9 +4810,9 @@ b)  **Simetría de Derechos:** Ningún ciudadano podrá ser enviado a una zona d
 
 c)  **Inviolabilidad de la Minoría:** El entrenamiento militar previo a los 21 años será de carácter estrictamente cívico, voluntario y académico ( Art. 21.6), quedando prohibido el despliegue de ciudadanos menores a esta edad en situaciones de fuego activo o riesgo biológico, incluso bajo su consentimiento.
 
-4\. De la Doctrina de la Espada de la nación y el Instituto de Entropía Estratégica (IEE). Se establece que la formación del Mando Supremo de la República no se regirá por la pedagogía civil lineal, sino por la **Ciencia del Caos y la Asimetría**.
+4\. De la Doctrina de Defensa Estratégica y el Instituto de Estudios Superiores de Disuasión Asimétrica. Se establece que la formación del Estado Mayor y los mandos superiores se orientará al dominio de la disuasión asimétrica y la respuesta estratégica no lineal.
 
-a)  **Dualidad Ética del Guerrero:** Se establece por mandato constitucional la separación entre la **Lealtad Interna (Emet)** y la **Estratagema Externa (Mirmah)**. El militar está obligado a la verdad absoluta ante las instituciones de control de la República (TAT, TDC), pero está facultado y obligado al uso del engaño, la desinformación y la ocultación frente a cualquier entidad declarada como Amenaza Letal por el Congreso.
+a)  **Principio de Veracidad Institucional y Estratagema Operativa Externa:** Se establece la estricta obligación de veracidad, transparencia y rendición de cuentas del estamento militar ante las instituciones de control de la República (TAT, TDC). En el ámbito de las operaciones tácticas y de inteligencia frente a amenazas externas declaradas por el Congreso, las Fuerzas Armadas quedan facultadas para el empleo de la estratagema, la compartimentación de información y el camuflaje operativo de conformidad con el Derecho Internacional de los Conflictos Armados.
 
 b)  **El Instituto de Entropía Estratégica (IEE):** Se crea el IEE como órgano de grado superior para oficiales de carrera. Su currículo es secreto de Estado y se centrará en:
 
@@ -5075,7 +5075,7 @@ d)  **Ratificación Soberana Municipal:** La misión solo será constitucional s
 
 ## Artículo 101. Prohibición Mercantil Militar y Régimen de Gasto Reservado.
 
-1\. Separación Total de la Espada y el Oro: Queda terminantemente prohibido a las instituciones militares y policiales, así como a sus mandos en activo, ejercer actividades de comercio, turismo, agricultura o finanzas, sea de forma directa o mediante sociedades pantalla, la titularidad, gestión, administración o participación en beneficios de cualquier Sociedad Anónima de Capital Abierto (SACA) o entidad comercial civil.
+1\. Incompatibilidad Absoluta entre la Función Armada y la Actividad Mercantil: Queda terminantemente prohibido a las instituciones militares y policiales, así como a sus mandos en activo, ejercer actividades de comercio, turismo, agricultura o finanzas, sea de forma directa o mediante sociedades pantalla, la titularidad, gestión, administración o participación en beneficios de cualquier Sociedad Anónima de Capital Abierto (SACA) o entidad comercial civil.
 
 2\. Se financiará únicamente mediante las partidas asignadas en el Presupuesto General aprobado por el Congreso. La gestión de los recursos de defensa se realizará bajo el **Protocolo de Ofuscación Táctica** (Art. 46.3): el ciudadano audita el costo global (Alfa); el Comité de Seguridad Nacional audita el secreto técnico (Gamma).
 
@@ -5298,7 +5298,7 @@ a)  **Desconexión de la Red Civil (Modo Autónomo):**\
 
 i.  El Comandante del Teatro de Operaciones posee la **Soberanía del Campo**. Sus órdenes tienen fuerza de ley constitucional instantánea y no requieren validación, firma digital externa ni auditoría en tiempo real.
 
-ii. Se prohíbe el uso de protocolos administrativos civiles como \"cuello de botella\" para maniobras militares, suministros de emergencia o gestión de núcleos poblacionales bajo fuego. El General apaga el incendio sin pedir permiso al Príncipe.
+ii. Se prohíbe el uso de protocolos administrativos civiles como obstáculo para maniobras militares, suministros de emergencia o gestión de núcleos poblacionales bajo fuego. El mando operativo en zona de combate ejerce autonomía táctica inmediata para neutralizar el peligro, sin sujeción a trámites burocráticos ordinarios de la administración civil.
 
 <!-- -->
 
@@ -5325,42 +5325,42 @@ ii. Su función se limita a verificar, de forma técnica y como tercero neutral,
 <!-- -->
 
 d)  **El Deber de Justicia en la Fuerza:**\
-    La autonomía de mando no autoriza la barbarie. El Comandante es responsable ante la historia y ante el TDC (Tribunal de Defensa de la Constitución) por la preservación de la vida no combatiente. Si Cuba actúa en posición de fuerza, su justicia en el frente se medirá por un solo estándar: **\"Todo lo necesario para la victoria, nada para la crueldad\"**.
+    La autonomía de mando no autoriza la arbitrariedad ni la vulneración de derechos fundamentales. El Comandante es responsable ante la ley y ante el Tribunal de Defensa de la Constitución (TDC) por la preservación de la vida no combatiente. El ejercicio de la fuerza se regirá estrictamente por el principio de necesidad militar y la proscripción absoluta de sufrimientos innecesarios o tratos crueles e inhumanos.
 
 ------------------------------------------------------------------------
 
-## Artículo 106. Del Protocolo de Administración de Salvaguarda en Territorios Extraterritoriales (La Doctrina de la Ocupación Justa).
+## Artículo 106. Del Régimen de Administración Provisional de Salvaguarda en Territorios Exteriores y Custodia Fiduciaria.
 
-La República declara que la intervención militar y el control de núcleos poblacionales fuera del territorio nacional es una medida excepcional, no deseada, y sujeta estrictamente al restablecimiento de la paz y la justicia. En caso de que las Fuerzas de Salvaguarda deban ejercer el mando fáctico en territorio extranjero, se activará el **Protocolo de Estuardo Soberano**:
+La República declara que la intervención militar y el control de núcleos poblacionales fuera del territorio nacional es una medida excepcional, no deseada, y sujeta estrictamente al restablecimiento de la paz y la justicia. En caso de que las Fuerzas de Salvaguarda deban ejercer el mando fáctico en territorio extranjero, se activará el **Régimen de Administración Provisional de Salvaguarda**:
 
-**1. El Marco de Legalidad Híbrida:**\
+1\. **El Marco de Legalidad Híbrida:**\
 El territorio bajo administración nacional no será anexionado ni sometido a la totalidad de las leyes cubanas. Se establece la **Compatibilidad de Sistemas**:
 
-a)  **Presunción de Vigencia Local:** Se mantendrán vigentes las leyes civiles, mercantiles y de convivencia del territorio ocupado, siempre que estas no vulneren el derecho a la vida, la integridad física, o se conviertan en herramientas de sabotaje contra las fuerzas de salvaguarda.
+    a)  **Presunción de Vigencia Local:** Se mantendrán vigentes las leyes civiles, mercantiles y de convivencia del territorio ocupado, siempre que estas no vulneren el derecho a la vida, la integridad física, o se conviertan en herramientas de sabotaje contra las fuerzas de salvaguarda.
 
-b)  **Filtro de Incompatibilidad (Artículos 134.4 y 88.2):** El Tribunal de Arbitraje Técnico (TAT), mediante la sanitización técnica prevista en el Artículo 134.4, identificará las leyes locales incompatibles con esta Constitución. El Tribunal de Defensa de la Constitución (TDC) resolverá su suspensión o anulación conforme al Artículo 88.2, sustituyéndolas temporalmente por el estándar de justicia de esta Constitución.
+    b)  **Filtro de Incompatibilidad (Artículos 134.4 y 88.2):** El Tribunal de Arbitraje Técnico (TAT), mediante la sanitización técnica prevista en el Artículo 134.4, identificará las leyes locales incompatibles con esta Constitución. El Tribunal de Defensa de la Constitución (TDC) resolverá su suspensión o anulación conforme al Artículo 88.2, sustituyéndolas temporalmente por el estándar de justicia de esta Constitución.
 
-**2. Garantía de Mínimo Biológico de Emergencia:**\
+2\. **Garantía de Mínimo Biológico de Emergencia:**\
 La ocupación militar conlleva la **Responsabilidad Civil del Administrador**. El Estado cubano, a través de la logística militar y el Fondo Catastrófico Nacional, garantizará a la población civil del área controlada:
 
-a)  El acceso ininterrumpido a la ración calórica de supervivencia y agua potable.
+    a)  El acceso ininterrumpido a la ración calórica de supervivencia y agua potable.
 
-b)  La integridad de los centros de salud y el suministro de insumos médicos básicos.
+    b)  La integridad de los centros de salud y el suministro de insumos médicos básicos.
 
-c)  La protección de la infraestructura crítica de energía y telecomunicaciones, tratándola como un **Fideicomiso de la Población**, prohibiéndose su desmantelamiento o saqueo como \"botín de guerra\".
+    c)  La protección de la infraestructura crítica de energía y telecomunicaciones, tratándola como un **Fideicomiso de la Población**, prohibiéndose su desmantelamiento o saqueo como \"botín de guerra\".
 
-**3. El Reinicio Económico y la Autonomía de Sustento:**\
+3\. **El Reinicio Económico y la Autonomía de Sustento:**\
 Para evitar que la población se convierta en una carga pasiva y para restaurar su dignidad, se fomentará la **Zona de Libre Comercio de Salvaguarda**:
 
-a)  Se permitirá y protegerá la reapertura de mercados locales y empresas particulares.
+    a)  Se permitirá y protegerá la reapertura de mercados locales y empresas particulares.
 
-b)  Las fuerzas nacionales podrán contratar mano de obra local para tareas de reconstrucción, pagando salarios al valor de mercado, fomentando que la economía local se reactive bajo parámetros de honestidad fáctica.
+    b)  Las fuerzas nacionales podrán contratar mano de obra local para tareas de reconstrucción, pagando salarios al valor de mercado, fomentando que la economía local se reactive bajo parámetros de honestidad fáctica.
 
-**4. Limitación del Mando y Deber de Justicia:**\
+4\. **Limitación del Mando y Deber de Justicia:**\
 Se prohíbe el uso del control militar para la extracción de recursos naturales en beneficio del Estado cubano. Cualquier recurso extraído para costear los gastos de la administración deberá ser auditado por el TAT y registrado en el RNS como **\"Deuda de Estabilización\"**, con un plan de transparencia total hacia la población local.
 
-**5. Cláusula de Adaptabilidad Futura:**\
-Dada la imposibilidad de prever los contextos tecnológicos o sociales de los siglos venideros, este protocolo se define como un **Marco General de Conducta Humana**. En cualquier conflicto futuro, la regla de oro para las fuerzas cubanas será: *\"Administra el territorio como un depósito sagrado que debes devolver mejor de como lo encontraste\"*.
+5\. **Estándar de Custodia Fiduciaria:**\
+Este régimen se define como un marco de conducta jurídica y ética inalterable. En cualquier conflicto, las Fuerzas de Salvaguarda administrarán la zona bajo el estándar de estricta custodia fiduciaria, orientada a la preservación del orden civil, la infraestructura básica y el bienestar de los habitantes hasta el restablecimiento de la autoridad civil legítima.
 
 ------------------------------------------------------------------------
 
@@ -5415,7 +5415,7 @@ c)  La facilitación de procesos electorales en los Nodos Municipales en el plaz
 
     a)  Este sello prohíbe permanentemente que el individuo vuelva a trabajar para el Estado, que administre dinero de otros ciudadanos o que sea dueño de acciones en empresas estratégicas (SACAs).
 
-    b)  Este sello no se aplicará a actos derivados del miedo biológico o la flaqueza de corazón en combate, los cuales se tratarán como bajas administrativas y no como delitos de honor.
+    b)  Este sello no será aplicable a situaciones de estrés agudo de combate, choque postraumático o incapacidad médica transitoria en el teatro de operaciones, las cuales se gestionarán bajo el régimen disciplinario y médico ordinario.
 
 7.  De la Doctrina de Autonomía Operativa Nodal (La Ola Destructiva Civil). La República proscribe la parálisis por centralización. En situaciones de crisis, bloqueo o interrupción de comunicaciones, el sistema de gobierno transita automáticamente al modelo de **Unidades de Respuesta Mínima**:
 
@@ -5423,7 +5423,7 @@ c)  La facilitación de procesos electorales en los Nodos Municipales en el plaz
 
 a)  **Capacidad de Acción Sin Órdenes:** Se faculta a los Consejos Técnicos Municipales y a las Juntas de SACAs para ejecutar planes de contingencia pre-aprobados en el RNS sin necesidad de validación central, siempre que se mantengan dentro de los parámetros de la **Verdad Material**.
 
-b)  **Atomización de la Infraestructura:** La red nacional de datos y energía debe diseñarse para permitir la desconexión y reconexión instantánea de nodos. Cada nodo debe ser capaz de \"guerrear\" (producir y protegerse) como si fuera la totalidad de la República.
+b)  **Atomización de la Infraestructura:** La red nacional de datos y energía debe diseñarse para permitir la desconexión y reconexión instantánea de nodos. Cada nodo municipal mantendrá la capacidad física y técnica de sostener su producción esencial y su defensa civil de forma autónoma ante el aislamiento del territorio nacional.
 
 c)  **Proscripción de la Doctrina de Libro:** Ante una falla sistémica, el Tribunal de Arbitraje Técnico (TAT) dará prioridad a las soluciones disruptivas que demuestren resultados en tiempo real sobre los protocolos administrativos heredados. La **Funcionalidad es la Única Ley en la Emergencia**.
 
@@ -5571,7 +5571,7 @@ a)  Naturaleza **del Servicio:** No es militar, sino técnico-humanitario. El jo
 
     iii. Apoyo en Rampas de Redignificación.
 
-b)  **Objetivo Pedagógico:** Que la generación que nació en la abundancia vea con sus propios ojos el esfuerzo físico que requiere sostener la libertad. Solo el que ha \"puesto un ladrillo\" valora la pared.
+b)  **Objetivo Pedagógico:** Transmitir a las nuevas generaciones la experiencia práctica del esfuerzo material, técnico y comunitario indispensable para el sostenimiento y defensa de la libertad republicana.
 
 c)  **El Juramento de la Memoria:** El fin del servicio concluye con la transcripción manual de varios de los testimonios de las víctimas del colectivismo (Comisión Técnica de Verdad, Disposición Transitoria Decimotercera) en el Libro Físico Nacional. La memoria del dolor es la garantía de la libertad futura.
 
@@ -5806,7 +5806,7 @@ c)  **Neutralidad Sucesoria y Limpieza de Herencia:** Al fallecimiento del titul
 
 a)  Los Derechos Políticos (voto en asambleas de SACA, plebiscitos y elecciones) son personalísimos, intransferibles, inembargables y no pueden ser objeto de garantía, contrato de mandato, fideicomiso privado, ni representación automatizada.
 
-b)  Proscripción de la Reentrada de Voto y Derivados Sintéticos (Anti-Wrapper Clause): Queda terminantemente prohibido, y se tipifica como Delito, la creación, promoción, tenencia o interacción con contratos inteligentes, tokens de representación sintética (wrappers), fideicomisos off-chain o mecanismos financieros de compensación externa que vinculen, condicionen, premien o penalicen económicamente el sentido del voto de un ciudadano en el RNS.
+b)  Proscripción de Instrumentos Derivados de Coacción del Voto: Queda terminantemente prohibida la creación, tenencia o instrumentación de vehículos fiduciarios, títulos sintéticos o mecanismos de intermediación financiera que condicionen, retribuyan o alteren el sentido del voto soberano del ciudadano en el RNS.
 
 c)  Nulidad de Voto Condicionado por Incentivo Externo: Cualquier voto o firma digital en el RNS que se demuestre fásticamente haber sido ejecutado para cumplir con parámetros de un contrato colateral externo de incentivo financiero (compra de voto sintético), será declarado nulo e írrito de pleno derecho. El sistema del RNS, mediante auditoría de grafos de relación en tiempo real, rastreará la correlación entre flujos financieros de entrada a la Capa C del ciudadano y sus patrones de votación. Ante una colisión de firmas o evidencia de coacción de recompensa sintética, se suspenderán de forma inmediata los derechos políticos y el usufructo de la AS del ciudadano infractor por un periodo de diez (10) años, procediéndose a la incautación de todos los activos derivados de dicha operación ilegal para el Fondo Catastrófico Nacional.
 
@@ -5824,7 +5824,7 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
 
 a)  **Obligación de Revelación de Origen:** Toda adquisición de activos estratégicos (suelo agrícola, minero, energético o acciones en SACA) que supere los umbrales de alerta técnica definidos por el TAT, obliga al adquirente a declarar, bajo juramento digital, el origen lícito y propio de los fondos.
 
-b)  **Detección de Acción Concertada (Algoritmo de Enjambre):** El RNS ejecutará permanentemente análisis de grafos de relaciones. Se definirá como **Acción Concertada Hostil** la adquisición de activos por parte de múltiples individuos que presenten:
+b)  **Detección de Acciones Concertadas Hostiles:** El RNS ejecutará permanentemente análisis de grafos de relaciones. Se definirá como **Acción Concertada Hostil** la adquisición de activos por parte de múltiples individuos que presenten:
 
 <!-- -->
 
@@ -5845,7 +5845,7 @@ d)  Tipificación **del Delito de Simulación de Soberanía y Mercenarismo Finan
 
 i.  **Sanción Patrimonial (Extinción de Dominio):** La sentencia condenatoria firme conllevará la pérdida absoluta e irrevocable de las Acciones Soberanas (AS) del infractor, las cuales revertirán a la Reserva Generacional. Todas sus Acciones de Mercado (AM) vinculadas a la simulación serán liquidadas por el Registro Nacional Soberano (RNS), destinando el cien por ciento (100%) de los fondos al Tesoro Municipal afectado en concepto de indemnización por erosión soberana.
 
-ii. Sanción Civil (Muerte de Confianza): El condenado por Simulación de Soberanía sufrirá la Inhabilitación Perpetua para ejercer cargos públicos, administrar SACAs o participar en Comités Técnicos. Quien ha demostrado que su voluntad es alquilable para potencias extranjeras, pierde de forma definitiva el atributo de \"confianza técnica\" necesario para el servicio a la República.
+ii. Inhabilitación Cívica y Fiduciaria Permanente: El condenado por Simulación de Soberanía sufrirá la inhabilitación perpetua para ejercer cargos públicos, administrar SACAs o participar en comités técnicos de la República.
 
 iii. Agravante por Riesgo de Red: Si la simulación afectó Redes de Interconexión Nacional (RRI) de energía, agua o datos, la pena de prisión será equivalente a la del sabotaje industrial, al considerarse una agresión directa a la viabilidad biológica de la Nación
 
@@ -5947,7 +5947,7 @@ Para evitar la dilución del patrimonio y fomentar la visión a largo plazo que 
 
 a)  **El Fideicomiso de Linaje Protector:** Se garantiza el derecho de los progenitores a estructurar la herencia de sus Acciones de Mercado (AM) y activos físicos mediante **Contratos Inteligentes de Maduración (Smart Trusts)** en el RNS. Estos contratos podrán condicionar la liberación del capital a los herederos al cumplimiento de hitos de madurez, tales como la culminación del Servicio Civil de Soberanía, la obtención de un título técnico o la formación de su propio núcleo familiar estable.
 
-b)  **Protección contra la Dilución Hedonista:** Si un testador así lo determina, el RNS bloqueará la liquidación inmediata de los activos heredados, permitiendo a los herederos acceder únicamente a los dividendos mensuales (usufructo), protegiendo la obra de una vida de ser consumida en el hedonismo de corto plazo por la siguiente generación. La República protege el derecho de los muertos a guiar la responsabilidad de los vivos.
+b)  **Protección de la Continuidad Patrimonial Familiar:** Si el testador así lo estipula, el RNS limitará la liquidación acelerada del capital principal, canalizando exclusivamente los rendimientos hacia los herederos, garantizando la preservación productiva del patrimonio familiar y la estabilidad económica de la siguiente generación.
 
 6\. La ley de herencia regirá cualquier otra disposición no contemplada en este artículo.
 
@@ -5973,25 +5973,25 @@ b)  El Fideicomiso Nacional de Pensiones gestionará dichos activos, destinando 
 
 1\. Las SACA deberán destinar un porcentaje de sus utilidades anuales a un Fondo de Recapitalización de Reserva, aprobado en sesión anual de la asamblea municipal donde se encuentre enclavada cada SACA. Este fondo compensará la emisión de nuevas acciones para las nuevas generaciones, asegurando que el valor de mercado y el poder adquisitivo de la acción individual no decrezcan con el tiempo. Queda prohibida la emisión de nuevas Acciones de Mercado (AM) con fines puramente financieros o de dilución. Toda nueva emisión debe estar respaldada por un Proyecto de Expansión de Capital Físico certificado por el TAT, garantizando que el valor intrínseco y la capacidad de generación de dividendos de las Acciones Soberanas (AS) se mantengan constantes o crezcan en términos reales.
 
-**2. Mitosis Empresarial Obligatoria para la Expansión del Portafolio:** Las SACA que alcancen una posición de dominio de mercado o una madurez operativa superior a los veinte (20) años, deberán escindir sus unidades de investigación, desarrollo e innovación en nuevas entidades jurídicas independientes (SACAs Hijas).
+2\. **Escisión Empresarial Obligatoria y Diversificación Productiva:** Las SACA que alcancen una posición de dominio de mercado o una madurez operativa superior a los veinte (20) años, deberán escindir sus unidades de investigación, desarrollo e innovación en nuevas sociedades anónimas independientes.
 
-a)  El cincuenta y uno por ciento (51%) de las acciones de estas nuevas entidades será asignado de forma automática y gratuita, a través del RNS, a los ciudadanos cubanos por nacimiento que alcancen la mayoría de edad en el ciclo fiscal correspondiente, garantizando la renovación constante del portafolio soberano individual ante el crecimiento demográfico.
+    a)  El cincuenta y uno por ciento (51%) de las acciones de estas nuevas entidades será asignado de forma automática y gratuita, a través del RNS, a los ciudadanos cubanos por nacimiento que alcancen la mayoría de edad en el ciclo fiscal correspondiente, garantizando la renovación constante del portafolio soberano individual ante el crecimiento demográfico.
 
-**3. Garantía de Integridad Patrimonial del Accionista de Mercado (AM):** En todo proceso de escisión o mitosis obligatoria definida en el inciso anterior, los titulares de Acciones de Mercado (AM) que representen el cuarenta y nueve por ciento (49%) de la entidad cedente, recibirán de pleno derecho y sin costo adicional una participación idéntica y proporcional en el capital social de la entidad beneficiaria (SACA Hija).
+3\. Garantía de Integridad Patrimonial del Accionista de Mercado (AM):** En todo proceso de escisión o mitosis obligatoria definida en el inciso anterior, los titulares de Acciones de Mercado (AM) que representen el cuarenta y nueve por ciento (49%) de la entidad cedente, recibirán de pleno derecho y sin costo adicional una participación idéntica y proporcional en el capital social de la entidad beneficiaria (SACA Hija).
 
-a)  Se prohíbe cualquier forma de reducción forzosa del porcentaje de participación privada durante el proceso de escisión, considerándose tal acto como expropiación sin indemnización y nulo de pleno derecho.
+    a)  Se prohíbe cualquier forma de reducción forzosa del porcentaje de participación privada durante el proceso de escisión, considerándose tal acto como expropiación sin indemnización y nulo de pleno derecho.
 
-b)  El Tribunal de Arbitraje Técnico (TAT) supervisará la tasación de activos transferidos para asegurar que el valor nominal y de mercado de la suma de las partes resultantes sea igual o superior al valor de la entidad original antes de la mitosis.
+    b)  El Tribunal de Arbitraje Técnico (TAT) supervisará la tasación de activos transferidos para asegurar que el valor nominal y de mercado de la suma de las partes resultantes sea igual o superior al valor de la entidad original antes de la mitosis.
 
-**4. Mecánica de Asignación del Bloque Soberano (AS) en la Mitosis:** El cincuenta y uno por ciento (51%) de la entidad beneficiaria (SACA Hija) quedará bajo la titularidad del Fideicomiso Nacional de Pensiones para su distribución inmediata.
+4\. **Mecánica de Asignación del Bloque Soberano (AS) en la Mitosis:** El cincuenta y uno por ciento (51%) de la entidad beneficiaria (SACA Hija) quedará bajo la titularidad del Fideicomiso Nacional de Pensiones para su distribución inmediata.
 
-a)  La prioridad de asignación de estas nuevas Acciones Soberanas corresponderá a los ciudadanos cubanos por nacimiento que no hayan completado su portafolio básico de AS por razones demográficas (nuevos nacimientos o nacionalizaciones por derecho de suelo).
+    a)  La prioridad de asignación de estas nuevas Acciones Soberanas corresponderá a los ciudadanos cubanos por nacimiento que no hayan completado su portafolio básico de AS por razones demográficas (nuevos nacimientos o nacionalizaciones por derecho de suelo).
 
-b)  En caso de excedente en el bloque del 51% tras la asignación generacional, dichas acciones permanecerán en la Reserva Generacional, cuyos dividendos se destinarán al Fondo Municipal de Auxilio Mutuo (Art. 62) del municipio donde la nueva entidad fije su sede fiscal.
+    b)  En caso de excedente en el bloque del 51% tras la asignación generacional, dichas acciones permanecerán en la Reserva Generacional, cuyos dividendos se destinarán al Fondo Municipal de Auxilio Mutuo (Art. 62) del municipio donde la nueva entidad fije su sede fiscal.
 
 5\. **Inmunidad Contractual de los Terceros Inversores:** Los contratos de transferencia tecnológica, licencias de propiedad intelectual y acuerdos de asociación suscritos por la SACA Madre con Sociedades Anónimas (SA) particulares o inversores extranjeros, se mantendrán vigentes y serán vinculantes para la SACA Hija en la parte que le corresponda por la naturaleza de su actividad, operando una subrogación automática de derechos y obligaciones bajo la supervisión del TAT.
 
-**6. Protocolo de Protección contra la Obsolescencia:** Si una SACA entra en fase de liquidación por inviabilidad técnica o económica certificada por el TAT, el bloque del cincuenta y uno por ciento (51%) de sus Acciones Soberanas podrá ser \"conmutado\" por Acciones de Mercado (AM) de la Reserva Nacional en otras SACAs activas, previo dictamen de compensación emitido por el Banco de Apalancamiento Soberano (Art. 49.13). El ciudadano cubano nunca perderá su flujo de \"Mínimo Vital\" por el fracaso comercial de una entidad específica.
+6\. **Protocolo de Protección contra la Obsolescencia:** Si una SACA entra en fase de liquidación por inviabilidad técnica o económica certificada por el TAT, el bloque del cincuenta y uno por ciento (51%) de sus Acciones Soberanas podrá ser \"conmutado\" por Acciones de Mercado (AM) de la Reserva Nacional en otras SACAs activas, previo dictamen de compensación emitido por el Banco de Apalancamiento Soberano (Art. 49.13). El ciudadano cubano nunca perderá su flujo de \"Mínimo Vital\" por el fracaso comercial de una entidad específica.
 
 ------------------------------------------------------------------------
 
@@ -6303,14 +6303,14 @@ c)  **Excepción a la Matemática de la Responsabilidad:** Que se exima a un gru
 
 **3. Principio de Universalidad Fáctica:** La República no oprime minorías ni ignora mayorías, porque la República **no legisla sobre identidades, legisla sobre acciones materiales**. Lo que es un delito para la mayoría, es un delito para la minoría. Lo que es un costo termodinámico para la minoría, lo es para la mayoría.
 
-4\. Del Tipado Estricto Normativo y la Sanitización de Entradas Jurídicas (Proscripción de Variables Ambiguas).\
-Para garantizar que la ley no se convierta en una puerta trasera (Backdoor) para la tiranía discrecional, se establece el Principio de Tipado Estricto en la redacción y ejecución del ordenamiento jurídico:
+4\. Del Principio de Taxatividad Estricta y Parámetros Objetivos de Legalidad (Proscripción de la Ambigüedad Normativa).\
+Para garantizar que la ley no habilite márgenes de arbitrariedad judicial o administrativa, se establece el Principio de Taxatividad Estricta en la redacción y ejecución del ordenamiento jurídico:
 
-a)  **Rechazo de Variables No Definidas:** Queda constitucionalmente prohibida la inclusión de conceptos ambiguos, vagos o de \"Tipado Dinámico\" en leyes penales, fiscales o administrativas que restrinjan derechos. Términos como \"interés público\", \"moralidad social\", \"peligrosidad\", \"conmoción interior\" o \"bienestar del Estado\" son declarados **Cadenas de Texto Nulas**.
+    a)  **Proscripción de Conceptos Jurídicos Indeterminados:** Queda prohibida la inclusión de términos vagos, ambiguos o discrecionales en normas penales, fiscales o sancionadoras que restrinjan derechos. Los conceptos que carezcan de correlato fáctico objetivo o definición medible carecerán de eficacia jurídica para fundamentar sanciones o limitaciones a los derechos ciudadanos.
 
-b)  **Mandato de Parámetros Físicos:** Todo proyecto de ley o decreto debe pasar por un proceso de \"Sanitización de Entrada\" ante el Tribunal de Arbitraje Técnico (TAT). El TAT devolverá sin procesar cualquier norma que no traduzca sus intenciones a **variables fácticas, matemáticas o termodinámicas verificables** (Ej. Hipotético: En lugar de \"Se prohíbe el ruido molesto\", la ley debe ingresar la variable: \"Se prohíbe exceder los 65 Decibelios medidos a 10 metros\").
+    b)  **Mandato de Parámetros Fácticos y Cuantificables:** Las normas deberán definir sus supuestos de hecho mediante variables cuantitativas, técnicas o materiales verificables, sometiéndose a revisión técnica del TAT para asegurar la precisión objetiva de sus umbrales operativos.
 
-c)  **Error de Sintaxis Jurídica:** Si un funcionario, juez o policía intenta arrestar, multar o expropiar a un ciudadano basándose en una interpretación subjetiva de una variable no validada matemáticamente, el Registro Nacional Soberano (RNS) denegará la transacción por **Error de Sintaxis**, y el funcionario incurrirá en el Delito de Ejecución Arbitraria.
+    c)  **Ineficacia de Actos sin Fundamento Objetivo:** Todo acto de autoridad que imponga multas, detenciones o gravámenes basándose en apreciaciones subjetivas o conceptos no tipificados taxativamente será nulo de pleno derecho por falta de tipicidad objetiva, acarreando la responsabilidad del funcionario actuante por ejecución arbitraria.
 
 ------------------------------------------------------------------------
 
@@ -6336,9 +6336,9 @@ c)  Violación de Tratados de Reciprocidad: El incumplimiento de contratos comer
 
 1\. Primacía del Hecho sobre el Título: Se garantiza el derecho de todo individuo a demostrar competencia técnica mediante la funcionalidad. Ninguna titulación académica podrá ser utilizada para prohibir el ejercicio de la innovación si el individuo demuestra ante el TAT (Artículo 13.3) que su proceso o invento es funcional y seguro.
 
-2\. Protección al Alquimista Industrial: El Estado protegerá al innovador independiente frente a los monopolios del conocimiento.
+2\. Protección al Innovador Independiente: El Estado garantizará la libertad y protección jurídica de los desarrolladores e investigadores independientes frente a barreras de entrada corporativas o monopolios del conocimiento.
 
-3\. Inmunidad del Alquimista Industrial: El innovador que desarrolle métodos de producción de energía, agua o suministros básicos mediante el reciclaje de desechos o el uso de recursos subutilizados, gozará de inmunidad regulatoria total durante los primeros diez (10) años de su actividad, quedando sujeto exclusivamente a la responsabilidad civil por daños a terceros (Art. 53.7). El ingenio humano es el activo más escaso de la Nación y no podrá ser asfixiado por el celo burocrático.
+3\. Inmunidad Regulatoria de Innovación Sostenible: El investigador o empresa particular que desarrolle métodos de producción de energía, agua o suministros básicos mediante el reciclaje de desechos o el uso de recursos subutilizados, gozará de inmunidad regulatoria durante los primeros diez (10) años de su actividad, quedando sujeto exclusivamente a la responsabilidad civil por daños a terceros (Art. 53.7).
 
 4\. Del Registro de Técnicas y Soluciones Asimétricas. Se crea la **Capa de innovación estratégica** en el Registro Nacional Soberano.
 
@@ -6403,7 +6403,7 @@ c)  **Protocolo de Resolución de Ambigüedad Biológica Congénita (Excepción 
 
     ii. **Determinación del Sexo Predominante:** La intervención quirúrgica o química se orientará exclusivamente a revelar y normalizar el **sexo predominante** (determinado por el análisis de cromosomas, gónadas internas y potencialidad funcional). El objetivo no es \"crear\" un sexo, sino resolver una falla en la manifestación de la identidad biológica natural.
 
-    iii. **Derecho a la Funcionalidad:** El Estado y los padres tienen la obligación de priorizar la opción que ofrezca al menor la mayor viabilidad reproductiva y funcional a largo plazo, entendiendo que el cuerpo es un **Activo en Custodia** y no una plastilina ideológica.
+    iii. **Derecho a la Funcionalidad:** El Estado y los padres tienen la obligación de priorizar la opción que ofrezca al menor la mayor viabilidad reproductiva y funcional a largo plazo, priorizando la preservación de la integridad anatómica y funcional biológica natural del menor.
 
     iv. **Consentimiento de Salvaguarda:** La decisión final de intervención requerirá la concurrencia del voto unánime de los padres y la validación técnica del **TAT**. Si hay duda razonable sobre el predominio biológico, la intervención se postergará hasta que el desarrollo hormonal natural aporte datos definitivos para evitar el error irreversible.
 
@@ -6465,7 +6465,7 @@ e)  **Frontera del Espacio Público y la Regla Anti-Zombificación:**\
 
     ii. **Triage y Retiro Obligatorio:** Las fuerzas del orden (Alguaciles o Milicia Municipal) tienen el mandato ineludible de retirar del espacio público a cualquier individuo en estado de incapacidad química. Dicho individuo no será ingresado al sistema penal común si no ha cometido otro delito, sino que será derivado obligatoriamente a una **Rampa de Redignificación y Desintoxicación Médica**, financiada por el Fondo de Auxilio Mutuo (Art. 62).
 
-    iii. El ciudadano asume el costo de su rescate. El RNS deducirá automáticamente los gastos de hospitalización y aislamiento de su Capa C de Capital de Maniobra, garantizando que el contribuyente sobrio no subsidie el colapso voluntario de otro. La compasión del Estado consiste en salvar la vida del individuo, no en financiar su suicidio en cámara lenta.
+    iii. El ciudadano asume el costo de su rescate. El RNS deducirá automáticamente los gastos de hospitalización y aislamiento de su Capa C de Capital de Maniobra, garantizando que el contribuyente sobrio no subsidie el colapso voluntario de otro, orientándose la asistencia pública a la rehabilitación efectiva de la salud del individuo y la recuperación de su autonomía civil.
 
 **9. Proscripción de la Eutanasia, el Suicidio Asistido y la Nulidad del Encubrimiento Biológico Estatal.** La República de Cuba declara el derecho a la vida como el axioma termodinámico y jurídico fundamental del Estado. Se prohíbe constitucionalmente la legalización, facilitación, promoción o ejecución de la eutanasia y el suicidio médicamente asistido en todo el territorio nacional.
 
@@ -6561,7 +6561,7 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
 ## Artículo 143. De la Máscara de Autoridad y la Interfaz Institucional.
 
-1\. Formalidad Técnica: La República evitará todo lenguaje utópico o ideológico en su interfaz pública. El sistema se presentará ante el mundo bajo el marco de Seguridad Nacional y Eficiencia de Mando. La soberanía no se solicita; se ejerce mediante la robustez del sistema.
+1\. Formalidad Técnica: La República evitará todo lenguaje utópico o ideológico en su interfaz pública. El sistema se presentará ante el mundo bajo el marco de Seguridad Nacional y Eficiencia de Mando. La soberanía de la Nación se fundamenta y sostiene en la eficacia técnica, la certidumbre jurídica y la solidez institucional de la República.
 
 2\. Ética de la Verdad y la Palabra Pública:
 
@@ -6820,7 +6820,7 @@ d)  **Incentivo a la Sobriedad:** El Estado y los Municipios fomentarán el uso 
 
     b)  **Justicia de Dato contra el Drama:** Ante un altercado lingüístico, los registros de audio del RNS (Art. 144) en caso que los hubiera servirán para identificar quién inició la agresión. El sistema penal cubano no protegerá al agresor bajo el manto del \"patriotismo\". En Cuba, el patriotismo es el respeto a la soberanía de cada individuo que pisa el territorio nacional.
 
-8.  **De la Extirpación de la Extorsión y el Cobro de Cupos (Protocolo \"Anti-Chuqui\").** La República declara la extorsión comercial y el cobro de peajes no autorizados como un **Acto de Sabotaje a la Estabilidad Nacional**. Ningún particular ni organización puede exigir pagos por \"protección\", \"vigilancia no contratada\" o \"derecho de paso\" en el espacio público o privado.
+8.  **De la Proscripción Radical de la Extorsión y la Exacción Ilícita de Cuotas:** La República declara la extorsión comercial y el cobro de peajes no autorizados como un **Acto de Sabotaje a la Estabilidad Nacional**. Ningún particular ni organización puede exigir pagos por \"protección\", \"vigilancia no contratada\" o \"derecho de paso\" en el espacio público o privado.
 
     a)  **Flagrancia Digital y Denuncia Protegida:**\
         Todo ciudadano que sea objeto de una demanda de extorsión podrá activar la **Grabación de Fe Pública** desde su Pasaporte de Ciudadanía Soberana (PCSC) (Art. 144.2.c).
@@ -6877,67 +6877,67 @@ d)  **Incentivo a la Sobriedad:** El Estado y los Municipios fomentarán el uso 
 
 ## Artículo 151. De la Protección contra el Error por Imposición, y De las Rampas de Redignificación y el Derecho a la Restitución del Honor Civil.
 
-**1. Garantía de Reacción Reflexiva:** Se prohíbe la ejecución de actos de autoridad o la imposición de sanciones administrativas que por su celeridad, agresividad o naturaleza abrasiva anulen la capacidad de comprensión sistémica del ciudadano. En todo procedimiento coercitivo, el Estado debe garantizar un intervalo de **Reflexión y Advertencia**, permitiendo que el individuo identifique la norma vulnerada y los mecanismos de rectificación antes de la ejecución forzosa. La ley que ciega para obligar a la obediencia carece de legitimidad moral y será causa de nulidad del procedimiento.
+1\. **Garantía de Reacción Reflexiva:** Se prohíbe la ejecución de actos de autoridad o la imposición de sanciones administrativas que por su celeridad, agresividad o naturaleza abrasiva anulen la capacidad de comprensión sistémica del ciudadano. En todo procedimiento coercitivo, el Estado debe garantizar un intervalo de **Reflexión y Advertencia**, permitiendo que el individuo identifique la norma vulnerada y los mecanismos de rectificación antes de la ejecución forzosa. La ley que ciega para obligar a la obediencia carece de legitimidad moral y será causa de nulidad del procedimiento.
 
-a)  Se exceptúa:
+    a)  Se exceptúa:
 
-<!-- -->
+        <!-- -->
 
-i.  Los casos que impliquen proceso penal.
+        i.  Los casos que impliquen proceso penal.
 
-ii. Los daños a un tercero si este no puede ser reparado en menos de 72h.(Se dará preferencia a la reparación con aceptación final del afectado)
+        ii. Los daños a un tercero si este no puede ser reparado en menos de 72h.(Se dará preferencia a la reparación con aceptación final del afectado)
 
-iii. La ley del tránsito (Tendrá sus propias regulaciones, aunque eso no elimina la posibilidad de que permita reflexión y advertencia en determinados casos definidos en ella)
+        iii. La ley del tránsito (Tendrá sus propias regulaciones, aunque eso no elimina la posibilidad de que permita reflexión y advertencia en determinados casos definidos en ella)
 
-iv. Otras definidas en ley orgánica.
+        iv. Otras definidas en ley orgánica.
 
 2\. **El Principio de Rescate Operativo:** La República reconoce que el fracaso biológico, la adicción, la baja capacidad cognitiva y la caída en la infracción penal son contingencias del libre albedrío. Se prohíbe la creación de un estrato de ciudadanos permanentemente subsidiados o irremediablemente proscritos. El Estado no otorga la dignidad por decreto, pero tiene la obligación constitucional de mantener abiertas las vías para que el ciudadano caído la recupere mediante el esfuerzo propio.
 
 3\. **Escudos de Baja Fricción y Labor Analógica (Para vulnerables):** Para aquellos ciudadanos que, por condiciones de salud mental, adicción en tratamiento o limitaciones cognitivas certificadas, no puedan competir en la economía de alta eficiencia y velocidad del mercado libre, los Municipios quedan facultados para establecer Zonas de Labor Básica.
 
-a)  Estas zonas se enfocarán en el trabajo manual, la agricultura de proximidad, el mantenimiento de infraestructuras cívicas y la reforestación (Artículo 157).
+    a)  Estas zonas se enfocarán en el trabajo manual, la agricultura de proximidad, el mantenimiento de infraestructuras cívicas y la reforestación (Artículo 157).
 
-b)  El pago se realizará estrictamente contra tarea cumplida, operando como un entorno predecible, de baja carga sensorial (Artículo 140) y sin exigencia de metas corporativas, garantizando un ingreso de supervivencia que preserve la dignidad del trabajo y evite la atrofia del espíritu.
+    b)  El pago se realizará estrictamente contra tarea cumplida, operando como un entorno predecible, de baja carga sensorial (Artículo 140) y sin exigencia de metas corporativas, garantizando un ingreso de supervivencia que preserve la dignidad del trabajo y evite la atrofia del espíritu.
 
-c)  Se prohíbe que este mecanismo se estructure como una transferencia de capital sin contraprestación física. La caridad estatal incondicional hacia individuos con capacidad motriz se tipifica como Mutilación de la Voluntad.
+    c)  Se prohíbe que este mecanismo se estructure como una transferencia de capital sin contraprestación física. La caridad estatal incondicional hacia individuos con capacidad motriz se tipifica como Mutilación de la Voluntad.
 
-4**. Vía de Expiación Activa y Redención del Registro (Para infractores):** El ostracismo civil, la pérdida del Velo de Identidad o el bloqueo de derechos comerciales en el Registro Nacional Soberano (RNS) derivados de infracciones previas no serán a perpetuidad, exceptuando los crímenes de traición y represión tipificados en las Cláusulas Pétreas. Se instituye el Derecho a la Redención Operativa.
+4\. **Vía de Expiación Activa y Redención del Registro (Para infractores):** El ostracismo civil, la pérdida del Velo de Identidad o el bloqueo de derechos comerciales en el Registro Nacional Soberano (RNS) derivados de infracciones previas no serán a perpetuidad, exceptuando los crímenes de traición y represión tipificados en las Cláusulas Pétreas. Se instituye el Derecho a la Redención Operativa.
 
-a)  Todo ciudadano que haya cumplido su pena privativa de libertad, pero que enfrente el rechazo del mercado laboral privado, tendrá el derecho de presentarse ante los Consorcios de Infraestructura Técnica (CIT) o el Cuerpo de Custodia Territorial (CCTR) para ejercer labores de alta dureza (saneamiento de cuencas, construcción vial, respuesta a desastres).
+    a)  Todo ciudadano que haya cumplido su pena privativa de libertad, pero que enfrente el rechazo del mercado laboral privado, tendrá el derecho de presentarse ante los Consorcios de Infraestructura Técnica (CIT) o el Cuerpo de Custodia Territorial (CCTR) para ejercer labores de alta dureza (saneamiento de cuencas, construcción vial, respuesta a desastres).
 
-b)  El RNS establecerá un \"Algoritmo de Purga Institucional\": las horas de sudor y trabajo de riesgo ejecutadas y auditadas por el Estado se computarán como \"Dignificación Social\". Al alcanzar el umbral exigido, el sistema borrará automáticamente el estigma digital de la infracción pasada, restaurando la plenitud de sus Acciones de Mercado (AM) y su elegibilidad comercial. El individuo compra su honor de vuelta con su propio esfuerzo, y la sociedad está obligada a aceptarlo como un igual.
+    b)  El RNS establecerá un \"Algoritmo de Purga Institucional\": las horas de sudor y trabajo de riesgo ejecutadas y auditadas por el Estado se computarán como \"Dignificación Social\". Al alcanzar el umbral exigido, el sistema borrará automáticamente el estigma digital de la infracción pasada, restaurando la plenitud de sus Acciones de Mercado (AM) y su elegibilidad comercial. El individuo compra su honor de vuelta con su propio esfuerzo, y la sociedad está obligada a aceptarlo como un igual.
 
-**5. De la Pausa Burocrática por Duelo o Riesgo Vital (El Protocolo \"Goses\").**\
+5\. **De la Pausa Procesal y Administrativa por Duelo o Contingencia Vital Mayor:**\
 El Estado no competirá por la atención del ciudadano cuando este enfrenta la pérdida de la vida de su núcleo familiar. Se establece el derecho a la \"Pausa Burocrática\":
 
-a)  **Activación de Emergencia:** Ante el internamiento en cuidados paliativos, enfermedad terminal o fallecimiento de un familiar de primer grado (cónyuge, hijos, padres), el ciudadano, o el hospital en su nombre, podrá activar una \"Alerta de Duelo\" en su Pasaporte de Ciudadanía Soberana (PCSC).
+    a)  **Activación de Emergencia:** Ante el internamiento en cuidados paliativos, enfermedad terminal o fallecimiento de un familiar de primer grado (cónyuge, hijos, padres), el ciudadano, o el hospital en su nombre, podrá activar una \"Alerta de Duelo\" en su Pasaporte de Ciudadanía Soberana (PCSC).
 
-b)  **Suspensión Automática de Plazos:** Esta alerta suspenderá de pleno derecho, por un periodo improrrogable de sesenta (60) días, el vencimiento de cualquier impuesto, obligación registral, citación judicial civil o ejecución de deuda (incluyendo embargos y subastas). Durante este periodo, la \"inacción\" del ciudadano no generará mora, multas ni pérdida de derechos.
+    b)  **Suspensión Automática de Plazos:** Esta alerta suspenderá de pleno derecho, por un periodo improrrogable de sesenta (60) días, el vencimiento de cualquier impuesto, obligación registral, citación judicial civil o ejecución de deuda (incluyendo embargos y subastas). Durante este periodo, la \"inacción\" del ciudadano no generará mora, multas ni pérdida de derechos.
 
-c)  **Invalidez de Actos Ejecutados en Duelo:** Cualquier venta, embargo, confiscación o subasta ejecutada por el Estado o un acreedor mientras el ciudadano se encontraba bajo el amparo fáctico de este inciso (incluso si no pudo activar la alerta a tiempo por estar atendiendo la emergencia), será declarada **Nula de Pleno Derecho** y revertida inmediatamente a costo del ejecutor.
+    c)  **Invalidez de Actos Ejecutados en Duelo:** Cualquier venta, embargo, confiscación o subasta ejecutada por el Estado o un acreedor mientras el ciudadano se encontraba bajo el amparo fáctico de este inciso (incluso si no pudo activar la alerta a tiempo por estar atendiendo la emergencia), será declarada **Nula de Pleno Derecho** y revertida inmediatamente a costo del ejecutor.
 
-d)  **Los acreedores tienen el derecho** de solicitar al Estado que este cubra temporalmente el pago de estas deudas. El TSJ dará el visto bueno mediante análisis de la evidencia documental. Sin embargo el deudor tiene la obligación una vez terminado su periodo de duelo, de reponer lo pagado por el estado al mismo ritmo de su deuda anterior. Siendo el estado el último que recupera su dinero al final de la prórroga sin intereses adicionales.
+    d)  **Los acreedores tienen el derecho** de solicitar al Estado que este cubra temporalmente el pago de estas deudas. El TSJ dará el visto bueno mediante análisis de la evidencia documental. Sin embargo el deudor tiene la obligación una vez terminado su periodo de duelo, de reponer lo pagado por el estado al mismo ritmo de su deuda anterior. Siendo el estado el último que recupera su dinero al final de la prórroga sin intereses adicionales.
 
-e)  **El TSJ tiene el deber** mediante los órganos correspondientes de velar por qué no se cometa un fraude fiscal en el uso de este mecanismo. Para ello creará una comisión investigadora de uno de los órganos del estado la cual investigue apropiadamente el caso una vez pasado el duelo.
+    e)  **El TSJ tiene el deber** mediante los órganos correspondientes de velar por qué no se cometa un fraude fiscal en el uso de este mecanismo. Para ello creará una comisión investigadora de uno de los órganos del estado la cual investigue apropiadamente el caso una vez pasado el duelo.
 
-    i.  El objetivo de esta comisión no es hallar culpables sino únicamente velar por que no se cometa fraude con el presupuesto estatal.
+        i.  El objetivo de esta comisión no es hallar culpables sino únicamente velar por que no se cometa fraude con el presupuesto estatal.
 
-**6. Protocolo de Reconciliación Civil y Cierre de Deuda Exponencial:**\
+6\. **Protocolo de Reconciliación Civil y Cierre de Deuda Exponencial:**\
 Con el fin de evitar la creación de una clase social de insolventes perpetuos y fomentar la reinserción productiva de quienes han resarcido el daño principal, se establece el mecanismo de \"Cierre por Mérito Social\":
 
-a)  **Umbral de Redención:** Todo ciudadano sujeto a una Deuda de Restitución (Artículo 22.17) que haya liquidado de forma efectiva el ochenta por ciento (80%) del monto total tasado, y que acredite un historial de conducta ejemplar, cumplimiento de servicios en las Rampas de Redignificación y ausencia de reincidencia por un periodo mínimo de cinco (5) años, tendrá derecho a solicitar la condonación del veinte por ciento (20%) restante de su deuda.
+    a)  **Umbral de Redención:** Todo ciudadano sujeto a una Deuda de Restitución (Artículo 22.17) que haya liquidado de forma efectiva el ochenta por ciento (80%) del monto total tasado, y que acredite un historial de conducta ejemplar, cumplimiento de servicios en las Rampas de Redignificación y ausencia de reincidencia por un periodo mínimo de cinco (5) años, tendrá derecho a solicitar la condonación del veinte por ciento (20%) restante de su deuda.
 
-b)  **Subrogación del Pago por el Erario (El Fondo de Reconciliación):** Para garantizar que la víctima reciba el cien por ciento (100%) de la indemnización debida, el Estado o el Municipio (según el alcance del delito) asumirá el pago del remanente condonado al infractor.
+    b)  **Subrogación del Pago por el Erario (El Fondo de Reconciliación):** Para garantizar que la víctima reciba el cien por ciento (100%) de la indemnización debida, el Estado o el Municipio (según el alcance del delito) asumirá el pago del remanente condonado al infractor.
 
-<!-- -->
+        <!-- -->
 
-i.  **Ámbito Municipal:** Si el daño fue de carácter local y afectó a ciudadanos o infraestructura del municipio, el pago se realizará desde el **Fondo Municipal de Auxilio Mutuo (Art. 62)**.
+        i.  **Ámbito Municipal:** Si el daño fue de carácter local y afectó a ciudadanos o infraestructura del municipio, el pago se realizará desde el **Fondo Municipal de Auxilio Mutuo (Art. 62)**.
 
-ii. **Ámbito Nacional:** Si el delito fue tipificado como Atentado a la Seguridad de la Nación o involucró Redes de Interconexión Nacional (RRI), la compensación será cubierta por el Tesoro Nacional mediante una partida específica de \"Seguridad y Cohesión Social\".
+        ii. **Ámbito Nacional:** Si el delito fue tipificado como Atentado a la Seguridad de la Nación o involucró Redes de Interconexión Nacional (RRI), la compensación será cubierta por el Tesoro Nacional mediante una partida específica de \"Seguridad y Cohesión Social\".
 
-<!-- -->
+        <!-- -->
 
-c)  **Restauración de Derechos y Sello de Reputación:** Una vez que el erario público liquide el 20% a la víctima, el Registro Nacional Soberano (RNS) emitirá un Certificado de Solvencia Total. El estigma digital del antecedente migrará a una capa de archivo protegido, devolviendo al ciudadano su plena capacidad comercial y el acceso total a su Capa C de Capital de Maniobra. La República invierte este 20% como un activo para recuperar a un contribuyente neto y eliminar el costo social del paria.
+    c)  **Restauración de Derechos y Sello de Reputación:** Una vez que el erario público liquide el 20% a la víctima, el Registro Nacional Soberano (RNS) emitirá un Certificado de Solvencia Total. El estigma digital del antecedente migrará a una capa de archivo protegido, devolviendo al ciudadano su plena capacidad comercial y el acceso total a su Capa C de Capital de Maniobra. La República invierte este 20% como un activo para recuperar a un contribuyente neto y eliminar el costo social del paria.
 
 7\. **Del Derecho a la Restitución de la Imagen Civil.** La filtración maliciosa de datos privados o el uso de información de la Capa Gamma para fines de extorsión o escarnio público será castigado con la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos del funcionario responsable y una indemnización equivalente al 50% de las Acciones Soberanas del infractor en favor de la víctima.
 
@@ -6945,20 +6945,20 @@ c)  **Restauración de Derechos y Sello de Reputación:** Una vez que el erario 
 
 9\. Se instituye el Programa Nacional de Saneamiento de la Conciencia.
 
-a)  Los Vouchers de Salud (Art. 61) tendrán una Capa de Prioridad para el tratamiento del Estrés Postraumático y la desintoxicación de la 'Doble Moral' ideológica.
+    a)  Los Vouchers de Salud (Art. 61) tendrán una Capa de Prioridad para el tratamiento del Estrés Postraumático y la desintoxicación de la 'Doble Moral' ideológica.
 
-b)  Las municipalidades facilitarán centros de mediación comunitaria operados por la sociedad civil y organizaciones de fe para restaurar el tejido de confianza vecinal destruido por la vigilancia del régimen anterior.
+    b)  Las municipalidades facilitarán centros de mediación comunitaria operados por la sociedad civil y organizaciones de fe para restaurar el tejido de confianza vecinal destruido por la vigilancia del régimen anterior.
 
 10\. **De la Ecuación de Restitución de Vida:**\
 En caso de condena errónea certificada por el TDC, el Estado no pagará una \"multa fija\". La indemnización será calculada como **Restitución del Potencial Biológico**:
 
-a)  **Liquidación de Tiempo Perdido:** El Estado pagará al exonerado el equivalente al triple (3x) del salario promedio de un funcionario de alta jerarquía por cada hora de libertad privada.
+    a)  **Liquidación de Tiempo Perdido:** El Estado pagará al exonerado el equivalente al triple (3x) del salario promedio de un funcionario de alta jerarquía por cada hora de libertad privada.
 
-b)  **Acciones Soberanas de Gracia:** El exonerado recibirá una dotación adicional de **Acciones Soberanas (AS)** como si hubiera servido al Estado con honores, garantizando que su jubilación y salud sean de élite.
+    b)  **Acciones Soberanas de Gracia:** El exonerado recibirá una dotación adicional de **Acciones Soberanas (AS)** como si hubiera servido al Estado con honores, garantizando que su jubilación y salud sean de élite.
 
-c)  **Responsabilidad del Juez y Fiscal:** Si se demuestra que los funcionarios ignoraron pruebas de descargo, la indemnización se pagará primero confiscando la **Capa de Maniobra (Capa C)** de dichos funcionarios.
+    c)  **Responsabilidad del Juez y Fiscal:** Si se demuestra que los funcionarios ignoraron pruebas de descargo, la indemnización se pagará primero confiscando la **Capa de Maniobra (Capa C)** de dichos funcionarios.
 
-d)  **Suspensión del Reloj de Prescripción para el Perpetrador Real: **La reparación económica a la víctima de un error judicial no cierra el caso. El reloj de prescripción de la justicia para el verdadero criminal se considera detenido durante todo el tiempo que el inocente estuvo cumpliendo la condena. La ineficiencia del Estado en su captura original no otorga impunidad al delincuente. Al certificar el error y salir el inocente, se activa el Mandato de Captura Inmediata contra el perpetrador material.
+    d)  **Suspensión del Reloj de Prescripción para el Perpetrador Real: **La reparación económica a la víctima de un error judicial no cierra el caso. El reloj de prescripción de la justicia para el verdadero criminal se considera detenido durante todo el tiempo que el inocente estuvo cumpliendo la condena. La ineficiencia del Estado en su captura original no otorga impunidad al delincuente. Al certificar el error y salir el inocente, se activa el Mandato de Captura Inmediata contra el perpetrador material.
 
 ------------------------------------------------------------------------
 
@@ -7570,7 +7570,8 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
 3.  El Antivirus contra el Testaferrismo (Algoritmo de Enjambre): La interposición de personas naturales ajenas al núcleo familiar (testaferros o \"hombres de paja\") no impedirá la aplicación de este artículo. El RNS, mediante el análisis criptográfico de grafos de relaciones y transferencias de divisas (Algoritmo de Enjambre - Art. 117.5.b), rastreará el origen del flujo de fondos. De demostrarse que el capital real o el control fáctico de la empresa pertenece a familiares de la cúpula, la SACA se constituirá de oficio, y el testaferro perderá el cien por ciento (100%) de sus bienes personales registrados por el delito de Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d)
 
-## GLOSARIO DE DEFENSA CIUDADANA Y SOBERANÍA ECONÓMICA
+## ANEXO COMPLEMENTARIO: TABLA DE DEFINICIONES TÉCNICAS E INTERPRETACIÓN HERMENÉUTICA
+*(Disposición interpretativa de referencia conceptual para los órganos jurisdiccionales, el Tribunal de Arbitraje Técnico y los usuarios del Registro Nacional Soberano)*
 
 ------------------------------------------------------------------------
 

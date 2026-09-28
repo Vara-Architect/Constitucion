@@ -180,7 +180,7 @@ d)  **Inalienabilidad de la Red Troncal:** El municipio que se separa mantiene l
 La República garantiza la integridad histórica de sus registros ante cualquier evento de degradación tecnológica o política. Hasta tanto se desarrolle e implemente una tecnología de almacenamiento masivo de duración milenaria certificada por el TAT, se establece el Mecanismo de Copiado Multimodal:
     a) Jerarquía de Formatos de Resguardo: El Registro Nacional Soberano (RNS) ejecutará trimestralmente un protocolo de respaldo obligatorio en tres (3) capas de soporte de distinta naturaleza física, por lo que el estado cubano y sus municipios orientarán la búsqueda de una estructura que permita:
         i. Capa Alfa (Digital Distribuida): Almacenamiento en red cifrada y descentralizada en todos los Nodos Municipales.
-        ii. Capa Beta (Óptica/Analógica de Media Duración): Grabado en soportes de alta resistencia química y térmica (soportes ópticos de grado de archivo, micro-fichas de alta resolución o formatos equivalentes de lectura no dependiente de software propietario) con vida útil estimada no menor a 100 años. (Ajuste: se retira únicamente la sigla comercial "M-DISC" para que abarque cualquier disco óptico de archivo actual o futuro).
+        ii. Capa Beta (Óptica o Analógica de Media Duración): Grabado en soportes de alta resistencia química y térmica, tales como medios ópticos de grado de archivo, microfichas de alta resolución o formatos equivalentes de lectura independiente de software propietario, con una vida útil estimada no inferior a cien (100) años.
         iii. Capa Gamma (Física de Alta Densidad): Grabado láser de los "Datos Semilla" (regulados bajo la Ley Orgánica del RNS en el Art. 163.1) en placas metálicas o sintéticas de resistencia geológica.
     b) De la Obligación de Recopiado Activo (Protocolo del Escriba): El TAT auditará el estado de los soportes cada diez (10) años. Ante la detección de degradación física o la aparición de una Tecnología de Preservación de Ciclo Superior, la autoridad tendrá la obligación constitucional de migrar y duplicar la información al nuevo formato. Se prohíbe dejar la memoria nacional en formatos obsoletos cuyo hardware de lectura haya desaparecido del mercado.
     c) Descentralización del Riesgo: Queda prohibida la centralización de las copias de seguridad en un solo Nodo o Provincia. Cada municipio tendrá la potestad y el recurso para custodiar una copia del "Estado Estructural" de la Nación, asegurando que el país pueda ser reconstruido desde cualquier Nodo si el centro desaparece.
@@ -1642,8 +1642,8 @@ d)  **Asunción del Costo:** El Derecho al Error Personal no obliga al Estado ni
 4\. **De la Inviolabilidad Sensorial y la Proscripción de las políticas de Espionaje Corporativo hacia el ciudadano.**
 El dispositivo físico (teléfono móvil, ordenador, sensores domóticos, vehículos inteligentes, y otros de similar índole actuales o futuros) es una extensión de la propiedad privada y la "Casa" del ciudadano (Morada Inviolable). Se prohíbe la extracción pasiva de datos sensoriales.
 
-    a) Nulidad de Contratos de Adhesión Ciegos: Se declaran nulos de pleno derecho y sin valor legal los "Términos y Condiciones de Uso" (EULA) o cualquier contrato de adhesión que incluya cláusulas ocultas o no negociables donde el usuario "ceda" el acceso en segundo plano a su micrófono, cámara, geolocalización continua o teclado a favor de corporaciones de software, redes sociales, desarrolladores de Inteligencia Artificial (IA), u otros de similar índole. (Ajuste: se añade "o cualquier contrato de adhesión" para que no evadan la nulidad llamándolo "Acuerdo de Privacidad" o "Términos de Servicio").
-    b) Prohibición de Escucha Activa No Comandada: Ninguna aplicación o sistema operativo, nacional o extranjero, podrá activar la captación de audio, video o biometría sin una acción fáctica y deliberada del usuario en ese instante preciso (como la pulsación de un comando o acción física equivalente). La escucha en segundo plano para la creación de "perfiles de interés" o publicidad hiper-dirigida se tipifica como Delito de Invasión Acústica Corporativa. (Ajuste: se amplía "presionar un botón" a "comando o acción física equivalente" para cubrir pantallas táctiles, gestos o conmutadores).
+    a) Nulidad de Cláusulas Abusivas de Acceso: Se declaran nulas de pleno derecho las condiciones generales de contratación, términos de servicio o acuerdos de adhesión que impongan la cesión no negociable del acceso en segundo plano a micrófonos, cámaras, geolocalización continua o interfaces de entrada a favor de desarrolladores de software o terceros.
+    b) Proscripción de la Captación Sensorial Pasiva: Ninguna aplicación, dispositivo o sistema operativo podrá activar sensores de audio, video o biometría sin una instrucción fáctica, directa y deliberada del usuario en el momento de la captación. La activación no autorizada en segundo plano para perfilamiento comercial o vigilancia se tipifica como Delito de Intrusión Sensorial Ilícita.
     c) Auditoría Forense del Dispositivo: El Tribunal de Arbitraje Técnico (TAT) queda facultado para realizar ingeniería inversa y auditar el código de cualquier aplicación masiva que opere en la República. Si se detecta transmisión de datos sensoriales no encriptados o no autorizados tácticamente por el ciudadano, el RNS bloqueará los servidores de dicha empresa en el territorio nacional hasta la purga del código malicioso.
     d) Excepción: Se exceptúan los mecanismos informáticos adónde el usuario tiene control total sobre el resultado y lo hace de forma deliberada y previa, o elementos que se encuentren desconectados de la red para la escucha de información y procesamiento local, o los mecanismos activados por voz, los cuales no podrán usar este permiso para transmitir información recopilada por ninguna vía, a no ser que el usuario decida vender esa información de forma deliberada y jamás de forma autónoma.
 
@@ -3238,9 +3238,9 @@ d)  **Condición de No Coacción:** Estos derechos son irrenunciables. Es nulo d
 
 2\. Naturaleza del Voucher: Este bono es un título de crédito de carácter universal y canjeable exclusivamente en instituciones educativas acreditadas, sean públicas o de gestión privada. El financiamiento estatal sigue al estudiante; se prohíbe el subsidio directo a la oferta (instituciones).
 
-3\. Homeschooling (Educación en el Hogar): Se reconoce y certifica legalmente la educación en el hogar. Las familias que opten por esta modalidad recibirán la acreditación oficial sujeta a pruebas de suficiencia académica estandarizadas y supervisadas por los consejos municipales de educación.
+3\. De la Instrucción en el Hogar: Se reconoce y ampara jurídicamente la modalidad de educación en el hogar bajo tutela directa de los padres. Las familias que opten por esta vía obtendrán certificación oficial mediante la superación de pruebas periódicas de suficiencia académica estandarizadas y auditadas por las autoridades técnicas de educación.
 
-a)  En ningún caso se podrá utilizar el Homeschooling para justificar el aislamiento pedagógico.
+    a)  En ningún caso esta modalidad podrá utilizarse para justificar el aislamiento pedagógico o la privación de competencias cívicas fundamentales.
 
 4\. Garantía de Servicio y Proveedor de Última Instancia: En zonas donde no exista oferta privada, el Municipio tiene la obligación de asegurar el servicio. Esta obligación se cumplirá prioritariamente mediante la Licitación de Gestión por Desempeño a favor de entidades técnicas o cooperativas profesionales, financiadas por el FCIN. El Municipio actuará como supervisor y garante, evitando la creación de estructuras administrativas directas que generen gasto corriente improductivo.
 
@@ -3250,169 +3250,167 @@ a)  En ningún caso se podrá utilizar el Homeschooling para justificar el aisla
 
 7\. **De la Inviolabilidad Docente y la Responsabilidad Parental Objetiva.** Con el fin de preservar el orden académico y proteger a la profesión docente como Activo Crítico Nacional, se establecen las siguientes garantías de autoridad:
 
-> a\) **Inviolabilidad del Docente:** Dentro del recinto educativo, el maestro ejerce la autoridad delegada para el mantenimiento del orden y la instrucción. Toda agresión física, amenaza, coacción o difamación deliberada contra un docente o directivo en el ejercicio de sus funciones será tipificada como **Atentado contra la Función Educativa**.
->
-> b\) **Responsabilidad Civil Objetiva de los Tutores:** En estricta coherencia con la primacía de la Patria Potestad (Art. 59), los padres o tutores legales son **civil y financieramente responsables** por cualquier agresión, daño material o moral perpetrado por sus hijos menores de edad contra el personal docente, otros alumnos o la infraestructura de la institución.
+    a) **Inviolabilidad del Docente:** Dentro del recinto educativo, el maestro ejerce la autoridad delegada para el mantenimiento del orden y la instrucción. Toda agresión física, amenaza, coacción o difamación deliberada contra un docente o directivo en el ejercicio de sus funciones será tipificada como **Atentado contra la Función Educativa**.
+    b) **Responsabilidad Civil Objetiva de los Tutores:** En estricta coherencia con la primacía de la Patria Potestad (Art. 59), los padres o tutores legales son **civil y financieramente responsables** por cualquier agresión, daño material o moral perpetrado por sus hijos menores de edad contra el personal docente, otros alumnos o la infraestructura de la institución.
 
-i.  Las indemnizaciones por actos del menor serán debitadas del RNS desde la Capa C de los padres, con un límite máximo del veinte por ciento (20%) de su flujo mensual para evitar la indigencia de los tutores. El excedente del daño será cubierto por un Seguro de Responsabilidad Escolar obligatorio, financiado mediante una fracción marginal del Voucher Educativo.
+        i.  Las indemnizaciones por actos del menor serán debitadas del RNS desde la Capa C de los padres, con un límite máximo del veinte por ciento (20%) de su flujo mensual para evitar la indigencia de los tutores. El excedente del daño será cubierto por un Seguro de Responsabilidad Escolar obligatorio, financiado mediante una fracción marginal del Voucher Educativo.
 
-ii. La ignorancia de los padres sobre la conducta del menor no exime la responsabilidad del pago.
+        ii. La ignorancia de los padres sobre la conducta del menor no exime la responsabilidad del pago.
 
-> c\) **Derecho Absoluto de Expulsión (Soberanía Institucional):** El financiamiento de la educación mediante el Voucher de Libertad no obliga a ninguna institución, sea pública o privada, a tolerar la indisciplina grave, la violencia o el acoso. Las escuelas conservan el derecho inalienable de admisión y expulsión inmediata ante violaciones al reglamento de convivencia.
->
-> d\) **Carga de Reubicación:** En caso de expulsión por agresión, el Estado queda relevado de la obligación de garantizar un cupo inmediato en otra institución de igual conveniencia. La búsqueda de una nueva escuela dispuesta a aceptar al menor infractor, así como los costos logísticos derivados, recaerán exclusivamente sobre los padres, quienes deberán asumir las consecuencias de su fracaso disciplinario en el hogar.
+    c) **Derecho Absoluto de Expulsión (Soberanía Institucional):** El financiamiento de la educación mediante el Voucher de Libertad no obliga a ninguna institución, sea pública o privada, a tolerar la indisciplina grave, la violencia o el acoso. Las escuelas conservan el derecho inalienable de admisión y expulsión inmediata ante violaciones al reglamento de convivencia.
+    d) **Carga de Reubicación:** En caso de expulsión por agresión, el Estado queda relevado de la obligación de garantizar un cupo inmediato en otra institución de igual conveniencia. La búsqueda de una nueva escuela dispuesta a aceptar al menor infractor, así como los costos logísticos derivados, recaerán exclusivamente sobre los padres, quienes deberán asumir las consecuencias de su fracaso disciplinario en el hogar.
 
 8\. **Del Blindaje de la Atención y la Proscripción de Dispositivos en la Educación Básica y Media:** La República reconoce que la atención sostenida es el recurso cognitivo más escaso y valioso de la Nación. Para garantizar el desarrollo de la corteza prefrontal y el tejido social directo, se establece la **Prohibición Absoluta de Conexión Externa** en las etapas de formación inicial.
 
-a)  **Proscripción de Dispositivos Conectados:** Queda terminantemente prohibido el ingreso, porte o uso de dispositivos personales de comunicación, terminales de cómputo portátil, pantallas personales, interfaces neuronales o cualquier dispositivo de enlace a redes externas, presente o futuro, por parte de los alumnos en instituciones de educación primaria, secundaria y técnica de nivel medio.
+    a)  **Proscripción de Dispositivos Conectados:** Queda terminantemente prohibido el ingreso, porte o uso de dispositivos personales de comunicación, terminales de cómputo portátil, pantallas personales, interfaces neuronales o cualquier dispositivo de enlace a redes externas, presente o futuro, por parte de los alumnos en instituciones de educación primaria, secundaria y técnica de nivel medio.
 
-b)  **Perímetro Cero:** Esta prohibición rige sin excepciones durante la totalidad de la jornada escolar, abarcando tanto el interior de las aulas como los pasillos, áreas deportivas y zonas de recreo. La tecnología no debe mediar ni interrumpir la interacción humana, el conflicto natural, ni el juego físico.
+    b)  **Perímetro Cero:** Esta prohibición rige sin excepciones durante la totalidad de la jornada escolar, abarcando tanto el interior de las aulas como los pasillos, áreas deportivas y zonas de recreo. La tecnología no debe mediar ni interrumpir la interacción humana, el conflicto natural, ni el juego físico.
 
-c)  **Excepción Estricta por Supervivencia (Validación Médica):** El único amparo para el uso de un dispositivo conectado en estos niveles será la **necesidad médica certificada** por el Tribunal de Arbitraje Técnico (TAT) y registrada en el Registro Nacional Soberano (RNS), tal como monitores continuos de glucosa para diabéticos o biosensores cardíacos. Estos dispositivos deberán estar restringidos a su función vital, bloqueando el acceso a redes sociales, navegadores o mensajería.
+    c)  **Excepción Estricta por Supervivencia (Validación Médica):** El único amparo para el uso de un dispositivo conectado en estos niveles será la **necesidad médica certificada** por el Tribunal de Arbitraje Técnico (TAT) y registrada en el Registro Nacional Soberano (RNS), tal como monitores continuos de glucosa para diabéticos o biosensores cardíacos. Estos dispositivos deberán estar restringidos a su función vital, bloqueando el acceso a redes sociales, navegadores o mensajería.
 
-d)  **Mecanismo de Confiscación sin Fricción:** El educador o la institución que detecte un dispositivo de contrabando no requiere entablar una disputa física o verbal. El dispositivo será retenido inmediatamente en custodia institucional y solo será devuelto al tutor legal, generando una alerta de indisciplina en el RNS que, en caso de reincidencia, derivará en una deducción del Capital de Maniobra de las Acciones Soberanas (AS) de los padres, según el Artículo 60.7.b.
+    d)  **Mecanismo de Confiscación sin Fricción:** El educador o la institución que detecte un dispositivo de contrabando no requiere entablar una disputa física o verbal. El dispositivo será retenido inmediatamente en custodia institucional y solo será devuelto al tutor legal, generando una alerta de indisciplina en el RNS que, en caso de reincidencia, derivará en una deducción del Capital de Maniobra de las Acciones Soberanas (AS) de los padres, según el Artículo 60.7.b.
 
-9\. **De la Soberanía Tecnológica y la Autonomía de Cátedra en la Educación Superior:** A diferencia de la formación básica, la educación politécnica superior y universitaria constituye la fase de transición hacia el mercado productivo (La fase de *Lirdof* - Persecución del conocimiento aplicado). En este nivel, la tecnología deja de ser considerada un vector de distracción para reconocerse como **Bien de Capital Intelectual**.
+9\. **De la Soberanía Tecnológica y la Autonomía de Cátedra en la Educación Superior:** La educación técnica y universitaria constituye la etapa de aplicación y profundización del conocimiento al servicio de la producción. En este nivel, la tecnología deja de ser considerada un vector de distracción para reconocerse como **Bien de Capital Intelectual**.
 
-a)  **Libertad de Integración Tecnológica:** En las universidades, academias de ciencias y recintos de educación superior, el Estado carece de potestad para prohibir el uso de teléfonos, computadoras, Inteligencia Artificial, robótica o algoritmos de síntesis de datos.
+    a)  **Libertad de Integración Tecnológica:** En las universidades, academias de ciencias y recintos de educación superior, el Estado carece de potestad para prohibir el uso de teléfonos, computadoras, Inteligencia Artificial, robótica o algoritmos de síntesis de datos.
 
-b)  **Autonomía del Plantel y del Docente:** La decisión de restringir, modular o exigir el uso de cualquier herramienta digital dentro del aula recae de forma exclusiva y soberana en la Dirección de la Facultad y en el titular de la cátedra académica. El profesor universitario tiene el derecho de exigir que sus estudiantes utilicen IA para depurar bases de datos, programar código, auditar fórmulas termodinámicas o fotografiar esquemas, así como el derecho a exigir el apagado de dispositivos durante exámenes de evaluación pura.
+    b)  **Autonomía del Plantel y del Docente:** La decisión de restringir, modular o exigir el uso de cualquier herramienta digital dentro del aula recae de forma exclusiva y soberana en la Dirección de la Facultad y en el titular de la cátedra académica. El profesor universitario tiene el derecho de exigir que sus estudiantes utilicen IA para depurar bases de datos, programar código, auditar fórmulas termodinámicas o fotografiar esquemas, así como el derecho a exigir el apagado de dispositivos durante exámenes de evaluación pura.
 
-c)  **Preparación para la Asimetría:** Las instituciones de educación superior tienen el mandato de entrenar al ciudadano en el dominio de la tecnología de vanguardia, asegurando que el profesional cubano opere como director y arquitecto de la Inteligencia Artificial, y no como un usuario pasivo dependiente de ella.
+    c)  **Preparación para la Asimetría:** Las instituciones de educación superior tienen el mandato de entrenar al ciudadano en el dominio de la tecnología de vanguardia, asegurando que el profesional cubano opere como director y arquitecto de la Inteligencia Artificial, y no como un usuario pasivo dependiente de ella.
 
 10\. **De la Fidelidad Epistemológica y la Neutralidad Ontológica:** El sistema educativo nacional se define como un espacio de instrucción técnica y descriptiva, quedando estrictamente prohibida la imposición de cualquier cosmovisión metafísica, ya sea teísta o materialista-atea, como verdad absoluta del Estado.
 
-a)  **Tratamiento de las Ciencias Naturales:** Las teorías científicas, incluyendo los modelos evolutivos y cosmogónicos, serán impartidas como **Modelos de Explicación de Datos**, basados en la evidencia fáctica y el método experimental, sin que esto implique la negación de otras dimensiones de la existencia humana fuera del ámbito de la medición física.
+    a)  **Tratamiento de las Ciencias Naturales:** Las teorías científicas, incluyendo los modelos evolutivos y cosmogónicos, serán impartidas como **Modelos de Explicación de Datos**, basados en la evidencia fáctica y el método experimental, sin que esto implique la negación de otras dimensiones de la existencia humana fuera del ámbito de la medición física.
 
-b)  **Tratamiento del Fenómeno Religioso:** El sistema educativo integrará el estudio de las religiones y los sistemas de pensamiento teísta como **Vectores de Construcción Civilizatoria**. Se enseñará su historia, su impacto en el arte, la ética y el derecho, reconociendo su papel fundamental en la estructura del alma social, sin promover el culto ni la práctica de ninguna de ellas.
+    b)  **Tratamiento del Fenómeno Religioso:** El sistema educativo integrará el estudio de las religiones y los sistemas de pensamiento teísta como **Vectores de Construcción Civilizatoria**. Se enseñará su historia, su impacto en el arte, la ética y el derecho, reconociendo su papel fundamental en la estructura del alma social, sin promover el culto ni la práctica de ninguna de ellas.
 
-c)  **Proscripción del Reduccionismo:** Se tipifica como **Intrusión Ideológica** el uso de la cátedra para ridiculizar, menospreciar o invalidar las creencias religiosas de los alumnos, así como el uso de la misma para negar la validez del método científico. El docente es un transmisor de modelos, no un árbitro de la Verdad Final.
+    c)  **Proscripción del Reduccionismo:** Se tipifica como **Intrusión Ideológica** el uso de la cátedra para ridiculizar, menospreciar o invalidar las creencias religiosas de los alumnos, así como el uso de la misma para negar la validez del método científico. El docente es un transmisor de modelos, no un árbitro de la Verdad Final.
 
-d)  **Soberanía del Juicio Crítico:** El currículo estará diseñado para que el estudiante comprenda la distinción entre **Dato** (lo comprobable), **Teoría** (la mejor explicación actual) y **Dogma** (la convicción personal), fomentando la humildad intelectual y evitando la creación de facciones ideológicas dentro del recinto escolar.
+    d)  **Soberanía del Juicio Crítico:** El currículo estará diseñado para que el estudiante comprenda la distinción entre **Dato** (lo comprobable), **Teoría** (la mejor explicación actual) y **Dogma** (la convicción personal), fomentando la humildad intelectual y evitando la creación de facciones ideológicas dentro del recinto escolar.
 
 11\. **De la Excelencia Técnica Superior y la Simetría Académica:** La República reconoce la **Ingeniería de Ejecución** como el pilar fundamental de la soberanía física. Se establece la equivalencia plena de grado universitario para todas las áreas de especialización técnica crítica:
 
-a)  **Dignificación del Oficio:** Los programas de formación en áreas de infraestructura, energía, agro-industria y servicios vitales serán elevados al rango de **Licenciaturas y Doctorados en Ciencias Técnicas Aplicadas**. Se prohíbe la subestimación jurídica o salarial de estas titulaciones frente a las carreras humanísticas o teóricas tradicionales.
+    a)  **Dignificación del Oficio:** Los programas de formación en áreas de infraestructura, energía, agro-industria y servicios vitales serán elevados al rango de **Licenciaturas y Doctorados en Ciencias Técnicas Aplicadas**. Se prohíbe la subestimación jurídica o salarial de estas titulaciones frente a las carreras humanísticas o teóricas tradicionales.
 
-b)  **Enfoque de Optimización:** El currículo de estos grados no se limitará a la operatividad manual, sino que integrará obligatoriamente física avanzada, termodinámica, gestión de datos en el RNS, diseño de sistemas y ética de la eficiencia. El graduado técnico superior es un científico de la ejecución, responsable de la optimización del rendimiento de los activos nacionales.
+    b)  **Enfoque de Optimización:** El currículo de estos grados no se limitará a la operatividad manual, sino que integrará obligatoriamente física avanzada, termodinámica, gestión de datos en el RNS, diseño de sistemas y ética de la eficiencia. El graduado técnico superior es un científico de la ejecución, responsable de la optimización del rendimiento de los activos nacionales.
 
-c)  **Certificación de Maestría:** El título otorgado facultará al ciudadano para la alta dirección técnica de las SACA y agencias del Estado, eliminando techos de ascenso basados en la naturaleza del título y priorizando la competencia fáctica demostrada.
+    c)  **Certificación de Maestría:** El título otorgado facultará al ciudadano para la alta dirección técnica de las SACA y agencias del Estado, eliminando techos de ascenso basados en la naturaleza del título y priorizando la competencia fáctica demostrada.
 
 12\. **De la Sincronización Algorítmica de la Oferta Académica:** Para garantizar la viabilidad biográfica del ciudadano y evitar la inflación de credenciales sin utilidad social, el acceso a la educación superior se rige por el **Principio de Pertinencia Material**:
 
-a)  **Cálculo de Plazas por Absorción:** El Tribunal de Arbitraje Técnico (TAT) y la Oficina de Estadística del RNS publicarán anualmente la **Cuota de Necesidad Nacional**. El número de plazas universitarias disponibles para cada especialidad estará limitado algorítmicamente a la demanda real proyectada del mercado laboral (SACA, sector privado y agencias estatales) en un ciclo de cinco años.
+    a)  **Cálculo de Plazas por Absorción:** El Tribunal de Arbitraje Técnico (TAT) y la Oficina de Estadística del RNS publicarán anualmente la **Cuota de Necesidad Nacional**. El número de plazas universitarias disponibles para cada especialidad estará limitado algorítmicamente a la demanda real proyectada del mercado laboral (SACA, sector privado y agencias estatales) en un ciclo de cinco años.
 
-b)  **Proscripción de la Ineficiencia Educativa:** Se prohíbe la apertura de cupos universitarios financiados mediante Vouchers de Libertad (Art. 60.2) en áreas que presenten un índice de saturación superior al diez por ciento (10%) o cuya tasa de empleabilidad técnica sea inferior al ochenta por ciento (80%).
+    b)  **Proscripción de la Ineficiencia Educativa:** Se prohíbe la apertura de cupos universitarios financiados mediante Vouchers de Libertad (Art. 60.2) en áreas que presenten un índice de saturación superior al diez por ciento (10%) o cuya tasa de empleabilidad técnica sea inferior al ochenta por ciento (80%).
 
-c)  De la Adjudicación de Plazas por Vector de Idoneidad: Ante la existencia de plazas limitadas en cualquier rama de la educación superior (incluyendo artes y oficios), la República proscribe el uso de \"escalafones ideológicos\" o \"subastas monetarias\". El acceso se regirá por el Algoritmo de Vector de Idoneidad, compuesto por tres factores auditados por el RNS:
+    c)  De la Adjudicación de Plazas por Vector de Idoneidad: Ante la existencia de plazas limitadas en cualquier rama de la educación superior (incluyendo artes y oficios), la República proscribe el uso de \"escalafones ideológicos\" o \"subastas monetarias\". El acceso se regirá por el Algoritmo de Vector de Idoneidad, compuesto por tres factores auditados por el RNS:
 
-    i.  Aptitud Técnica (40%): Evaluaciones continuas de conocimiento específico en el área de interés, realizadas mediante simuladores y pruebas de lógica aplicada.
+        i.  Aptitud Técnica (40%): Evaluaciones continuas de conocimiento específico en el área de interés, realizadas mediante simuladores y pruebas de lógica aplicada.
 
-    ii. Mérito Fáctico (40%): Puntuación acumulada durante el Servicio Civil de Soberanía (Art. 111.2) o trabajos previos en el sector relacionado. El sistema prioriza al ciudadano que ya ha demostrado \"fricción real\" con el oficio.
+        ii. Mérito Fáctico (40%): Puntuación acumulada durante el Servicio Civil de Soberanía (Art. 111.2) o trabajos previos en el sector relacionado. El sistema prioriza al ciudadano que ya ha demostrado \"fricción real\" con el oficio.
 
-    iii. Factor de Necesidad Nodal (20%): Bonificación algorítmica para el ciudadano que elija cursar su carrera en un municipio con déficit certificado de ese perfil profesional.
+        iii. Factor de Necesidad Nodal (20%): Bonificación algorítmica para el ciudadano que elija cursar su carrera en un municipio con déficit certificado de ese perfil profesional.
 
-d)  De la Responsabilidad por Sobrecapacidad: Si un ciudadano insiste en cursar una carrera declarada por el TAT como \"Saturada\" (oferta superior a la demanda en un 150%), podrá hacerlo en ejercicio de su libertad individual, pero bajo las siguientes condiciones:
+    d)  De la Responsabilidad por Sobrecapacidad: Si un ciudadano insiste en cursar una carrera declarada por el TAT como \"Saturada\" (oferta superior a la demanda en un 150%), podrá hacerlo en ejercicio de su libertad individual, pero bajo las siguientes condiciones:
 
-    i.  Suspensión del Voucher: El Estado no financiará mediante Vouchers de Libertad carreras sin utilidad social fáctica. El ciudadano deberá sufragar el costo utilizando su Capa C (Capital de Maniobra).
+        i.  Suspensión del Voucher: El Estado no financiará mediante Vouchers de Libertad carreras sin utilidad social fáctica. El ciudadano deberá sufragar el costo utilizando su Capa C (Capital de Maniobra).
 
-    ii. Asunción de Riesgo Laboral: El egresado de una carrera saturada no podrá reclamar al Estado el beneficio de \"Puesto de Alta Jerarquía\" (Art. 60.12.e), asumiendo el riesgo de su inserción en el mercado libre.
+        ii. Asunción de Riesgo Laboral: El egresado de una carrera saturada no podrá reclamar al Estado el beneficio de \"Puesto de Alta Jerarquía\" (Art. 60.12.e), asumiendo el riesgo de su inserción en el mercado libre.
 
-e)  **Garantía de Destino:** El Estado y los municipios, a través del Fondo de Convergencia (FCIN), garantizan que cada plaza técnica superior de cupo limitado cuente con una pre-asignación (En el primer año de la carrera, no obstante, no se asegura que se mantenga al final de último curso, lo cual no disminuye la responsabilidad estatal como facilitador) de **Puesto de Alta Jerarquía** o una línea de capital semilla para emprendimiento especializado (Art. 136.8), asegurando que el tiempo de formación se traduzca inmediatamente en capitalización personal y nacional.
+    e)  **Garantía de Destino:** El Estado y los municipios, a través del Fondo de Convergencia (FCIN), facilitarán que las plazas técnicas superiores de cupo limitado cuenten con opciones de vinculación profesional temprana o acceso a líneas de capital semilla para emprendimiento especializado (Art. 136.8), asegurando la inserción productiva del egresado.
 
-f)  **De la Salud Mental en la Competencia:** Queda prohibido el diseño de pruebas de acceso o sistemas de evaluación basados en el agotamiento físico o la privación de sueño. El éxito académico no puede ser un premio a la resistencia al dolor, sino a la eficiencia del conocimiento. El TAT auditará los niveles de estrés en los centros de formación; un centro con alumnos enfermos es un centro técnicamente defectuoso y perderá su licencia.
+    f)  **De la Salud Mental en la Competencia:** Queda prohibido el diseño de pruebas de acceso o sistemas de evaluación basados en el agotamiento físico o la privación de sueño. El éxito académico no puede ser un premio a la resistencia al dolor, sino a la eficiencia del conocimiento. El TAT auditará los niveles de estrés en los centros de formación; un centro con alumnos enfermos es un centro técnicamente defectuoso y perderá su licencia.
 
 13\. **Del Veto de Cobro por Incompetencia Cívica:**\
 La percepción del Voucher de Libertad por parte de cualquier institución educativa queda supeditada al **Rendimiento Fáctico de Soberanía** de sus alumnos.
 
-a)  **Auditoría de Derechos:** El Tribunal de Defensa de la Constitución (TDC) realizará exámenes aleatorios anuales a los estudiantes. Si un estudiante de 13 años no puede explicar sus garantías fundamentales (Título III), el Registro Nacional Soberano (RNS) suspenderá el 50% de los pagos a la institución por \"Fraude Educativo\" durante un (1) mes. En ningún caso debe afectarse el salario de los trabajadores.
+    a)  **Auditoría de Derechos:** El Tribunal de Defensa de la Constitución (TDC) realizará exámenes aleatorios anuales a los estudiantes. Si un estudiante de 13 años no puede explicar sus garantías fundamentales (Título III), el Registro Nacional Soberano (RNS) suspenderá el 50% de los pagos a la institución por \"Fraude Educativo\" durante un (1) mes. En ningún caso debe afectarse el salario de los trabajadores.
 
-    i.  Sera tomado en cuenta el rendimiento general del estudiante, antes de tomar una decisión sancionatoria a la institución, por lo que de demostrarse un bajo rendimiento general en el mismo, no será culpada la institución. Aun así, un panel de expertos debe evaluar individualmente cada caso al final del ciclo escolar incluyendo de forma obligatoria entrevistas con el estudiante y en caso necesario los tutores legales, para demostrar que no hay irresponsabilidad por parte del educando responsable o certificar la falta.
+        i.  Sera tomado en cuenta el rendimiento general del estudiante, antes de tomar una decisión sancionatoria a la institución, por lo que de demostrarse un bajo rendimiento general en el mismo, no será culpada la institución. Aun así, un panel de expertos debe evaluar individualmente cada caso al final del ciclo escolar incluyendo de forma obligatoria entrevistas con el estudiante y en caso necesario los tutores legales, para demostrar que no hay irresponsabilidad por parte del educando responsable o certificar la falta.
 
-    ii. El educando responsable deberá en caso de encontrarse dolo manifiesto por desempeño mediocre, de someterse a programas de capacitación durante el próximo periodo educativo mientras continúa con su labor.
+        ii. El educando responsable deberá en caso de encontrarse dolo manifiesto por desempeño mediocre, de someterse a programas de capacitación durante el próximo periodo educativo mientras continúa con su labor.
 
-    iii. En ambos casos las entrevistas evaluativas con estudiantes y profesores no deben ser recriminativas sino informativas e investigativas. Siempre se tomará en cuenta la trayectoria del estudiante y el promedio general del sistema educativo en la incurrencia de estos hechos.
+        iii. En ambos casos las entrevistas evaluativas con estudiantes y profesores no deben ser recriminativas sino informativas e investigativas. Siempre se tomará en cuenta la trayectoria del estudiante y el promedio general del sistema educativo en la incurrencia de estos hechos.
 
-b)  **Del Homeschooling:** Se prohíbe al Estado imponer estándares de \"socialización\" que diluyan la instrucción técnica. El padre que educa en casa tiene el derecho inalienable a que su hijo sea evaluado exclusivamente por su competencia técnica y constitucional, protegiendo la superioridad del conocimiento sobre el adoctrinamiento de grupo. Sin embargo, debe aprobar los exámenes anuales o el homeschooling puede ser suspendido si no se encuentran problemas físicos, motoros, psicológicos o psiquiátricos que impidan un normal aprendizaje del menor.
+    b)  **Del Homeschooling:** Se prohíbe al Estado imponer estándares de \"socialización\" que diluyan la instrucción técnica. El padre que educa en casa tiene el derecho inalienable a que su hijo sea evaluado exclusivamente por su competencia técnica y constitucional, protegiendo la superioridad del conocimiento sobre el adoctrinamiento de grupo. Sin embargo, debe aprobar los exámenes anuales o el homeschooling puede ser suspendido si no se encuentran problemas físicos, motoros, psicológicos o psiquiátricos que impidan un normal aprendizaje del menor.
 
-c)  Del Derecho al Reinicio Académico y la Proscripción de la Vía Única. La República proscribe el modelo de \"examen de destino único\". Se garantiza la Movilidad Horizontal y Vertical Incondicional:
+    c)  Del Derecho al Reinicio Académico y la Proscripción de la Vía Única. La República proscribe el modelo de \"examen de destino único\". Se garantiza la Movilidad Horizontal y Vertical Incondicional:
 
-<!-- -->
+        <!-- -->
 
-i.  Acceso por Voluntad: El ciudadano tiene el derecho inalienable de cambiar de centro educativo, especialidad o carrera en cualquier momento de su vida, basándose únicamente en su voluntad y en la superación de los requisitos técnicos del nuevo nodo.
+        i.  Acceso por Voluntad: El ciudadano tiene el derecho inalienable de cambiar de centro educativo, especialidad o carrera en cualquier momento de su vida, basándose únicamente en su voluntad y en la superación de los requisitos técnicos del nuevo nodo.
 
-ii. Reconocimiento de Créditos Universal: El RNS mantendrá un historial de Competencias Adquiridas que no caduca. Los conocimientos aprobados en una vía (ej. Politécnico) serán convalidados automáticamente por el TAT si el ciudadano decide transitar a otra (ej. Universidad), prohibiéndose el \"borrado de historial\" por fracaso en una rama específica.
+        ii. Reconocimiento de Créditos Universal: El RNS mantendrá un historial de Competencias Adquiridas que no caduca. Los conocimientos aprobados en una vía (ej. Politécnico) serán convalidados automáticamente por el TAT si el ciudadano decide transitar a otra (ej. Universidad), prohibiéndose el \"borrado de historial\" por fracaso en una rama específica.
 
-iii. Nulidad de Filtros de Infancia: Se prohíbe el uso de exámenes de admisión para centros de educación primaria y secundaria básica que pretendan determinar el futuro laboral del menor. El acceso a la educación básica es un flujo abierto; los filtros solo existen en la alta especialización.
+        iii. Nulidad de Filtros de Infancia: Se prohíbe el uso de exámenes de admisión para centros de educación primaria y secundaria básica que pretendan determinar el futuro laboral del menor. El acceso a la educación básica es un flujo abierto; los filtros solo existen en la alta especialización.
 
 14\. **Del Blindaje Financiero del Recinto Académico y la Proscripción del Mercenarismo Estudiantil:**\
 La República garantiza la libertad de pensamiento (Art. 27 y 29), pero prohíbe terminantemente la instrumentalización de la infraestructura educativa (escuelas, universidades, campus) como plataformas de subversión financiadas desde el exterior.
 
-a)  **Transparencia Radical Universitaria y Extracurricular:** Todo \"club estudiantil\", \"asociación de alumnos\", \"cátedra de investigación\" o \"grupo extracurricular\" que opere dentro de instituciones que reciban Vouchers Educativos (Art. 60.2) o subvenciones del FCIN, y que reciba financiamiento directo, indirecto o en especie, queda obligado a registrar el cien por ciento (100%) del origen de sus fondos en la Capa Alfa (Pública) del Registro Nacional Soberano (RNS).
+    a)  **Transparencia Radical Universitaria y Extracurricular:** Todo \"club estudiantil\", \"asociación de alumnos\", \"cátedra de investigación\" o \"grupo extracurricular\" que opere dentro de instituciones que reciban Vouchers Educativos (Art. 60.2) o subvenciones del FCIN, y que reciba financiamiento directo, indirecto o en especie, queda obligado a registrar el cien por ciento (100%) del origen de sus fondos en la Capa Alfa (Pública) del Registro Nacional Soberano (RNS).
 
-b)  **Nulidad de la Máscara Académica (El Caballo de Troya):** Se tipifica como **Mercenarismo Académico** el acto mediante el cual un ciudadano cubano (estudiante, docente o investigador) acepte estipendios, becas foráneas, donaciones o ventajas materiales para promover agendas geopolíticas de potencias extranjeras, introducir el antisemitismo (Art. 28) o incitar al odio desde el recinto escolar. La \"Libertad de Cátedra\" no ampara la ejecución de operaciones de inteligencia extranjera por delegación (proxy).
+    b)  **Nulidad de la Máscara Académica (El Caballo de Troya):** Se tipifica como **Mercenarismo Académico** el acto mediante el cual un ciudadano cubano (estudiante, docente o investigador) acepte estipendios, becas foráneas, donaciones o ventajas materiales para promover agendas geopolíticas de potencias extranjeras, introducir el antisemitismo (Art. 28) o incitar al odio desde el recinto escolar. La \"Libertad de Cátedra\" no ampara la ejecución de operaciones de inteligencia extranjera por delegación (proxy).
 
-c)  **Desinfección Inmediata:** Si el Tribunal de Arbitraje Técnico (TAT) y el RNS detectan que fondos foráneos han sido triangulados hacia organizaciones estudiantiles para evadir la Ley Anti-Astroturfing (Art. 31.7), el Tribunal de Defensa de la Constitución (TDC) ordenará la **disolución fulminante** de la asociación estudiantil, la expulsión académica de los involucrados y la incautación de los activos de la institución educativa matriz si se demuestra complicidad o negligencia en la auditoría de sus instalaciones.
+    c)  **Desinfección Inmediata:** Si el Tribunal de Arbitraje Técnico (TAT) y el RNS detectan que fondos foráneos han sido triangulados hacia organizaciones estudiantiles para evadir la Ley Anti-Astroturfing (Art. 31.7), el Tribunal de Defensa de la Constitución (TDC) ordenará la **disolución fulminante** de la asociación estudiantil, la expulsión académica de los involucrados y la incautación de los activos de la institución educativa matriz si se demuestra complicidad o negligencia en la auditoría de sus instalaciones.
 
 15\. **Del Axioma de Inviolabilidad Cognitiva y la Proscripción del Condicionamiento de Acceso:** La República de Cuba reconoce que el acceso a la educación y al desarrollo cognitivo es un derecho biológico y existencial, inherente a la condición humana, y desvinculado de cualquier lealtad política, condición de género, afiliación religiosa o estatus social de los progenitores.
 
-a)  **Nulidad de la Exclusión Ideológica o Religiosa:** Se prohíbe terminantemente, bajo pena de clausura institucional y procesamiento penal por **Delito de Secuestro Cognitivo**, que cualquier institución educativa (pública, privada, técnica o universitaria) que opere en el territorio nacional o reciba financiamiento mediante el Voucher de Libertad (Art. 60.2), deniegue la admisión, expulse o segregue a un ciudadano basándose en:
+    a)  **Nulidad de la Exclusión Ideológica o Religiosa:** Se prohíbe terminantemente, bajo pena de clausura institucional y procesamiento penal por **Delito de Secuestro Cognitivo**, que cualquier institución educativa (pública, privada, técnica o universitaria) que opere en el territorio nacional o reciba financiamiento mediante el Voucher de Libertad (Art. 60.2), deniegue la admisión, expulse o segregue a un ciudadano basándose en:
 
-<!-- -->
+        <!-- -->
 
-i.  Su sexo o género.
+        i.  Su sexo o género.
 
-ii. La fe religiosa, apostasía o ateísmo del estudiante o su familia.
+        ii. La fe religiosa, apostasía o ateísmo del estudiante o su familia.
 
-iii. La filiación política, disidencia o historial penal de sus progenitores.
+        iii. La filiación política, disidencia o historial penal de sus progenitores.
 
-iv. La negativa a participar en juramentos, rezos, actos de repudio o asociaciones ideológicas.
+        iv. La negativa a participar en juramentos, rezos, actos de repudio o asociaciones ideológicas.
 
-<!-- -->
+    <!-- -->
 
-b)  **El Derecho Puro al Dato:** La educación es la transferencia de la Verdad Material y Científica de una generación a otra. El Estado y las instituciones tienen el mandato de proveer las herramientas de aprendizaje sin exigir como pago la sumisión del alma. \"La Universidad es para los que estudian\", siendo el mérito académico y la capacidad técnica los **únicos** filtros de permanencia lícitos.
+    b)  **El Derecho Puro al Dato:** La educación es la transferencia de la Verdad Material y Científica de una generación a otra. El Estado y las instituciones tienen el mandato de proveer las herramientas de aprendizaje sin exigir como pago la sumisión del alma. \"La Universidad es para los que estudian\", siendo el mérito académico y la capacidad técnica los **únicos** filtros de permanencia lícitos.
 
-c)  **Límite de Incapacidad Fáctica:** La única causa legítima para alterar el flujo educativo ordinario de un ciudadano será la incapacidad médica o cognitiva severa, certificada por el Tribunal de Arbitraje Técnico (TAT). En tales casos, la obligación del Estado no se extingue, sino que muta hacia la provisión obligatoria de **Educación Especial Adaptativa**, garantizando que ninguna mente quede aislada del sistema.
+    c)  **Límite de Incapacidad Fáctica:** La única causa legítima para alterar el flujo educativo ordinario de un ciudadano será la incapacidad médica o cognitiva severa, certificada por el Tribunal de Arbitraje Técnico (TAT). En tales casos, la obligación del Estado no se extingue, sino que muta hacia la provisión obligatoria de **Educación Especial Adaptativa**, garantizando que ninguna mente quede aislada del sistema.
 
-d)  **Intervención Inmediata por Coacción:** Si un líder religioso, funcionario estatal, o incluso un progenitor, utiliza la fuerza física, la coacción psicológica o el matrimonio forzado para impedir que una persona en edad escolar asista a un centro educativo, el Registro Nacional Soberano (RNS) activará la **Alerta de Trata Cognitiva**. Los Alguaciles de la Constitución quedarán facultados para intervenir y extraer a la víctima de la fuente de coacción, garantizando su derecho a la instrucción.
+    d)  **Intervención Inmediata por Coacción:** Si un líder religioso, funcionario estatal, o incluso un progenitor, utiliza la fuerza física, la coacción psicológica o el matrimonio forzado para impedir que una persona en edad escolar asista a un centro educativo, el Registro Nacional Soberano (RNS) activará la **Alerta de Trata Cognitiva**. Los Alguaciles de la Constitución quedarán facultados para intervenir y extraer a la víctima de la fuente de coacción, garantizando su derecho a la instrucción.
 
 16\. **De la Ecología Cognitiva Infantil, el Currículo Universal Obligatorio y la Proscripción del Ruido Prematuro.** La República reconoce que el cerebro en desarrollo del menor de edad es la infraestructura de soberanía más crítica de la Nación. Para proteger este Activo en Custodia de la hiperestimulación, la atrofia ideológica o la corrupción prematura, se establecen los límites exactos de transmisión de información en el sistema educativo nacional, aplicables de forma absoluta a toda institución pública, privada, religiosa o de instrucción en el hogar (Homeschooling).
 
-a)  **El Nucleo Educativo (Materias de Impartición Obligatoria):**\
-    Sin perjuicio de la libertad de cátedra y la diversidad de enfoques pedagógicos, toda institución que reciba ciudadanos en edad escolar tiene la obligación constitucional de impartir, evaluar y garantizar la competencia del estudiante en el siguiente \"Núcleo Fáctico\":
+    a)  **El Nucleo Educativo (Materias de Impartición Obligatoria):**\
+        Sin perjuicio de la libertad de cátedra y la diversidad de enfoques pedagógicos, toda institución que reciba ciudadanos en edad escolar tiene la obligación constitucional de impartir, evaluar y garantizar la competencia del estudiante en el siguiente \"Núcleo Fáctico\":
 
-    i.  Alfabetización avanzada, lógica matemática y programación básica.
+        i.  Alfabetización avanzada, lógica matemática y programación básica.
 
-    ii. Historia Documental Fidedigna de Cuba, incluyendo el estudio directo del Texto Íntegro de la Constitución y el Glosario de Defensa Ciudadana (Art. 59.7).
+        ii. Historia Documental Fidedigna de Cuba, incluyendo el estudio directo del Texto Íntegro de la Constitución y el Glosario de Defensa Ciudadana (Art. 59.7).
 
-    iii. **Fidelidad Epistemológica (Regla Universal):** La enseñanza del modelo evolutivo-biológico (Considerando todas las **teorías cientificas** previas como parte del currículum) como base de las ciencias naturales, y el estudio de las religiones como vectores históricos y sociológicos, tal como se define en el Artículo 60.10, constituyendo un requerimiento ineludible y de evaluación estandarizada por el Tribunal de Arbitraje Técnico (TAT) para la validación de cualquier grado académico, independientemente de la titularidad de la escuela.
+        iii. ****Fidelidad Epistemológica:** La enseñanza del modelo biológico experimental y las teorías científicas contrastadas como base de las ciencias naturales, y el estudio de las religiones como vectores históricos y sociológicos, tal como se define en el Artículo 60.10, constituyendo un requerimiento ineludible y de evaluación estandarizada por el Tribunal de Arbitraje Técnico (TAT) para la validación de cualquier grado académico, independientemente de la titularidad de la escuela.
 
-b)  **Protección de la Madurez Cognitiva (Proscripción de Contenidos Incompatibles con el Desarrollo del Menor):**\
-    Bajo el principio técnico de que la inducción de información de alta complejidad conductual en sistemas neuronales carentes de madurez prefrontal genera atrofia y desviación psicopática, **queda terminantemente prohibida** la impartición, fomento, simulación o exposición gráfica de los siguientes temas a ciudadanos menores de catorce (14) años de edad:
+    b)  **Protección de la Madurez Cognitiva (Proscripción de Contenidos Incompatibles con el Desarrollo del Menor):**\
+        Bajo el principio técnico de que la inducción de información de alta complejidad conductual en sistemas neuronales carentes de madurez prefrontal genera atrofia y desviación psicopática, **queda terminantemente prohibida** la impartición, fomento, simulación o exposición gráfica de los siguientes temas a ciudadanos menores de catorce (14) años de edad:
 
-    i.  **Mecánica Sexual y Exploración Anatómica:** Queda proscrita la inducción a la exploración sexual, la exhibición de nudismo, y la instrucción sobre mecánicas reproductivas o de placer que excedan la biología anatómica descriptiva básica.
+        i.  **Mecánica Sexual y Exploración Anatómica:** Queda proscrita la inducción a la exploración sexual, la exhibición de nudismo, y la instrucción sobre mecánicas reproductivas o de placer que excedan la biología anatómica descriptiva básica.
 
-    ii. **Mecánica de Estupefacientes y Adicciones:** Queda prohibida la descripción detallada del uso, efectos psicoactivos recreativos o metodologías de consumo de drogas. La educación preventiva en la niñez debe centrarse en el rechazo del daño (toxicología restrictiva), y no en la familiarización con la sustancia.
+        ii. **Mecánica de Estupefacientes y Adicciones:** Queda prohibida la descripción detallada del uso, efectos psicoactivos recreativos o metodologías de consumo de drogas. La educación preventiva en la niñez debe centrarse en el rechazo del daño (toxicología restrictiva), y no en la familiarización con la sustancia.
 
-    iii. **Violencia Explícita y Patologías Criminales:** Prohibición de exposición a material gráfico sobre crímenes de sangre, métodos de homicidio o psicopatía criminal que excedan la narrativa histórica general, con el fin de evitar la insensibilización o imitación por parte del menor.
+        iii. **Violencia Explícita y Patologías Criminales:** Prohibición de exposición a material gráfico sobre crímenes de sangre, métodos de homicidio o psicopatía criminal que excedan la narrativa histórica general, con el fin de evitar la insensibilización o imitación por parte del menor.
 
-c)  **Tipificación de la Inducción Ilícita a Menores:** La vulneración de las restricciones pedagógicas establecidas en el inciso anterior no se considerará error administrativo ni amparo de libertad de cátedra. Se tipifica como Delito de Corrupción de Menores por Inducción Ilícita.
+    c)  **Tipificación de la Inducción Ilícita a Menores:** La vulneración de las restricciones pedagógicas establecidas en el inciso anterior no se considerará error administrativo ni amparo de libertad de cátedra. Se tipifica como Delito de Corrupción de Menores por Inducción Ilícita.
 
-    i.  Si una escuela, maestro, currículo extranjero o programa de educación en el hogar vulnera esta barrera, el Registro Nacional Soberano (RNS) suspenderá inmediatamente el 100% de los Vouchers Educativos de la institución.
+        i.  Si una escuela, maestro, currículo extranjero o programa de educación en el hogar vulnera esta barrera, el Registro Nacional Soberano (RNS) suspenderá inmediatamente el 100% de los Vouchers Educativos de la institución.
 
-    ii. El docente o funcionario responsable enfrentará la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** (Art. 109), perdiendo de forma perpetua su licencia para operar en el sistema educativo nacional, además de la indemnización patrimonial a favor del núcleo familiar afectado.
+        ii. El docente o funcionario responsable enfrentará la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** (Art. 109), perdiendo de forma perpetua su licencia para operar en el sistema educativo nacional, además de la indemnización patrimonial a favor del núcleo familiar afectado.
 
-d)  **La Ventana de Adultez y Transferencia de Riesgo:**\
-    A partir de los catorce (14) años, la instrucción sobre biología reproductiva compleja, química de estupefacientes (con fines preventivos de toxicología, Art. 139.8) y análisis social avanzará estrictamente bajo la **Validación de Consentimiento Expreso** de los progenitores, quienes mantienen la soberanía absoluta para permitir o vetar la participación de su hijo en dichas cátedras hasta que este alcance la Soberanía Plena a los veintiún (21) años (Art. 96.3.a).
+    d)  **La Ventana de Adultez y Transferencia de Riesgo:**\
+        A partir de los catorce (14) años, la instrucción sobre biología reproductiva compleja, química de estupefacientes (con fines preventivos de toxicología, Art. 139.8) y análisis social avanzará estrictamente bajo la **Validación de Consentimiento Expreso** de los progenitores, quienes mantienen la soberanía absoluta para permitir o vetar la participación de su hijo en dichas cátedras hasta que este alcance la Soberanía Plena a los veintiún (21) años (Art. 96.3.a).
 
-e)  **Del Mandato de Instrucción en Primeros Auxilios y Triage de Emergencia.**\
-    Todo ciudadano, como requisito ineludible para la obtención de su Soberanía Plena (Art. 96.3.a), deberá ser instruido y certificado periódicamente en protocolos de Soporte Vital Básico.
+    e)  **Del Mandato de Instrucción en Primeros Auxilios y Triage de Emergencia.**\
+        Todo ciudadano, como requisito ineludible para la obtención de su Soberanía Plena (Art. 96.3.a), deberá ser instruido y certificado periódicamente en protocolos de Soporte Vital Básico.
 
-<!-- -->
+        <!-- -->
 
-i.  **Instrucción Escolar:** El sistema educativo integrará simulacros y formación técnica sobre: reanimación (RCP), control de hemorragias, y **Protocolos de Inmovilización básica**.
+        i.  **Instrucción Escolar:** El sistema educativo integrará simulacros y formación técnica sobre: reanimación (RCP), control de hemorragias, y **Protocolos de Inmovilización básica**.
 
-ii. **Instrucción de Respuesta Inmediata:** Se instruirá obligatoriamente sobre la inmovilización preventiva ante sospecha de trauma raquimedular y los protocolos de aseguramiento del perímetro antes de la llegada de los servicios de urgencia, capacitando a los educandos en técnicas de auxilio cívico directo.
+        ii. **Instrucción de Respuesta Inmediata:** Se instruirá obligatoriamente sobre la inmovilización preventiva ante sospecha de trauma raquimedular y los protocolos de aseguramiento del perímetro antes de la llegada de los servicios de urgencia, capacitando a los educandos en técnicas de auxilio cívico directo.
 
 17\. De la Verdad Procesal en el Entorno Escolar, Filtro Anti-Calumnia y Movilidad Académica Multi-Ruta. La República declara el acoso sistemático (bullying) como un Acto de Sabotaje al Capital Intelectual. No obstante, para evitar que la ley sea usada como arma de difamación, se establece:
 
@@ -3610,7 +3608,11 @@ c)  La evaluación del Certificado de Compatibilidad Civil (CCC).
 
 1\. Límite a la Explotación: Si bien rige la autonomía de la contratación, esta no puede violar el Estándar de Sostenibilidad Biológica. Se establecen las siguientes garantías mínimas irrenunciables:
 
-a)  Jornada y Descanso: La jornada laboral base se establece en cuarenta (40) horas semanales. Cualquier pacto que exceda este límite o que elimine el derecho a vacaciones pagadas (mínimo pero no recomendado de 15 días anuales) se considerará nulo de pleno derecho si no incluye una compensación económica extraordinaria y voluntaria registrada ante el municipio.
+    a)  Jornada, Descanso y Régimen Escalonado de Vacaciones Retribuidas: La jornada laboral base se establece en cuarenta (40) horas semanales. Se consagra el derecho inalienable de todo trabajador al descanso anual remunerado, estructurado bajo el siguiente escalamiento de sostenibilidad económica:
+        i. Régimen General (Treinta Días): En las medianas y grandes empresas, Sociedades Anónimas de Capital Abierto (SACA) y en toda entidad empleadora cuya plantilla sea igual o superior a diez (10) trabajadores, o cuyo volumen de facturación y capital supere los umbrales de microempresa fijados por el TAT, el período mínimo de vacaciones retribuidas será de treinta (30) días naturales por cada año de servicio, o su parte proporcional en contratos de menor duración. Las entidades quedan facultadas para establecer provisiones contables periódicas deducibles que garanticen la liquidez del pago vacacional sin comprometer su operatividad.
+        ii. Régimen de Mitigación para Micro-Unidades (Quince Días): En las microempresas, talleres artesanales o unidades productivas que cuenten con menos de diez (10) trabajadores y cuyo capital de maniobra se mantenga dentro del baremo de pequeña escala certificado por el TAT, el período mínimo de descanso anual retribuido será de quince (15) días naturales. Dicho umbral podrá ser acreditado de oficio mediante la telemetría del RNS o solicitado por la empresa mediante auditoría de capacidad financiera.
+        iii. Proscripción de Renuncia y Régimen Sancionador: El descanso biológico anual es de carácter obligatorio e irrenunciable, quedando prohibida su sustitución íntegra por compensación monetaria. La denegación, retraso doloso o vulneración de este derecho por parte del empleador, detectada mediante auditoría automatizada del RNS o por demanda ante la Agencia de Mediación y Arbitraje Laboral (AMAL), se tipifica como Infracción Grave a la Dignidad Laboral.
+    Acreditada la infracción, el RNS ejecutará el débito automático sobre las cuentas comerciales del infractor por un monto equivalente al doble de la remuneración vacacional adeudada, la cual será transferida directamente a la cuenta del trabajador como indemnización de restitución, sin perjuicio de las sanciones administrativas aplicables a la entidad
 
 2\. Agencia de Mediación y Arbitraje Laboral (AMAL): No es un ministerio político, sino una oficina técnica municipal de supervisión.
 
@@ -5392,49 +5394,51 @@ c)  La facilitación de procesos electorales en los Nodos Municipales en el plaz
 
 ## Artículo 108. Del Servicio Técnico y la Responsabilidad del Servidor Público.
 
-1.  **De la Neutralidad y Lealtad:** La función pública en la República constituye un servicio técnico de carácter permanente, apolítico y neutral. La lealtad del servidor público es exclusiva a la Constitución y a los protocolos de eficiencia técnica del Registro Nacional Soberano (RNS), quedando prohibida la subordinación a intereses de facción, partido o ideología.
+1\.  **De la Neutralidad y Lealtad:** La función pública en la República constituye un servicio técnico de carácter permanente, apolítico y neutral. La lealtad del servidor público es exclusiva a la Constitución y a los protocolos de eficiencia técnica del Registro Nacional Soberano (RNS), quedando prohibida la subordinación a intereses de facción, partido o ideología.
 
-2.  **De la Validación y Escalabilidad:** Todo acto de mando estratégico, normativo o de impacto en infraestructura vital está sujeto a Validación por Adversario Técnico (V.A.T.). El RNS ejecutará un muestreo algorítmico continuo sobre la gestión administrativa, permitiendo la automatización de actos ordinarios y reservando la auditoría humana previa solo para Actos de Relevancia Estratégica. La manipulación de datos para evadir este muestreo constituye delito de Falsedad Técnica Administrativa, sancionado con destitución e inhabilitación perpetua.
+2\.  **De la Validación y Escalabilidad:** Todo acto de mando estratégico, normativo o de impacto en infraestructura vital está sujeto a Validación por Adversario Técnico (V.A.T.). El RNS ejecutará un muestreo algorítmico continuo sobre la gestión administrativa, permitiendo la automatización de actos ordinarios y reservando la auditoría humana previa solo para Actos de Relevancia Estratégica. La manipulación de datos para evadir este muestreo constituye delito de Falsedad Técnica Administrativa, sancionado con destitución e inhabilitación perpetua.
 
-3.  **Del Puerto Seguro Administrativo (Safe Harbor) en Situaciones de Estrés:** El sistema reconoce la fricción inherente a la toma de decisiones en tiempo real. Todo funcionario que, en el ejercicio de su cargo, deba emitir órdenes ante emergencias operativas, gozará de inmunidad civil y penal por los daños colaterales no dolosos derivados de sus actos, única y exclusivamente si demuestra ante el TAT haber cumplido las siguientes condiciones concurrentes:
+3\.  **Del Puerto Seguro Administrativo (Safe Harbor) en Situaciones de Estrés:** El sistema reconoce la fricción inherente a la toma de decisiones en tiempo real. Todo funcionario que, en el ejercicio de su cargo, deba emitir órdenes ante emergencias operativas, gozará de inmunidad civil y penal por los daños colaterales no dolosos derivados de sus actos, única y exclusivamente si demuestra ante el TAT haber cumplido las siguientes condiciones concurrentes:
 
     a)  Haber fundamentado su decisión en los datos proporcionados por los sensores, telemetría o algoritmos del RNS en el momento del evento.
 
     b)  Haber seguido estrictamente un Protocolo de Emergencia Técnica previamente validado por el Senado de Rectores.\
         El sistema sanciona la corrupción y la negligencia, pero exime el error honesto fundamentado en la ciencia y la matemática disponibles.
 
-4.  **El Estándar de Diligencia Civil:** Todo servidor público o programador del RNS responderá no solo por sus actos dolosos, sino por su Negligencia en la Observancia de Alertas. Se establece el deber de "Vigilancia Activa": el funcionario es responsable si, teniendo los datos disponibles en su terminal, omite actuar para evitar un daño biológico o patrimonial a un ciudadano. El silencio de la máquina no es excusa para la inacción del hombre
+4\.  **El Estándar de Diligencia Civil:** Todo servidor público o programador del RNS responderá no solo por sus actos dolosos, sino por su Negligencia en la Observancia de Alertas. Se establece el deber de "Vigilancia Activa": el funcionario es responsable si, teniendo los datos disponibles en su terminal, omite actuar para evitar un daño biológico o patrimonial a un ciudadano. El silencio de la máquina no es excusa para la inacción del hombre
 
-5.  **Doctrina de la Responsabilidad Estructural (Cláusula de Resultado Físico):** La República no reconoce la "infalibilidad del código" ni el "error de sistema" como eximentes de responsabilidad civil o penal.
+5\. Doctrina de la Responsabilidad Estructural, Reversión de Oficio y Graduación del Error Técnico: La República no reconoce la infalibilidad algorítmica ni el fallo de sistema como justificación para consolidar injusticias patrimoniales, pero distingue con estricta equidad entre el error técnico involuntario y el acto lesivo doloso.
+    a) Responsabilidad por Diseño y Supervisión Humana: Todo código, proceso automatizado o despliegue en el RNS y en infraestructuras críticas requerirá validación humana obligatoria. Queda prohibido invocar la autonomía técnica o el uso de herramientas de inteligencia artificial como eximente de responsabilidad.
+    b) Reversión Inmediata y Subsanación de Oficio: Si un defecto de programación, inconsistencia lógica o error operativo en el RNS genera la imposición indebida de multas, retenciones, bloqueos transaccionales o afectaciones administrativas a particulares o empresas, el órgano recaudador o la autoridad actuante procederá a la anulación de pleno derecho de la medida y a la restitución íntegra e inmediata de los fondos retenidos de forma automática.
+    Si el estado patrimonial original es restablecido con celeridad y la anomalía es corregida por el equipo técnico sin derivar en daños biológicos o patrimoniales ulteriores a terceros, el hecho se considerará subsanado de oficio, extinguiéndose cualquier acción sancionadora o persecución civil contra el programador o auditor responsable.
+    c) Graduación de Responsabilidad y Amortiguación del Daño: En los supuestos en que el fallo técnico genere perjuicios colaterales comprobables que trasciendan la mera anulación del acto administrativo, la responsabilidad de los profesionales se regirá bajo el principio de proporcionalidad:
+        i. Error Técnico Involuntario: Cuando el fallo derive de la complejidad del sistema y se acredite la observancia de los protocolos de prueba previos, la reparación indemnizatoria a los afectados será asumida prioritariamente por el Fondo de Garantía Técnica del RNS y las pólizas de seguro del sistema, aplicándose al profesional medidas disciplinarias o de corrección técnica de carácter atenuado.
+        ii. Dolo y Negligencia Temeraria: Únicamente ante la demostración fehaciente de dolo, sabotaje deliberado, falsificación o negligencia inexcusable que ignore deliberadamente las alertas del TAT, se activará la responsabilidad patrimonial personal directa sobre el infractor (Art. 4.4) y la pérdida de idoneidad conforme al Artículo 109.
 
-    a)  Responsabilidad del Diseñador: Si un fallo en un algoritmo del RNS, o una falla en una infraestructura crítica causa daño físico o patrimonial a ciudadanos, y se demuestra que el diseño ignoró voluntariamente los protocolos de seguridad del TAT, los ingenieros, programadores y supervisores responsables enfrentarán una Responsabilidad Objetiva Agravada. Aún así se reconoce que en la programación de todo tipo de sistemas informáticos puede haber errores difíciles de subsanar o de lograr. Por lo que debe considerarse siempre el factor humano tanto en la programación cómo en la revisión del código. (El código creado empleando IA si lo hubiese, debe ser revisado por humanos para evitar este tipo de problemas sin que exista un responsable civil, no se puede culpar máquinas por lo que debió hacer un humano)
-
-    b)  Penalización por Fallo Sistémico: El resarcimiento a las víctimas se ejecutará primero contra el patrimonio personal y las Acciones Soberanas de los técnicos responsables (Capa B y C), y subsidiariamente contra el Municipio, la SACA operadora o la empresa particular.
-
-6.  El Sello de Inviabilidad Moral por Traición, Sabotaje a la Verdad o Perjurio Tecnológico: Todo funcionario de alta jerarquía condenado mediante sentencia judicial firme por traición a la patria (Artículo 21.4.e y, cuando corresponda, Artículo 129.2), Sabotaje a la Verdad (Artículo 4.4.d-e) o Perjurio Tecnológico Agravado (Artículo 22.21.b.ii) recibirá en su PCSC el Sello de Inviabilidad Moral conforme al Artículo 109. La venta o tráfico de secretos de seguridad nacional quedará sujeta a la tipificación y al régimen sancionador de la futura Ley Orgánica de Seguridad Nacional.
+6\.  El Sello de Inviabilidad Moral por Traición, Sabotaje a la Verdad o Perjurio Tecnológico: Todo funcionario de alta jerarquía condenado mediante sentencia judicial firme por traición a la patria (Artículo 21.4.e y, cuando corresponda, Artículo 129.2), Sabotaje a la Verdad (Artículo 4.4.d-e) o Perjurio Tecnológico Agravado (Artículo 22.21.b.ii) recibirá en su PCSC el Sello de Inviabilidad Moral conforme al Artículo 109. La venta o tráfico de secretos de seguridad nacional quedará sujeta a la tipificación y al régimen sancionador de la futura Ley Orgánica de Seguridad Nacional.
 
     a)  Este sello prohíbe permanentemente que el individuo vuelva a trabajar para el Estado, que administre dinero de otros ciudadanos o que sea dueño de acciones en empresas estratégicas (SACAs).
 
     b)  Este sello no será aplicable a situaciones de estrés agudo de combate, choque postraumático o incapacidad médica transitoria en el teatro de operaciones, las cuales se gestionarán bajo el régimen disciplinario y médico ordinario.
 
-7.  De la Doctrina de Autonomía Operativa Nodal (La Ola Destructiva Civil). La República proscribe la parálisis por centralización. En situaciones de crisis, bloqueo o interrupción de comunicaciones, el sistema de gobierno transita automáticamente al modelo de **Unidades de Respuesta Mínima**:
+7\.  De la Doctrina de Autonomía Operativa Nodal (La Ola Destructiva Civil). La República proscribe la parálisis por centralización. En situaciones de crisis, bloqueo o interrupción de comunicaciones, el sistema de gobierno transita automáticamente al modelo de **Unidades de Respuesta Mínima**:
 
-<!-- -->
+    <!-- -->
 
-a)  **Capacidad de Acción Sin Órdenes:** Se faculta a los Consejos Técnicos Municipales y a las Juntas de SACAs para ejecutar planes de contingencia pre-aprobados en el RNS sin necesidad de validación central, siempre que se mantengan dentro de los parámetros de la **Verdad Material**.
+    a)  **Capacidad de Acción Sin Órdenes:** Se faculta a los Consejos Técnicos Municipales y a las Juntas de SACAs para ejecutar planes de contingencia pre-aprobados en el RNS sin necesidad de validación central, siempre que se mantengan dentro de los parámetros de la **Verdad Material**.
 
-b)  **Atomización de la Infraestructura:** La red nacional de datos y energía debe diseñarse para permitir la desconexión y reconexión instantánea de nodos. Cada nodo municipal mantendrá la capacidad física y técnica de sostener su producción esencial y su defensa civil de forma autónoma ante el aislamiento del territorio nacional.
+    b)  **Atomización de la Infraestructura:** La red nacional de datos y energía debe diseñarse para permitir la desconexión y reconexión instantánea de nodos. Cada nodo municipal mantendrá la capacidad física y técnica de sostener su producción esencial y su defensa civil de forma autónoma ante el aislamiento del territorio nacional.
 
-c)  **Proscripción de la Doctrina de Libro:** Ante una falla sistémica, el Tribunal de Arbitraje Técnico (TAT) dará prioridad a las soluciones disruptivas que demuestren resultados en tiempo real sobre los protocolos administrativos heredados. La **Funcionalidad es la Única Ley en la Emergencia**.
+    c)  **Proscripción de la Doctrina de Libro:** Ante una falla sistémica, el Tribunal de Arbitraje Técnico (TAT) dará prioridad a las soluciones disruptivas que demuestren resultados en tiempo real sobre los protocolos administrativos heredados. La **Funcionalidad es la Única Ley en la Emergencia**.
 
 8\. **Del Principio de Realidad Material en el Gasto Público:**\
 Todo desembolso de fondos del Tesoro Nacional o Municipal está supeditado a la **Prueba de Consumación Fáctica**:
 
-a)  **Correspondencia de Masa:** Se prohíbe el pago por servicios o bienes cuya existencia física o programática no sea verificable algorítmicamente por el RNS o auditada físicamente por el TAT. La discrepancia entre el \"recurso asignado\" y el \"beneficio material entregado\" genera la suspensión automática de fondos.
+    a)  **Correspondencia de Masa:** Se prohíbe el pago por servicios o bienes cuya existencia física o programática no sea verificable algorítmicamente por el RNS o auditada físicamente por el TAT. La discrepancia entre el \"recurso asignado\" y el \"beneficio material entregado\" genera la suspensión automática de fondos.
 
-    i.  El RNS provee mecanismos para certificar transacciones con todo tipo de instituciones, incluyendo los casos de transacción con personas naturales de forma bidireccional. Tanto la prestación como la recepción de bienes y servicios.
+        i.  El RNS provee mecanismos para certificar transacciones con todo tipo de instituciones, incluyendo los casos de transacción con personas naturales de forma bidireccional. Tanto la prestación como la recepción de bienes y servicios.
 
-b)  **Auditoría de Insumos vs. Resultado:** El TAT desarrollará modelos de eficiencia para cada industria. Si la energía, el tiempo o los materiales declarados exceden el estándar de mercado para el resultado obtenido, el sistema activará una **Alerta de Merma Injustificada**, asumiendo fraude hasta que el responsable demuestre lo contrario.
+    b)  **Auditoría de Insumos vs. Resultado:** El TAT desarrollará modelos de eficiencia para cada industria. Si la energía, el tiempo o los materiales declarados exceden el estándar de mercado para el resultado obtenido, el sistema activará una **Alerta de Merma Injustificada**, asumiendo fraude hasta que el responsable demuestre lo contrario.
 
 ------------------------------------------------------------------------
 
@@ -6499,7 +6503,7 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
 3.  **Inalienabilidad de la Semilla (Soberanía Alimentaria):** El código genético de las especies vegetales básicas para la vida humana se declara **Patrimonio Inviolable de la Nación**. Queda prohibida la patente de semillas que impida al agricultor el ciclo natural de siembra, recolección y re-siembra. La \"Policía de Semillas\" es inconstitucional.
 
-4.  **Responsabilidad Civil Objetiva Perpetua:** Las corporaciones son responsables por los efectos secundarios de sus innovaciones de forma retroactiva y sin prescripción. El traspaso de propiedad (como el caso Bayer-Monsanto) no exime a la entidad sucesora de las compensaciones por daños a la salud (*Pikuaj Nefesh*) detectados tras la adquisición.
+4.  **Responsabilidad Civil Objetiva Imprescriptible:** Las corporaciones y personas jurídicas responderán civilmente por los daños a la salud humana y al medio ambiente derivados de sus productos o innovaciones, de forma objetiva e imprescriptible. Las fusiones, adquisiciones o transformaciones societarias no extinguirán la obligación de indemnización y remediación de la entidad sucesora.
 
 5.  **Independencia del TAT:** Los laboratorios que certifiquen la seguridad de los alimentos y agroquímicos serán estatales o cooperativos independientes, financiados por un impuesto a la innovación, pero dirigidos por una junta de sabios y peritos que no pueden haber tenido vínculos con la industria evaluada en los últimos 10 años.
 
@@ -6644,36 +6648,36 @@ b)  Presunción de Lavado e Intervención: Ante una desviación de Balance Mater
 
 ## Artículo 145. De la Trazabilidad y el Canon de Salvaguarda Soberana.
 
-1.  Con el fin de prevenir la injerencia de agendas teocráticas o totalitarias, todo flujo de capital (donaciones, patrocinios o subsidios no comerciales) destinado a organizaciones de fe o ideológicas deberá ser registrado en el Registro Nacional Soberano (RNS).
+1\.  Con el fin de prevenir la injerencia de agendas teocráticas o totalitarias, todo flujo de capital (donaciones, patrocinios o subsidios no comerciales) destinado a organizaciones de fe o ideológicas deberá ser registrado en el Registro Nacional Soberano (RNS).
 
-2.  **Canon de No-Reciprocidad:** Los fondos provenientes de jurisdicciones extranjeras que no posean Tratados de Estricta Reciprocidad en Libertades Individuales con la República de Cuba, estarán sujetos a una retención automática y definitiva del **noventa por ciento (90%)** en concepto de **Canon de Salvaguarda Soberana**.
+2\.  **Canon de No-Reciprocidad:** Los fondos provenientes de jurisdicciones extranjeras que no posean Tratados de Estricta Reciprocidad en Libertades Individuales con la República de Cuba, estarán sujetos a una retención automática y definitiva del **noventa por ciento (90%)** en concepto de **Canon de Salvaguarda Soberana**.
 
-3.  El 10% restante será emitido en **Tokens de Propósito Limitado**, cuya trazabilidad será auditable en tiempo real por el sistema. El uso de estos tokens se limitará exclusivamente al mantenimiento operativo de infraestructuras registradas, prohibiéndose su conversión a moneda corriente o su uso en proselitismo político.
+3\.  El 10% restante será emitido en **Tokens de Propósito Limitado**, cuya trazabilidad será auditable en tiempo real por el sistema. El uso de estos tokens se limitará exclusivamente al mantenimiento operativo de infraestructuras registradas, prohibiéndose su conversión a moneda corriente o su uso en proselitismo político.
 
-4.  **Del Blindaje contra las \"Sociedades Pantalla\" Ideológicas y el Lavado de Agitación (Anti-Tides).**\
+4\.  **Del Blindaje contra las \"Sociedades Pantalla\" Ideológicas y el Lavado de Agitación (Anti-Tides).**\
     Para evitar que el dinero extranjero o corporativo utilice vacíos legales filantrópicos para financiar la polarización y el caos en las calles cubanas, se establece la Trazabilidad Finalista de la Filantropía:
 
-    a)  **Transparencia Radical de Donantes:** Toda fundación, ONG, o coalición cívica (similar a los mencionados en la evidencia internacional como \"Progress Unity Fund\" o \"ANSWER Coalition\") que opere en Cuba está obligada a registrar en la Capa Alfa (pública) del RNS el origen exacto del último beneficiario real (Beneficial Owner) de cada centavo que recibe. Queda abolido el \"Dinero Oscuro\" (Dark Money) en la política y la sociedad civil.
+    a)  **Transparencia Radical de Financiamiento:** Toda organización no gubernamental, fundación o colectivo civil que opere en la República está obligado a registrar en la Capa Alfa del RNS la identidad verificable de sus donantes y beneficiarios finales. Queda proscrito el financiamiento no declarado o de origen anónimo en actividades de impacto público.
 
-    b)  **Veto al Capital Hostil:** Si el RNS o la inteligencia financiera (CNSPOC) detecta que una fundación local recibe fondos triangulados desde organizaciones globales o Estados que financian o simpatizan con el terrorismo internacional (ej. regímenes que patrocinen a Hamás, Hezbolá u otros grupos que persigan el aniquilamiento de democracias), dichos fondos serán sometidos a la **Interdicción de Oficio**.
+    b)  **Interdicción de Fondos Vinculados al Terrorismo:** Si los órganos de inteligencia financiera o el RNS detectan que una entidad nacional recibe recursos provenientes de organizaciones, entidades o Estados vinculados al terrorismo internacional o a la subversión armada del orden democrático, dichos fondos serán intervenidos e incautados de pleno derecho a favor del Fondo Catastrófico Nacional.
 
     c)  **Bloqueo del \"Bypass\" Filantrópico:** Las exenciones de impuestos establecidas para donaciones de beneficencia (Art. 25.5) no aplican a fondos cuyo propósito estatutario o fáctico sea el \"activismo político\", el \"cambio de régimen\" o la \"movilización social\". Quien quiera hacer política en Cuba, lo hace con su propio tiempo y su propio esfuerzo no remunerado.
 
-5.  **Prohibición de Sub-Subvención Ideológica (Cero Triangulación):**\
+5\.  **Prohibición de Sub-Subvención Ideológica (Cero Triangulación):**\
     Toda organización civil, fundación o entidad no gubernamental que reciba fondos de origen extranjero o corporativo, queda sometida a la Regla de Ejecución Directa.
 
     a)  **Prohibición de Cascada:** El capital recibido debe ser ejecutado directamente en el objeto social de la entidad receptora primaria. Queda constitucionalmente prohibida la transferencia, donación o \"sub-subvención\" de estos fondos hacia terceras ONGs, coaliciones, movimientos o individuos no relacionados con nóminas auditadas.
 
     b)  El Registro Nacional Soberano (RNS) bloqueará automáticamente cualquier contrato inteligente que intente transferir capital foráneo de una ONG a otra. El \"lavado de donaciones\" se tipifica como Delito de Financiamiento Ilícito.
 
-6.  **Protocolo de Transparencia de Interés Foráneo (Conocimiento Cero al Público, Alfa para el Estado):**\
+6\.  **Protocolo de Transparencia de Interés Foráneo (Conocimiento Cero al Público, Alfa para el Estado):**\
     Todo individuo o entidad que opere, cabildee, publique o asesore dentro de la República de Cuba recibiendo financiamiento directo o triangulado de Estados extranjeros, fondos de inversión foráneos o magnates internacionales, queda catalogado como Agente de Interés Extranjero.
 
     a)  Están obligados a portar un **Sello de Conflicto de Interés** en todas sus publicaciones, transmisiones o convocatorias.
 
     b)  Su flujo financiero estará bajo vigilancia algorítmica constante por la Cámara de Vigilancia Aleatoria (CVA). La omisión de registro es un acto de Espionaje No Cinético.
 
-7.  **Del Protocolo de Auditoría de Causalidad y la Proscripción del Pretexto Externo:** La República de Cuba Libre se fundamenta en la Verdad Material como único pilar de la confianza ciudadana. Se prohíbe la utilización del \"enemigo externo\", el \"bloqueo\" o la \"guerra económica\" como pretextos para encubrir la incompetencia o corrupción interna.
+7\.  **Del Protocolo de Auditoría de Causalidad y la Proscripción del Pretexto Externo:** La República de Cuba Libre se fundamenta en la Verdad Material como único pilar de la confianza ciudadana. Se prohíbe la utilización del \"enemigo externo\", el \"bloqueo\" o la \"guerra económica\" como pretextos para encubrir la incompetencia o corrupción interna.
 
     a)  **Mandato de Auditoría de Causalidad:** Ante cualquier fallo sistémico que afecte la vida de la Nación (apagón nacional, escasez de alimentos o medicinas, colapso de infraestructura), el Tribunal de Arbitraje Técnico (TAT) tiene la obligación ineludible de publicar, en un plazo máximo de 72 horas, un **Informe de Causalidad Fáctica** en la Capa Alfa del Registro Nacional Soberano (RNS).
 
@@ -6691,41 +6695,41 @@ b)  Presunción de Lavado e Intervención: Ante una desviación de Balance Mater
 
     e)  **Ejecución Automática de la Sanción:** El RNS, al detectar la discrepancia entre el discurso del funcionario y el informe del TAT, activará de oficio el proceso de **Juicio de Residencia (Art. 78)** ante la Cámara de Vigilancia Aleatoria (CVA), conllevando la destitución fulminante del cargo.
 
-8.  Del Delito de Malversación de Recursos de Salvaguarda por Fraude Procesal: Se tipifica como Sabotaje a la Justicia el acto de instrumentalizar las leyes de protección a la mujer para fines de extorsión, difamación o beneficio personal en disputas de carácter civil o patrimonial.
+8\.  Del Delito de Malversación de Recursos de Salvaguarda por Fraude Procesal: Se tipifica como Sabotaje a la Justicia el acto de instrumentalizar las leyes de protección a la mujer para fines de extorsión, difamación o beneficio personal en disputas de carácter civil o patrimonial.
 
     a)  Pérdida de Prioridad: El individuo que, mediante el testimonio teatral (Art. 93.6) o la falsificación de la narrativa causal, sea descubierto intentando desviar recursos estatales destinados a víctimas reales, sufrirá la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos.
 
     b)  Protección del Presupuesto de Víctimas: El TAT auditará trimestralmente la eficiencia de los fondos de ayuda. El 100% de los recursos debe ir a casos donde el riesgo biológico sea verificado de forma fáctica. La \"percepción subjetiva de opresión\" no constituye un hecho imponible para la asignación de recursos públicos. No obstante, cada caso debe ser evaluado individualmente dependiendo el grado de complejidad.
 
-9.  De la Prelación del Suministro Interno: Se prohíbe el uso de fondos del Tesoro Nacional o Municipal para el financiamiento de programas de asistencia humanitaria internacional o proyectos de proyección de imagen exterior mientras el Índice de Estabilidad Vital (IEV) de cualquier nodo municipal cubano se encuentre por debajo del setenta por ciento (70%). La caridad de la República nace de la abundancia, no de la privación del Socio Activo. La violación de esta prelación se tipifica como Traición a la Fraternidad Ciudadana.
+9\.  De la Prelación del Suministro Interno: Se prohíbe el uso de fondos del Tesoro Nacional o Municipal para el financiamiento de programas de asistencia humanitaria internacional o proyectos de proyección de imagen exterior mientras el Índice de Estabilidad Vital (IEV) de cualquier nodo municipal cubano se encuentre por debajo del setenta por ciento (70%). La caridad de la República nace de la abundancia, no de la privación del Socio Activo. La violación de esta prelación se tipifica como Traición a la Fraternidad Ciudadana.
 
 ------------------------------------------------------------------------
 
 ## Artículo 146. De la Equidad Sucesoria Algorítmica.
 
-1.  Se establece la **Equidad Civil 1:1** como norma de orden público para toda sucesión mortis causa realizada en territorio nacional.
+1\.  Se establece la **Equidad Civil 1:1** como norma de orden público para toda sucesión mortis causa realizada en territorio nacional.
 
-2.  Se garantiza la libertad de testar sobre el patrimonio privado. No obstante, para evitar la coacción ideológica o religiosa, se establece la Legítima Soberana del cincuenta por ciento (50%) del haber hereditario, la cual se repartirá equitativamente entre los herederos forzosos. El titular podrá disponer libremente del 50% restante. Queda prohibida y se declara nula de pleno derecho cualquier disposición que reduzca la cuota de un heredero por debajo de su legítima basándose en criterios de sexo, filiación política, neurodiversidad o apostasía religiosa
+2\.  Se garantiza la libertad de testar sobre el patrimonio privado. No obstante, para evitar la coacción ideológica o religiosa, se establece la Legítima Soberana del cincuenta por ciento (50%) del haber hereditario, la cual se repartirá equitativamente entre los herederos forzosos. El titular podrá disponer libremente del 50% restante. Queda prohibida y se declara nula de pleno derecho cualquier disposición que reduzca la cuota de un heredero por debajo de su legítima basándose en criterios de sexo, filiación política, neurodiversidad o apostasía religiosa
 
-3.  El Registro Nacional Soberano (RNS) bloqueará automáticamente cualquier transferencia de activos, inmuebles o Acciones Soberanas (AS) que violen este principio. La riqueza acumulada en Cuba es indivisible por motivos ideológicos.
+3\.  El Registro Nacional Soberano (RNS) bloqueará automáticamente cualquier transferencia de activos, inmuebles o Acciones Soberanas (AS) que violen este principio. La riqueza acumulada en Cuba es indivisible por motivos ideológicos.
 
 ------------------------------------------------------------------------
 
 ## Artículo 147. De la Soberanía Somática y Protección de la Identidad Funcional.
 
-1.  La República reconoce la integridad física del menor como un activo en custodia. Se prohíbe cualquier intervención irreversible en menores de edad que resulte en la destrucción, anulación o degradación de la **Funcionalidad Biológica** de órganos o sistemas.
+1\.  La República reconoce la integridad física del menor como un activo en custodia. Se prohíbe cualquier intervención irreversible en menores de edad que resulte en la destrucción, anulación o degradación de la **Funcionalidad Biológica** de órganos o sistemas.
 
-2.  **Distinción Técnica del Rito:** Quedan permitidos los ritos tradicionales de identidad y los procedimientos médicos terapéuticos que preserven la viabilidad funcional y la integridad sistémica del individuo.
+2\.  **Distinción Técnica del Rito:** Quedan permitidos los ritos tradicionales de identidad y los procedimientos médicos terapéuticos que preserven la viabilidad funcional y la integridad sistémica del individuo.
 
-3.  La infracción de este artículo conlleva la revocación inmediata del Certificado de Compatibilidad Civil (CCC) de los tutores y su inhabilitación para cualquier beneficio estatal o cargo público.
+3\.  La infracción de este artículo conlleva la revocación inmediata del Certificado de Compatibilidad Civil (CCC) de los tutores y su inhabilitación para cualquier beneficio estatal o cargo público.
 
 ------------------------------------------------------------------------
 
 ## Artículo 148. De la Libertad Asociativa y la Disciplina Interna de las Organizaciones de Fe.
 
-1.  Se reconoce el derecho de las comunidades de fe a establecer normas internas de conducta, mérito y jerarquía. La potestad disciplinaria es soberana dentro del ámbito estrictamente institucional y espiritual.
+1\.  Se reconoce el derecho de las comunidades de fe a establecer normas internas de conducta, mérito y jerarquía. La potestad disciplinaria es soberana dentro del ámbito estrictamente institucional y espiritual.
 
-2.  **Límites de la Disciplina Religiosa:** Bajo ninguna circunstancia la disciplina interna podrá traducirse en:
+2\.  **Límites de la Disciplina Religiosa:** Bajo ninguna circunstancia la disciplina interna podrá traducirse en:
 
     a)  **Sanciones Físicas:** Uso de la fuerza, confinamiento o dolor físico.
 
@@ -6733,9 +6737,9 @@ b)  Presunción de Lavado e Intervención: Ante una desviación de Balance Mater
 
     c)  **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos Sociales:** El fomento del ostracismo que impida al individuo el acceso a servicios básicos de la República (salud, educación, comercio, y otros de similar índole).
 
-3.  Cualquier organización que trascienda estos límites será tipificada como **Estructura Coercitiva Anticonstitucional**, procediéndose a su disolución inmediata y la confiscación de sus bienes a favor del Tesoro Municipal.
+3\.  Cualquier organización que trascienda estos límites será tipificada como **Estructura Coercitiva Anticonstitucional**, procediéndose a su disolución inmediata y la confiscación de sus bienes a favor del Tesoro Municipal.
 
-4.  **Del Arbitraje Privado y la Doctrina del Consentimiento Continuo:** La República garantiza el derecho de las comunidades de fe, asociaciones culturales o etnias a establecer consejos internos o tribunales de arbitraje (religiosos o consuetudinarios) para dirimir disputas entre sus miembros, bajo las siguientes condiciones inalterables:
+4\.  **Del Arbitraje Privado y la Doctrina del Consentimiento Continuo:** La República garantiza el derecho de las comunidades de fe, asociaciones culturales o etnias a establecer consejos internos o tribunales de arbitraje (religiosos o consuetudinarios) para dirimir disputas entre sus miembros, bajo las siguientes condiciones inalterables:
 
     a)  **Naturaleza Voluntaria y Contractual:** Los fallos, normativas o leyes internas de estas organizaciones tienen rango exclusivo de **Acuerdo Privado**. Solo son aplicables si todas las partes involucradas consienten libremente y por escrito en someterse a ellos.
 
@@ -6968,7 +6972,7 @@ La República reconoce que la curiosidad intelectual es el motor de la innovaci�
 
 a)  **Distinción entre Exploración y Sabotaje:** El Tribunal de Arbitraje Técnico (TAT) diferenciará legalmente entre el **Acceso No Autorizado por Curiosidad** (exploración de código, pruebas de estrés sin intención de daño) y el **Sabotaje Activo** (borrado de datos, robo de información, interrupción de servicios). La pena será radicalmente asimétrica.
 
-b)  **Canal de Divulgación Responsable (White Hat):** El Cuerpo Nacional de Seguridad (CNSPOC) mantendrá un canal de comunicación encriptado y anónimo para que cualquier ciudadano (hacker) pueda reportar vulnerabilidades en la infraestructura nacional (RNS, SACAs) sin temor a represalias, siempre que lo haga antes de explotar dicha vulnerabilidad.
+b)  **Canal de Divulgación Responsable de Seguridad:** El Cuerpo Nacional de Seguridad (CNSPOC) mantendrá un canal de comunicación seguro y reservado para que cualquier investigador técnico o ciudadano pueda reportar fallas y vulnerabilidades en la infraestructura nacional o corporativa sin incurrir en responsabilidad penal, siempre que el reporte se realice de buena fe y con anterioridad a cualquier explotación perjudicial de la vulnerabilidad.
 
 c)  **Servicio Cívico de Ciberdefensa:** El ciudadano que, sin causar daño, demuestre la capacidad de vulnerar un sistema de seguridad crítico, no será enviado a un centro de detención juvenil. Como alternativa a la sanción penal, podrá ser convocado a cumplir un **Servicio Cívico de Ciberdefensa** de doce (12) a veinticuatro (24) meses en el seno del CNSPOC o del TAT, utilizando su talento para fortalecer la seguridad de la Nación.
 
@@ -7556,11 +7560,11 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
 ## DISPOSICIÓN TRANSITORIA DECIMOCTAVA: De la Conversión Forzosa de MiPYMES de la Élite en SACAs por Origen de Capital Ilegítimo.
 
-1.  Definición de Enclave Mercantil de la Tiranía (La Presunción de Ilegitimidad): Se clasifica como Enclave Mercantil de la Tiranía a cualquier micro, pequeña o mediana empresa (MiPYME), Sociedad de Emprendimiento Particular (SEP), Sociedad Anónima o cualquier entidad mercantil privada autorizada, inscrita o financiada durante el régimen anterior (1959-2026), cuyos socios fundadores, directores o beneficiarios finales (Beneficiario Final) tengan una relación de parentesco hasta el cuarto grado de consanguinidad o afinidad con miembros del Comité Central del PCC, oficiales de alta jerarquía de las Fuerzas Armadas (MINFAR) o del Ministerio del Interior (MININT), directivos de GAESA, o funcionarios de confianza de la dictadura.
+1\.  Definición de Enclave Mercantil de la Tiranía (La Presunción de Ilegitimidad): Se clasifica como Enclave Mercantil de la Tiranía a cualquier micro, pequeña o mediana empresa (MiPYME), Sociedad de Emprendimiento Particular (SEP), Sociedad Anónima o cualquier entidad mercantil privada autorizada, inscrita o financiada durante el régimen anterior (1959-2026), cuyos socios fundadores, directores o beneficiarios finales (Beneficiario Final) tengan una relación de parentesco hasta el cuarto grado de consanguinidad o afinidad con miembros del Comité Central del PCC, oficiales de alta jerarquía de las Fuerzas Armadas (MINFAR) o del Ministerio del Interior (MININT), directivos de GAESA, o funcionarios de confianza de la dictadura.
 
-    a)  De la Carga de la Prueba Inversa: Al no existir fuentes lícitas de acumulación de capital extranjero o divisas privadas accesibles al ciudadano común bajo el régimen anterior, se establece la Presunción Constitucional de Origen Ilegítimo (Gezel Tzibur) sobre los activos y el capital de constitución de estas empresas. Corresponde a los titulares de la MiPYME demostrar ante la Unidad de Auditoría de Reclamaciones (UAR) y el TAT, mediante registros financieros bancarios externos inalterables, que el capital de constitución provino en su totalidad de fuentes lícitas, ajenas al saqueo del erario o al tráfico de influencia de sus familiares en el poder.
+    a)  De la Carga de la Prueba Inversa: Al no haber existido mecanismos lícitos de acumulación de capital privado accesibles en igualdad de condiciones a la ciudadanía bajo el régimen anterior, se establece la Presunción Constitucional de Origen Ilegítimo sobre los activos y fondos de constitución de estas empresas.
 
-2.  El Protocolo de Conversión Obligatoria de Oficio: Si los titulares de la empresa no superan la auditoría de origen en un plazo máximo de treinta (30) días de calendario, el RNS decretará de forma automática y de pleno derecho la Conversión Forzosa en SACA de Oficio:
+2\.  El Protocolo de Conversión Obligatoria de Oficio: Si los titulares de la empresa no superan la auditoría de origen, posterior a ella en un plazo máximo de hasta treinta (30) días de calendario, el RNS decretará de forma automática y de pleno derecho la Conversión Forzosa en SACA de Oficio:
 
     a)  Desposesión y Distribución del Núcleo Soberano (51%): El cincuenta y uno por ciento (51%) del capital social de la MiPYME o empresa infractora se convertirá instantáneamente en Acciones Soberanas (AS) bajo custodia del Fideicomiso Nacional de Pensiones, distribuyéndose sus utilidades de forma mensual y equitativa entre todos los ciudadanos cubanos por nacimiento a través del RNS (Art. 115.5).
 
@@ -7568,7 +7572,7 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
     c)  Extracción del Mando y Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos de los Socios: Los familiares y testaferros de la dictadura perderán de forma inmediata y perpetua cualquier derecho de voto, administración, representación o empleo directivo en la nueva SACA. Se les aplicará el Sello de Inviabilidad Moral y la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (Art. 109). La gestión operativa de la empresa será asumida de forma transitoria por un Comisario Técnico del TAT, quien convocará a una licitación ciega para su administración privada laica.
 
-3.  El Antivirus contra el Testaferrismo (Algoritmo de Enjambre): La interposición de personas naturales ajenas al núcleo familiar (testaferros o \"hombres de paja\") no impedirá la aplicación de este artículo. El RNS, mediante el análisis criptográfico de grafos de relaciones y transferencias de divisas (Algoritmo de Enjambre - Art. 117.5.b), rastreará el origen del flujo de fondos. De demostrarse que el capital real o el control fáctico de la empresa pertenece a familiares de la cúpula, la SACA se constituirá de oficio, y el testaferro perderá el cien por ciento (100%) de sus bienes personales registrados por el delito de Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d)
+3\.  El Antivirus contra el Testaferrismo (Algoritmo de Enjambre): La interposición de personas naturales ajenas al núcleo familiar (testaferros o \"hombres de paja\") no impedirá la aplicación de este artículo. El RNS, mediante el análisis criptográfico de grafos de relaciones y transferencias de divisas (Algoritmo de Enjambre - Art. 117.5.b), rastreará el origen del flujo de fondos. De demostrarse que el capital real o el control fáctico de la empresa pertenece a familiares de la cúpula, la SACA se constituirá de oficio, y el testaferro perderá el cien por ciento (100%) de sus bienes personales registrados por el delito de Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d)
 
 ## ANEXO COMPLEMENTARIO: TABLA DE DEFINICIONES TÉCNICAS E INTERPRETACIÓN HERMENÉUTICA
 *(Disposición interpretativa de referencia conceptual para los órganos jurisdiccionales, el Tribunal de Arbitraje Técnico y los usuarios del Registro Nacional Soberano)*

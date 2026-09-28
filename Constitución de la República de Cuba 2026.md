@@ -3379,11 +3379,11 @@ La República garantiza la libertad de pensamiento (Art. 27 y 29), pero prohíbe
     a)  **El Nucleo Educativo (Materias de Impartición Obligatoria):**\
         Sin perjuicio de la libertad de cátedra y la diversidad de enfoques pedagógicos, toda institución que reciba ciudadanos en edad escolar tiene la obligación constitucional de impartir, evaluar y garantizar la competencia del estudiante en el siguiente \"Núcleo Fáctico\":
 
-        i.  Alfabetización avanzada, lógica matemática y programación básica.
+            i.  Alfabetización avanzada, lógica matemática y programación básica.
 
-        ii. Historia Documental Fidedigna de Cuba, incluyendo el estudio directo del Texto Íntegro de la Constitución y el Glosario de Defensa Ciudadana (Art. 59.7).
+            ii. Historia Documental Fidedigna de Cuba, incluyendo el estudio directo del Texto Íntegro de la Constitución y el Glosario de Defensa Ciudadana (Art. 59.7).
 
-        iii. ****Fidelidad Epistemológica:** La enseñanza del modelo biológico experimental y las teorías científicas contrastadas como base de las ciencias naturales, y el estudio de las religiones como vectores históricos y sociológicos, tal como se define en el Artículo 60.10, constituyendo un requerimiento ineludible y de evaluación estandarizada por el Tribunal de Arbitraje Técnico (TAT) para la validación de cualquier grado académico, independientemente de la titularidad de la escuela.
+            iii. **Fidelidad Epistemológica:** La enseñanza del modelo biológico experimental y las teorías científicas contrastadas como base de las ciencias naturales, y el estudio de las religiones como vectores históricos y sociológicos, tal como se define en el Artículo 60.10, constituyendo un requerimiento ineludible y de evaluación estandarizada por el Tribunal de Arbitraje Técnico (TAT) para la validación de cualquier grado académico, independientemente de la titularidad de la escuela.
 
     b)  **Protección de la Madurez Cognitiva (Proscripción de Contenidos Incompatibles con el Desarrollo del Menor):**\
         Bajo el principio técnico de que la inducción de información de alta complejidad conductual en sistemas neuronales carentes de madurez prefrontal genera atrofia y desviación psicopática, **queda terminantemente prohibida** la impartición, fomento, simulación o exposición gráfica de los siguientes temas a ciudadanos menores de catorce (14) años de edad:
@@ -3400,39 +3400,37 @@ La República garantiza la libertad de pensamiento (Art. 27 y 29), pero prohíbe
 
         ii. El docente o funcionario responsable enfrentará la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** (Art. 109), perdiendo de forma perpetua su licencia para operar en el sistema educativo nacional, además de la indemnización patrimonial a favor del núcleo familiar afectado.
 
-    d)  **La Ventana de Adultez y Transferencia de Riesgo:**\
-        A partir de los catorce (14) años, la instrucción sobre biología reproductiva compleja, química de estupefacientes (con fines preventivos de toxicología, Art. 139.8) y análisis social avanzará estrictamente bajo la **Validación de Consentimiento Expreso** de los progenitores, quienes mantienen la soberanía absoluta para permitir o vetar la participación de su hijo en dichas cátedras hasta que este alcance la Soberanía Plena a los veintiún (21) años (Art. 96.3.a).
+    d)  **La Ventana de Adultez y Transferencia de Riesgo:** A partir de los catorce (14) años, la instrucción sobre biología reproductiva compleja, química de estupefacientes (con fines preventivos de toxicología, Art. 139.8) y análisis social avanzará estrictamente bajo la **Validación de Consentimiento Expreso** de los progenitores, quienes mantienen la soberanía absoluta para permitir o vetar la participación de su hijo en dichas cátedras hasta que este alcance la Soberanía Plena a los veintiún (21) años (Art. 96.3.a).
 
-    e)  **Del Mandato de Instrucción en Primeros Auxilios y Triage de Emergencia.**\
-        Todo ciudadano, como requisito ineludible para la obtención de su Soberanía Plena (Art. 96.3.a), deberá ser instruido y certificado periódicamente en protocolos de Soporte Vital Básico.
+    e)  **Del Mandato de Instrucción en Primeros Auxilios y Triage de Emergencia:** Todo ciudadano, como requisito ineludible para la obtención de su Soberanía Plena (Art. 96.3.a), deberá ser instruido y certificado periódicamente en protocolos de Soporte Vital Básico.
 
-        <!-- -->
+            <!-- -->
 
-        i.  **Instrucción Escolar:** El sistema educativo integrará simulacros y formación técnica sobre: reanimación (RCP), control de hemorragias, y **Protocolos de Inmovilización básica**.
+            i.  **Instrucción Escolar:** El sistema educativo integrará simulacros y formación técnica sobre: reanimación (RCP), control de hemorragias, y **Protocolos de Inmovilización básica**.
 
-        ii. **Instrucción de Respuesta Inmediata:** Se instruirá obligatoriamente sobre la inmovilización preventiva ante sospecha de trauma raquimedular y los protocolos de aseguramiento del perímetro antes de la llegada de los servicios de urgencia, capacitando a los educandos en técnicas de auxilio cívico directo.
+            ii. **Instrucción de Respuesta Inmediata:** Se instruirá obligatoriamente sobre la inmovilización preventiva ante sospecha de trauma raquimedular y los protocolos de aseguramiento del perímetro antes de la llegada de los servicios de urgencia, capacitando a los educandos en técnicas de auxilio cívico directo.
 
 17\. De la Verdad Procesal en el Entorno Escolar, Filtro Anti-Calumnia y Movilidad Académica Multi-Ruta. La República declara el acoso sistemático (bullying) como un Acto de Sabotaje al Capital Intelectual. No obstante, para evitar que la ley sea usada como arma de difamación, se establece:
 
-a)  **El Debido Proceso de Verificación:** Ninguna sanción será aplicada basándose únicamente en una denuncia verbal.
+    a)  **El Debido Proceso de Verificación:** Ninguna sanción será aplicada basándose únicamente en una denuncia verbal.
 
-<!-- -->
+        <!-- -->
 
-i.  **Auditoría Probatoria de Hechos:** El órgano arbitral competente auditará los asientos inalterables del Registro Nacional Soberano, conforme a los protocolos del Artículo 144, Inciso 1, contrastándolos con las declaraciones testificales para verificar la veracidad material de los hechos denunciados.
+        i.  **Auditoría Probatoria de Hechos:** El órgano arbitral competente auditará los asientos inalterables del Registro Nacional Soberano, conforme a los protocolos del Artículo 144, Inciso 1, contrastándolos con las declaraciones testificales para verificar la veracidad material de los hechos denunciados.
 
-ii. **Delito de Denuncia Calumniosa:** El alumno o tutor que fabrique una acusación de acoso para dañar a un tercero o desplazar a un competidor, sufrirá la Reciprocidad Punitiva (Art. 93.7), asumiendo la multa y el estigma que pretendía imponer.
+        ii. **Delito de Denuncia Calumniosa:** El alumno o tutor que fabrique una acusación de acoso para dañar a un tercero o desplazar a un competidor, sufrirá la Reciprocidad Punitiva (Art. 93.7), asumiendo la multa y el estigma que pretendía imponer.
 
-<!-- -->
+        <!-- -->
 
-b)  **Sanción Patrimonial de Resarcimiento:** Validada la agresión, el costo del daño psicológico y físico será debitado de la Capa C de las Acciones Soberanas (AS) de los padres del agresor (Art. 60.7.b).
+    b)  **Sanción Patrimonial de Resarcimiento:** Validada la agresión, el costo del daño psicológico y físico será debitado de la Capa C de las Acciones Soberanas (AS) de los padres del agresor (Art. 60.7.b).
 
-c)  Derecho al Reinicio y Multi-Ruta:
+    c)  Derecho al Reinicio y Multi-Ruta:
 
-<!-- -->
+        <!-- -->
 
-i.  El sistema proscribe la \"Vía Única\". Se garantiza la Movilidad Horizontal Incondicional. Si un alumno sufre bullying o simplemente fracasa en un nodo, tiene derecho a llevarse su Voucher a otra escuela o a la Red de Instrucción Digital sin pérdida de créditos (Art. 60.19.d).
+        i.  El sistema proscribe la \"Vía Única\". Se garantiza la Movilidad Horizontal Incondicional. Si un alumno sufre bullying o simplemente fracasa en un nodo, tiene derecho a llevarse su Voucher a otra escuela o a la Red de Instrucción Digital sin pérdida de créditos (Art. 60.19.d).
 
-ii. Se prohíbe el uso de exámenes de admisión traumáticos en la infancia que generen exclusión social prematura.
+        ii. Se prohíbe el uso de exámenes de admisión traumáticos en la infancia que generen exclusión social prematura.
 
 18\. Del Estándar de Dignidad en Instituciones de Régimen Interno (Anti-Hacinamiento).
 
@@ -4018,33 +4016,39 @@ d)  **Compatibilidad Técnica:** Se aclara que este protocolo no interfiere con 
 
 ## Artículo 75. Del Consejo Superior de Coordinación y Sincronización Institucional del Estado.
 
-Para garantizar la interoperabilidad, la fluidez logística y la respuesta unificada de la República ante desafíos sistémicos, sin vulnerar la independencia operativa de los poderes, se instituye el **Cónclave de las Cinco Coronas** como el órgano máximo de coordinación fáctica y estratégica de la Nación.
+Para garantizar la interoperabilidad, la fluidez logística y la respuesta unificada de la República ante desafíos sistémicos, sin vulnerar la independencia operativa de los poderes, se instituye el **Consejo Superior de Coordinación y Sincronización Institucional del Estado** como el órgano máximo de coordinación fáctica y estratégica de la Nación.
 
 1\. **Composición Interinstitucional Paritaria:** El Consejo estará integrado exclusivamente por quince (15) miembros en activo, distribuidos en estricta paridad entre las ramas y órganos del Estado:
 
-a)  **Por el Poder Ejecutivo:** El Presidente de la República, el Vicepresidente y el Oficial de Mayor Rango del CNSPOC.
+    a)  **Por el Poder Ejecutivo:** El Presidente de la República, el Vicepresidente y el Oficial de Mayor Rango del CNSPOC.
 
-b)  **Por el Poder Legislativo:** El Presidente de la Cámara de Representantes y dos representantes distritales elegidos por sorteo técnico anual.
+    b)  **Por el Poder Legislativo:** El Presidente de la Cámara de Representantes y dos representantes distritales elegidos por sorteo técnico anual.
 
-c)  **Por el Tribunal Supremo de Justicia:** El Presidente del TSJ y dos Magistrados Supremos.
+    c)  **Por el Tribunal Supremo de Justicia:** El Presidente del TSJ y dos Magistrados Supremos.
 
-d)  **Por el Tribunal de Defensa de la Constitución:** El Presidente del TDC y dos Magistrados Constitucionales.
+    d)  **Por el Tribunal de Defensa de la Constitución:** El Presidente del TDC y dos Magistrados Constitucionales.
 
-e)  **Por el Tribunal de Arbitraje Técnico:** El Director General del TAT y dos ingenieros o científicos principales acreditados ante el Senado de Rectores.
+    e)  **Por el Tribunal de Arbitraje Técnico:** El Director General del TAT y dos ingenieros o científicos principales acreditados ante el Senado de Rectores.
 
 2\. **Naturaleza Deliberativa y Coordinadora:** El Consejo carece de potestades legislativas, jurisdiccionales o de ejecución presupuestaria directa. Su competencia se restringe a la coordinación operativa, interoperabilidad técnica y resolución de conflictos de competencias entre órganos del Estado. Su autoridad se limita a alinear los tiempos, compartir telemetría crítica y destrabar bucles algorítmicos entre las ramas.
 
 3\. **Causales de Convocatoria:**\
-El Cónclave se reunirá de forma ordinaria una (1) vez al trimestre para el \"Balance de Estado\". Sin embargo, podrá ser convocado de emergencia en un plazo de doce (12) horas por la solicitud de al menos dos (2) presidentes de rama, ante los siguientes escenarios:
+El Consejo se reunirá de forma ordinaria una (1) vez al trimestre para el \"Balance de Estado\". Sin embargo, podrá ser convocado de emergencia en un plazo mínimo de doce (12) horas por la solicitud de al menos dos (2) presidentes de rama, ante los siguientes escenarios:
 
-a)  **Conflicto de Competencia Insoluble:** Cuando dos ramas del Estado reclamen jurisdicción sobre una misma crisis y el algoritmo del RNS no pueda resolver el empate.
+    a)  **Conflicto de Competencia Insoluble:** Cuando dos ramas del Estado reclamen jurisdicción sobre una misma crisis y el algoritmo del RNS no pueda resolver el empate.
 
-b)  **Declaración de Amenaza Biológica o Bélica:** Previo a la activación del Protocolo de Acción Defensiva Inmediata (PADI, Art. 105) por parte del Ejecutivo.
+    b)  **Declaración de Amenaza Biológica o Bélica:** Previo a la activación del Protocolo de Acción Defensiva Inmediata (PADI, Art. 105) por parte del Ejecutivo.
 
-c)  **Riesgo de Colapso Financiero Nacional:** Para coordinar la respuesta de austeridad transversal si el TAT detecta una caída del Índice de Estabilidad Vital (IEV) que amenace el Mínimo Vital de la población.
+    c)  **Riesgo de Colapso Financiero Nacional:** Para coordinar la respuesta de austeridad transversal si el TAT detecta una caída del Índice de Estabilidad Vital (IEV) que amenace el Mínimo Vital de la población.
 
 4\. **Transparencia Radical y Criptográfica:**\
 Dada la concentración de poder intelectual en este Cónclave, se prohíbe la opacidad. Las deliberaciones ordinarias serán grabadas y subidas a la Capa Alfa (Pública) del Registro Nacional Soberano (RNS). Únicamente las sesiones convocadas por motivos de Seguridad Nacional o Defensa Estratégica (CNSPOC/Fuerzas Armadas o similares) serán resguardadas en la Capa Gamma (Bóveda de Estado, Art. 22.21.c), auditables exclusivamente por la Cámara de Vigilancia Aleatoria (CVA) tras un periodo de enfriamiento.
+
+5\. De las Comparecencias Técnicas, Invitados Especiales y Régimen de Indemnidad:
+
+    a) Convocatoria con Voz y sin Voto: El Consejo podrá citar o invitar a sus sesiones a funcionarios, especialistas o ciudadanos cuya comparecencia sea necesaria para el esclarecimiento de hechos o la toma de decisiones estratégicas. En particular, cuando el orden del día involucre materias de defensa nacional, seguridad fronteriza o la activación del Protocolo de Acción Defensiva Inmediata (PADI), se convocará de oficio al Jefe del Estado Mayor de las Fuerzas Armadas de Salvaguarda, quien comparecerá con derecho a voz técnica pero sin voto deliberativo, preservando el carácter no deliberante y subordinado de la institución militar frente al poder civil (Artículo 96.1).
+
+    b) Gastos a Cargo del Consejo: Queda terminantemente prohibido que la comparecencia ante el Consejo represente una carga económica o personal para el invitado o citado. La totalidad de los costos de transporte de alta seguridad, traslados aéreos o terrestres, alojamiento, comunicaciones y dietas operativas serán asumidos y liquidados de forma directa por el presupuesto propio del Consejo en el RNS, con cargo a la cuota nacional del Estado (Artículo 44.2), garantizando la indemnidad patrimonial absoluta de los comparecientes.
 
 ------------------------------------------------------------------------
 
@@ -4207,21 +4211,21 @@ c)  Veto del Propietario: Se reafirma el derecho de veto del dueño de la tierra
 
 8\. Del Gabinete de Mínima Intervención y Estructura Funcional Descentralizada. El Poder Ejecutivo se organizará bajo el principio de competencia funcional estricta y subsidiaria. Se prohíbe la creación de ministerios, carteras, institutos o agencias públicas destinadas a la gestión, regulación o intervención de sectores económicos, culturales, académicos o productivos que puedan ser administrados por la iniciativa privada, las cooperativas o los Nodos Municipales.
 
-a)  Las Cinco Secretarías Base: El gabinete del Presidente se limitará estrictamente a los titulares de las Secretarías de Salvaguarda y Defensa, Representación Soberana, Tesoro y Fiscalidad, Fe Pública y Registro, y la Agencia de Redes de Interconexión (RRI).
+    a)  Las Cinco Secretarías Base: El gabinete del Presidente se limitará estrictamente a los titulares de las Secretarías de Salvaguarda y Defensa, Representación Soberana, Tesoro y Fiscalidad, Fe Pública y Registro, y la Agencia de Redes de Interconexión (RRI).
 
-b)  Algoritmo de Creación de Nuevas Secretarías (Filtro de Fricción Sistémica): En caso de que el transcurso del tiempo o una contingencia demuestre que el Estado requiere la creación de un nuevo servicio de carácter nacional, su instauración estará sujeta al cumplimiento estricto y sucesivo de las siguientes condiciones:
+    b)  Algoritmo de Creación de Nuevas Secretarías (Filtro de Fricción Sistémica): En caso de que el transcurso del tiempo o una contingencia demuestre que el Estado requiere la creación de un nuevo servicio de carácter nacional, su instauración estará sujeta al cumplimiento estricto y sucesivo de las siguientes condiciones:
 
-<!-- -->
+        <!-- -->
 
-i.  Certificación de No-Invasión del TAT: El Tribunal de Arbitraje Técnico (TAT) emitirá un dictamen físico vinculante demostrando que la función del nuevo órgano propuesto no puede ser ejecutada por los Nodos Municipales de forma descentralizada (Art. 69), ni por las Sociedades Anónimas de Capital Abierto (SACA), y que su ausencia compromete el Índice de Estabilidad Vital (IEV) de la Nación entera.
+        i.  Certificación de No-Invasión del TAT: El Tribunal de Arbitraje Técnico (TAT) emitirá un dictamen físico vinculante demostrando que la función del nuevo órgano propuesto no puede ser ejecutada por los Nodos Municipales de forma descentralizada (Art. 69), ni por las Sociedades Anónimas de Capital Abierto (SACA), y que su ausencia compromete el Índice de Estabilidad Vital (IEV) de la Nación entera.
 
-ii. Validación del Cónclave de las Cinco Coronas (Art. 75): La propuesta, con el informe del TAT, requerirá la firma digital concurrente de los quince (15) miembros del Cónclave, validando la necesidad de sincronización nacional del nuevo servicio.
+        ii. Validación del Consejo Superior de Coordinación (Art. 75): La propuesta, con el informe del TAT, requerirá la firma digital concurrente de los quince (15) miembros del Consejo, validando la necesidad de sincronización nacional del nuevo servicio.
 
-iii. Aprobación Legislativa y Presupuesto Autárquico: La Cámara de Representantes deberá aprobar la creación del nuevo órgano mediante una Ley Orgánica con voto favorable de las tres cuartas partes (75%) de sus miembros. Dicho órgano no podrá financiarse con deuda pública (Art. 49.3), sino exclusivamente detrayendo recursos de la cuota nacional preexistente del treinta por ciento (30%), garantizando que la creación de un nuevo órgano reduzca el presupuesto del resto del Ejecutivo, impidiendo la hipertrofia del gasto público.
+        iii. Aprobación Legislativa y Presupuesto Autárquico: La Cámara de Representantes deberá aprobar la creación del nuevo órgano mediante una Ley Orgánica con voto favorable de las tres cuartas partes (75%) de sus miembros. Dicho órgano no podrá financiarse con deuda pública (Art. 49.3), sino exclusivamente detrayendo recursos de la cuota nacional preexistente del treinta por ciento (30%), garantizando que la creación de un nuevo órgano reduzca el presupuesto del resto del Ejecutivo, impidiendo la hipertrofia del gasto público.
 
-<!-- -->
+        <!-- -->
 
-c)  Cláusula de Extinción por Ineficiencia: Todo nuevo órgano creado bajo el protocolo del inciso (b) nacerá con una Fecha de Extinción Obligatoria no superior a treinta y seis (36) meses. Para su renovación, el titular del órgano deberá presentar ante el Senado Técnico de Rectores y la CVA una auditoría que demuestre que el beneficio biológico y económico aportado a la nación es superior al costo del consumo financiero de su estructura. En ausencia de auditoría aprobada, el RNS borrará la firma digital de la secretaría y transferirá sus funciones de forma asíncrona a los municipios.
+    c)  Cláusula de Extinción por Ineficiencia: Todo nuevo órgano creado bajo el protocolo del inciso (b) nacerá con una Fecha de Extinción Obligatoria no superior a treinta y seis (36) meses. Para su renovación, el titular del órgano deberá presentar ante el Senado Técnico de Rectores y la CVA una auditoría que demuestre que el beneficio biológico y económico aportado a la nación es superior al costo del consumo financiero de su estructura. En ausencia de auditoría aprobada, el RNS borrará la firma digital de la secretaría y transferirá sus funciones de forma asíncrona a los municipios.
 
 9\. **El Referéndum de Revocación Automática por Indicadores:**\
 Si el Índice de Bienestar Biológico y Estabilidad Social (IBBES) de la Nación (Art. 30.6) se mantiene en Nivel Rojo por un periodo consecutivo de doce (12) meses sin una causa de Fuerza Mayor (Guerra, Crisis económica internacional, o Catástrofe, y otros enumerados por TDC) certificada por el TAT, el Registro Nacional Soberano (RNS) convocará automáticamente a un **Referéndum de Revocación de Mandato**. La soberanía del pueblo no espera al calendario electoral cuando la gestión ejecutiva amenaza la viabilidad biológica de la población.
@@ -4229,48 +4233,48 @@ Si el Índice de Bienestar Biológico y Estabilidad Social (IBBES) de la Nación
 10\. **Del Pliego de Compromiso Fáctico y Auditoría de Factibilidad:**\
 Es requisito de elegibilidad para la Presidencia la presentación de un Inventario de Metas Cuantificables ante el Tribunal de Arbitraje Técnico (TAT) y el Tesoro Nacional.
 
-a)  Previo al inicio de la campaña, el TAT emitirá un dictamen de factibilidad física y presupuestaria sobre las promesas del candidato. No se permitirá la promoción oficial de metas que no cuenten con respaldo de recursos proyectados en el Registro Nacional Soberano (RNS).
+    a)  Previo al inicio de la campaña, el TAT emitirá un dictamen de factibilidad física y presupuestaria sobre las promesas del candidato. No se permitirá la promoción oficial de metas que no cuenten con respaldo de recursos proyectados en el Registro Nacional Soberano (RNS).
 
-b)  Una vez electo, este pliego se registrará como el Mandato de Gestión Prioritaria, siendo auditable en tiempo real por la ciudadanía a través de la Capa Alfa del RNS.
+    b)  Una vez electo, este pliego se registrará como el Mandato de Gestión Prioritaria, siendo auditable en tiempo real por la ciudadanía a través de la Capa Alfa del RNS.
 
 11\. **Del Sensor de Causalidad y la Audiencia de Justificación Soberana:**\
 Ante el incumplimiento sostenido de las metas registradas o una caída crítica del Índice de Bienestar (IBBES), el sistema activará un protocolo de evaluación de responsabilidad:
 
-a)  **Dictamen de Causalidad:** El TAT determinará si el incumplimiento responde a Fallas Exógenas (causas externas, fuerza mayor o sabotaje certificado) o Fallas Endógenas (ineficiencia, omisión o corrupción). Las fallas exógenas no generarán responsabilidad civil contra el Ejecutivo.
+    a)  **Dictamen de Causalidad:** El TAT determinará si el incumplimiento responde a Fallas Exógenas (causas externas, fuerza mayor o sabotaje certificado) o Fallas Endógenas (ineficiencia, omisión o corrupción). Las fallas exógenas no generarán responsabilidad civil contra el Ejecutivo.
 
-b)  **Derecho al Balance de Prioridades:** Ante la detección de fallas endógenas, el Presidente tendrá el derecho de presentar ante la Cámara de Vigilancia Aleatoria (CVA) un Balance de Compensación, justificando la redirección de recursos hacia metas no previstas pero necesarias para la estabilidad nacional.
+    b)  **Derecho al Balance de Prioridades:** Ante la detección de fallas endógenas, el Presidente tendrá el derecho de presentar ante la Cámara de Vigilancia Aleatoria (CVA) un Balance de Compensación, justificando la redirección de recursos hacia metas no previstas pero necesarias para la estabilidad nacional.
 
-c)  **Filtro Humano de Validación:** La CVA, tras analizar la telemetría del RNS y la exposición del Presidente, decidirá por mayoría de dos tercios (2/3) si los fallos de gestión son justificados bajo principios de misericordia y prudencia.
+    c)  **Filtro Humano de Validación:** La CVA, tras analizar la telemetría del RNS y la exposición del Presidente, decidirá por mayoría de dos tercios (2/3) si los fallos de gestión son justificados bajo principios de misericordia y prudencia.
 
-d)  **Resolución Ciudadana:** Si la CVA dictamina que el desgaste es injustificable o malintencionado, se activará el Referéndum de Revocación de Mandato. El pueblo decidirá la permanencia del cargo basándose en los datos contrastados y la defensa humana presentada, garantizando que ninguna automatización sustituya la voluntad soberana.
+    d)  **Resolución Ciudadana:** Si la CVA dictamina que el desgaste es injustificable o malintencionado, se activará el Referéndum de Revocación de Mandato. El pueblo decidirá la permanencia del cargo basándose en los datos contrastados y la defensa humana presentada, garantizando que ninguna automatización sustituya la voluntad soberana.
 
 12\. **De la Iniciativa Legislativa de Estado.** El Presidente de la República posee facultad de iniciativa legislativa preferente ante la Cámara de Representantes. Los proyectos calificados por el Ejecutivo como \"De Urgencia por Estabilidad Nacional\" deberán ser votados en un plazo de quince (15) días hábiles. El silencio legislativo transcurrido dicho plazo activará el proyecto como Decreto-Ley Provisional, sujeto a ratificación o derogación por la Cámara en un ciclo posterior de cuarenta y cinco (45) días.
 
-**13. De la Caducidad Automática de Facultades Extraordinarias.**\
+13\. **De la Caducidad Automática de Facultades Extraordinarias.**\
 Toda facultad excepcional, decreto de emergencia o suspensión de protocolos ordinarios otorgada al Ejecutivo por causa de crisis nacional, desastre o conflicto:
 
-a)  Tendrá una vigencia máxima improrrogable de sesenta (60) días.
+    a)  Tendrá una vigencia máxima improrrogable de sesenta (60) días.
 
-b)  Al cumplirse el plazo, el Registro Nacional Soberano (RNS) **desactivará automáticamente** el amparo legal de dichas facultades, restaurando la soberanía plena de los Nodos Municipales.
+    b)  Al cumplirse el plazo, el Registro Nacional Soberano (RNS) **desactivará automáticamente** el amparo legal de dichas facultades, restaurando la soberanía plena de los Nodos Municipales.
 
-c)  Cualquier intento de prolongar estas medidas sin una nueva aprobación del 75% de la Cámara será procesado como **Usurpación de Mando y Traición**.
+    c)  Cualquier intento de prolongar estas medidas sin una nueva aprobación del 75% de la Cámara será procesado como **Usurpación de Mando y Traición**.
 
 14\. **De la Potestad de Veto Estratégico.** El Presidente podrá vetar leyes nacionales que considere lesivas para la estabilidad o soberanía. Para superar el veto presidencial y ratificar la ley, la Cámara de Representantes requerirá una mayoría calificada de las tres cuartas partes (75%) de sus miembros.
 
 15\. **De los Decretos de Gestión Presidencial.** En materias de administración pública, defensa nacional y despliegue de recursos, el Presidente emitirá decretos con fuerza de ley inmediata, siempre que no afecten los parámetros técnicos y fórmulas matemáticas certificadas por el TAT.
 
-a)  **De la Jurisdicción Restringida del Decreto Provisional:**\
+    a)  **De la Jurisdicción Restringida del Decreto Provisional:**\
     El Decreto-Ley Provisional originado por el silencio de la Cámara de Representantes tiene naturaleza estrictamente ejecutiva y de mitigación de crisis. Queda terminantemente prohibido, y será nulo de pleno derecho bajo escrutinio del Tribunal de Defensa de la Constitución (TDC), cualquier Decreto Provisional que pretenda:
 
-<!-- -->
+        <!-- -->
 
-i.  Crear, aumentar o modificar cargas tributarias o impuestos.
+        i.  Crear, aumentar o modificar cargas tributarias o impuestos.
 
-ii. Alterar las penas, tipificaciones o procedimientos del Código Penal.
+        ii. Alterar las penas, tipificaciones o procedimientos del Código Penal.
 
-iii. Restringir la libertad de movimiento, expresión o el derecho al debido proceso de los ciudadanos.
+        iii. Restringir la libertad de movimiento, expresión o el derecho al debido proceso de los ciudadanos.
 
-iv. Modificar la estructura o financiamiento del Tribunal de Arbitraje Técnico (TAT) o el Registro Nacional Soberano (RNS).
+        iv. Modificar la estructura o financiamiento del Tribunal de Arbitraje Técnico (TAT) o el Registro Nacional Soberano (RNS).
 
 16\. **Capacidad de Ejecución Estratégica:** El Presidente de la República es el responsable de la dirección del **Plan Nacional de Desarrollo Técnico**. A través de la Tesorería General, coordina la asignación de recursos hacia los **Consorcios de Propósito Único (CPU)** y proyectos de gran escala, siempre que estos posean el dictamen de viabilidad del TAT.
 
@@ -5311,7 +5315,7 @@ b)  **Jurisdicción Exclusiva (Militar y Política):**\
 
 i.  Las decisiones sobre el movimiento de civiles, la requisa temporal de infraestructura o la distribución de ayuda humanitaria en el frente son decisiones de comando, basadas en la necesidad militar y la supervivencia biológica, no en reglamentos municipales.
 
-ii. El Estado Mayor de las Fuerzas de Salvaguarda responderá directamente ante el Presidente de la República y el Cónclave de las Cinco Coronas (Art. 75), saltándose cualquier instancia intermedia.
+ii. El Estado Mayor de las Fuerzas de Salvaguarda responderá directamente ante el Presidente de la República y el Consejo Superior de Coordinación (Art. 75), saltándose cualquier instancia intermedia.
 
 <!-- -->
 
@@ -7464,7 +7468,7 @@ b)  Válvula de Latencia de Emergencia (Fuerza Mayor): En caso de catástrofe na
 
 c)  Sanción por Retención Burocrática (Malversación de Fondos): Si vencido el plazo ordinario o su prórroga de latencia, el RNS no registra la entrega física de la infraestructura auditada por el TAT en el nodo municipal correspondiente, el sistema ejecutará una Alerta de Opacidad. Se suspenderá de forma inmediata y automática el flujo de fondos destinados a gastos operativos de la Secretaría del Ejecutivo Nacional, y las arcas municipales retendrán de forma irrevocable el cien por ciento (100%) de la recaudación fiscal local del mes inmediato posterior para su autogestión.
 
-d)  Solamente una auditoría del TAT podrá desbloquear nuevamente los fondos (pasado un mes) por un plazo de hasta 24 meses adicionales no prorrogables por ningún órgano distinto del conclave de las cinco coronas.
+d)  Solamente una auditoría del TAT podrá desbloquear nuevamente los fondos (pasado un mes) por un plazo de hasta 24 meses adicionales no prorrogables por ningún órgano distinto del Consejo Superior de Coordinación Institucional.
 
 <!-- -->
 
@@ -7510,7 +7514,7 @@ Para mitigar el impacto antropológico del cambio de régimen económico y prote
 
     a)  Cada peso entregado a un ciudadano vulnerable durante la transición será registrado en el RNS como un **Gravamen de Gracia** sobre sus futuras Acciones Soberanas (Capa B y C).
 
-    b)  Al estabilizarse la economía, el ciudadano (se permite fondo perdido por muerte del beneficiario en este caso) devolverá este capital al **Fondo de Convergencia** mediante una retención marginal de sus dividendos futuros.
+    b)  Al estabilizarse la economía, el ciudadano reintegrará este capital al **Fondo de Convergencia** mediante una retención marginal de sus dividendos futuros, extinguiéndose la obligación a fondo perdido en caso de fallecimiento del beneficiario.
 
     c)  Esto garantiza que el sistema de incentivos permanezca intacto: la nación te salva hoy porque tú eres un **Socio en Dificultades**, no un súbdito a alimentar. El ciudadano no recibe limosna, recibe liquidez contra activos futuros.
 

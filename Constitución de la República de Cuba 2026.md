@@ -923,8 +923,7 @@ La República reconoce a los hijos y nietos de la Diáspora como parte integrant
     
     c) Caducidad Quinquenal Obligatoria (Cinco Años Renovables): Todo decreto presidencial o ley orgánica que instituya un régimen de restricción simétrica o reciprocidad espejo nacerá con una fecha de caducidad perentoria de cinco (5) años. Al cumplirse dicho plazo, la medida se extinguirá de pleno derecho en el Registro Nacional Soberano (RNS), retornando los nacionales de ese país al régimen general, salvo que la Cancillería y el Tribunal de Arbitraje Técnico (TAT) certifiquen que la jurisdicción extranjera mantiene vigentes las medidas discriminatorias contra los ciudadanos cubanos, en cuyo caso la restricción podrá ser prorrogada por un nuevo ciclo quinquenal.
 
-3\. **Del Freno Algorítmico de Sobrecarga Poblacional (El Cap Físico).**\
-La admisión de nuevos residentes extranjeros no está dictada por cuotas políticas, sino por la termodinámica del territorio.
+3\. **Del Freno Algorítmico de Sobrecarga Poblacional (El Cap Físico):** La admisión de nuevos residentes extranjeros no está dictada por cuotas políticas, sino por la termodinámica del territorio.
 
     a)  **Sensor de Capacidad de Red:** Si el Tribunal de Arbitraje Técnico (TAT) certifica que el Índice de Estabilidad Vital (IEV) de un Municipio cae por debajo del ochenta y cinco por ciento (85%) (saturación de red eléctrica, estrés hídrico, ocupación hospitalaria o colapso de transporte), el Registro Nacional Soberano (RNS) **bloqueará automáticamente la emisión de nuevos permisos de residencia** para extranjeros en dicho nodo.
 
@@ -960,15 +959,13 @@ La admisión de nuevos residentes extranjeros no está dictada por cuotas polít
         Queda terminantemente excluida del amparo de Fuerza Mayor (inciso anterior) cualquier crisis severa que haya sido provocada de manera dolosa por el propio individuo.\
         Si el TAT o el Cuerpo de Investigación (CICM) determinan que el residente extranjero **se ha autolesionado (mutilación física, amputación deliberada por desesperación), ha incendiado su propia propiedad, o ha escenificado un accidente** con el fin de evadir el reloj de caducidad o acceder a fondos de emergencia, la protección se anula de pleno derecho. El acto de dañar el propio vehículo biológico o patrimonio para defraudar a la Nación se tipifica como **Sabotaje Migratorio**, reactivando inmediatamente la deportación y ejecutando la incautación de bienes para resarcir los gastos médicos y logísticos incurridos por el Estado.
 
-5\. **Incompatibilidad Absoluta con el Auxilio Público.**\
-Se prohíbe el turismo de bienestar.
+5\. **Incompatibilidad Absoluta con el Auxilio Público:** Se prohíbe el turismo de bienestar.
 
     a)  El acceso al Fondo Municipal de Auxilio Mutuo, Vouchers de Emergencia no vitales o cualquier red de caridad financiada por el contribuyente cubano, está **estrictamente vedado** para residentes extranjeros.
 
     b)  **Deportación Automática:** Si un residente extranjero solicita formalmente asistencia económica al Estado para su manutención básica, dicho acto constituye prueba plena de insolvencia y ruptura del Contrato de Productividad (Art 20.4). El RNS revocará instantáneamente su residencia y procederá a su deportación.
 
-6\. **Doctrina de Tolerancia Cero al Gangsterismo Extranjero.**\
-Para evitar la formación de redes criminales transnacionales o \"sociedades paralelas\" violentas:
+6\. **Doctrina de Tolerancia Cero al Gangsterismo Extranjero:** Para evitar la formación de redes criminales transnacionales o \"sociedades paralelas\" violentas:
 
     a)  Cualquier residente extranjero que sea identificado por el Cuerpo Nacional de Seguridad (CNSPOC) o el RNS participando en actos de pandillerismo, extorsión, motines públicos violentos o porte ilegal de armas, **pierde el derecho al debido proceso ordinario de apelación civil**.
 
@@ -1139,6 +1136,7 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
         <!-- -->
 
     b)  **Límite de Concentración y Saturación Territorial:** Con el fin de evitar la creación de enclaves culturales aislados (Ghetos) que operen como estados dentro del Estado, ningún Municipio podrá otorgar residencia a extranjeros en una proporción superior al quince por ciento (15%) de su población nativa censada. Superado este umbral, el Registro Nacional Soberano (RNS) bloqueará automáticamente nuevos registros de residencia en dicha jurisdicción, derivando el flujo migratorio hacia zonas con capacidad de absorción cultural y económica.
+    
         i. Se excluye del cómputo del 15% a los titulares de visados de investigación científica, estudiantes universitarios o personal técnico asignado a proyectos estratégicos de interés nacional certificados por el TAT.
 
     c)  **Incompatibilidad de Lealtades en el Mando:** Se prohíbe el ejercicio de cargos de Alta Jerarquía (TDC, TAT, Presidencia, Comandos Militares) a ciudadanos que posean doble nacionalidad o vínculos contractuales con potencias extranjeras. La gestión de la República requiere una lealtad indivisible. El hallazgo de una ciudadanía extranjera oculta en un funcionario será causa de destitución por **Simulación de Soberanía (Art. 117)**.

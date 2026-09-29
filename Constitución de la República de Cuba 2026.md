@@ -308,9 +308,17 @@ El Estado prohíbe la estigmatización perpetua por errores cometidos antes de l
 8\. **De la Caducidad Obligatoria, la Revisión Bilateral y la Invalidez de la Servidumbre Perpetua en Tratados Internacionales.**\
 La República de Cuba Libre reconoce que la cooperación internacional es vital, pero subordina la validez de todo acuerdo externo a la preservación del \"Aliento Soberano\" de las futuras generaciones. Se establecen los siguientes parámetros de hierro para todo tratado, acuerdo de seguridad o protocolo de asistencia:
 
-    a)  **Proscripción de la Perpetuidad (Principio de Jubileo):** Ningún tratado o acuerdo internacional firmado por la República tendrá carácter perpetuo. Todo instrumento jurídico externo deberá contener una **Fecha de Caducidad Explícita**, la cual no podrá exceder de **diez (10) años** para acuerdos de seguridad/militares y **veinticinco (25) años** para acuerdos comerciales o de infraestructura estratégica.
+    a) Proscripción de la Perpetuidad en Tratados Interestatales (Principio de Jubileo): Queda terminantemente prohibida la ratificación de tratados bilaterales, pactos militares o acuerdos de cooperación interestatal que tengan carácter perpetuo. Todo instrumento bilateral suscrito por la República deberá contener una Fecha de Caducidad Explícita, la cual no excederá de diez (10) años para acuerdos de seguridad y defensa, y de veinticinco (25) años para convenios interestatales de cooperación comercial o arancelaria.
 
-    b)  **Cláusula de Revisión por Paridad:** Al cumplirse la mitad del término de cualquier tratado, se activará de forma automática y obligatoria una **Mesa de Revisión Bilateral**. Si el Tribunal de Arbitraje Técnico (TAT) y el TDC determinan que las condiciones fácticas que originaron el acuerdo han cambiado, la República tiene el derecho inalienable de renegociar los términos desde su nueva posición de fuerza.
+        i. Excepción de Inmutabilidad Fronteriza: Se exceptúan de forma absoluta de este límite temporal los tratados internacionales de delimitación territorial, fronteras marítimas y zonas económicas exclusivas, los cuales son de vigencia permanente para garantizar la seguridad geográfica y la integridad inalterable del suelo y las aguas de la Nación.
+    
+        ii. Régimen de Convenciones Multilaterales: La adhesión a tratados y convenciones multilaterales de alcance global (derecho internacional humanitario, aviación civil, navegación marítima, telecomunicaciones o postales) no requerirá fechas de caducidad en el texto foráneo, pero estará condicionada obligatoriamente a la reserva y preservación del derecho soberano de la República a la denuncia y retiro unilateral voluntario.
+    
+        iii. Remisión a Infraestructura Privada: Las concesiones e inversiones de capital privado en infraestructura productiva y transporte se regirán exclusivamente por el ciclo de desarrollo, amortización y auditoría del Artículo 11.
+    
+    b) Cláusula de Revisión a Mitad de Término y Válvula de Denuncia Anticipada: La Cámara de Representantes no podrá ratificar tratados bilaterales que no incorporen expresamente una cláusula de Revisión Bilateral Obligatoria a mitad de término.
+    Al alcanzarse dicho hito temporal, si el Tribunal de Arbitraje Técnico (TAT) y el TDC determinan que se ha quebrado la reciprocidad efectiva, que han variado sustancialmente las condiciones materiales de origen o que el acuerdo resulta lesivo para la soberanía de la Nación, la República notificará formalmente su propuesta de adecuación técnica y jurídica.
+    Si la contraparte interestatal rechaza la renegociación de buena fe en un plazo improrrogable de ciento ochenta (180) días, el Presidente de la República queda investido por mandato constitucional para proceder a la Denuncia Unilateral Anticipada del tratado, extinguiéndose sus efectos sin incurrir en responsabilidad civil ni violentar el orden supremo.
 
     c)  **Clausula de Nulidad:** Se declara **Nulo de Pleno Derecho**, e inaplicable por cualquier autoridad nacional, todo acuerdo o cláusula que permita a una potencia u organismo extranjero ejercer coacción física, castigo económico unilateral, o violación de los derechos naturales de los ciudadanos cubanos (Vida, Libertad, Propiedad) sin un proceso previo ante los tribunales cubanos. La soberanía del cuerpo del ciudadano es superior a cualquier firma diplomática.
 
@@ -384,7 +392,12 @@ c)  Este mecanismo no podrá ser utilizado para evitar la legítima defensa de e
 
 1\. Se reconoce el principio de seguridad jurídica para las inversiones e infraestructuras turísticas, comerciales o residenciales legalmente constituidas con anterioridad a la promulgación de esta Constitución. Dichas propiedades transitarán de forma automática al régimen de Concesión Administrativa Especial. Se garantiza a los titulares de estos derechos un término de explotación y uso de hasta noventa y nueve (99) años, sujeto estrictamente al cumplimiento de las normativas ambientales y al pago de las obligaciones fiscales correspondientes, sin que ello implique en caso alguno la enajenación perpetua del dominio del suelo. Sin que esto contradiga cualquier otro artículo de esta misma constitución o ley orgánica relacionada.
 
-2\. **Revisión Generacional y Continuidad Operativa:** Para preservar la soberanía del suelo para las generaciones futuras, ninguna concesión administrativa sobre el territorio nacional excederá los treinta y tres (33) años sin una auditoría de impacto soberano por parte del TDC. Al término de cada ciclo generacional, el Estado y el Municipio podrán revisar las condiciones fiscales y ambientales para ajustarlas a la realidad tecnológica de la Nación, pero carecen de potestad para revocar la concesión, negar su prórroga o expropiar la infraestructura si el titular se encuentra al corriente de sus obligaciones legales y tributarias. La renovación será de derecho y automática, salvo dictamen técnico de obsolescencia o incumplimiento grave emitido por el TAT, asegurando que el usufructo del suelo cubano beneficie a la Nación sin vulnerar la seguridad jurídica de la inversión a largo plazo.
+2\. **Revisión Generacional, Ciclo de Amortización y Continuidad Operativa:** Para preservar la soberanía del suelo y garantizar la bancabilidad de la inversión, las concesiones administrativas sobre infraestructura estratégica operarán en ciclos de hasta treinta y tres (33) años.
+
+    a) Garantía de Renovación y Seguridad Jurídica: El Estado y los Municipios carecen de potestad para revocar unilateralmente la concesión, negar su prórroga o confiscar los activos si el operador se encuentra al corriente de sus obligaciones fiscales, laborales y ambientales. La renovación al vencimiento del ciclo será de derecho y automática, salvo dictamen vinculante del TAT que acredite obsolescencia irreversible o incumplimiento grave no subsanado.
+
+    b) Régimen Post-Amortización y Auditoría del Bien Común: Una vez amortizada la inversión de capital inicial y saldado el apalancamiento financiero del proyecto, debidamente certificado por el TAT, la concesión entrará en un régimen de auditorías periódicas quinquenales (cada 5 años).
+    Dichas auditorías tendrán como fin exclusivo la optimización del servicio, la adecuación tarifaria a costos reales de operación y la actualización tecnológica de la red en beneficio de la comunidad. Estas revisiones se realizarán preservando en todo momento el equilibrio económico-financiero y un margen razonable de rentabilidad comercial para el operador, quedando proscrito el uso de la auditoría con fines expoliatorios, confiscatorios o de represalia estatal.
 
 ------------------------------------------------------------------------
 
@@ -908,9 +921,17 @@ La admisión de nuevos residentes extranjeros no está dictada por cuotas polít
 **4. Del Visado de Rendimiento y la Extinción por Inactividad.**\
 La residencia extranjera en la República no es un estatus vitalicio, es un Contrato de Productividad Continuada.
 
-    a)  **Vinculación Fiscal Estricta:** Todo permiso de residencia laboral o de inversión está atado algorítmicamente a la declaración del Impuesto Único Proporcional (Flat Tax).
+    a) Vinculación Fiscal y Principio de Autosuficiencia: Todo permiso de residencia laboral, técnica o de inversión está vinculado algorítmicamente en el RNS al principio de sostenibilidad económica y no gravamen del erario público.
+    
+    b) Reloj de Caducidad y Régimen de Prospección: Se establece un término perentorio de ciento veinte (120) días continuos de inactividad para la caducidad del permiso de residencia ordinario. No obstante, el cómputo de dicho reloj quedará neutralizado y el estatus plenamente vigente cuando el residente acredite ante el RNS cualquiera de las siguientes condiciones objetivas:
 
-    b)  **Reloj de Caducidad:** Si un residente extranjero (no nacionalizado) registra **ciento veinte (120) días continuos** sin generar utilidad gravable, sin contrato de trabajo vigente o sin demostrar autosuficiencia financiera mediante capital inyectado, el RNS anulará de pleno derecho su permiso de residencia, activando una orden de salida del país en 30 días. La residencia se extinguirá automáticamente tras ciento veinte (120) días continuos sin actividad económica generadora de ingresos.
+        i. Ejercicio Económico Ordinario: Existencia de contrato laboral registrado o declaración de actividad comercial bajo el régimen del Flat Tax (Artículo 43).
+
+        ii. Fase de Prospección e Inversión Pre-Operativa: Presentación de un plan de inversión, estudio de factibilidad o proyecto en fase de desarrollo o construcción, validado por el TAT, acreditando la inyección de capital en el circuito bancario nacional o el gasto operativo local documentado, aun cuando no se hayan generado utilidades comerciales inmediatas.
+        
+        iii. Autosuficiencia Patrimonial Garantizada: Depósito y custodia en el sistema bancario nacional de fondos líquidos propios, equivalentes al menos a doce (12) meses de la Canasta Básica de Vida (CBV) municipal, que garanticen su manutención y la cobertura de cualquier contingencia civil sin recurrir al auxilio público.
+
+    Agotados los 120 días sin concurrir ninguna de estas tres causales de acreditación, el RNS revocará de pleno derecho la residencia, otorgando un plazo improrrogable de treinta (30) días naturales para el abandono voluntario del territorio nacional.
 
     c)  **De la Pausa Algorítmica por Fuerza Mayor (Cláusula de Crisis Severa):** El Reloj de Caducidad de ciento veinte (120) días para residentes extranjeros no es un instrumento ciego. Se suspenderá automáticamente el conteo, sin pérdida de estatus migratorio, cuando el Registro Nacional Soberano (RNS) reciba certificación médica, policial o técnica de una Crisis Personal Severa. Se definen como tales, de manera estricta:
 
@@ -1084,7 +1105,15 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
 
     d)  **Prohibición de Dilución Soberana:** Bajo ninguna circunstancia se emitirán Acciones Soberanas (AS) o dividendos para refugiados o residentes temporales. El Núcleo Soberano (Art. 117) es una propiedad privada por nacimiento e inalienable.
 
-16\. La República adopta el principio de Apertura de Frontera Productiva. Todo ciudadano extranjero que ingrese al país bajo estatus de turista podrá transmutar su condición migratoria a residente laboral o inversor mediante una simple declaración jurada de propósito registrada ante el Registro Nacional Soberano. El registro de una actividad económica o la acreditación de capital inicial anulará cualquier traba administrativa o requerimiento de visa previa, otorgando de pleno derecho la capacidad legal para trabajar, contratar e invertir.
+16\.  **Del Régimen de Turismo, Transmutación Productiva y la Prerrogativa de Mérito Internacional:**
+    
+    a) **Estatus de Turismo y Libertad de Consumo:** Todo extranjero que ingrese al país en condición de turista goza de plena libertad de movimiento y disfrute de los servicios nacionales mientras sufrague íntegramente sus gastos con fondos propios registrados a través del PCSC-Temporal (Artículo 17.5). Bajo esta condición, el visitante carece de derecho a ejercer empleo remunerado o contratar como operador en el mercado laboral local.
+    
+    b) **Inoponibilidad del Tiempo Turístico para Arraigo:** La permanencia continuada bajo el estatus de turista no otorga derecho a la adquisición automática de residencia ni computará en ningún caso para los plazos de naturalización establecidos en el Artículo 19. El cómputo para la radicación legal y cívica comenzará única y exclusivamente a partir de la fecha de concesión formal del estatus de residente.
+    
+    c) **Transmutación Dinámica a Residencia Productiva:** La República mantiene el principio de Apertura de Frontera Productiva. El turista que decida integrarse a la economía nacional podrá, en cualquier momento y mediante su PCSC-T en el RNS, transmutar su condición a la de residente laboral o inversor mediante la declaración de una actividad generadora de ingresos o el registro de capital inicial (Artículo 20.4), asumiendo de inmediato el cumplimiento del Flat Tax.
+    
+    d) **Prerrogativa Presidencial de Residencia por Mérito Excepcional:** Como potestad soberana del Estado, el Presidente de la República queda facultado para conceder, de forma directa y mediante Decreto Ejecutivo debidamente motivado y registrado en el RNS, el estatus de residente permanente a personalidades extranjeras de sobresaliente trayectoria en la ciencia, la tecnología, las artes, la industria o la defensa de las libertades humanas universales. Dicho estatus eximirá al beneficiario de los plazos ordinarios de tramitación, quedando sujeto a las obligaciones de compatibilidad civil del Artículo 19.
 
 17\. **De la Protección contra la Alteración Demográfica y Cultural.**
 
@@ -1179,6 +1208,25 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
 
         ii. **Fin de la Leyenda Negra:** El sistema educativo nacional purgará los currículos de la manipulación ideológica que fomenta el odio hacia la herencia hispánica. La historia se enseñará con rigor documental, reconociendo tanto los conflictos civiles como la construcción conjunta de la identidad nacional.
 
+21\. **De los Módulos de Visado Especial (Negocios, Diplomacia y Cooperación Técnica):**
+
+    a) Visado de Negocios y Misión Comercial (PCSC-T Corporativo): Se establece el estatus de visitante de negocios para personas naturales que representen a corporaciones extranjeras, inversionistas, consultores o peritos internacionales.
+        
+        i. Facultades Operativas: Habilita la estancia en el territorio nacional por períodos de hasta ciento ochenta (180) días naturales (prorrogables mediante registro en el RNS) para la prospección comercial, negociación de contratos, comparecencia en asambleas de SACAs o supervisión de proyectos de infraestructura.
+        
+        ii. Desacople Fiscal y Laboral: Este visado no constituye residencia fiscal personal ni relación de dependencia laboral local, quedando el titular exento del reloj de caducidad laboral del Artículo 20.4. Únicamente tributará bajo el Flat Tax si percibe honorarios o utilidades abonadas directamente por entidades con domicilio en Cuba.
+    
+    b) Estatus Diplomático y de Misión Oficial: El personal diplomático, consular y de organismos internacionales acreditado ante la Cancillería de la República se regirá por los tratados internacionales aplicables (Convención de Viena de 1961), sujeto a los siguientes principios constitucionales:
+        
+        i. Inmunidad Funcional por Reciprocidad: La extensión de inmunidades y privilegios jurisdiccionales estará supeditada estrictamente a la reciprocidad efectiva que el Estado acreditante otorgue a los representantes cubanos en su territorio (Artículo 20.2).
+        
+        ii. Proscripción de Injerencia y Espionaje: La inmunidad diplomática no ampara el uso de la valija, recintos o telecomunicaciones para la comisión de delitos de espionaje, subversión, acopio de armas o injerencia en la soberanía de la red (Artículo 9.3). La detección de actos hostiles activará la inmediata declaración de persona non grata y la expulsión del territorio en un plazo perentorio de cuarenta y ocho (48) horas.
+
+    c) Visado de Cooperación Técnica, Científica y de Intercambio Académico: Se otorga a investigadores, científicos, docentes y especialistas invitados por el Senado Técnico de Rectores, las Universidades Nacionales o el Tribunal de Arbitraje Técnico (TAT).
+        
+        i. Este estatus faculta el ejercicio de la cátedra e investigación sin requerir convalidaciones burocráticas previas mientras dure el convenio.
+        
+        ii. Los titulares de esta visa quedan expresamente excluidos del cómputo de saturación territorial del quince por ciento (15%) conforme al Artículo 20.17.b.i, garantizando la libre circulación del conocimiento en la República.
 ------------------------------------------------------------------------
 
 # TÍTULO III DERECHOS FUNDAMENTALES Y GARANTÍAS
@@ -5816,80 +5864,85 @@ c)  **Neutralidad Sucesoria y Limpieza de Herencia:** Al fallecimiento del titul
 
 2\. Este porcentaje constituye patrimonio nacional inalienable. Los derechos económicos y políticos se rigen por las siguientes reglas de blindaje absoluto:
 
-a)  Los Derechos Políticos (voto en asambleas de SACA, plebiscitos y elecciones) son personalísimos, intransferibles, inembargables y no pueden ser objeto de garantía, contrato de mandato, fideicomiso privado, ni representación automatizada.
+    a)  **Naturaleza Diferenciada del Voto y Representación Fiduciaria:**
+        
+        i. Voto Cívico y Constitucional: El voto en elecciones de cargos públicos, revocatorias y plebiscitos constitucionales es estrictamente personalísimo, directo, inembargable y no podrá ser objeto de delegación, mandato ni representación automatizada.
+        
+        ii. Voto Corporativo Ordinario en SACAs: Para garantizar la operatividad mercantil y evitar la parálisis asamblearia, los derechos políticos ordinarios derivados del cincuenta y uno por ciento (51%) de las Acciones Soberanas en juntas generales de accionistas serán ejercidos de forma fiduciaria y colegiada por Consejeros de Gobernanza Soberana designados conforme al Artículo 118, bajo mandato estricto de optimización de dividendos y supervisión técnica auditada por el TAT.
+        
+        iii. Reserva de Consulta Directa para Decisiones Existenciales: El voto directo de los ciudadanos titulares de Acciones Soberanas a través del RNS se reservará de forma exclusiva y obligatoria para actos societarios de impacto estructural extraordinario: disolución de la entidad, escisión mayoritaria, fusión corporativa o enajenación de activos estratégicos que excedan el treinta por ciento (30%) del patrimonio de la empresa.
 
-b)  Proscripción de Instrumentos Derivados de Coacción del Voto: Queda terminantemente prohibida la creación, tenencia o instrumentación de vehículos fiduciarios, títulos sintéticos o mecanismos de intermediación financiera que condicionen, retribuyan o alteren el sentido del voto soberano del ciudadano en el RNS.
+    b)  Proscripción de Instrumentos Derivados de Coacción del Voto: Queda terminantemente prohibida la creación, tenencia o instrumentación de vehículos fiduciarios, títulos sintéticos o mecanismos de intermediación financiera que condicionen, retribuyan o alteren el sentido del voto soberano del ciudadano en el RNS.
 
-c)  Nulidad de Voto Condicionado por Incentivo Externo: Cualquier voto o firma digital en el RNS que se demuestre fásticamente haber sido ejecutado para cumplir con parámetros de un contrato colateral externo de incentivo financiero (compra de voto sintético), será declarado nulo e írrito de pleno derecho. El sistema del RNS, mediante auditoría de grafos de relación en tiempo real, rastreará la correlación entre flujos financieros de entrada a la Capa C del ciudadano y sus patrones de votación. Ante una colisión de firmas o evidencia de coacción de recompensa sintética, se suspenderán de forma inmediata los derechos políticos y el usufructo de la AS del ciudadano infractor por un periodo de diez (10) años, procediéndose a la incautación de todos los activos derivados de dicha operación ilegal para el Fondo Catastrófico Nacional.
+    c)  Nulidad de Voto Condicionado por Incentivo Externo: Cualquier voto o firma digital en el RNS que se demuestre fásticamente haber sido ejecutado para cumplir con parámetros de un contrato colateral externo de incentivo financiero (compra de voto sintético), será declarado nulo e írrito de pleno derecho. El sistema del RNS, mediante auditoría de grafos de relación en tiempo real, rastreará la correlación entre flujos financieros de entrada a la Capa C del ciudadano y sus patrones de votación. Ante una colisión de firmas o evidencia de coacción de recompensa sintética, se suspenderán de forma inmediata los derechos políticos y el usufructo de la AS del ciudadano infractor por un periodo de diez (10) años, procediéndose a la incautación de todos los activos derivados de dicha operación ilegal para el Fondo Catastrófico Nacional.
 
 3\. Cualquier operación que directa o indirectamente disminuya el Núcleo Soberano será nula de pleno derecho, y sus promotores incurrirán en el delito de Traición a la Patria.
 
 4\. **De la Protección Contra Testaferros y Capitales Ocultos.**
 
-a)  El anonimato se protege en el consumo (Art. 24), pero la titularidad de Acciones de Mercado (AM) y activos estratégicos exige la **Revelación de Beneficiario Final** ante el RNS.
+    a)  El anonimato se protege en el consumo (Art. 24), pero la titularidad de Acciones de Mercado (AM) y activos estratégicos exige la **Revelación de Beneficiario Final** ante el RNS.
 
-b)  Se prohíbe el uso de sociedades pantalla para eludir el control nacional del 51%. La detección de capitales extranjeros ocultos tras identidades nacionales activará la conversión forzosa de dichas acciones en créditos sin derecho a voto.
+    b)  Se prohíbe el uso de sociedades pantalla para eludir el control nacional del 51%. La detección de capitales extranjeros ocultos tras identidades nacionales activará la conversión forzosa de dichas acciones en créditos sin derecho a voto.
 
 5\. **De la Propiedad Sintética y el Beneficiario Final.**
 
 La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone el ejercicio de la voluntad propia y el beneficio directo del titular.
 
-a)  **Obligación de Revelación de Origen:** Toda adquisición de activos estratégicos (suelo agrícola, minero, energético o acciones en SACA) que supere los umbrales de alerta técnica definidos por el TAT, obliga al adquirente a declarar, bajo juramento digital, el origen lícito y propio de los fondos.
+    a)  **Obligación de Revelación de Origen:** Toda adquisición de activos estratégicos (suelo agrícola, minero, energético o acciones en SACA) que supere los umbrales de alerta técnica definidos por el TAT, obliga al adquirente a declarar, bajo juramento digital, el origen lícito y propio de los fondos.
 
-b)  **Detección de Acciones Concertadas Hostiles:** El RNS ejecutará permanentemente análisis de grafos de relaciones. Se definirá como **Acción Concertada Hostil** la adquisición de activos por parte de múltiples individuos que presenten:
+    b)  **Detección de Acciones Concertadas Hostiles:** El RNS ejecutará permanentemente análisis de grafos de relaciones. Se definirá como **Acción Concertada Hostil** la adquisición de activos por parte de múltiples individuos que presenten:
 
-<!-- -->
+        <!-- -->
 
-i.  Origen de fondos común o correlacionado,
+        i.  Origen de fondos común o correlacionado,
 
-ii. Patrones de votación idénticos en juntas de accionistas, o
+        ii. Patrones de votación idénticos en juntas de accionistas, o
 
-iii. Vínculos contractuales de cesión de beneficios a entidades extranjeras no declaradas.
+        iii. Vínculos contractuales de cesión de beneficios a entidades extranjeras no declaradas.
 
-<!-- -->
+        <!-- -->
 
-c)  **El Velo de Soberanía:** Ante la detección de una Acción Concertada que ponga en riesgo el control nacional efectivo del recurso, el Tribunal de Defensa de la Constitución (TDC) podrá decretar la **Suspensión de Derechos Políticos** de los involucrados y la conversión forzosa de sus AM en créditos sin derecho a voto, hasta que se demuestre la ausencia de control extranjero.
+    c)  **El Velo de Soberanía:** Ante la detección de una Acción Concertada que ponga en riesgo el control nacional efectivo del recurso, el Tribunal de Defensa de la Constitución (TDC) podrá decretar la **Suspensión de Derechos Políticos** de los involucrados y la conversión forzosa de sus AM en créditos sin derecho a voto, hasta que se demuestre la ausencia de control extranjero.
 
-d)  Tipificación **del Delito de Simulación de Soberanía y Mercenarismo Financiero:**\
-    Se incurre en el **Delito de Simulación de Soberanía** cuando un ciudadano cubano, de forma dolosa y concertada, actúe como titular aparente de activos estratégicos o derechos políticos en beneficio de una potencia, entidad o capital extranjero no declarado.
+    d)  Tipificación **del Delito de Simulación de Soberanía y Mercenarismo Financiero:** Se incurre en el **Delito de Simulación de Soberanía** cuando un ciudadano cubano, de forma dolosa y concertada, actúe como titular aparente de activos estratégicos o derechos políticos en beneficio de una potencia, entidad o capital extranjero no declarado.
 
-<!-- -->
+        <!-- -->
 
-i.  **Sanción Patrimonial (Extinción de Dominio):** La sentencia condenatoria firme conllevará la pérdida absoluta e irrevocable de las Acciones Soberanas (AS) del infractor, las cuales revertirán a la Reserva Generacional. Todas sus Acciones de Mercado (AM) vinculadas a la simulación serán liquidadas por el Registro Nacional Soberano (RNS), destinando el cien por ciento (100%) de los fondos al Tesoro Municipal afectado en concepto de indemnización por erosión soberana.
+        i.  **Sanción Patrimonial (Extinción de Dominio):** La sentencia condenatoria firme conllevará la pérdida absoluta e irrevocable de las Acciones Soberanas (AS) del infractor, las cuales revertirán a la Reserva Generacional. Todas sus Acciones de Mercado (AM) vinculadas a la simulación serán liquidadas por el Registro Nacional Soberano (RNS), destinando el cien por ciento (100%) de los fondos al Tesoro Municipal afectado en concepto de indemnización por erosión soberana.
 
-ii. Inhabilitación Cívica y Fiduciaria Permanente: El condenado por Simulación de Soberanía sufrirá la inhabilitación perpetua para ejercer cargos públicos, administrar SACAs o participar en comités técnicos de la República.
+        ii. Inhabilitación Cívica y Fiduciaria Permanente: El condenado por Simulación de Soberanía sufrirá la inhabilitación perpetua para ejercer cargos públicos, administrar SACAs o participar en comités técnicos de la República.
 
-iii. Agravante por Riesgo de Red: Si la simulación afectó Redes de Interconexión Nacional (RRI) de energía, agua o datos, la pena de prisión será equivalente a la del sabotaje industrial, al considerarse una agresión directa a la viabilidad biológica de la Nación
+        iii. Agravante por Riesgo de Red: Si la simulación afectó Redes de Interconexión Nacional (RRI) de energía, agua o datos, la pena de prisión será equivalente a la del sabotaje industrial, al considerarse una agresión directa a la viabilidad biológica de la Nación
 
-<!-- -->
+        <!-- -->
 
-e)  Se establece como norma inalterable de orden público la Proscripción del Capital de **Origen Totalitario**. Queda prohibida la adquisición de Acciones de Mercado (AM), concesiones de infraestructura, bienes de capital o títulos de propiedad en la República, mediante fondos o activos cuyo origen histórico primario derive del saqueo del erario, la extorsión estatal o el usufructo del poder coercitivo ejercido por regímenes totalitarios o autoritarios preexistentes.
+    e)  Se establece como norma inalterable de orden público la Proscripción del Capital de **Origen Totalitario**. Queda prohibida la adquisición de Acciones de Mercado (AM), concesiones de infraestructura, bienes de capital o títulos de propiedad en la República, mediante fondos o activos cuyo origen histórico primario derive del saqueo del erario, la extorsión estatal o el usufructo del poder coercitivo ejercido por regímenes totalitarios o autoritarios preexistentes.
 
-<!-- -->
+        <!-- -->
 
-i.  **Infección de Cadena y Trazabilidad:** La transmisión hereditaria, el lavado en jurisdicciones foráneas, la intermediación de fideicomisos ciegos o la conversión de dichos fondos en activos digitales no limpia la mancha de origen. El capital extraído mediante la violación de derechos humanos conserva la condición de Masa Patrimonial Contaminada de forma continuada e imprescriptible durante 120 años a partir de la fecha de entrada en vigor de esta constitución.
+        i.  **Infección de Cadena y Trazabilidad:** La transmisión hereditaria, el lavado en jurisdicciones foráneas, la intermediación de fideicomisos ciegos o la conversión de dichos fondos en activos digitales no limpia la mancha de origen. El capital extraído mediante la violación de derechos humanos conserva la condición de Masa Patrimonial Contaminada de forma continuada e imprescriptible durante 120 años a partir de la fecha de entrada en vigor de esta constitución.
 
-ii. **Filtro de Inteligencia Financiera:** Corresponde al Registro Nacional Soberano (RNS) y al Tribunal de Arbitraje Técnico (TAT) ejecutar la auditoría de antecedentes patrimoniales sobre cualquier inversión que supere los umbrales de relevancia nacional.
+        ii. **Filtro de Inteligencia Financiera:** Corresponde al Registro Nacional Soberano (RNS) y al Tribunal de Arbitraje Técnico (TAT) ejecutar la auditoría de antecedentes patrimoniales sobre cualquier inversión que supere los umbrales de relevancia nacional.
 
-iii. **Consecuencia Jurídica:** La detección de Capital de Origen Totalitario activará la Extinción de Dominio Automática sobre el cien por ciento (100%) de los activos involucrados, los cuales revertirán de pleno derecho al Fideicomiso Nacional de Pensiones para el beneficio de los ciudadanos, sin derecho a indemnización ni recurso de amparo comercial para los adquirentes.
+        iii. **Consecuencia Jurídica:** La detección de Capital de Origen Totalitario activará la Extinción de Dominio Automática sobre el cien por ciento (100%) de los activos involucrados, los cuales revertirán de pleno derecho al Fideicomiso Nacional de Pensiones para el beneficio de los ciudadanos, sin derecho a indemnización ni recurso de amparo comercial para los adquirentes.
 
 6\. **Del Flujo Soberano en Participaciones Minoritarias y la Nulidad de la Propiedad Estatal:** Se establece el carácter inalienable de los rendimientos y de la titularidad de cualquier capital público invertido en el mercado. Toda participación accionaria o título de propiedad que sea adquirido o financiado, de forma directa o indirecta, por el Estado (a través del Tesoro Nacional, Tesoros Municipales, el FCIN, o cualquier corporación pública) queda sujeto al Régimen de Distribución e Individualización Directa:
 
-a)  Nulidad de Retención Burocrática: Queda terminantemente prohibido que los dividendos, utilidades o rendimientos de cualquier tipo derivados de acciones adquiridas con fondos públicos ingresen al presupuesto corriente de la administración pública o se utilicen para gastos operativos del gobierno.
+    a)  Nulidad de Retención Burocrática: Queda terminantemente prohibido que los dividendos, utilidades o rendimientos de cualquier tipo derivados de acciones adquiridas con fondos públicos ingresen al presupuesto corriente de la administración pública o se utilicen para gastos operativos del gobierno.
 
-b)  Automatismo Soberano de Dividendos: El Registro Nacional Soberano (RNS) capturará de forma automática el flujo de dividendos de dichas participaciones y lo liquidará mensualmente en la Capa B (Gestión Estratégica) de las Acciones Soberanas (AS) de todos los ciudadanos cubanos por nacimiento en pleno ejercicio de sus derechos.
+    b)  Automatismo Soberano de Dividendos: El Registro Nacional Soberano (RNS) capturará de forma automática el flujo de dividendos de dichas participaciones y lo liquidará mensualmente en la Capa B (Gestión Estratégica) de las Acciones Soberanas (AS) de todos los ciudadanos cubanos por nacimiento en pleno ejercicio de sus derechos.
 
-c)  Transparencia de la Inversión Pública: El Poder Ejecutivo o Municipal que decida invertir capital público en una empresa particular, deberá publicar previamente en la Capa Alfa el Dictamen de Beneficio Ciudadano, demostrando técnicamente que la inversión generará más dividendos directos para el pueblo que el gasto alternativo de ese capital.
+    c)  Transparencia de la Inversión Pública: El Poder Ejecutivo o Municipal que decida invertir capital público en una empresa particular, deberá publicar previamente en la Capa Alfa el Dictamen de Beneficio Ciudadano, demostrando técnicamente que la inversión generará más dividendos directos para el pueblo que el gasto alternativo de ese capital.
 
-d)  Prohibición de \"Botines de Guerra\" (Voto Ciego): Ningún funcionario público ni autoridad política podrá utilizar los derechos de voto derivados de estas participaciones para favorecer intereses ideológicos o políticos. El voto de esas acciones en las juntas de socios será ejercido de forma exclusiva por un Comisario Técnico sorteado por el TAT, con el único mandato de maximizar el dividendo para el ciudadano.
+    d)  Prohibición de \"Botines de Guerra\" (Voto Ciego): Ningún funcionario público ni autoridad política podrá utilizar los derechos de voto derivados de estas participaciones para favorecer intereses ideológicos o políticos. El voto de esas acciones en las juntas de socios será ejercido de forma exclusiva por un Comisario Técnico sorteado por el TAT, con el único mandato de maximizar el dividendo para el ciudadano.
 
-e)  Del Traspaso de Propiedad y Extinción del Título Estatal: El Estado carece de capacidad jurídica para ostentar la nuda propiedad o dominio de acciones o títulos de participación mercantil de forma permanente. Al momento de perfeccionarse cualquier compra, suscripción o adjudicación de acciones por parte de cualquier ente público utilizando fondos del erario, el RNS ejecutará una mutación de titularidad de pleno derecho:
+    e)  Del Traspaso de Propiedad y Extinción del Título Estatal: El Estado carece de capacidad jurídica para ostentar la nuda propiedad o dominio de acciones o títulos de participación mercantil de forma permanente. Al momento de perfeccionarse cualquier compra, suscripción o adjudicación de acciones por parte de cualquier ente público utilizando fondos del erario, el RNS ejecutará una mutación de titularidad de pleno derecho:
 
-<!-- -->
+        <!-- -->
 
-i.  Umbral SACA (51% o más): Si la adquisición de capital público, sola o en concurrencia con el capital de los ciudadanos, alcanza o supera el cincuenta y uno por ciento (51%) de la empresa, esta transitará de forma inmediata al modelo SACA. El 51% de las acciones se convertirá automáticamente en Acciones Soberanas (AS) y se distribuirá de forma equitativa y gratuita en el RNS a todos los ciudadanos cubanos por nacimiento.
+        i.  Umbral SACA (51% o más): Si la adquisición de capital público, sola o en concurrencia con el capital de los ciudadanos, alcanza o supera el cincuenta y uno por ciento (51%) de la empresa, esta transitará de forma inmediata al modelo SACA. El 51% de las acciones se convertirá automáticamente en Acciones Soberanas (AS) y se distribuirá de forma equitativa y gratuita en el RNS a todos los ciudadanos cubanos por nacimiento.
 
-ii. Umbral de Participación Minoritaria (Menos de 51%): Si la compra es minoritaria, los títulos físicos o digitales de propiedad serán transferidos de forma inmediata y automática al Fideicomiso Nacional de Pensiones (Artículo 118). El Fideicomiso actuará como custodio y fideicomisario ciego, reteniendo la titularidad del activo exclusivamente para garantizar el flujo ininterrumpido de dividendos a la Capa B de las AS de todos los ciudadanos. El Estado no posee el activo; el Estado es solo el catalizador que lo compra para entregárselo a su único dueño: el pueblo.
+        ii. Umbral de Participación Minoritaria (Menos de 51%): Si la compra es minoritaria, los títulos físicos o digitales de propiedad serán transferidos de forma inmediata y automática al Fideicomiso Nacional de Pensiones (Artículo 118). El Fideicomiso actuará como custodio y fideicomisario ciego, reteniendo la titularidad del activo exclusivamente para garantizar el flujo ininterrumpido de dividendos a la Capa B de las AS de todos los ciudadanos. El Estado no posee el activo; el Estado es solo el catalizador que lo compra para entregárselo a su único dueño: el pueblo.
 
 7\. Del Secreto de Flujo Nacional: Se prohíbe a cualquier inversor extranjero, sea cual sea su porcentaje de participación en una SACA, la extracción masiva de metadatos comerciales, rutas logísticas o perfiles de proveedores fuera del territorio nacional. La inteligencia de mercado de las SACA es un Activo de Seguridad Nacional. El intento de replicar el grafo de relaciones comerciales en servidores externos se tipifica como Espionaje Industrial Estratégico.
 

@@ -907,7 +907,13 @@ La República reconoce a los hijos y nietos de la Diáspora como parte integrant
 
 ## Artículo 20. De la Extranjería y la Estricta Reciprocidad Internacional.
 
-1\. Igualdad de Derechos Civiles: Los extranjeros en el territorio de la República gozan de los mismos derechos civiles y garantías que los nacionales, siempre que no impliquen el ejercicio del poder político o la soberanía nacional.
+1\.  Igualdad de Derechos Civiles e Inviolabilidad Universal de la Vida:
+
+    a) Plenitud de Garantías Individuales: Los extranjeros en el territorio de la República gozan de la misma protección jurídica, derechos civiles y garantías procesales que los nacionales, con la única excepción del ejercicio del poder político directo y la titularidad del Núcleo Soberano (Art. 117).
+
+    b) Simetría Penal Absoluta y Protección de la Integridad Biológica: La protección de la vida, la integridad física y la indemnidad personal es universal e indivisible. El homicidio, la agresión, el secuestro o cualquier delito perpetrado contra un extranjero (sea este residente, inversionista, turista, asilado o transeúnte recién ingresado) será perseguido y sancionado con exactamente la misma severidad penal, imprescriptibilidad e indemnización múltiple (Art. 22.15 y 22.17) que si se hubiera cometido contra un ciudadano cubano por nacimiento.
+
+    c) Tipificación del Agravante por Vulnerabilidad Migratoria: La invocación del estatus migratorio, la falta de arraigo o la condición de extranjero de la víctima como justificación, atenuante o pretexto para el delito, se tipifica como Agravante de Odio y Depredación Asimétrica, duplicando de pleno derecho la responsabilidad civil de restitución sobre el patrimonio del agresor. La República no reconoce grados de humanidad ni admite zonas de desamparo físico en su suelo.
 
 2\. Principio de Reciprocidad Efectiva y Doctrina Espejo:
    
@@ -2900,124 +2906,132 @@ d)  **Inmunidad Fiscal al Patrimonio Vehicular:** Los medios de transporte y maq
 
 e)  **Penalización a la Vacancia Improductiva (Anti-Hoarding):** Para evitar la manipulación artificial del mercado inmobiliario, se establece una tasa de compensación sobre inmuebles residenciales de propiedad corporativa que permanezcan desocupados por más de dieciocho (18) meses. El recaudo de dicha tasa se destinará exclusivamente a fondos de capital semilla para emprendimiento juvenil local.
 
-**4. Del Arrendamiento de Fricción Cero, Uso Efímero y Desalojo por ocupación ilegal.**\
+4\. **Proscripción de la Coacción de Arrendamiento y la Discriminación por Tenencia:**
+Queda terminantemente prohibido al Estado, a los Municipios o a cualquier autoridad pública:
+    
+    a) Obligar a un propietario a arrendar, ceder o poner a disposición de terceros sus inmuebles contra su voluntad, independientemente del número de propiedades que posea o del tiempo que permanezcan desocupadas.
+    
+    b) Crear figuras jurídicas, categorías fiscales punitivas o restricciones comerciales basadas en el número de viviendas legítimamente adquiridas o construidas por un ciudadano o persona jurídica (quedando proscrita la categorización discriminatoria de 'gran tenedor' o figuras análogas).
+    
+    c) Imponer moratorias de desalojo que obliguen al propietario a sostener involuntariamente la vivienda de un deudor o usurpador. Si el Estado desea proveer asistencia habitacional, deberá hacerlo construyendo suelo con sus propios fondos o adquiriendo vivienda a precios de mercado libre, quedando estrictamente prohibida la socialización forzosa de la propiedad privada ajena.
+
+5\. **Del Arrendamiento de Fricción Cero, Uso Efímero y Desalojo por ocupación ilegal.**\
 La República reconoce que el derecho de propiedad incluye la facultad de ceder temporalmente el uso y disfrute de un espacio (habitaciones, terrenos para acampar, locales comerciales) mediante acuerdos de libre mercado. Para evitar la usurpación amparada en la burocracia, se establece el régimen de **Contrato de Uso Efímero con Extinción Automática**:
 
-a)  **El Contrato Inteligente de Arrendamiento:** Todo ciudadano o empresa (SACA/SEP) que desee rentar un espacio por un tiempo determinado, generará un contrato digital a través del Registro Nacional Soberano (RNS) utilizando los Pasaportes de Ciudadanía Soberana (PCSC) de ambas partes. El contrato establecerá de forma inalterable la fecha y hora exacta de inicio y expiración.
+    a)  **El Contrato Inteligente de Arrendamiento:** Todo ciudadano o empresa (SACA/SEP) que desee rentar un espacio por un tiempo determinado, generará un contrato digital a través del Registro Nacional Soberano (RNS) utilizando los Pasaportes de Ciudadanía Soberana (PCSC) de ambas partes. El contrato establecerá de forma inalterable la fecha y hora exacta de inicio y expiración.
 
-b)  **Soberanía del Propietario sobre el Término:** La facultad de prórroga o resolución del contrato reside exclusiva y unilateralmente en el titular del bien. Vencido el plazo estipulado en el instrumento contractual, se extingue de pleno derecho todo título posesorio o derecho de permanencia del ocupante, sin que el ordenamiento reconozca tácita reconducción ni derechos posesorios por mera tenencia temporal.
+    b)  **Soberanía del Propietario sobre el Término:** La facultad de prórroga o resolución del contrato reside exclusiva y unilateralmente en el titular del bien. Vencido el plazo estipulado en el instrumento contractual, se extingue de pleno derecho todo título posesorio o derecho de permanencia del ocupante, sin que el ordenamiento reconozca tácita reconducción ni derechos posesorios por mera tenencia temporal.
 
-c)  **Tipificación de Ocupación Hostil (Okupación):** Si el arrendatario, visitante o campista se niega a abandonar la propiedad al expirar el contrato, su estatus legal muta instantáneamente de \"cliente\" a **Usurpador en Flagrancia**.
+    c)  **Tipificación de Ocupación Hostil (Okupación):** Si el arrendatario, visitante o campista se niega a abandonar la propiedad al expirar el contrato, su estatus legal muta instantáneamente de \"cliente\" a **Usurpador en Flagrancia**.
 
-d)  **Protocolo de Desalojo Algorítmico y Físico:** Ante la usurpación, el propietario no requiere iniciar un juicio civil de desahucio. Con un solo comando en su PCSC (\"Ejecutar Cierre\"), el RNS activará las siguientes defensas:
+    d)  **Protocolo de Desalojo Algorítmico y Físico:** Ante la usurpación, el propietario no requiere iniciar un juicio civil de desahucio. Con un solo comando en su PCSC (\"Ejecutar Cierre\"), el RNS activará las siguientes defensas:
 
-<!-- -->
+        <!-- -->
 
-i.  **Multa por Secuestro de Espacio:** El RNS comenzará a debitar de forma automática, por cada hora de permanencia ilegal, una multa punitiva equivalente al quíntuple (5x) del valor diario de la renta, extraída directamente de la Capa de Capital de Maniobra (Capa C) y de las cuentas comerciales del usurpador.
+        i.  **Multa por Secuestro de Espacio:** El RNS comenzará a debitar de forma automática, por cada hora de permanencia ilegal, una multa punitiva equivalente al quíntuple (5x) del valor diario de la renta, extraída directamente de la Capa de Capital de Maniobra (Capa C) y de las cuentas comerciales del usurpador.
 
-ii. **Extracción Física Inmediata:** La alerta del RNS se enruta directamente al Cuerpo de Custodia Territorial y Rural (CCTR) o a los Alguaciles Municipales, quienes tienen el mandato ineludible de personarse en la propiedad en un plazo máximo de doce (12) horas para ejecutar la extracción física del usurpador, sin necesidad de orden judicial de un tribunal físico, operando bajo la validez del Contrato Inteligente vencido.
+        ii. **Extracción Física Inmediata:** La alerta del RNS se enruta directamente al Cuerpo de Custodia Territorial y Rural (CCTR) o a los Alguaciles Municipales, quienes tienen el mandato ineludible de personarse en la propiedad en un plazo máximo de doce (12) horas para ejecutar la extracción física del usurpador, sin necesidad de orden judicial de un tribunal físico, operando bajo la validez del Contrato Inteligente vencido.
 
-iii. **Responsabilidad por Daños:** Cualquier daño causado a la propiedad, a la siembra o al mobiliario será tasado y cobrado automáticamente del patrimonio del infractor (Art. 150.10).
+        iii. **Responsabilidad por Daños:** Cualquier daño causado a la propiedad, a la siembra o al mobiliario será tasado y cobrado automáticamente del patrimonio del infractor (Art. 150.10).
 
-5\. **De la Regulación por Externalidades y el Orden Público y el Criterio de Intervención Técnica:** La potestad municipal para regular el uso de vehículos y maquinaria se limita estrictamente a la gestión de externalidades objetivas y cuantificables que afecten el derecho de terceros o la integridad de la infraestructura pública. Estas regulaciones se centrarán exclusivamente en:
+6\. **De la Regulación por Externalidades y el Orden Público y el Criterio de Intervención Técnica:** La potestad municipal para regular el uso de vehículos y maquinaria se limita estrictamente a la gestión de externalidades objetivas y cuantificables que afecten el derecho de terceros o la integridad de la infraestructura pública. Estas regulaciones se centrarán exclusivamente en:
 
-a)  **Seguridad Mecánica:** El establecimiento de normas mínimas de seguridad para la circulación en vías públicas, cuya verificación será realizada por entidades técnicas certificadas, públicas o privadas, bajo el régimen de libre competencia.
+    a)  **Seguridad Mecánica:** El establecimiento de normas mínimas de seguridad para la circulación en vías públicas, cuya verificación será realizada por entidades técnicas certificadas, públicas o privadas, bajo el régimen de libre competencia.
 
-b)  **Emisiones y Medio Ambiente:** La fijación de umbrales máximos de emisiones contaminantes y vertidos, basados en estándares científicos internacionales, con el fin de proteger la salud pública y el ecosistema local.
+    b)  **Emisiones y Medio Ambiente:** La fijación de umbrales máximos de emisiones contaminantes y vertidos, basados en estándares científicos internacionales, con el fin de proteger la salud pública y el ecosistema local.
 
-c)  **Contaminación Acústica:** El control de niveles de ruido mediante el uso de decibelímetros, estableciendo zonas de baja carga sensorial en áreas residenciales, hospitalarias o de protección cognitiva, de conformidad con el Artículo 140.
+    c)  **Contaminación Acústica:** El control de niveles de ruido mediante el uso de decibelímetros, estableciendo zonas de baja carga sensorial en áreas residenciales, hospitalarias o de protección cognitiva, de conformidad con el Artículo 140.
 
-d)  **Dimensiones y Carga:** El establecimiento de límites de peso y gálibo proporcionales a la resistencia técnica de la infraestructura vial de cada municipio.
+    d)  **Dimensiones y Carga:** El establecimiento de límites de peso y gálibo proporcionales a la resistencia técnica de la infraestructura vial de cada municipio.
 
-6\. Gestión del Espacio Público y Tasas de Uso:
+7\. Gestión del Espacio Público y Tasas de Uso:
 
-a)  El Municipio tiene la facultad de gestionar el estacionamiento y la circulación en vías de alta densidad mediante la aplicación de Tasas de Uso Técnico. Dichas tasas tendrán como fin único el mantenimiento de la red vial y la compensación por el uso del espacio común, no pudiendo utilizarse como mecanismo de desestimulación encubierta de la propiedad privada.
+    a)  El Municipio tiene la facultad de gestionar el estacionamiento y la circulación en vías de alta densidad mediante la aplicación de Tasas de Uso Técnico. Dichas tasas tendrán como fin único el mantenimiento de la red vial y la compensación por el uso del espacio común, no pudiendo utilizarse como mecanismo de desestimulación encubierta de la propiedad privada.
 
-b)  Se garantiza el derecho al \"Puerto de Descarga\" y estacionamiento en propiedad privada. Ninguna autoridad podrá sancionar a un ciudadano por la cantidad de vehículos estacionados o almacenados dentro de sus predios, siempre que se cumplan las normas de seguridad industrial y prevención de incendios.
+    b)  Se garantiza el derecho al \"Puerto de Descarga\" y estacionamiento en propiedad privada. Ninguna autoridad podrá sancionar a un ciudadano por la cantidad de vehículos estacionados o almacenados dentro de sus predios, siempre que se cumplan las normas de seguridad industrial y prevención de incendios.
 
-**7. Responsabilidad Civil Objetiva por Daños:** El propietario de un bien mueble o vehículo es responsable civil y solidariamente por los daños, perjuicios o contaminación que dicho bien cause a la propiedad ajena, la integridad física de terceros o el dominio público. La obligación de restauración o indemnización es absoluta y no se extingue por la falta de dolo, de conformidad con el principio de responsabilidad objetiva.
+8\. **Responsabilidad Civil Objetiva por Daños:** El propietario de un bien mueble o vehículo es responsable civil y solidariamente por los daños, perjuicios o contaminación que dicho bien cause a la propiedad ajena, la integridad física de terceros o el dominio público. La obligación de restauración o indemnización es absoluta y no se extingue por la falta de dolo, de conformidad con el principio de responsabilidad objetiva.
 
-**8. Derecho de Transformación y Autonomía Técnica:** Se reconoce el derecho del propietario a modificar, transformar o adaptar sus medios de transporte mediante cualquier tecnología (eléctrica, combustión, hidrógeno o análogos). El Estado y los Municipios no podrán imponer tecnologías específicas, limitándose a certificar que la transformación cumpla con los estándares de seguridad y emisiones definidos en la ley.
+9\. **Derecho de Transformación y Autonomía Técnica:** Se reconoce el derecho del propietario a modificar, transformar o adaptar sus medios de transporte mediante cualquier tecnología (eléctrica, combustión, hidrógeno o análogos). El Estado y los Municipios no podrán imponer tecnologías específicas, limitándose a certificar que la transformación cumpla con los estándares de seguridad y emisiones definidos en la ley.
 
-9\. **Del Núcleo Estructural y la Soberanía Arquitectónica.** La República adopta el modelo de \"Núcleo Estructural\" para el desarrollo del hábitat. El Municipio garantiza, mediante licitación a privados, la construcción del núcleo base (cimientos, estructuras portantes y conexiones técnicas a las redes de agua, energía y datos). Una vez entregado el núcleo estructural al ciudadano, este ejercerá **soberanía arquitectónica absoluta** sobre la distribución interna, la fachada y la personalización estética de su hogar. El poder público no podrá imponer cánones de uniformidad estética forzosa que anulen la identidad individual.
+10\. **Del Núcleo Estructural y la Soberanía Arquitectónica.** La República adopta el modelo de \"Núcleo Estructural\" para el desarrollo del hábitat. El Municipio garantiza, mediante licitación a privados, la construcción del núcleo base (cimientos, estructuras portantes y conexiones técnicas a las redes de agua, energía y datos). Una vez entregado el núcleo estructural al ciudadano, este ejercerá **soberanía arquitectónica absoluta** sobre la distribución interna, la fachada y la personalización estética de su hogar. El poder público no podrá imponer cánones de uniformidad estética forzosa que anulen la identidad individual.
 
-10\. De la Soberanía sobre los Recursos Naturales Marinos y el Derecho Originario de Extracción:
+11\. De la Soberanía sobre los Recursos Naturales Marinos y el Derecho Originario de Extracción:
 
-a)  Libertad de Acceso: La República reconoce la primacía de la libertad sobre las aguas territoriales. Todo ciudadano, por su sola condición de tal, posee el derecho inalienable de acceso, navegación y extracción de recursos con fines de subsistencia, recreación o comercio.
+    a)  Libertad de Acceso: La República reconoce la primacía de la libertad sobre las aguas territoriales. Todo ciudadano, por su sola condición de tal, posee el derecho inalienable de acceso, navegación y extracción de recursos con fines de subsistencia, recreación o comercio.
 
-b)  Prohibición de Monopolios: Se prohíbe terminantemente la creación de monopolios estatales o licitaciones excluyentes que impidan al ciudadano individual o a la pequeña empresa el ejercicio de la actividad extractiva marina.
+    b)  Prohibición de Monopolios: Se prohíbe terminantemente la creación de monopolios estatales o licitaciones excluyentes que impidan al ciudadano individual o a la pequeña empresa el ejercicio de la actividad extractiva marina.
 
-c)  Límite de la Regulación: La intervención municipal en el mar se limita exclusivamente a criterios técnicos de preservación de biomasa y seguridad, certificados por el TAT. Queda proscrita cualquier regulación que pretenda restringir el derecho de propiedad sobre el producto capturado o el libre tránsito marítimo.
+    c)  Límite de la Regulación: La intervención municipal en el mar se limita exclusivamente a criterios técnicos de preservación de biomasa y seguridad, certificados por el TAT. Queda proscrita cualquier regulación que pretenda restringir el derecho de propiedad sobre el producto capturado o el libre tránsito marítimo.
 
-11\. **De las Reservas de Reposición Biológica (RRB):** Con el fin de garantizar la perpetuidad de los recursos hidrobiológicos y la seguridad alimentaria de las generaciones futuras, se establece la creación de zonas de exclusión extractiva absoluta.
+12\. **De las Reservas de Reposición Biológica (RRB):** Con el fin de garantizar la perpetuidad de los recursos hidrobiológicos y la seguridad alimentaria de las generaciones futuras, se establece la creación de zonas de exclusión extractiva absoluta.
 
-a)  **Delimitación Técnica:** El Tribunal de Arbitraje Técnico (TAT), basado en estudios de corrientes, salinidad y ciclos de desove, fijará las coordenadas de geolocalización de las RRB. Estas zonas funcionarán como santuarios de biodiversidad y centros de exportación natural de biomasa hacia las áreas de pesca adyacentes.
+    a)  **Delimitación Técnica:** El Tribunal de Arbitraje Técnico (TAT), basado en estudios de corrientes, salinidad y ciclos de desove, fijará las coordenadas de geolocalización de las RRB. Estas zonas funcionarán como santuarios de biodiversidad y centros de exportación natural de biomasa hacia las áreas de pesca adyacentes.
 
-b)  **Inviolabilidad de la Reserva:** Queda terminantemente prohibida cualquier actividad de extracción, vertido o alteración técnica dentro del perímetro de las RRB. La violación de estos límites será procesada como **Atentado a la Infraestructura Vital de la República**, conllevando la incautación de los medios utilizados y la deducción automática de Acciones Soberanas (AS) para la remediación del daño.
+    b)  **Inviolabilidad de la Reserva:** Queda terminantemente prohibida cualquier actividad de extracción, vertido o alteración técnica dentro del perímetro de las RRB. La violación de estos límites será procesada como **Atentado a la Infraestructura Vital de la República**, conllevando la incautación de los medios utilizados y la deducción automática de Acciones Soberanas (AS) para la remediación del daño.
 
-c)  **Vigilancia Tecnológica:** El cumplimiento de estos perímetros será monitoreado en tiempo real por el Registro Nacional Soberano (RNS) mediante la telemetría obligatoria de las embarcaciones civiles y comerciales. El sistema emitirá alertas de incursión automáticas, invalidando el amparo legal de navegación de cualquier nave que viole la zona de exclusión sin autorización técnica justificada.
+    c)  **Vigilancia Tecnológica:** El cumplimiento de estos perímetros será monitoreado en tiempo real por el Registro Nacional Soberano (RNS) mediante la telemetría obligatoria de las embarcaciones civiles y comerciales. El sistema emitirá alertas de incursión automáticas, invalidando el amparo legal de navegación de cualquier nave que viole la zona de exclusión sin autorización técnica justificada.
 
 12\. **De los Períodos de Veda y Autorización Táctica:** El derecho de extracción está supeditado a los **Ciclos de Reclutamiento Biológico** de las especies.
 
-a)  **Calendario de Inmunidad Biológica:** El Tribunal de Arbitraje Técnico (TAT) publicará y actualizará en el RNS el calendario de vedas basado en la telemetría de biomasa. Durante estos períodos, el amparo legal para la extracción de especies específicas queda suspendido de pleno derecho.
+    a)  **Calendario de Inmunidad Biológica:** El Tribunal de Arbitraje Técnico (TAT) publicará y actualizará en el RNS el calendario de vedas basado en la telemetría de biomasa. Durante estos períodos, el amparo legal para la extracción de especies específicas queda suspendido de pleno derecho.
 
-b)  **Licencias de Gestión de Fase:** El Estado, a través de las oficinas técnicas municipales, emitirá **Autorizaciones Tácticas de Extracción** únicamente en los períodos y zonas que el TAT certifique como \"Fase de Excedente Biológico\". Estas autorizaciones serán gestionadas algorítmicamente a través del RNS, garantizando que el esfuerzo de captura no supere la tasa de reposición natural.
+    b)  **Licencias de Gestión de Fase:** El Estado, a través de las oficinas técnicas municipales, emitirá **Autorizaciones Tácticas de Extracción** únicamente en los períodos y zonas que el TAT certifique como \"Fase de Excedente Biológico\". Estas autorizaciones serán gestionadas algorítmicamente a través del RNS, garantizando que el esfuerzo de captura no supere la tasa de reposición natural.
 
-c)  **Penalización por Interrupción de Ciclo:** La extracción de biomasa en fase de desove o dentro de períodos de veda será considerada **Sabotaje Ecológico**. El RNS bloqueará automáticamente los permisos de navegación del infractor y ejecutará una sanción pecuniaria en Acciones Soberanas (AS) equivalente al triple del valor proyectado de la biomasa destruida.
+    c)  **Penalización por Interrupción de Ciclo:** La extracción de biomasa en fase de desove o dentro de períodos de veda será considerada **Sabotaje Ecológico**. El RNS bloqueará automáticamente los permisos de navegación del infractor y ejecutará una sanción pecuniaria en Acciones Soberanas (AS) equivalente al triple del valor proyectado de la biomasa destruida.
 
-d)  **Transparencia en la Autorización:** El proceso de otorgamiento de licencias durante fases críticas será público y basado exclusivamente en la idoneidad técnica del arte de pesca y el historial de cumplimiento del ciudadano, eliminando cualquier margen de discrecionalidad administrativa o favoritismo.
+    d)  **Transparencia en la Autorización:** El proceso de otorgamiento de licencias durante fases críticas será público y basado exclusivamente en la idoneidad técnica del arte de pesca y el historial de cumplimiento del ciudadano, eliminando cualquier margen de discrecionalidad administrativa o favoritismo.
 
 ------------------------------------------------------------------------
 
 ## Artículo 54. Propiedad Agraria, Arrendamiento Estratégico (AET) Límites y Excepción Urbana.
 
-**1. Límite a la Concentración de Suelo Primario:** Para asegurar la soberanía productiva y evitar monopolios extractivos, ninguna persona jurídica podrá poseer en propiedad (título de dominio) más del cinco por ciento (5%) de la tierra cultivable o de explotación forestal de un mismo municipio. No obstante, para proyectos de alta escala que requieran mayor superficie, la entidad podrá expandir su operación mediante Arrendamiento Estratégico (AET) con terceros propietarios, fomentando la cooperación entre la gran industria y el pequeño propietario sin concentrar la tenencia del suelo.
+1\. **Límite a la Concentración de Suelo Primario:** Para asegurar la soberanía productiva y evitar monopolios extractivos, ninguna persona jurídica podrá poseer en propiedad (título de dominio) más del cinco por ciento (5%) de la tierra cultivable o de explotación forestal de un mismo municipio. No obstante, para proyectos de alta escala que requieran mayor superficie, la entidad podrá expandir su operación mediante Arrendamiento Estratégico (AET) con terceros propietarios, fomentando la cooperación entre la gran industria y el pequeño propietario sin concentrar la tenencia del suelo.
     a)  El límite del 5% pueda ampliarse hasta un veinte por ciento (20%) exclusivamente para proyectos de silvicultura comercial de ciclo largo certificados bajo la regla de reposición del Artículo 157.
 
-2**. De la Inmunidad del Sector Agroindustrial y de Transformación.**\
-Se declara la Cadena de Suministro Alimentario como infraestructura crítica protegida por la Inmunidad de Mercado.
+2\. **De la Inmunidad del Sector Agroindustrial y de Transformación:** Se declara la Cadena de Suministro Alimentario como infraestructura crítica protegida por la Inmunidad de Mercado.
 
-a)  **Protección contra la Intervención Arbitraria:** Queda proscrita cualquier medida de carácter expropiatorio, redistributivo o de ocupación sobre unidades de producción agroindustrial, tierras en explotación técnica o infraestructura de transformación alimentaria. La titularidad de estos activos, registrada en el RNS, es inalienable.
+    a)  **Protección contra la Intervención Arbitraria:** Queda proscrita cualquier medida de carácter expropiatorio, redistributivo o de ocupación sobre unidades de producción agroindustrial, tierras en explotación técnica o infraestructura de transformación alimentaria. La titularidad de estos activos, registrada en el RNS, es inalienable.
 
-b)  **Soberanía del Flujo y Precios:** El Estado y los Municipios carecen de facultad para imponer precios máximos, cuotas de entrega forzosa o restricciones al intercambio de productos derivados del sector primario y sus procesados.
+    b)  **Soberanía del Flujo y Precios:** El Estado y los Municipios carecen de facultad para imponer precios máximos, cuotas de entrega forzosa o restricciones al intercambio de productos derivados del sector primario y sus procesados.
 
-c)  **Autonomía de Gestión Genética y Productiva:** Se garantiza la libertad de los productores para seleccionar, mejorar y gestionar su patrimonio biológico y sus protocolos de cría o cultivo. Queda prohibida la imposición de modelos biológicos o técnicos centralizados que no cuenten con el aval del Tribunal de Arbitraje Técnico (TAT) basado en criterios de eficiencia y seguridad ambiental.
+    c)  **Autonomía de Gestión Genética y Productiva:** Se garantiza la libertad de los productores para seleccionar, mejorar y gestionar su patrimonio biológico y sus protocolos de cría o cultivo. Queda prohibida la imposición de modelos biológicos o técnicos centralizados que no cuenten con el aval del Tribunal de Arbitraje Técnico (TAT) basado en criterios de eficiencia y seguridad ambiental.
 
-**3. Excepción Absoluta por Urbanización y Desarrollo de Ciudades:** El límite porcentual establecido en el inciso anterior queda anulado de pleno derecho cuando el suelo sea adquirido, reclasificado o destinado al Desarrollo Urbano Consolidado (construcción de nuevas ciudades, polígonos industriales, zonas francas, condominios o infraestructura habitacional).
+3\. **Excepción Absoluta por Urbanización y Desarrollo de Ciudades:** El límite porcentual establecido en el inciso anterior queda anulado de pleno derecho cuando el suelo sea adquirido, reclasificado o destinado al Desarrollo Urbano Consolidado (construcción de nuevas ciudades, polígonos industriales, zonas francas, condominios o infraestructura habitacional).
 
-a)  **Expansión Ilimitada:** Se garantiza el derecho de las Sociedades Anónimas de Capital Abierto (SACA), desarrolladoras inmobiliarias o consorcios privados a adquirir y urbanizar extensiones de tierra sin tope porcentual alguno, pudiendo la mancha urbana expandirse sobre la totalidad del territorio nacional, siempre que se cumplan las normativas de interconexión técnica de redes (Artículo 13) y la preservación de cuencas hidrográficas (Artículos 57 y 58). La urbanización es un indicador de abundancia y no está sujeta a cuotas agrarias.
+    a)  **Expansión Ilimitada:** Se garantiza el derecho de las Sociedades Anónimas de Capital Abierto (SACA), desarrolladoras inmobiliarias o consorcios privados a adquirir y urbanizar extensiones de tierra sin tope porcentual alguno, pudiendo la mancha urbana expandirse sobre la totalidad del territorio nacional, siempre que se cumplan las normativas de interconexión técnica de redes (Artículo 13) y la preservación de cuencas hidrográficas (Artículos 57 y 58). La urbanización es un indicador de abundancia y no está sujeta a cuotas agrarias.
 
-4\. Expansión mediante AET: La expansión productiva que exceda dicho límite se realizará mediante contratos de Arrendamiento Estratégico Temporal (AET). Bajo esta modalidad, el inversor adquiere el derecho de uso, pero la titularidad del suelo permanece en manos del propietario original (Persona Natural).
+4\. **Expansión mediante AET:** La expansión productiva que exceda dicho límite se realizará mediante contratos de Arrendamiento Estratégico Temporal (AET). Bajo esta modalidad, el inversor adquiere el derecho de uso, pero la titularidad del suelo permanece en manos del propietario original (Persona Natural).
 
-5\. Reversión de Mejoras: Al finalizar el contrato de AET, todas las mejoras de infraestructura incorporadas al suelo revertirán al propietario del mismo, salvo acuerdo de compensación previa.
+5\. **Reversión de Mejoras:** Al finalizar el contrato de AET, todas las mejoras de infraestructura incorporadas al suelo revertirán al propietario del mismo, salvo acuerdo de compensación previa.
 
 6\. **Del Cinturón de Sustento Municipal y la Logística de Proximidad.**
 
-a)  **Institución del Anillo de Proximidad:** Se define como Anillo de Proximidad el área geográfica comprendida en un radio de hasta treinta (30) kilómetros desde los límites de urbanización consolidada de cada ciudad o poblado. Esta zona se declara de Interés Estratégico para la Seguridad Alimentaria.
+    a)  **Institución del Anillo de Proximidad:** Se define como Anillo de Proximidad el área geográfica comprendida en un radio de hasta treinta (30) kilómetros desde los límites de urbanización consolidada de cada ciudad o poblado. Esta zona se declara de Interés Estratégico para la Seguridad Alimentaria.
 
-b)  **Incentivo al Productor de Cercanía:** Toda persona natural o jurídica dedicada a la producción agrícola, acuícola, ganadera o de similar índole dentro del Anillo de Proximidad, cuya producción se destine en al menos un setenta por ciento (70%) al mercado interno de la ciudad o pueblo al que pertenece su anillo, gozará de un régimen fiscal preferencial de **Impuesto Único (Flat Tax) del cinco por ciento (5%)** para las producciones.
+    b)  **Incentivo al Productor de Cercanía:** Toda persona natural o jurídica dedicada a la producción agrícola, acuícola, ganadera o de similar índole dentro del Anillo de Proximidad, cuya producción se destine en al menos un setenta por ciento (70%) al mercado interno de la ciudad o pueblo al que pertenece su anillo, gozará de un régimen fiscal preferencial de **Impuesto Único (Flat Tax) del cinco por ciento (5%)** para las producciones.
 
-c)  **Garantía de Venta Directa (Fricción Cero):** La República garantiza el derecho de \"Puerta de Granja\". Queda prohibida la exigencia de licencias de comercialización intermediaria o el pago de peajes municipales para los productores del Anillo de Proximidad que transporten sus productos hacia los Mercados de Transferencia del centro urbano.
+    c)  **Garantía de Venta Directa (Fricción Cero):** La República garantiza el derecho de \"Puerta de Granja\". Queda prohibida la exigencia de licencias de comercialización intermediaria o el pago de peajes municipales para los productores del Anillo de Proximidad que transporten sus productos hacia los Mercados de Transferencia del centro urbano.
 
-d)  **Soberanía de la Infraestructura de Conectividad:** Los municipios priorizarán el uso de su cuota de inversión del setenta por ciento (70%) en el mantenimiento de caminos rurales y la creación de **Nodos de Frío Comunitarios** situados en los puntos de recolección del anillo productivo, asegurando que la energía se use para preservar el alimento ya producido en tierra y no para sustituir la luz solar.
+    d)  **Soberanía de la Infraestructura de Conectividad:** Los municipios priorizarán el uso de su cuota de inversión del setenta por ciento (70%) en el mantenimiento de caminos rurales y la creación de **Nodos de Frío Comunitarios** situados en los puntos de recolección del anillo productivo, asegurando que la energía se use para preservar el alimento ya producido en tierra y no para sustituir la luz solar.
 
-e)  **Fomento de la Permacultura y Paisaje Comestible:** Se incentivará el diseño urbanístico de \"Bosques Comestibles\" en áreas comunes y retiros de vías públicas. El mantenimiento de estas zonas será responsabilidad cívica compartida y su cosecha será de acceso libre para los residentes del área, promoviendo la resiliencia calórica de bajo mantenimiento sobre sistemas de alta dependencia tecnológica.
+    e)  **Fomento de la Permacultura y Paisaje Comestible:** Se incentivará el diseño urbanístico de \"Bosques Comestibles\" en áreas comunes y retiros de vías públicas. El mantenimiento de estas zonas será responsabilidad cívica compartida y su cosecha será de acceso libre para los residentes del área, promoviendo la resiliencia calórica de bajo mantenimiento sobre sistemas de alta dependencia tecnológica.
 
-f)  **Apalancamiento Soberano para Logística Ligera:** El Estado, a través del municipio o directamente cuando sea necesario, facilitará líneas de crédito de capital semilla para la creación de empresas de logística eléctrica ligera que conecten el Anillo de Proximidad con las Unidades de Vivienda Básica (UVB), eliminando los sobrecostos de la gran distribución nacional.
+    f)  **Apalancamiento Soberano para Logística Ligera:** El Estado, a través del municipio o directamente cuando sea necesario, facilitará líneas de crédito de capital semilla para la creación de empresas de logística eléctrica ligera que conecten el Anillo de Proximidad con las Unidades de Vivienda Básica (UVB), eliminando los sobrecostos de la gran distribución nacional.
 
 ------------------------------------------------------------------------
 
 ## Artículo 55. De la Re-ingeniería Agraria y el Modelo de Desarrollo Tecnológico.
 
-1\. Tríada de Desarrollo Agrario: Se establece el modelo de colaboración obligatoria entre la Universidad Técnica, el Estado y el Agricultor.
+1\. **Tríada de Desarrollo Agrario:** Se establece el modelo de colaboración obligatoria entre la Universidad Técnica, el Estado y el Agricultor.
 
-2\. Propiedad Irrenunciable: El suelo agrícola es propiedad privada inalienable del nacional cubano. Bajo ninguna circunstancia la asociación en Sociedades Anónimas de Capital Abierto (SACA) implicará la transferencia de la titularidad del suelo a la entidad o al Estado.
+2\. **Propiedad Irrenunciable:** El suelo agrícola es propiedad privada inalienable del nacional cubano. Bajo ninguna circunstancia la asociación en Sociedades Anónimas de Capital Abierto (SACA) implicará la transferencia de la titularidad del suelo a la entidad o al Estado.
 
-3\. De las SACAs Agroindustriales: Los agricultores podrán asociarse voluntariamente para la creación de infraestructura de procesamiento, marcas y logística. La participación se representará en acciones digitales transables en el Registro Nacional Soberano.
+3\. **De las SACAs Agroindustriales:** Los agricultores podrán asociarse voluntariamente para la creación de infraestructura de procesamiento, marcas y logística. La participación se representará en acciones digitales transables en el Registro Nacional Soberano.
 
-4\. Derecho de Retracto y Salida Líquida: Se garantiza el derecho del agricultor a retirarse de cualquier sociedad agraria de forma unilateral. El sistema garantizará la tasación técnica y la liquidación inmediata de su capital invertido, conservando siempre la propiedad física de su tierra original.
+4\. **Derecho de Retracto y Salida Líquida:** Se garantiza el derecho del agricultor a retirarse de cualquier sociedad agraria de forma unilateral. El sistema garantizará la tasación técnica y la liquidación inmediata de su capital invertido, conservando siempre la propiedad física de su tierra original.
 
-5\. Financiamiento de Investigación: Los proyectos de mejora genética, riego y biotecnología serán co-financiados entre el Municipio y las asociaciones de particulares. La propiedad intelectual resultante será compartida proporcionalmente entre los inversores y el investigador.
+5\. **Financiamiento de Investigación:** Los proyectos de mejora genética, riego y biotecnología serán co-financiados entre el Municipio y las asociaciones de particulares. La propiedad intelectual resultante será compartida proporcionalmente entre los inversores y el investigador.
 
 ------------------------------------------------------------------------
 
@@ -3027,36 +3041,35 @@ f)  **Apalancamiento Soberano para Logística Ligera:** El Estado, a través del
 
 2\. Regalía Directa (Royalty): El propietario del suelo donde se halle un yacimiento percibirá una Regalía Directa pagadera mensualmente, no sujeta a impuestos adicionales, que no será inferior al:
 
-- 10% en minería general.
+    - 10% en minería general.
 
-- 15% en hidrocarburos.
+    - 15% en hidrocarburos.
 
-- 20% en recursos estratégicos críticos.
+    - 20% en recursos estratégicos críticos.
 
 3\. El propietario del suelo posee derecho de veto sobre métodos de extracción que, mediante dictamen técnico del TAT, demuestren un riesgo de daño estructural irreversible a la vivienda o colapso del ecosistema local. Dicho veto no podrá ser invocado para impedir la extracción si la entidad operadora garantiza la integridad física del predio y el cumplimiento de los estándares de seguridad técnica. El desacuerdo sobre el monto de la regalía no constituye causa de veto.
 
-**4. Subrogación Fiduciaria en la Zona Marítima:** En toda operación de exploración o extracción de recursos naturales líquidos, fósiles o minerales ubicados en el subsuelo de la Plataforma Insular y la Zona Económica Exclusiva (ZEE), donde no exista propiedad privada de superficie, el porcentaje correspondiente a la Regalía Directa definida en el inciso 2 de este artículo será transferido de forma obligatoria, incondicional e íntegra al Fideicomiso Nacional de Pensiones (Artículo 118). Queda expresamente prohibida la retención, asignación o uso de estos fondos para el Presupuesto General del Estado o gasto corriente del Poder Ejecutivo.
+4\. **Subrogación Fiduciaria en la Zona Marítima:** En toda operación de exploración o extracción de recursos naturales líquidos, fósiles o minerales ubicados en el subsuelo de la Plataforma Insular y la Zona Económica Exclusiva (ZEE), donde no exista propiedad privada de superficie, el porcentaje correspondiente a la Regalía Directa definida en el inciso 2 de este artículo será transferido de forma obligatoria, incondicional e íntegra al Fideicomiso Nacional de Pensiones (Artículo 118). Queda expresamente prohibida la retención, asignación o uso de estos fondos para el Presupuesto General del Estado o gasto corriente del Poder Ejecutivo.
 
-**5. Retención de Soberanía en Inversiones Extractivas a Gran Escala:** Toda concesión otorgada a capitales extranjeros para la explotación de recursos primarios, tanto en jurisdicción terrestre como marítima, cuyo volumen de inversión supere el umbral técnico certificado por el Tribunal de Arbitraje Técnico (TAT), requerirá inexcusablemente para su validez la constitución de una Sociedad Anónima de Capital Abierto (SACA) radicada en el territorio nacional.
+5\. **Retención de Soberanía en Inversiones Extractivas a Gran Escala:** Toda concesión otorgada a capitales extranjeros para la explotación de recursos primarios, tanto en jurisdicción terrestre como marítima, cuyo volumen de inversión supere el umbral técnico certificado por el Tribunal de Arbitraje Técnico (TAT), requerirá inexcusablemente para su validez la constitución de una Sociedad Anónima de Capital Abierto (SACA) radicada en el territorio nacional.
 
-a)  **Prohibición de Enclave:** Queda proscrito el establecimiento de enclaves extractivos de titularidad y control exclusivamente foráneo.
+    a)  **Prohibición de Enclave:** Queda proscrito el establecimiento de enclaves extractivos de titularidad y control exclusivamente foráneo.
 
-b)  **Distribución del Capital Social:** El inversor extranjero podrá aportar el capital de riesgo y la tecnología, ostentando hasta un máximo del cuarenta y nueve por ciento (49%) del capital en Acciones de Mercado (AM). El Estado garantiza la emisión simultánea del cincuenta y uno por ciento (51%) restante en calidad de Acciones Soberanas (AS), las cuales serán distribuidas a la ciudadanía conforme al Artículo 117, asegurando que el control corporativo y la mayoría de los dividendos permanezcan en el patrimonio individual de los ciudadanos de la República.
+    b)  **Distribución del Capital Social:** El inversor extranjero podrá aportar el capital de riesgo y la tecnología, ostentando hasta un máximo del cuarenta y nueve por ciento (49%) del capital en Acciones de Mercado (AM). El Estado garantiza la emisión simultánea del cincuenta y uno por ciento (51%) restante en calidad de Acciones Soberanas (AS), las cuales serán distribuidas a la ciudadanía conforme al Artículo 117, asegurando que el control corporativo y la mayoría de los dividendos permanezcan en el patrimonio individual de los ciudadanos de la República.
 
-**6. Del Veto Técnico a la Actividad Extractiva Invasiva.**\
-Se establece la primacía de la integridad biológica de los asentamientos humanos sobre la explotación de recursos del subsuelo.
+6\. **Del Veto Técnico a la Actividad Extractiva Invasiva:** Se establece la primacía de la integridad biológica de los asentamientos humanos sobre la explotación de recursos del subsuelo.
 
-a)  **Distancia de Inocuidad:** Queda prohibida la ejecución de proyectos de minería a cielo abierto o industrias extractivas de alta toxicidad a menos de una distancia de seguridad técnica, fijada por el Tribunal de Arbitraje Técnico (TAT), de cualquier núcleo poblacional preexistente.
+    a)  **Distancia de Inocuidad:** Queda prohibida la ejecución de proyectos de minería a cielo abierto o industrias extractivas de alta toxicidad a menos de una distancia de seguridad técnica, fijada por el Tribunal de Arbitraje Técnico (TAT), de cualquier núcleo poblacional preexistente.
 
-b)  **Potestad de Veto de Bioseguridad:** El Alcalde del municipio afectado o el Presidente de la República podrán interponer un Veto de Bioseguridad contra cualquier concesión minera. Una vez activado, el proyecto quedará suspendido hasta que el TAT certifique, mediante telemetría y auditoría de impacto, que la tecnología propuesta garantiza impacto cero en la salud, el aire y las cuencas hídricas locales.
+    b)  **Potestad de Veto de Bioseguridad:** El Alcalde del municipio afectado o el Presidente de la República podrán interponer un Veto de Bioseguridad contra cualquier concesión minera. Una vez activado, el proyecto quedará suspendido hasta que el TAT certifique, mediante telemetría y auditoría de impacto, que la tecnología propuesta garantiza impacto cero en la salud, el aire y las cuencas hídricas locales.
 
-c)  **Inamovilidad de la Población:** El Estado y los inversores carecen de potestad para desplazar poblaciones en favor de intereses mineros. Si la tecnología no permite la extracción sin riesgo para el asentamiento, el mineral se declarará Reserva de Futuro y permanecerá inalterado en el subsuelo.
+    c)  **Inamovilidad de la Población:** El Estado y los inversores carecen de potestad para desplazar poblaciones en favor de intereses mineros. Si la tecnología no permite la extracción sin riesgo para el asentamiento, el mineral se declarará Reserva de Futuro y permanecerá inalterado en el subsuelo.
 
-**7. De la Promoción de la Arquitectura Productiva.** La República incentiva el diseño de infraestructuras urbanas que contribuyan a la resiliencia alimentaria y energética.
+7\. De la Promoción de la Arquitectura Productiva.** La República incentiva el diseño de infraestructuras urbanas que contribuyan a la resiliencia alimentaria y energética.
 
-a)  **Certificación de Edificación Resiliente:** El Tribunal de Arbitraje Técnico (TAT) establecerá los parámetros para certificar edificios como \"Nodos de Producción Urbana\".
+    a)  **Certificación de Edificación Resiliente:** El Tribunal de Arbitraje Técnico (TAT) establecerá los parámetros para certificar edificios como \"Nodos de Producción Urbana\".
 
-b)  **Incentivos a la Inversión:** Los ciudadanos, empresas particulares o SACAs que desarrollen infraestructuras que integren la producción de alimentos o energía en el diseño arquitectónico de zonas urbanas, tendrán acceso prioritario a los créditos del FMFA.
+    b)  **Incentivos a la Inversión:** Los ciudadanos, empresas particulares o SACAs que desarrollen infraestructuras que integren la producción de alimentos o energía en el diseño arquitectónico de zonas urbanas, tendrán acceso prioritario a los créditos del FMFA.
 
 ------------------------------------------------------------------------
 

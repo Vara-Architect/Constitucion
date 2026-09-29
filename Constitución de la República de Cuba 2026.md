@@ -1242,33 +1242,33 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
 
 1\. **Derecho de Resistencia y Activación Automática:** Se reconoce el derecho y el deber de la resistencia armada para restablecer el orden constitucional ante un golpe de Estado o tiranía. El derecho de resistencia armada se activa de pleno derecho cuando el ciudadano constate, de forma pública y notoria, la Inviabilidad del Amparo Constitucional. Se entiende que existe tal inviabilidad ante cualquiera de estos dos eventos:
 
-a)  **La Agresión Física Manifiesta:** El despliegue de fuerza coercitiva contra los órganos de control (TDC, Cámara, Alcaldías) o la detención ilegal de sus miembros. (Aquí el tiempo es cero; la agresión es el disparador).
+    a)  **La Agresión Física Manifiesta:** El despliegue de fuerza coercitiva contra los órganos de control (TDC, Cámara, Alcaldías) o la detención ilegal de sus miembros. (Aquí el tiempo es cero; la agresión es el disparador).
 
-b)  **El Silencio Estratégico Correlacionado:** El cese de comunicaciones oficiales de los órganos de control por un periodo superior a setenta y dos (72) horas, SIEMPRE QUE coincida con la suspensión de libertades civiles o el bloqueo del acceso a la información pública.
+    b)  **El Silencio Estratégico Correlacionado:** El cese de comunicaciones oficiales de los órganos de control por un periodo superior a setenta y dos (72) horas, SIEMPRE QUE coincida con la suspensión de libertades civiles o el bloqueo del acceso a la información pública.
 
 2\. **Legítima Defensa y Porte:** Se garantiza el derecho natural a la tenencia y porte de armas (de baja capacidad) para la protección de su integridad, familia y propiedad. La ley reglamentaria tendrá carácter no-prohibicionista. El ejercicio de este derecho se vincula a la responsabilidad de defensa común.
 
-a)  Esta medida no entrará en vigor hasta después de terminada la FASE III prevista en la Disposición Transitoria Undécima.
+    a)  Esta medida no entrará en vigor hasta después de terminada la FASE III prevista en la Disposición Transitoria Undécima.
 
-b)  El presidente dispondrá de la potestad de autorizar o postergar posterior a este periodo su entrada en vigencia.
+    b)  El presidente dispondrá de la potestad de autorizar o postergar posterior a este periodo su entrada en vigencia.
 
-c)  **Doctrina de la Doble Naturaleza del Perímetro y el Muro Biológico:** La República traza una línea divisoria inalterable entre el vandalismo contra la propiedad y el atentado contra la vida.
+    c)  **Doctrina de la Doble Naturaleza del Perímetro y el Muro Biológico:** La República traza una línea divisoria inalterable entre el vandalismo contra la propiedad y el atentado contra la vida.
 
-<!-- -->
+    <!-- -->
 
-    i.  Ningún servidor público, policía, militar o funcionario podrá utilizar fuerza letal para evitar la destrucción de papeles, fachadas, símbolos o infraestructura material de carácter político o administrativo cuando no exista riesgo para vidas humanas (Primacía de la Vida sobre la Materia).
+        i.  Ningún servidor público, policía, militar o funcionario podrá utilizar fuerza letal para evitar la destrucción de papeles, fachadas, símbolos o infraestructura material de carácter político o administrativo cuando no exista riesgo para vidas humanas (Primacía de la Vida sobre la Materia).
 
-    ii. Sin embargo, si una turba o grupo de individuos, amparándose en el derecho a la protesta, sitia, acorrala o ataca físicamente mediante el uso de objetos contundentes, cortantes, fuego o fuerza abrumadora (asimetría numérica) a cualquier ciudadano, funcionario o servidor público que se encuentre dentro o protegiendo una instalación, los agresores pierden de pleno derecho el estatus de manifestantes civiles y se constituyen legalmente como **Amenaza Letal (Agresor Predatorio)**.
+        ii. Sin embargo, si una turba o grupo de individuos, amparándose en el derecho a la protesta, sitia, acorrala o ataca físicamente mediante el uso de objetos contundentes, cortantes, fuego o fuerza abrumadora (asimetría numérica) a cualquier ciudadano, funcionario o servidor público que se encuentre dentro o protegiendo una instalación, los agresores pierden de pleno derecho el estatus de manifestantes civiles y se constituyen legalmente como **Amenaza Letal (Agresor Predatorio)**.
 
-    iii. En este supuesto, el ciudadano o servidor público sitiado recupera la totalidad de su derecho inalienable a la supervivencia biológica, estando facultado constitucionalmente para ejercer la **Fuerza Letal de Legítima Defensa** con los medios a su alcance, sin que se le pueda imputar delito de represión, homicidio o abuso de fuerza, siempre que el acto se limite estrictamente a neutralizar la amenaza inminente a su integridad física y la de quienes le rodean. No será exigible el sacrificio ni la inacción de quien ejerza la legítima defensa frente a un asalto que ponga en peligro inminente su vida.
+        iii. En este supuesto, el ciudadano o servidor público sitiado recupera la totalidad de su derecho inalienable a la supervivencia biológica, estando facultado constitucionalmente para ejercer la **Fuerza Letal de Legítima Defensa** con los medios a su alcance, sin que se le pueda imputar delito de represión, homicidio o abuso de fuerza, siempre que el acto se limite estrictamente a neutralizar la amenaza inminente a su integridad física y la de quienes le rodean. No será exigible el sacrificio ni la inacción de quien ejerza la legítima defensa frente a un asalto que ponga en peligro inminente su vida.
 
-    iv. **Inexistencia de Justificación para el Daño a Terceros:** El Derecho de Resistencia (Art. 21.1) es una facultad para restaurar la Constitución, no una patente de corso para el pillaje o la destrucción de propiedad privada. Ninguna causa política, por legítima que sea, exime al manifestante de la responsabilidad civil y penal por daños causados a propiedades de ciudadanos ajenos al conflicto. La \"ira popular\" es una descripción sociológica, no una categoría jurídica eximente.
+        iv. **Inexistencia de Justificación para el Daño a Terceros:** El Derecho de Resistencia (Art. 21.1) es una facultad para restaurar la Constitución, no una patente de corso para el pillaje o la destrucción de propiedad privada. Ninguna causa política, por legítima que sea, exime al manifestante de la responsabilidad civil y penal por daños causados a propiedades de ciudadanos ajenos al conflicto. La \"ira popular\" es una descripción sociológica, no una categoría jurídica eximente.
 
-    v.  **El Deber Prioritario de Extracción:** El uso de fuerza letal en defensa de una instalación sitiada será el **último recurso absoluto**. Se establece la obligación legal de evacuación: si existe una vía de salida segura para el personal humano dentro del edificio, el mando a cargo está obligado a ejecutar la retirada y ceder el inmueble a la turba antes de abrir fuego. La defensa de la \"dignidad de la sede\" o de \"objetos materiales\" nunca justifica el sacrificio de vidas, ni de los defensores ni de los atacantes.
+        v.  **El Deber Prioritario de Extracción:** El uso de fuerza letal en defensa de una instalación sitiada será el **último recurso absoluto**. Se establece la obligación legal de evacuación: si existe una vía de salida segura para el personal humano dentro del edificio, el mando a cargo está obligado a ejecutar la retirada y ceder el inmueble a la turba antes de abrir fuego. La defensa de la \"dignidad de la sede\" o de \"objetos materiales\" nunca justifica el sacrificio de vidas, ni de los defensores ni de los atacantes.
 
-    vi. **El Agente Provocador y la Ruptura del Amparo:** Si se demuestra mediante la telemetría del RNS que la fuerza de seguridad inició agresiones físicas, insultos degradantes o provocaciones tácticas con el fin de incitar una respuesta violenta de la masa, el oficial y su cadena de mando perderán toda inmunidad. En este caso, la masa se considera bajo el **Derecho de Resistencia ante la Agresión (Art. 21.1)** y el oficial será juzgado por homicidio agravado en grado de provocación.
+        vi. **El Agente Provocador y la Ruptura del Amparo:** Si se demuestra mediante la telemetría del RNS que la fuerza de seguridad inició agresiones físicas, insultos degradantes o provocaciones tácticas con el fin de incitar una respuesta violenta de la masa, el oficial y su cadena de mando perderán toda inmunidad. En este caso, la masa se considera bajo el **Derecho de Resistencia ante la Agresión (Art. 21.1)** y el oficial será juzgado por homicidio agravado en grado de provocación.
 
-**3. Protocolo de Custodia de Armas y Acceso a Menores.**\
+3\. **Protocolo de Custodia de Armas y Acceso a Menores.**\
 El derecho a la tenencia y porte de armas para la legítima defensa (Art. 21.2) conlleva la obligación de custodia biológica inalienable. El titular del arma es el garante absoluto de su resguardo.
 
     a)  **Barrera de Acceso y Doble Factor:** Queda constitucionalmente prohibido otorgar o facilitar el acceso físico irrestricto a armas de fuego, municiones o material letal a ciudadanos menores de edad o a personas sin capacidad civil plena. Todo armamento en el hogar deberá estar asegurado mediante dispositivos de anclaje, cajas fuertes o candados que requieran validación biométrica o combinación mecánica exclusiva del titular. El incumplimiento de esta norma constituye el delito de Negligencia Temeraria con Armamento.
@@ -1317,7 +1317,7 @@ El derecho a la tenencia y porte de armas para la legítima defensa (Art. 21.2) 
 
     i)  **De la Inviolabilidad del Hogar ante el Poder Militar:** En tiempo de paz, ningún militar o miliciano podrá ser acuartelado en la propiedad privada de un ciudadano sin el consentimiento expreso y voluntario de su propietario. En tiempo de guerra, dicha medida solo podrá ejecutarse mediante ley específica y bajo el régimen de justa indemnización previa, manteniendo siempre la distinción entre la esfera civil y la logística militar.
 
-**5. Monopolio de la Justicia Retributiva y Nulidad de la Venganza Privada:** La República ostenta el monopolio exclusivo del enjuiciamiento penal y el castigo físico a través de sus tribunales constituidos. Se prohíbe constitucionalmente la justicia de sangre, la venganza generacional (vendettas) y el establecimiento de tribunales de honor privados. Ninguna ofensa verbal, moral o patrimonial justifica el uso de la violencia letal por mano propia, salvo en el acto instantáneo y simultáneo de la legítima defensa ante un peligro físico inminente. La justicia civil busca la paz y la restitución, no el derramamiento de sangre compensatorio.
+5\. **Monopolio de la Justicia Retributiva y Nulidad de la Venganza Privada:** La República ostenta el monopolio exclusivo del enjuiciamiento penal y el castigo físico a través de sus tribunales constituidos. Se prohíbe constitucionalmente la justicia de sangre, la venganza generacional (vendettas) y el establecimiento de tribunales de honor privados. Ninguna ofensa verbal, moral o patrimonial justifica el uso de la violencia letal por mano propia, salvo en el acto instantáneo y simultáneo de la legítima defensa ante un peligro físico inminente. La justicia civil busca la paz y la restitución, no el derramamiento de sangre compensatorio.
 
 6\. **De la Instrucción Táctica Cívica y Deportiva.**\
 La República reconoce el derecho de los ciudadanos a organizarse en clubes de tiro, academias de defensa personal, asociaciones de supervivencia y entidades de instrucción táctica.
@@ -1347,7 +1347,7 @@ Se declara proscrita y contraria a la existencia de la República la formación,
 
     f)  **Protocolo de Triage Multivariable:** Ante cualquier acto de violencia, el sistema judicial está obligado a realizar una Auditoría de Variables Concurrentes que incluya:
 
-<!-- -->
+        <!-- -->
 
         i.  Historial clínico y neurológico de las partes.
 
@@ -7626,11 +7626,14 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
 ## DISPOSICIÓN TRANSITORIA DECIMOCTAVA: De la Conversión Forzosa de MiPYMES de la Élite en SACAs por Origen de Capital Ilegítimo.
 
-1\.  Definición de Enclave Mercantil de la Tiranía (La Presunción de Ilegitimidad): Se clasifica como Enclave Mercantil de la Tiranía a cualquier micro, pequeña o mediana empresa (MiPYME), Sociedad de Emprendimiento Particular (SEP), Sociedad Anónima o cualquier entidad mercantil privada autorizada, inscrita o financiada durante el régimen anterior (1959-2026), cuyos socios fundadores, directores o beneficiarios finales (Beneficiario Final) tengan una relación de parentesco hasta el cuarto grado de consanguinidad o afinidad con miembros del Comité Central del PCC, oficiales de alta jerarquía de las Fuerzas Armadas (MINFAR) o del Ministerio del Interior (MININT), directivos de GAESA, o funcionarios de confianza de la dictadura.
+1\.  Definición de Enclave Mercantil de la Oligarquía y Desvío de Fondos Públicos: Se clasifica como Enclave Mercantil de la Oligarquía a toda micro, pequeña, mediana empresa (MiPYME), sociedad mercantil o consorcio constituido bajo el régimen anterior cuyo capital de arranque, líneas de financiamiento, activos físicos o posición de mercado hayan derivado demostrablemente de la malversación de fondos del erario público, el desvío de partidas presupuestarias del Estado, el usufructo ilegítimo de infraestructuras de GAESA/MINFAR/MININT, o el acceso privilegiado y asimétrico a divisas oficiales negadas al resto de la ciudadanía.
+    
+    a) Inviolabilidad del Capital Nacido del Esfuerzo Popular e Informal: En estricta concordancia con la Amnistía de Origen y Punto Cero Fiscal (Disposición Transitoria Decimoquinta), queda plenamente amparado, protegido y exento de persecución o confiscación todo capital, inventario o patrimonio generado por ciudadanos mediante la economía informal, el comercio de supervivencia, remesas familiares o actividades comerciales particulares no vinculadas a fondos del Estado. El sudor del pueblo cubano en la subsistencia diaria no constituye delito ni motivo de sospecha constitucional.
+    
+    b) Carga de la Prueba en el Estado y Límite al Parentesco: Se extingue la presunción automática de culpabilidad biológica. Los vínculos de parentesco con ex-funcionarios constituirán únicamente un indicio técnico para habilitar una auditoría de fondos por parte de la Unidad de Auditoría de Reclamaciones (UAR). Corresponderá al Estado y a la Fiscalía acreditar materialmente, mediante trazabilidad contable o financiera, que la empresa fue financiada con fondos distraídos del patrimonio público. En ausencia de prueba fehaciente de desvío de recursos del Estado, la titularidad privada de la empresa permanecerá intacta.
 
-    a)  De la Carga de la Prueba Inversa: Al no haber existido mecanismos lícitos de acumulación de capital privado accesibles en igualdad de condiciones a la ciudadanía bajo el régimen anterior, se establece la Presunción Constitucional de Origen Ilegítimo sobre los activos y fondos de constitución de estas empresas.
 
-2\.  El Protocolo de Conversión Obligatoria de Oficio: Si los titulares de la empresa no superan la auditoría de origen, posterior a ella en un plazo máximo de hasta treinta (30) días de calendario, el RNS decretará de forma automática y de pleno derecho la Conversión Forzosa en SACA de Oficio:
+2\.  El Protocolo de Conversión Forzosa por Expolio Comprobado: Únicamente cuando la auditoría forense del TAT y la UAR demuestre de forma concluyente que la entidad mercantil fue capitalizada mediante el saqueo de recursos estatales o testaferrismo de la élite militar, se activará la Conversión Forzosa en SACA de Oficio:
 
     a)  Desposesión y Distribución del Núcleo Soberano (51%): El cincuenta y uno por ciento (51%) del capital social de la MiPYME o empresa infractora se convertirá instantáneamente en Acciones Soberanas (AS) bajo custodia del Fideicomiso Nacional de Pensiones, distribuyéndose sus utilidades de forma mensual y equitativa entre todos los ciudadanos cubanos por nacimiento a través del RNS (Art. 115.5).
 

@@ -909,17 +909,22 @@ La República reconoce a los hijos y nietos de la Diáspora como parte integrant
 
 1\. Igualdad de Derechos Civiles: Los extranjeros en el territorio de la República gozan de los mismos derechos civiles y garantías que los nacionales, siempre que no impliquen el ejercicio del poder político o la soberanía nacional.
 
-2\. Principio de Reciprocidad Efectiva: La extensión de beneficios fiscales, facilidades de inversión, derechos de residencia o adquisición de bienes a favor de ciudadanos, empresas o entidades de un Estado extranjero, estará condicionada a que dicho Estado otorgue trato análogo e idéntico a los ciudadanos y empresas de la República de Cuba en su jurisdicción de origen.
+2\. Principio de Reciprocidad Efectiva y Doctrina Espejo:
+   
+    a) Condición General de Paridad: La concesión de visados, facilidades de inversión, derechos de residencia ordinaria o adquisición de bienes en favor de personas naturales, jurídicas o entidades de un Estado extranjero, estará condicionada estrictamente a que dicho Estado otorgue un trato análogo, equitativo y simétrico a los ciudadanos y empresas de la República de Cuba en su jurisdicción de origen.
+    
+    b) Adecuación Simétrica por Asimetría Foránea (Régimen Espejo): Si un Estado extranjero impone trabas desproporcionadas, exclusiones arbitrarias o exigencias temporales lesivas (tales como plazos extremos de radicación o vetos al estatus migratorio) para el acceso de los cubanos a la residencia o al comercio en su territorio, la República no aplicará a los nacionales de dicho Estado el régimen migratorio abierto general. En tales supuestos, el Presidente de la República mediante Decreto Ejecutivo motivado, o la Cámara de Representantes mediante Ley Orgánica, establecerá un régimen de reciprocidad espejo que replique condiciones equivalentes y proporcionales para los nacionales y capitales de dicho país.
+    
+    c) Caducidad Quinquenal Obligatoria (Cinco Años Renovables): Todo decreto presidencial o ley orgánica que instituya un régimen de restricción simétrica o reciprocidad espejo nacerá con una fecha de caducidad perentoria de cinco (5) años. Al cumplirse dicho plazo, la medida se extinguirá de pleno derecho en el Registro Nacional Soberano (RNS), retornando los nacionales de ese país al régimen general, salvo que la Cancillería y el Tribunal de Arbitraje Técnico (TAT) certifiquen que la jurisdicción extranjera mantiene vigentes las medidas discriminatorias contra los ciudadanos cubanos, en cuyo caso la restricción podrá ser prorrogada por un nuevo ciclo quinquenal.
 
-**3. Del Freno Algorítmico de Sobrecarga Poblacional (El Cap Físico).**\
+3\. **Del Freno Algorítmico de Sobrecarga Poblacional (El Cap Físico).**\
 La admisión de nuevos residentes extranjeros no está dictada por cuotas políticas, sino por la termodinámica del territorio.
 
     a)  **Sensor de Capacidad de Red:** Si el Tribunal de Arbitraje Técnico (TAT) certifica que el Índice de Estabilidad Vital (IEV) de un Municipio cae por debajo del ochenta y cinco por ciento (85%) (saturación de red eléctrica, estrés hídrico, ocupación hospitalaria o colapso de transporte), el Registro Nacional Soberano (RNS) **bloqueará automáticamente la emisión de nuevos permisos de residencia** para extranjeros en dicho nodo.
 
     b)  **Preferencia Soberana:** Durante el bloqueo, la poca infraestructura disponible se reserva exclusivamente para el crecimiento demográfico natural de los ciudadanos cubanos. El extranjero no puede competir por recursos en escasez contra el ciudadano originario.
 
-**4. Del Visado de Rendimiento y la Extinción por Inactividad.**\
-La residencia extranjera en la República no es un estatus vitalicio, es un Contrato de Productividad Continuada.
+4\. **Del Visado de Rendimiento y la Extinción por Inactividad:** La residencia extranjera en la República no es un estatus vitalicio, es un Contrato de Productividad Continuada.
 
     a) Vinculación Fiscal y Principio de Autosuficiencia: Todo permiso de residencia laboral, técnica o de inversión está vinculado algorítmicamente en el RNS al principio de sostenibilidad económica y no gravamen del erario público.
     
@@ -949,21 +954,21 @@ La residencia extranjera en la República no es un estatus vitalicio, es un Cont
         Queda terminantemente excluida del amparo de Fuerza Mayor (inciso anterior) cualquier crisis severa que haya sido provocada de manera dolosa por el propio individuo.\
         Si el TAT o el Cuerpo de Investigación (CICM) determinan que el residente extranjero **se ha autolesionado (mutilación física, amputación deliberada por desesperación), ha incendiado su propia propiedad, o ha escenificado un accidente** con el fin de evadir el reloj de caducidad o acceder a fondos de emergencia, la protección se anula de pleno derecho. El acto de dañar el propio vehículo biológico o patrimonio para defraudar a la Nación se tipifica como **Sabotaje Migratorio**, reactivando inmediatamente la deportación y ejecutando la incautación de bienes para resarcir los gastos médicos y logísticos incurridos por el Estado.
 
-**5. Incompatibilidad Absoluta con el Auxilio Público.**\
+5\. **Incompatibilidad Absoluta con el Auxilio Público.**\
 Se prohíbe el turismo de bienestar.
 
     a)  El acceso al Fondo Municipal de Auxilio Mutuo, Vouchers de Emergencia no vitales o cualquier red de caridad financiada por el contribuyente cubano, está **estrictamente vedado** para residentes extranjeros.
 
     b)  **Deportación Automática:** Si un residente extranjero solicita formalmente asistencia económica al Estado para su manutención básica, dicho acto constituye prueba plena de insolvencia y ruptura del Contrato de Productividad (Art 20.4). El RNS revocará instantáneamente su residencia y procederá a su deportación.
 
-**6. Doctrina de Tolerancia Cero al Gangsterismo Extranjero.**\
+6\. **Doctrina de Tolerancia Cero al Gangsterismo Extranjero.**\
 Para evitar la formación de redes criminales transnacionales o \"sociedades paralelas\" violentas:
 
     a)  Cualquier residente extranjero que sea identificado por el Cuerpo Nacional de Seguridad (CNSPOC) o el RNS participando en actos de pandillerismo, extorsión, motines públicos violentos o porte ilegal de armas, **pierde el derecho al debido proceso ordinario de apelación civil**.
 
     b)  Su estatus migratorio será cancelado en flagrancia y será expulsado del territorio nacional en un plazo no mayor a setenta y dos (72) horas, previa confiscación de todos sus bienes y cuentas para cubrir los costos de su propia deportación y el daño causado.
 
-**7. Condición de Neutralidad del Residente Extranjero:**\
+7\. **Condición de Neutralidad del Residente Extranjero:**\
 El extranjero residente en Cuba es un invitado bajo el Contrato de Productividad (Art. 20.4).
 
     a)  Queda **estrictamente prohibida** la participación de residentes extranjeros, turistas o asilados en manifestaciones políticas, organización de movimientos de masas o activismo financiado que altere el orden público de la República.

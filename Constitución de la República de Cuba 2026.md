@@ -295,7 +295,11 @@ La República garantiza la integridad histórica de sus registros ante cualquier
 
 3. **Limitación de Uso:** Ningún predio bajo inmunidad diplomática podrá ser utilizado para fines distintos a la representación política. Cualquier uso del recinto para actividades de inteligencia hostil, almacenamiento de armamento o refugio de prófugos de la justicia civil cubana, extinguirá de pleno derecho la inmunidad, revirtiendo la jurisdicción plena al Estado cubano sin necesidad de declaración previa.
 
-4. **No Subordinación:** La soberanía de la República de Cuba es inalienable e indelegable. Ningún tratado, pacto, agenda global o mandato emanado de organismos internacionales, asambleas supranacionales o agencias multilaterales tendrá rango superior a esta Constitución, ni podrá ser de ejecución forzosa u obligatoria en territorio nacional.
+4. **No Subordinación y Dualismo Estricto:** La soberanía de la República de Cuba es inalienable e indelegable. Ningún tratado, pacto, agenda global o mandato emanado de organismos internacionales o asambleas supranacionales tendrá rango superior a esta Constitución, ni podrá ser de ejecución forzosa u obligatoria directa en territorio nacional.
+
+    a) Doctrina No Auto-Ejecutable (Non-Self-Executing): Los tratados internacionales ratificados por la República no confieren por sí mismos derechos invocables por particulares ante los tribunales cubanos, requiriendo obligatoriamente de una Ley Ordinaria de Transposición dictada por la Cámara de Representantes para surtir efectos en el orden jurídico interno.
+
+    b) Declaración Formal bajo el Artículo 46 de Viena: Se declara que las disposiciones de esta Constitución relativas a las Cláusulas Pétreas, derechos fundamentales y control del gasto constituyen Normas Fundamentales de Competencia para celebrar tratados. Todo instrumento suscrito en vulneración manifiesta de estos preceptos se considerará nulo de pleno derecho en el consentimiento del Estado cubano, conforme al Artículo 46 de la Convención de Viena sobre el Derecho de los Tratados.
 
 5. **De la Caducidad de Antecedentes Juveniles y el Derecho al Reinicio.**\
 El Estado prohíbe la estigmatización perpetua por errores cometidos antes de la mayoría de edad.
@@ -304,19 +308,23 @@ El Estado prohíbe la estigmatización perpetua por errores cometidos antes de l
 
     b)  **Nulidad de la Huella Digital:** Tras la expurgación, el ciudadano recupera un historial limpio. Queda prohibido a cualquier entidad (pública o privada) el uso de estos registros caducados como base para negar empleo, crédito o acceso a servicios. El pasado no puede ser una cadena perpetua.
 
-6. **Autonomía de Adopción (Filtro de Conveniencia):** El Estado reconoce el valor de la cooperación internacional. La República, a través de su Poder Legislativo y bajo auditoría del Senado Técnico de Rectores, queda facultada para analizar las sugerencias, protocolos y políticas de dichas entidades y adoptarlas de forma voluntaria, siempre que demuestren un beneficio técnico o científico cuantificable para la Nación. Toda adopción es un acto soberano de libre voluntad, nunca un acto de obediencia debida o subordinación a una agenda foránea.
+6. **Control Previo de Constitucionalidad Obligatorio (Ex-Ante) y Filtro de Conveniencia:** La Cámara de Representantes no podrá someter a votación ni ratificar tratado o acuerdo internacional alguno sin la obtención previa del Dictamen Vinculante de Compatibilidad Constitucional emitido por el Tribunal de Defensa de la Constitución (TDC) en un plazo no mayor a treinta (30) días.
+    
+    a) Si el TDC dictamina que el instrumento vulnera la soberanía regulatoria, el régimen fiscal o el Núcleo Soberano, el tratado queda vetado de forma absoluta, quedando prohibida su ratificación salvo enmienda del texto internacional o formulación de reserva explícita.
+    
+    b) Superado el filtro constitucional, la República analizará las directivas técnicas bajo auditoría del Senado de Rectores, adoptándolas únicamente si demuestran beneficio cuantificable para la Nación.
 
 7. **Proscripción de la Cesión Regulatoria y Régimen del Arbitraje Comercial Internacional:**
 
-    a) Inmunidad Absoluta del Poder Legislativo y Soberano: Queda terminantemente prohibido someter la validez de las leyes nacionales, la potestad tributaria general, el orden público, las reformas constitucionales o la soberanía sobre el suelo y subsuelo al arbitraje de tribunales extranjeros o instancias supranacionales. Ningún cambio normativo de carácter general dictado por la República podrá ser objeto de demanda indemnizatoria foránea bajo alegatos de expropiación indirecta, menoscabo de expectativas económicas o alteración de marcos regulatorios.
+    a) **Inmunidad Absoluta del Poder Legislativo y Soberano:** Queda terminantemente prohibido someter la validez de las leyes nacionales, la potestad tributaria general, el orden público, las reformas constitucionales o la soberanía sobre el suelo y subsuelo al arbitraje de tribunales extranjeros o instancias supranacionales. Ningún cambio normativo de carácter general dictado por la República podrá ser objeto de demanda indemnizatoria foránea bajo alegatos de expropiación indirecta, menoscabo de expectativas económicas o alteración de marcos regulatorios.
 
-    b) Válvula de Arbitraje Comercial Técnico: En contratos de inversión mercantil, societarios o de ejecución de infraestructura entre entidades extranjeras y Sociedades Anónimas de Capital Abierto (SACA) o empresas privadas nacionales, se autoriza el pacto de arbitraje comercial internacional para diferendos de naturaleza estrictamente económica y contractual, sujeto a las siguientes condiciones ineludibles:
+    b) **Válvula de Arbitraje Comercial Técnico y Contratos de Infraestructura:** En contratos de inversión mercantil, societarios, de concesión administrativa o de ejecución de infraestructura técnica celebrados entre entidades extranjeras y Sociedades Anónimas de Capital Abierto (SACA), empresas privadas nacionales, o el Estado y los Municipios en su condición de partes contratantes comerciales (Ius Gestionis), se autoriza el pacto de arbitraje comercial internacional para diferendos de naturaleza estrictamente patrimonial y contractual, sujeto a las siguientes condiciones ineludibles:
 
-        i. Agotamiento Previo de la Instancia Nacional: Toda disputa deberá ser sometida en primera instancia al conocimiento y laudo del Tribunal de Arbitraje Técnico (TAT) en el territorio de la República.
+        i. **Agotamiento Previo de la Instancia Técnica Nacional:** Toda disputa deberá ser sometida en primera instancia al conocimiento y laudo pericial del Tribunal de Arbitraje Técnico (TAT) en el territorio de la República.
 
-        ii. Recurso de Apelación Patrimonial: Emitido el fallo por el TAT, las partes podrán recurrir en alzada ante una corte de arbitraje comercial internacional de reconocido prestigio (bajo reglas UNCITRAL, de la Cámara de Comercio Internacional, o de similar índole), celebrada en una sede neutral con la cual Cuba mantenga tratados de estricta reciprocidad.
+        ii. **Recurso de Apelación Patrimonial:** Emitido el fallo por el TAT, o vencido el plazo legal de treinta (30) días sin resolución, las partes podrán recurrir en alzada ante una corte de arbitraje comercial internacional de reconocido prestigio (bajo reglas UNCITRAL, de la Cámara de Comercio Internacional de París, o tribunal neutral análogo), en una sede con la cual Cuba mantenga tratados de estricta reciprocidad.
 
-        iii. Límite de la Sentencia Externa: El laudo arbitral internacional se limitará exclusivamente a la determinación de compensaciones dinerarias entre las partes contratantes por incumplimiento fáctico de cláusulas comerciales, careciendo de fuerza ejecutoria para ordenar la modificación, suspensión o nulidad de leyes o disposiciones emanadas de los poderes constituidos de la Nación.
+        iii. **Límite Absoluto de la Sentencia Externa:** El laudo arbitral internacional se limitará exclusivamente a la determinación de compensaciones dinerarias liquidas por incumplimiento fáctico y directo de las cláusulas del contrato, careciendo de fuerza ejecutoria para ordenar la modificación, suspensión o nulidad de leyes, normas tributarias, actos de soberanía o políticas de orden público emanadas de la República.
 
 8. **De la Caducidad Obligatoria, la Revisión Bilateral y la Invalidez de la Servidumbre Perpetua en Tratados Internacionales.**\
 La República de Cuba Libre reconoce que la cooperación internacional es vital, pero subordina la validez de todo acuerdo externo a la preservación del \"Aliento Soberano\" de las futuras generaciones. Se establecen los siguientes parámetros de hierro para todo tratado, acuerdo de seguridad o protocolo de asistencia:
@@ -975,19 +983,23 @@ La República reconoce a los hijos y nietos de la Diáspora como parte integrant
 
 6. **Doctrina de Tolerancia Cero al Gangsterismo Extranjero:** Para evitar la formación de redes criminales transnacionales o \"sociedades paralelas\" violentas:
 
-    a)  Cualquier residente extranjero que sea identificado por el Cuerpo Nacional de Seguridad (CNSPOC) o el RNS participando en actos de pandillerismo, extorsión, motines públicos violentos o porte ilegal de armas, **pierde el derecho al debido proceso ordinario de apelación civil**.
+    a) Cualquier residente extranjero que sea identificado participando en actos de pandillerismo, extorsión, motines violentos o porte ilegal de armas, será sujeto a un procedimiento de Expulsión Expedita de Seguridad Nacional en un plazo no mayor a setenta y dos (72) horas.
 
-    b)  Su estatus migratorio será cancelado en flagrancia y será expulsado del territorio nacional en un plazo no mayor a setenta y dos (72) horas, previa confiscación de todos sus bienes y cuentas para cubrir los costos de su propia deportación y el daño causado.
+        i. **Habilitación de Porte Legal Regulado:** Lo dispuesto en este artículo no limita el derecho del residente extranjero a acceder a la tenencia y porte legal de armas defensivas de baja capacidad (Artículo 21.2), siempre que cumpla estrictamente con las certificaciones de aptitud técnica, idoneidad psicológica y requisitos establecidos en la ley reglamentaria. El porte amparado por licencia legal vigente no constituirá causal de infracción migratoria.
 
-7. **Condición de Neutralidad del Residente Extranjero:**\
-El extranjero residente en Cuba es un invitado bajo el Contrato de Productividad (Art. 20.4).
+        ii. **Excepción por Legítima Defensa y Arma de Circunstancia:** Queda terminantemente excluida de la tipificación de porte ilegal o infracción de seguridad la conducta del extranjero que, frente a un peligro inminente y letal derivado de una agresión ilegítima y no provocada contra su vida o la de terceros, tome y emplee de forma instantánea cualquier arma o instrumento disponible en el lugar de los hechos, única y exclusivamente mientras dure la necesidad estricta de neutralizar la amenaza (Artículos 20.1.b y 21.2).
 
-    a)  Queda **estrictamente prohibida** la participación de residentes extranjeros, turistas o asilados en manifestaciones políticas, organización de movimientos de masas o activismo financiado que altere el orden público de la República.
+    b) Control Judicial Sumario: Para garantizar la legalidad internacional (Art. 13 PIDCP), la orden de expulsión requerirá la ratificación sumaria de un Juez de Garantías del TDC o del TAT en un plazo perentorio de veinticuatro (24) horas, basada en la telemetría del RNS. Confirmada la evidencia y descartada la legítima defensa, se ejecutará la salida inmediata y la confiscación patrimonial conforme a la ley.
 
-    b)  La violación de esta norma no requiere un juicio penal largo; es una ruptura del contrato migratorio que activa la **Deportación Expedita (72 horas)** y la incautación de fianzas.
+7. **Condición de Neutralidad del Residente Extranjero:** El extranjero residente en Cuba es un invitado bajo el Contrato de Productividad (Art. 20.4).
 
-8. **Del Tratado de Reciprocidad en Justicia Civil y Devolución de Activos.**\
-La República de Cuba propondrá a la comunidad internacional la firma de \"Tratados de Transparencia Nodal\".
+    a) El extranjero residente en Cuba es un invitado bajo el Contrato de Productividad (Art. 20.4). Queda estrictamente prohibida la participación de extranjeros en la dirección, organización o financiamiento de movimientos partidistas, o en manifestaciones que alteren el orden público de la República.
+
+        i. **Inviolabilidad de la Supervivencia Biológica:** La condición de neutralidad y la prohibición de alteración del orden público jamás podrán interpretarse en detrimento del derecho inalienable a la legítima defensa individual o de terceros frente a actos de agresión predatoria, asalto o violencia física no provocada. Repeler una agresión ilegítima no constituye alteración del orden público ni causa de expulsión.
+
+    b) La violación probada de la neutralidad política activa el procedimiento de Expulsión Expedita bajo Control Judicial Sumario (Art. 20.6.b).
+
+8. **Del Tratado de Reciprocidad en Justicia Civil y Devolución de Activos:** La República de Cuba propondrá a la comunidad internacional la firma de \"Tratados de Transparencia Nodal\".
 
     a)  **La Doctrina de la \"Mano Tendida\":** Cuba ofrecerá a los gobiernos extranjeros acceso a su tecnología de rastreo de estafas (RNS) a cambio de la colaboración en la captura de criminales que usen sus territorios para atacar a ciudadanos cubanos.
 
@@ -1143,7 +1155,7 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
 
         i.  Únicamente los cubanos por nacimiento poseen el derecho inalienable a votar en referéndums de reforma sobre las **Cláusulas Pétreas (Art. 129)**.
 
-        ii. Los ciudadanos por naturalización adquirirán el derecho al voto municipal tras diez (10) años de residencia efectiva y el voto nacional tras quince (15) años, previa reválida del Examen de Idoneidad Republicana. La soberanía no es un derecho de suelo, es una conquista del entendimiento.
+        ii. Los ciudadanos por naturalización adquirirán el derecho al voto municipal de forma inmediata a la concesión de su carta de ciudadanía (Art. 19.3), y el derecho al voto legislativo nacional tras cinco (5) años de ejercicio ciudadano continuado post-naturalización, previa reválida del Examen de Idoneidad Republicana.
 
         <!-- -->
 
@@ -1201,7 +1213,7 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
 
     f)  **Derecho Inmediato a la Autosuficiencia (Habilitación Laboral Automática):** Desde el primer día de su admisión temporal, el refugiado goza de capacidad legal plena para trabajar, ejercer el comercio y contratar libremente, sin necesidad de permisos de extranjería adicionales. Queda sujeto inmediatamente al pago del Impuesto Único (Flat Tax).
 
-    g)  **Caducidad y Deportación por Insolvencia:** Si al término de la Ventana de Supervivencia de noventa (90) días, el refugiado no ha logrado su autosuficiencia económica mediante el trabajo (literal e) ni ha conseguido un Patrocinador Privado que asuma sus costos de vida en el RNS, será sujeto a reubicación internacional o repatriación voluntaria asistida, siempre que su vida no corra peligro inminente en el destino.
+    g) **Caducidad de Asistencia y Reubicación por Inactividad:** Si al término de la Ventana de Supervivencia de noventa (90) días, el refugiado no ha logrado su autosuficiencia económica mediante el trabajo (literal f) ni ha conseguido un Patrocinador Privado que asuma sus costos de vida en el RNS, cesará el apoyo del Fondo Catastrófico Nacional. El individuo será sujeto a reubicación internacional coordinada o repatriación voluntaria asistida, siempre que su vida, libertad o integridad física no corran peligro inminente en el destino.
 
     h)  **Fase de Integración:** A partir del día 91, la ayuda se mantendrá vinculada a la participación en el Programa de Servicio Cívico.
 
@@ -1429,24 +1441,23 @@ C.  En caso de que el proceso penal concluya de forma que se demuestre la inocen
 
 6. **Proscripción del Abuso del Derecho como Obstrucción:** El ejercicio de un derecho individual no ampara la creación deliberada de situaciones de riesgo o de inducción al error para terceros. Si un ciudadano, en el ejercicio de su derecho, impone su voluntad de forma que obstruya la óptica de seguridad de otro o fuerce una infracción involuntaria, perderá el amparo de su prioridad jurídica y será responsable de las consecuencias sistémicas derivadas de su imprudencia.
 
-**7. Del Orden Público frente a la Intimidación Ideológica y el Acoso Colectivo.**\
-La República garantiza que ningún ciudadano será silenciado, desplazado o amenazado por la expresión de ideas, críticas religiosas, políticas o científicas. El Estado reconoce la diferencia fundamental entre el derecho a la protesta y el ejercicio de la intimidación.
+7. **Del Orden Público frente a la Intimidación Ideológica y el Acoso Colectivo:** La República garantiza que ningún ciudadano será silenciado, desplazado o amenazado por la expresión de ideas, críticas religiosas, políticas o científicas. El Estado reconoce la diferencia fundamental entre el derecho a la protesta y el ejercicio de la intimidación.
 
-a)  **Inexistencia del Delito de Blasfemia o Sacrilegio:** La República es un espacio de neutralidad teológica absoluta. Ninguna creencia, dogma o símbolo religioso o ideológico goza de protección especial frente a la crítica, la sátira o el análisis público. La \"ofensa personal\" o el \"daño moral\" derivado de una discrepancia ideológica no constituye causa de acción legal ni justifica la intervención de la fuerza pública para censurar al emisor.
+    a)  **Inexistencia del Delito de Blasfemia o Sacrilegio:** La República es un espacio de neutralidad teológica absoluta. Ninguna creencia, dogma o símbolo religioso o ideológico goza de protección especial frente a la crítica, la sátira o el análisis público. La \"ofensa personal\" o el \"daño moral\" derivado de una discrepancia ideológica no constituye causa de acción legal ni justifica la intervención de la fuerza pública para censurar al emisor.
 
-b)  **Tipificación de la Intimidación Ideológica:** Se considera Atentado contra la Soberanía Individual cualquier acción coordinada de individuos o grupos que, invocando motivos religiosos, políticos o culturales, pretendan:
+    b)  **Tipificación de la Intimidación Ideológica:** Se considera Atentado contra la Soberanía Individual cualquier acción coordinada de individuos o grupos que, invocando motivos religiosos, políticos o culturales, pretendan:
 
-    i.  Amenazar la integridad física, el empleo o el patrimonio de un individuo para forzar su retractación o silencio.
+        i.  Amenazar la integridad física, el empleo o el patrimonio de un individuo para forzar su retractación o silencio.
 
-    ii. Cercar, sitiar o bloquear centros de trabajo o educación para exigir el castigo de una persona por sus expresiones.
+        ii. Cercar, sitiar o bloquear centros de trabajo o educación para exigir el castigo de una persona por sus expresiones.
 
-    iii. Utilizar el acoso sistemático (*doxing* o persecución física) para excluir a un ciudadano de la vida pública.
+        iii. Utilizar el acoso sistemático (*doxing* o persecución física) para excluir a un ciudadano de la vida pública.
 
-c)  **Obligación de Protección Activa (Doctrina del Escudo):** Ante una amenaza de intimidación colectiva certificada por el Registro Nacional Soberano (RNS), el Cuerpo Nacional de Seguridad (CNSPOC) tiene la obligación ineludible de proteger al individuo amenazado.
+    c)  **Obligación de Protección Activa (Doctrina del Escudo):** Ante una amenaza de intimidación colectiva certificada por el Registro Nacional Soberano (RNS), el Cuerpo Nacional de Seguridad (CNSPOC) tiene la obligación ineludible de proteger al individuo amenazado.
 
-    i.  **Prohibición de Capitulación:** Se prohíbe terminantemente a las autoridades, directivos de empresas o instituciones educativas, ceder ante las demandas de grupos intimidadores (tales como despedir al empleado o sancionar al estudiante). La capitulación de la autoridad ante la intimidación se considerará **Incumplimiento de Deberes Constitucionales** y será sancionada con la remoción del cargo.
+        i.  **Prohibición de Capitulación:** Se prohíbe terminantemente a las autoridades, directivos de empresas o instituciones educativas, ceder ante las demandas de grupos intimidadores (tales como despedir al empleado o sancionar al estudiante). La capitulación de la autoridad ante la intimidación se considerará **Incumplimiento de Deberes Constitucionales** y será sancionada con la remoción del cargo.
 
-d)  **Sanción Patrimonial por Coacción:** Los individuos identificados como participantes en actos de intimidación ideológica o acoso colectivo serán civilmente responsables por los daños causados. El Tribunal de Arbitraje Técnico (TAT) podrá ejecutar de oficio la deducción de sus Acciones Soberanas (AS) para indemnizar a la víctima y cubrir los costos de protección desplegados por el Estado.
+    d)  **Sanción Patrimonial por Coacción:** Los individuos identificados como participantes en actos de intimidación ideológica o acoso colectivo serán civilmente responsables por los daños causados. El Tribunal de Arbitraje Técnico (TAT) podrá ejecutar de oficio la deducción de sus Acciones Soberanas (AS) para indemnizar a la víctima y cubrir los costos de protección desplegados por el Estado.
 
 8. **Del Estándar de Prueba y Presunción de Inocencia Real.** Ningún ciudadano podrá ser condenado penalmente basándose exclusivamente en un testimonio subjetivo. Se requiere obligatoriamente la concurrencia de pruebas materiales, digitales o periciales que corroboren la imputación. La duda razonable (*In Dubio Pro Reo*) es una barrera infranqueable; el Estado prefiere un culpable libre que un inocente en cautiverio.
 
@@ -1521,10 +1532,10 @@ La pena privativa de libertad no otorga al infractor el derecho a ser mantenido 
 Sin perjuicio de la garantía de Cosa Juzgada para procesos válidamente concluidos con sentencia firme (Artículo 93), y con el fin de regular la extinción de la acción penal y la facultad sancionadora del Estado, el sistema de justicia aplicará la caducidad del tiempo basándose estrictamente en la gravedad del daño, la naturaleza del acto y la asimetría del poder, bajo los siguientes tres protocolos inalterables:
 
     a)  **Caducidad Administrativa y Civil (El Límite al Estado):** Ninguna falta administrativa, tributaria, contravención civil o delito penal de carácter no violento que no involucre daño físico a terceros, podrá ser investigada, perseguida o enjuiciada tras un periodo de cinco (5) años de inactividad probada de la autoridad competente. La negligencia del Estado en el cobro, la fiscalización o la persecución procesal no puede mantener al ciudadano como rehén de la burocracia a perpetuidad.\
-        *Excepción de Jerarquía y Saqueo:* **Quedan expresamente excluidos de este beneficio de caducidad** los actos de corrupción, enriquecimiento ilícito, confiscación arbitraria, diseño de represión sistémica, delitos de lesa nación o cualquier maniobra de ingeniería social cometidos por funcionarios de la Alta Jerarquía del Estado, el Partido Único o la policía política del régimen anterior a esta Constitución o cualquier régimen futuro (a la entrada en vigor de esta Constitución) de similares características en el territorio nacional, sea de alcance municipal, regional o nacional. Dichos actos y sus autores no gozan del beneficio del olvido administrativo y se regirán por los plazos extendidos, la imprescriptibilidad patrimonial y las sanciones de inhabilitación perpetua definidos en las Disposiciones Transitorias Cuarta, Quinta y Sexta. La \"Paz Jurídica\" de los cinco años es un derecho del ciudadano común, no una amnistía encubierta para los arquitectos de la tiranía.
+        - *Excepción de Jerarquía y Saqueo:* **Quedan expresamente excluidos de este beneficio de caducidad** los actos de corrupción, enriquecimiento ilícito, confiscación arbitraria, diseño de represión sistémica, delitos de lesa nación o cualquier maniobra de ingeniería social cometidos por funcionarios de la Alta Jerarquía del Estado, el Partido Único o la policía política del régimen anterior a esta Constitución o cualquier régimen futuro (a la entrada en vigor de esta Constitución) de similares características en el territorio nacional, sea de alcance municipal, regional o nacional. Dichos actos y sus autores no gozan del beneficio del olvido administrativo y se regirán por los plazos extendidos, la imprescriptibilidad patrimonial y las sanciones de inhabilitación perpetua definidos en las Disposiciones Transitorias Cuarta, Quinta y Sexta. La \"Paz Jurídica\" de los cinco años es un derecho del ciudadano común, no una amnistía encubierta para los arquitectos de la tiranía.
 
     b)  **Asimetría de Poder (La Responsabilidad del Funcionario):** La acción penal y la responsabilidad civil por delitos cometidos por funcionarios públicos en el ejercicio de su cargo contra la soberanía individual, la propiedad privada ciudadana o los recursos del Tesoro Nacional, son imprescriptibles mientras el infractor mantenga vínculos de poder, inmunidad de facto, protección institucional o residencia en jurisdicciones extranjeras que nieguen o dificulten su extradición. El reloj de la prescripción procesal permanecerá congelado jurídicamente y solo se activará el día y la hora en que el infractor pise territorio nacional en condición de ciudadano común, sin fueros de protección y plenamente accesible a la justicia.\
-        *Cláusula de Memoria y Día Cero:* El tiempo transcurrido bajo el amparo de un régimen totalitario o autoritario no computa para la prescripción de los delitos cometidos por sus agentes. Para todos los efectos legales, el cómputo del tiempo para la justicia comienza a marcar el \"Día Cero\" de la promulgación de esta Constitución. Ningún jerarca, oficial o burócrata podrá alegar la \"obediencia debida\" o el \"paso del tiempo\" transcurrido bajo la impunidad de la dictadura como eximente de responsabilidad civil o penal.
+        - *Cláusula de Memoria y Día Cero:* El tiempo transcurrido bajo el amparo de un régimen totalitario o autoritario no computa para la prescripción de los delitos cometidos por sus agentes. Para todos los efectos legales, el cómputo del tiempo para la justicia comienza a marcar el \"Día Cero\" de la promulgación de esta Constitución. Ningún jerarca, oficial o burócrata podrá alegar la \"obediencia debida\" o el \"paso del tiempo\" transcurrido bajo la impunidad de la dictadura como eximente de responsabilidad civil o penal.
 
     c)  **La Mancha Inborrable (Delitos de Sangre y Naturaleza Depredatoria):** El tiempo no extingue la responsabilidad sobre la anulación de la vida humana o la destrucción de la integridad física profunda. Quedan exceptuados de toda prescripción legal, amnistía, indulto o caducidad, aplicable a cualquier ciudadano, extranjero o autoridad civil y militar **que no haya sido previamente juzgado mediante debido proceso**, la persecución de los siguientes delitos:
 
@@ -1538,109 +1549,102 @@ Sin perjuicio de la garantía de Cosa Juzgada para procesos válidamente conclui
 
         iv. Secuestro, desaparición forzada y trata de personas.
 
-    <!-- -->
+            <!-- -->
 
-    A.  La República establece como principio fundacional que el mero paso del tiempo no convierte al depredador físico en un ciudadano inocente, ni limpia la sangre derramada. La justicia sobre la vida carece de fecha de vencimiento y no admite rescate económico sustitutivo.
+            A.  La República establece como principio fundacional que el mero paso del tiempo no convierte al depredador físico en un ciudadano inocente, ni limpia la sangre derramada. La justicia sobre la vida carece de fecha de vencimiento y no admite rescate económico sustitutivo.
 
-    <!-- -->
+            <!-- -->
 
     d)  Suspensión del Reloj de Prescripción por Condena Errónea: El reloj de la justicia procesal para el verdadero criminal se detiene por completo mientras un inocente esté privado de libertad pagando su pena. La negligencia o el error del Estado en capturar al verdadero culpable no le otorga a este el beneficio del tiempo, ni genera impunidad. Al momento de certificar la inocencia y liberar al afectado, se activa de pleno derecho el Mandato de Captura Inmediata contra el verdadero perpetrador, reiniciándose su reloj de prescripción desde el Día Cero.
 
 16. **De la Protección de la Justicia frente a la Victimización Táctica y la Inmunidad del Denunciante de Orden.**
 
-a)  **Proscripción del Falso Positivo Emocional:** El sistema de justicia y las fuerzas de seguridad de la República de Cuba operarán bajo la primacía estricta de la evidencia material, digital y criptográfica (Registro Nacional Soberano), quedando constitucionalmente prohibida la alteración del debido proceso, la ejecución de arrestos o la presunción de culpabilidad basados en exhibiciones de angustia, llanto, o alegatos de victimización emocional por parte del infractor. La ley no reconoce jerarquías morales derivadas del victimismo.
+    a)  **Proscripción del Falso Positivo Emocional:** El sistema de justicia y las fuerzas de seguridad de la República de Cuba operarán bajo la primacía estricta de la evidencia material, digital y criptográfica (Registro Nacional Soberano), quedando constitucionalmente prohibida la alteración del debido proceso, la ejecución de arrestos o la presunción de culpabilidad basados en exhibiciones de angustia, llanto, o alegatos de victimización emocional por parte del infractor. La ley no reconoce jerarquías morales derivadas del victimismo.
 
-b)  **Inmunidad del Custodio del Sistema (El Acusador Legítimo):** El ciudadano que denuncie en flagrancia un acto de corrupción, fraude a la propiedad ciudadana o alteración de las reglas de mercado, goza de Presunción de Rectitud. Queda prohibido a la fuerza pública arrestar, coaccionar o someter a fuerza física al denunciante bajo el pretexto de \"alteración del orden público\" ante el quiebre emocional del infractor. La fuerza coercitiva que penalice a quien defiende el sistema, invirtiendo la carga de la culpa hacia el ciudadano honesto, será tipificada como **Delito de Inversión de la Justicia y Arresto Arbitrario**, acarreando la destitución inmediata y responsabilidad patrimonial del oficial actuante.
+    b)  **Inmunidad del Custodio del Sistema (El Acusador Legítimo):** El ciudadano que denuncie en flagrancia un acto de corrupción, fraude a la propiedad ciudadana o alteración de las reglas de mercado, goza de Presunción de Rectitud. Queda prohibido a la fuerza pública arrestar, coaccionar o someter a fuerza física al denunciante bajo el pretexto de \"alteración del orden público\" ante el quiebre emocional del infractor. La fuerza coercitiva que penalice a quien defiende el sistema, invirtiendo la carga de la culpa hacia el ciudadano honesto, será tipificada como **Delito de Inversión de la Justicia y Arresto Arbitrario**, acarreando la destitución inmediata y responsabilidad patrimonial del oficial actuante.
 
-c)  **Auditoría de Actos en Flagrancia:** Ante una disputa en espacio público o privado donde se alegue infracción o agresión, el protocolo de actuación de la autoridad exige la preservación de la escena y la revisión pericial inmediata del registro audiovisual, los testimonios presenciales y la telemetría del RNS (Art. 144.1). La resolución de la causa se fundará exclusivamente en la prueba fáctica y pericial verificable, careciendo de valor probatorio las meras alegaciones histriónicas no corroboradas por la evidencia material.
+    c)  **Auditoría de Actos en Flagrancia:** Ante una disputa en espacio público o privado donde se alegue infracción o agresión, el protocolo de actuación de la autoridad exige la preservación de la escena y la revisión pericial inmediata del registro audiovisual, los testimonios presenciales y la telemetría del RNS (Art. 144.1). La resolución de la causa se fundará exclusivamente en la prueba fáctica y pericial verificable, careciendo de valor probatorio las meras alegaciones histriónicas no corroboradas por la evidencia material.
 
 17. **Del Régimen de Restitución Patrimonial Agravada e Indemnización Exponencial:**\
 La República no subsidia el crimen ni reconoce la privación de libertad como medio válido de cancelación de la deuda civil por robo, asalto o fraude. Se establece el principio de Restitución Múltiple e Ineludible:
 
-a)  **Obligación Ineludible de Reparación:** Todo individuo convicto por delitos probados contra la propiedad cometidos mediante violencia, intimidación o fraude generará una Deuda Civil de Restitución en el Registro Nacional Soberano (RNS). Esta deuda será inalterable, no declarable en quiebra y consistirá en la sumatoria obligatoria de:
+    a)  **Obligación Ineludible de Reparación:** Todo individuo convicto por delitos probados contra la propiedad cometidos mediante violencia, intimidación o fraude generará una Deuda Civil de Restitución en el Registro Nacional Soberano (RNS). Esta deuda será inalterable, no declarable en quiebra y consistirá en la sumatoria obligatoria de:
 
-<!-- -->
+        <!-- -->
 
-i.  El valor de mercado del bien sustraído o dañado (Restitución Base).
+        i.  El valor de mercado del bien sustraído o dañado (Restitución Base).
 
-ii. Una Multa Punitiva Intransferible equivalente al cien por ciento (100%) del valor del bien, pagadera directamente a la víctima (La Regla del Doble).
+        ii. Una Multa Punitiva Intransferible equivalente al cien por ciento (100%) del valor del bien, pagadera directamente a la víctima (La Regla del Doble).
 
-iii. El Costo Operativo Total del despliegue del Cuerpo de Custodia (CCTR) o Milicia, investigación del CICM y proceso judicial (El Costo del Sistema).
+        iii. El Costo Operativo Total del despliegue del Cuerpo de Custodia (CCTR) o Milicia, investigación del CICM y proceso judicial (El Costo del Sistema).
 
-<!-- -->
+        <!-- -->
 
-b)  **Ejecución Forzosa Automatizada:** El Registro Nacional Soberano (RNS) ejecutará el cobro inmediato embargando hasta el cien por ciento (100%) de la liquidez del infractor, liquidando forzosamente sus Acciones de Mercado (AM) y confiscando los dividendos de las Capas B y C de sus Acciones Soberanas (AS) (Artículo 115.5) hasta saldar la deuda.
+    b)  **Ejecución Forzosa Automatizada:** El Registro Nacional Soberano (RNS) ejecutará el cobro inmediato embargando hasta el cien por ciento (100%) de la liquidez del infractor, liquidando forzosamente sus Acciones de Mercado (AM) y confiscando los dividendos de las Capas B y C de sus Acciones Soberanas (AS) (Artículo 115.5) hasta saldar la deuda.
 
-c)  **Insolvencia y Trabajos de Alta Dureza (Reducción a Capa A):** Si el patrimonio del infractor es insuficiente para saldar la Ecuación de Deuda de forma inmediata, este ingresará de pleno derecho al Sistema Penal Productivo (Artículo 22.13). Será asignado a labores de alta dureza (construcción de infraestructura, saneamiento, agricultura forzosa) en régimen de confinamiento siempre que su salud lo permita. Se le retendrá el cien por ciento (100%) de la utilidad generada por su labor física, otorgándole únicamente el estándar biológico mínimo de supervivencia en calorías e higiene (Capa A), hasta que la deuda con la víctima y el Estado alcance el saldo cero.
+    c) **Insolvencia y Ejecución en el Sistema Penal Productivo:** Si el patrimonio líquido y los activos del infractor fueren insuficientes para saldar la Deuda de Restitución de forma inmediata, este ingresará de pleno derecho al Sistema Penal Productivo (Artículo 22.13) durante el tiempo que dure su pena privativa de libertad impuesta por sentencia judicial firme. Será asignado a labores de producción y mantenimiento cívico bajo administración pública, reteniéndosele la utilidad neta generada para alimentar los tres vectores del Artículo 22.13.b.
+    
+    d) **Imprescriptibilidad de la Deuda Civil y Embargo Post-Condena:** Ningún indulto, rebaja de pena o cumplimiento del término de prisión extinguirá la Deuda Civil de Restitución con la víctima y el Estado. Cumplida la condena penal privativa de libertad, el ciudadano recuperará su libertad de tránsito ambulatoria, pero mantendrá la restricción de privilegios comerciales y el embargo algorítmico automatizado en el RNS sobre sus ingresos salariales futuros, cuentas mercantiles y dividendos de Acciones Soberanas (AS), hasta que la totalidad de la deuda de restitución alcance el saldo cero.
 
-d)  **Prohibición de Amnistía por Asalto:** Ningún indulto presidencial, rebaja de pena por \"buena conducta\" o paso del tiempo extinguirá esta deuda. El infractor no recuperará su libertad de tránsito ni sus derechos comerciales hasta que la restitución haya sido completada íntegramente. Quien atenta contra la propiedad y el esfuerzo ajeno, hipoteca su propia existencia biológica y su futuro.
+    e)  **Ecuación de Reparación Biológica:** En casos de agresiones físicas o lesiones, el culpable no solo cumplirá su condena si corresponde, sino que deberá pagar a la víctima una compensación calculada sobre cinco factores de justicia natural:
 
-e)  **Ecuación de Reparación Biológica:** En casos de agresiones físicas o lesiones, el culpable no solo cumplirá su condena si corresponde, sino que deberá pagar a la víctima una compensación calculada sobre cinco factores de justicia natural:
+        <!-- -->
 
-<!-- -->
+        i.  El daño físico causado (gastos de recuperación y prótesis).
 
-i.  El daño físico causado (gastos de recuperación y prótesis).
+        ii. El pago por el dolor y el sufrimiento causado.
 
-ii. El pago por el dolor y el sufrimiento causado.
+        iii. El costo de todas las medicinas y tratamientos.
 
-iii. El costo de todas las medicinas y tratamientos.
+        iv. El dinero que la víctima dejó de ganar por no poder trabajar.
 
-iv. El dinero que la víctima dejó de ganar por no poder trabajar.
+        v.  El pago por la vergüenza o el daño a la imagen de la persona.
 
-v.  El pago por la vergüenza o el daño a la imagen de la persona.
+    > El TAT fijará estas cantidades para asegurar que la víctima recupere su bienestar y el agresor pague el costo real de su violencia.
 
-> El TAT fijará estas cantidades para asegurar que la víctima recupere su bienestar y el agresor pague el costo real de su violencia.
+    f)  Del Espacio de Gracia y Sanación: La República reconoce que el castigo físico y la restitución económica no bastan para la reinserción.
 
-f)  Del Espacio de Gracia y Sanación: La República reconoce que el castigo físico y la restitución económica no bastan para la reinserción.
+        i.  Se garantiza el Derecho al Acompañamiento Espiritual y Psicológico voluntario dentro del sistema penitenciario.
 
-    i.  Se garantiza el Derecho al Acompañamiento Espiritual y Psicológico voluntario dentro del sistema penitenciario.
+        ii. Las instituciones religiosas y civiles podrán operar centros de formación en valores dentro de las prisiones.
 
-    ii. Las instituciones religiosas y civiles podrán operar centros de formación en valores dentro de las prisiones.
+        iii. El cumplimiento exitoso de programas de ética y civismo certificados por la sociedad civil permitirá al recluso acceder a la Capa de Rehabilitación Cívica, facilitando su reintegración económica plena tras cumplir su condena, en orden a la efectiva reinserción social y moral del sancionado.
 
-    iii. El cumplimiento exitoso de programas de ética y civismo certificados por la sociedad civil permitirá al recluso acceder a la Capa de Rehabilitación Cívica, facilitando su reintegración económica plena tras cumplir su condena, en orden a la efectiva reinserción social y moral del sancionado.
+18. **Derecho Universal a la Apelación Técnica y Jurídica:** Todo dictamen o sentencia emitido por un Tribunal Municipal (TMDC) o por el Tribunal de Arbitraje Técnico (TAT) es apelable en segunda instancia.
 
-18**. Derecho Universal a la Apelación Técnica y Jurídica:** Todo dictamen o sentencia emitido por un Tribunal Municipal (TMDC) o por el Tribunal de Arbitraje Técnico (TAT) es apelable en segunda instancia.
+    a)  **Apelación de Hechos:** Se eleva a una Terna de Sorteo Nacional del TAT para verificar la telemetría.
 
-a)  **Apelación de Hechos:** Se eleva a una Terna de Sorteo Nacional del TAT para verificar la telemetría.
+    b)  **Apelación de Derecho:** Se eleva al Tribunal de Defensa de la Constitución (TDC).
 
-b)  **Apelación de Derecho:** Se eleva al Tribunal de Defensa de la Constitución (TDC).
-
-c)  **Suspensión de Efectos:** La apelación suspende cualquier sanción pecuniaria o física, salvo en casos de riesgo inminente para la vida o destrucción de infraestructura crítica.
+    c)  **Suspensión de Efectos:** La apelación suspende cualquier sanción pecuniaria o física, salvo en casos de riesgo inminente para la vida o destrucción de infraestructura crítica.
 
 19. **El Colchón de Acceso (Habilitadores de Derecho):** Se crea el cuerpo de **Habilitadores de Derecho**. Son profesionales (estatales o privados certificados) cuya función NO es el litigio adversario, sino la **Depuración de Causas**.
 
-a)  El ciudadano tiene derecho a una (1) consultoría gratuita (pero pagada por el gobierno municipal) por un Habilitador antes de presentarse ante un juez.
+    a)  El ciudadano tiene derecho a una (1) consultoría gratuita (pero pagada por el gobierno municipal) por un Habilitador antes de presentarse ante un juez.
 
-b)  El Habilitador está obligado a explicar al ciudadano su situación en lenguaje llano (Comprensibilidad, Art. 133).
+    b)  El Habilitador está obligado a explicar al ciudadano su situación en lenguaje llano (Comprensibilidad, Art. 133).
 
-c)  Se prohíbe el cobro de honorarios basados en cuotas de éxito sobre indemnizaciones de derechos fundamentales. El Habilitador cobra por servicio técnico de traducción legal, no por \"vencer\" al sistema.
+    c)  Se prohíbe el cobro de honorarios basados en cuotas de éxito sobre indemnizaciones de derechos fundamentales. El Habilitador cobra por servicio técnico de traducción legal, no por \"vencer\" al sistema.
 
-**20. De la Proscripción de la Captura Institucional y el Delito de Monopolio Ideológico:** La República reconoce que la amenaza contra la libertad muta a través del tiempo, buscando controlar los centros de creación de cultura, conocimiento, tecnología o riqueza de cada época. Se prohíbe la apropiación excluyente de cualquier espacio público, gremial, académico o tecnológico por parte de facciones ideológicas.
+20. **De la Proscripción de la Captura Institucional y el Delito de Monopolio Ideológico:** La República reconoce que la amenaza contra la libertad muta a través del tiempo, buscando controlar los centros de creación de cultura, conocimiento, tecnología o riqueza de cada época. Se prohíbe la apropiación excluyente de cualquier espacio público, gremial, académico o tecnológico por parte de facciones ideológicas.
 
-a)  **Definición del Patrón de Captura Institucional:**\
-    Se tipifica como **Captura Institucional** la acción sistemática, coordinada y dolosa mediante la cual individuos, organizaciones o entidades (nacionales o extranjeras) intentan convertir una institución de propósito general (sindicatos, colegios profesionales, universidades, plataformas digitales masivas, asociaciones de vecinos o corporaciones SACA) en un instrumento de coerción política, exigiendo lealtad ideológica como condición para la participación, empleo o acceso a servicios.
+    a)  **Definición del Patrón de Captura Institucional:** Se tipifica como **Captura Institucional** la acción sistemática, coordinada y dolosa mediante la cual individuos, organizaciones o entidades (nacionales o extranjeras) intentan convertir una institución de propósito general (sindicatos, colegios profesionales, universidades, plataformas digitales masivas, asociaciones de vecinos o corporaciones SACA) en un instrumento de coerción política, exigiendo lealtad ideológica como condición para la participación, empleo o acceso a servicios.
 
-b)  **Nulidad de la \"Función Excluyente\":**\
-    Cualquier estatuto interno, reglamento, \"código de ética\" o política de recursos humanos de una entidad pública o privada (con posición de dominio) que exija la adhesión a postulados políticos, dogmas sociales, declaraciones de \"justicia social\" o teorías críticas (ajenas a la competencia técnica estricta del cargo o servicio) como requisito de ingreso, permanencia o promoción, se declara **Nulo de Pleno Derecho** y contrario a la Soberanía Individual (Art. 1).
+    b)  **Nulidad de la \"Función Excluyente\":** Cualquier estatuto interno, reglamento, \"código de ética\" o política de recursos humanos de una entidad pública o privada (con posición de dominio) que exija la adhesión a postulados políticos, dogmas sociales, declaraciones de \"justicia social\" o teorías críticas (ajenas a la competencia técnica estricta del cargo o servicio) como requisito de ingreso, permanencia o promoción, se declara **Nulo de Pleno Derecho** y contrario a la Soberanía Individual (Art. 1).
 
-c)  **Desarticulación del Monopolio Ideológico (El Antivirus Heurístico):**\
-    Si el Tribunal de Arbitraje Técnico (TAT) o el Tribunal de Defensa de la Constitución (TDC) detectan, mediante auditoría de procesos o denuncias ciudadanas, que una institución ha sido capturada y opera bajo una ideología única y excluyente que discrimina a los disidentes, se activarán las siguientes medidas de ejecución inmediata:
+    c)  **Desarticulación del Monopolio Ideológico (El Antivirus Heurístico):** Si el Tribunal de Arbitraje Técnico (TAT) o el Tribunal de Defensa de la Constitución (TDC) detectan, mediante auditoría de procesos o denuncias ciudadanas, que una institución ha sido capturada y opera bajo una ideología única y excluyente que discrimina a los disidentes, se activarán las siguientes medidas de ejecución inmediata:
 
-    i.  **Congelación de Fondos Públicos:** Suspensión automática de cualquier transferencia, subsidio, voucher o exención fiscal proveniente del Estado, los Municipios o el FCIN.
+            i.  **Congelación de Fondos Públicos:** Suspensión automática de cualquier transferencia, subsidio, voucher o exención fiscal proveniente del Estado, los Municipios o el FCIN.
 
-    ii. **Pérdida de Posición de Dominio:** Si la entidad es un colegio profesional o certificadora (ej. Colegio de Médicos o Ingenieros) y ejerce captura ideológica, perderá instantáneamente su monopolio legal sobre la certificación. El RNS habilitará la **Vía de Certificación Alterna y Competitiva**.
+            ii. **Pérdida de Posición de Dominio:** Si la entidad es un colegio profesional o certificadora (ej. Colegio de Médicos o Ingenieros) y ejerce captura ideológica, perderá instantáneamente su monopolio legal sobre la certificación. El RNS habilitará la **Vía de Certificación Alterna y Competitiva**.
 
-    iii. **Responsabilidad Civil de la Directiva:** Los directivos o administradores responsables de la captura institucional enfrentarán el levantamiento del velo corporativo (Art. 41.3) y responderán con la Capa C de sus Acciones Soberanas para indemnizar a los ciudadanos afectados por la exclusión o difamación.
+            iii. **Responsabilidad Civil de la Directiva:** Los directivos o administradores responsables de la captura institucional enfrentarán el levantamiento del velo corporativo (Art. 41.3) y responderán con la Capa C de sus Acciones Soberanas para indemnizar a los ciudadanos afectados por la exclusión o difamación.
 
-d)  **La Doctrina de la \"Pluralidad de Fricción\":**\
-    El Estado no intervendrá para imponer \"cuotas de diversidad\" en ninguna institución, pero garantiza el derecho de los ciudadanos a crear instituciones paralelas y competitivas. La defensa contra la captura no es la prohibición de la idea, sino la destrucción del monopolio que permite imponerla.
+    d)  **La Doctrina de la \"Pluralidad de Fricción\":**  El Estado no intervendrá para imponer \"cuotas de diversidad\" en ninguna institución, pero garantiza el derecho de los ciudadanos a crear instituciones paralelas y competitivas. La defensa contra la captura no es la prohibición de la idea, sino la destrucción del monopolio que permite imponerla.
 
-21. **De la Inviolabilidad Criptográfica de los Registros Judiciales y el Protocolo Anti-Manipulación de Evidencia.**
+21. **De la Inviolabilidad Criptográfica de los Registros Judiciales y el Protocolo Anti-Manipulación de Evidencia:** La República reconoce que la manipulación, edición o alteración de registros de audio y video en procesos judiciales constituye una forma de tortura institucional y un asesinato de la Verdad. Se establece el **Protocolo de Alta Fidelidad Judicial**:
 
-La República reconoce que la manipulación, edición o alteración de registros de audio y video en procesos judiciales constituye una forma de tortura institucional y un asesinato de la Verdad. Se establece el **Protocolo de Alta Fidelidad Judicial**:
-
-a)  **Grabación Directa al RNS con Firma de Origen:**\
-    Toda audiencia judicial, interrogatorio policial o declaración de seguridad nacional deberá ser capturada mediante **Dispositivos de Fe Pública**.
+a)  **Grabación Directa al RNS con Firma de Origen:** Toda audiencia judicial, interrogatorio policial o declaración de seguridad nacional deberá ser capturada mediante **Dispositivos de Fe Pública**.
 
     i.  Estos dispositivos generarán un **Hash Criptográfico Secuencial** en tiempo real, firmado por la clave privada del hardware y anclada al Registro Nacional Soberano (RNS).
 
@@ -1652,8 +1656,7 @@ b)  **Proscripción del \"Corte y Costura\" (Nulidad por Interrupción de Hash):
 
     ii. El intento de presentar un video editado como prueba íntegra se tipifica como **Delito de Perjurio Tecnológico Agravado**, conllevando la Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos (Art. 109) para el fiscal, perito o técnico responsable.
 
-c)  **Gestión de la Capa Gamma (Secreto de Estado con Integridad Pública):**\
-    En casos donde el contenido del juicio involucre secretos de Defensa Nacional, Inteligencia Estratégica o integridad biológica de víctimas:
+c)  **Gestión de la Capa Gamma (Secreto de Estado con Integridad Pública):** En casos donde el contenido del juicio involucre secretos de Defensa Nacional, Inteligencia Estratégica o integridad biológica de víctimas:
 
     i.  El video íntegro será resguardado en la **Capa Gamma (Bóveda de Estado)** bajo el Protocolo de Doble Llave (Art. 5).
 
@@ -1661,16 +1664,15 @@ c)  **Gestión de la Capa Gamma (Secreto de Estado con Integridad Pública):**\
 
     iii. **Veeduría de la CVA:** Una sub-cámara de la Cámara de Vigilancia Aleatoria (CVA), sujeta a contrato de confidencialidad, tendrá el derecho de visionar el material íntegro para certificar que la edición para el público (si la hubiera por razones de seguridad) no altera el sentido de las declaraciones.
 
-d)  **El Derecho al \"Crudo\" (Raw Data Access):**\
-    Todo imputado y su defensa tienen el derecho inalienable de acceder a la copia original, sin procesar y con metadatos completos, de cualquier grabación que se use en su contra. La negación del \"archivo crudo\" por parte del Estado anula automáticamente el proceso penal.
+d)  **El Derecho al \"Crudo\" (Raw Data Access):** Todo imputado y su defensa tienen el derecho inalienable de acceder a la copia original, sin procesar y con metadatos completos, de cualquier grabación que se use en su contra. La negación del \"archivo crudo\" por parte del Estado anula automáticamente el proceso penal.
 
 22. De la Naturaleza Negativa de los Derechos Fundamentales.
 
-a)  Definición de Rango: Todos los derechos y garantías reconocidos en este Título, así como los derechos no enumerados que emanen de la dignidad humana, se interpretarán estrictamente como Derechos de Libertad (Derechos Negativos). Su esencia es la prohibición de interferencia, agresión o coacción por parte del Estado o de terceros sobre la esfera individual.
+    a)  Definición de Rango: Todos los derechos y garantías reconocidos en este Título, así como los derechos no enumerados que emanen de la dignidad humana, se interpretarán estrictamente como Derechos de Libertad (Derechos Negativos). Su esencia es la prohibición de interferencia, agresión o coacción por parte del Estado o de terceros sobre la esfera individual.
 
-b)  Proscripción de la Carga sobre Terceros: Ningún derecho, sea este explícito o no enumerado, podrá interpretarse como una obligación de dar, hacer o financiar a favor de un individuo a costa del patrimonio, el esfuerzo o la voluntad de otro ciudadano. El ejercicio de la soberanía individual termina donde comienza la propiedad ajena.
+    b)  Proscripción de la Carga sobre Terceros: Ningún derecho, sea este explícito o no enumerado, podrá interpretarse como una obligación de dar, hacer o financiar a favor de un individuo a costa del patrimonio, el esfuerzo o la voluntad de otro ciudadano. El ejercicio de la soberanía individual termina donde comienza la propiedad ajena.
 
-c)  Supremacía de la Acción sobre la Identidad: La protección de la ley se aplica a la Acción Humana Lícita y no a la condición, etiqueta o identidad auto-percibida del sujeto. La República protege lo que el hombre hace con su libertad, no lo que el hombre dice ser para reclamar asimetría jurídica.
+    c)  Supremacía de la Acción sobre la Identidad: La protección de la ley se aplica a la Acción Humana Lícita y no a la condición, etiqueta o identidad auto-percibida del sujeto. La República protege lo que el hombre hace con su libertad, no lo que el hombre dice ser para reclamar asimetría jurídica.
 
 ------------------------------------------------------------------------
 
@@ -1682,21 +1684,21 @@ c)  Supremacía de la Acción sobre la Identidad: La protección de la ley se ap
 
 3. Derecho a la Explicabilidad y Supervisión Humana: Todo ciudadano afectado por una decisión administrativa, judicial o fiscal basada en sistemas de Inteligencia Artificial o algoritmos automatizados, tiene el derecho inalienable a:
 
-a)  Recibir una explicación detallada, técnica y comprensible de la lógica aplicada por el sistema.
+    a)  Recibir una explicación detallada, técnica y comprensible de la lógica aplicada por el sistema.
 
-b)  Exigir la revisión humana de la decisión.
+    b)  Exigir la revisión humana de la decisión.
 
-c)  Impugnar el sesgo del algoritmo ante el Tribunal de Defensa de la Constitución (TDC). Ninguna sentencia o acto administrativo será válido si se fundamenta exclusivamente en procesos de \"caja negra\" inaccesibles para el ciudadano.
+    c)  Impugnar el sesgo del algoritmo ante el Tribunal de Defensa de la Constitución (TDC). Ninguna sentencia o acto administrativo será válido si se fundamenta exclusivamente en procesos de \"caja negra\" inaccesibles para el ciudadano.
 
-**4. Axioma del Libre Albedrío, Proscripción del Estado Paternalista y el Derecho al Error Personal:** La República de Cuba Libre se fundamenta en la adultez y la soberanía del individuo. Se reconoce que la libertad conlleva inherentemente la posibilidad de tomar decisiones equivocadas, riesgosas o perjudiciales para el propio individuo.
+4. **Axioma del Libre Albedrío, Proscripción del Estado Paternalista y el Derecho al Error Personal:** La República de Cuba Libre se fundamenta en la adultez y la soberanía del individuo. Se reconoce que la libertad conlleva inherentemente la posibilidad de tomar decisiones equivocadas, riesgosas o perjudiciales para el propio individuo.
 
-a)  **Exclusividad de la Tutela Parental:** La autoridad moral, la corrección de conducta y la imposición de planes de vida recaen única y exclusivamente en los padres o tutores legales sobre sus hijos menores de edad (Art. 59). Ningún ciudadano adulto debe obediencia moral a otro ciudadano, grupo, partido o institución gubernamental.
+    a)  **Exclusividad de la Tutela Parental:** La autoridad moral, la corrección de conducta y la imposición de planes de vida recaen única y exclusivamente en los padres o tutores legales sobre sus hijos menores de edad (Art. 59). Ningún ciudadano adulto debe obediencia moral a otro ciudadano, grupo, partido o institución gubernamental.
 
-b)  **Proscripción del Paternalismo Estatal:** Queda constitucionalmente prohibido al Estado, a los Municipios o a cualquier agencia de salud o bienestar, emitir leyes, decretos o regulaciones que prohíban, restrinjan o penalicen conductas, consumos o hábitos de los ciudadanos adultos bajo el argumento de \"protegerlos de sí mismos\" o \"promover su bienestar moral\".
+    b)  **Proscripción del Paternalismo Estatal:** Queda constitucionalmente prohibido al Estado, a los Municipios o a cualquier agencia de salud o bienestar, emitir leyes, decretos o regulaciones que prohíban, restrinjan o penalicen conductas, consumos o hábitos de los ciudadanos adultos bajo el argumento de \"protegerlos de sí mismos\" o \"promover su bienestar moral\".
 
-c)  **Límite de Externalidad (El Daño a Terceros):** La única justificación válida y constitucional para que la fuerza pública intervenga, detenga o sancione a un ciudadano es la existencia de una evidencia fáctica de daño, coacción, agresión, amenaza o fraude perpetrado contra el cuerpo, la propiedad o la libertad de un **tercero**.
+    c)  **Límite de Externalidad (El Daño a Terceros):** La única justificación válida y constitucional para que la fuerza pública intervenga, detenga o sancione a un ciudadano es la existencia de una evidencia fáctica de daño, coacción, agresión, amenaza o fraude perpetrado contra el cuerpo, la propiedad o la libertad de un **tercero**.
 
-d)  **Asunción del Costo:** El Derecho al Error Personal no obliga al Estado ni a la sociedad a subsidiar sus consecuencias. El individuo es soberano para destruir su propio patrimonio o salud mediante sus decisiones, pero el costo de su rescate o rehabilitación será deducido algorítmicamente de su Capa de Capital de Maniobra y Acciones Soberanas (Art. 139 y Art. 151), garantizando que el ciudadano pague el precio de su propia libertad.
+    d)  **Asunción del Costo:** El Derecho al Error Personal no obliga al Estado ni a la sociedad a subsidiar sus consecuencias. El individuo es soberano para destruir su propio patrimonio o salud mediante sus decisiones, pero el costo de su rescate o rehabilitación será deducido algorítmicamente de su Capa de Capital de Maniobra y Acciones Soberanas (Art. 139 y Art. 151), garantizando que el ciudadano pague el precio de su propia libertad.
 
 ------------------------------------------------------------------------
 
@@ -1716,16 +1718,22 @@ d)  **Asunción del Costo:** El Derecho al Error Personal no obliga al Estado ni
 El dispositivo físico (teléfono móvil, ordenador, sensores domóticos, vehículos inteligentes, y otros de similar índole actuales o futuros) es una extensión de la propiedad privada y la "Casa" del ciudadano (Morada Inviolable). Se prohíbe la extracción pasiva de datos sensoriales.
 
     a) Nulidad de Cláusulas Abusivas de Acceso: Se declaran nulas de pleno derecho las condiciones generales de contratación, términos de servicio o acuerdos de adhesión que impongan la cesión no negociable del acceso en segundo plano a micrófonos, cámaras, geolocalización continua o interfaces de entrada a favor de desarrolladores de software o terceros.
+    
     b) Proscripción de la Captación Sensorial Pasiva: Ninguna aplicación, dispositivo o sistema operativo podrá activar sensores de audio, video o biometría sin una instrucción fáctica, directa y deliberada del usuario en el momento de la captación. La activación no autorizada en segundo plano para perfilamiento comercial o vigilancia se tipifica como Delito de Intrusión Sensorial Ilícita.
+    
     c) Auditoría Forense del Dispositivo: El Tribunal de Arbitraje Técnico (TAT) queda facultado para realizar ingeniería inversa y auditar el código de cualquier aplicación masiva que opere en la República. Si se detecta transmisión de datos sensoriales no encriptados o no autorizados tácticamente por el ciudadano, el RNS bloqueará los servidores de dicha empresa en el territorio nacional hasta la purga del código malicioso.
+    
     d) Excepción: Se exceptúan los mecanismos informáticos adónde el usuario tiene control total sobre el resultado y lo hace de forma deliberada y previa, o elementos que se encuentren desconectados de la red para la escucha de información y procesamiento local, o los mecanismos activados por voz, los cuales no podrán usar este permiso para transmitir información recopilada por ninguna vía, a no ser que el usuario decida vender esa información de forma deliberada y jamás de forma autónoma.
 
 5.Del Principio de Propiedad del Dato y el Pago por información o Entrenamiento de Inteligencia Artificial.
 La República reconoce que la experiencia, la voz, el texto y las decisiones del ciudadano no son "datos públicos gratuitos", sino Propiedad Intelectual y Biológica.
 
     a) El Dato como Activo de Mercado (AM): Queda terminantemente prohibido a cualquier empresa, nacional o extranjera, la recolección de textos, audios, imágenes o preferencias de los ciudadanos cubanos (mediante extracción masiva automatizada, minería de datos o métodos análogos) con el propósito de entrenar modelos cognitivos sintéticos, redes de aprendizaje o sistemas de inteligencia artificial presentes o futuros, a menos que medie un Contrato Inteligente de Arrendamiento de Datos en el RNS.
+    
     b) Monetización Soberana (Micro-Regalías): Si el ciudadano decide voluntariamente aportar su información para el entrenamiento de modelos de inteligencia artificial o para recibir publicidad segmentada, la entidad receptora deberá transferirle una contraprestación en micro-pagos directos a la Capa C (Capital de Maniobra) de su cuenta en el RNS por cada bloque de datos utilizado, quedando prohibida la captación no remunerada de activos cognitivos de los ciudadanos.
+    
     c) Prohibición expresa: Se prohíbe expresamente el uso de esta información vendida con el objetivo de dañar, extorsionar, espiar al usuario y otras de similar índole.
+    
     d) Excepción: La Constitución establece los medios mediante los cuales es legal el acceso no autorizado a los datos del usuario.
 
 ------------------------------------------------------------------------
@@ -1742,17 +1750,17 @@ La República reconoce que la experiencia, la voz, el texto y las decisiones del
 
 5. De la Responsabilidad Fiscal de las Organizaciones de Fe e Ideología.
 
-a)  Las contribuciones privadas y donaciones voluntarias destinadas exclusivamente al culto y la beneficencia social están exentas de gravamen por constituir transferencias de capital ya tributado por el ciudadano.
+    a)  Las contribuciones privadas y donaciones voluntarias destinadas exclusivamente al culto y la beneficencia social están exentas de gravamen por constituir transferencias de capital ya tributado por el ciudadano.
 
-b)  Toda unidad económica, mercantil, industrial o de servicios operada por organizaciones religiosas o ideológicas que genere utilidades comerciales, estará sujeta al Régimen Fiscal General definido en el Artículo 43 en igualdad de condiciones con las entidades civiles.
+    b)  Toda unidad económica, mercantil, industrial o de servicios operada por organizaciones religiosas o ideológicas que genere utilidades comerciales, estará sujeta al Régimen Fiscal General definido en el Artículo 43 en igualdad de condiciones con las entidades civiles.
 
-c)  El patrimonio inmobiliario de las organizaciones religiosas estará sujeto a las contribuciones municipales por servicios de infraestructura y seguridad, garantizando que ninguna fe sea una carga financiera para el resto de la comunidad.
+    c)  El patrimonio inmobiliario de las organizaciones religiosas estará sujeto a las contribuciones municipales por servicios de infraestructura y seguridad, garantizando que ninguna fe sea una carga financiera para el resto de la comunidad.
 
 6. **Extinción de la Filantropía Política:** Se establece la separación inquebrantable entre la caridad y la política.
 
-a)  Ninguna entidad que goce de exenciones de impuestos (Art. 25.5) podrá destinar un solo centavo a la organización de protestas, lobby legislativo, proselitismo o agitación social.
+    a)  Ninguna entidad que goce de exenciones de impuestos (Art. 25.5) podrá destinar un solo centavo a la organización de protestas, lobby legislativo, proselitismo o agitación social.
 
-b)  La organización que cruce esta línea perderá automáticamente su estatus de beneficencia de forma retroactiva, debiendo pagar el Impuesto Único Proporcional (Flat Tax) con recargos por evasión fiscal simulada, sin importar si sus intenciones declaran ser \"en defensa de los derechos humanos\".
+    b)  La organización que cruce esta línea perderá automáticamente su estatus de beneficencia de forma retroactiva, debiendo pagar el Impuesto Único Proporcional (Flat Tax) con recargos por evasión fiscal simulada, sin importar si sus intenciones declaran ser \"en defensa de los derechos humanos\".
 
 ------------------------------------------------------------------------
 
@@ -1768,22 +1776,21 @@ b)  La organización que cruce esta línea perderá automáticamente su estatus 
 
 5. **Inviolabilidad del Espacio Litúrgico y sus Límites de Seguridad Nacional:** Se reconoce el lugar de culto debidamente registrado como un Espacio de Privacidad Colectiva.
 
-> a) **Prohibición de Vigilancia Rutinaria:** Queda prohibido a los servicios de inteligencia o policía la infiltración, grabación masiva o monitoreo preventivo de sermones y ritos. La fe no es un delito ni una sospecha.
->
-> b) **La Válvula de Pérdida de Inmunidad (Doctrina del Desvío):** La protección de privacidad del recinto sagrado **se extingue de pleno derecho** y habilita la intervención inmediata del Estado (con orden judicial del TDC o en flagrancia) cuando existan pruebas o indicios fundados de:
+    a) **Prohibición de Vigilancia Rutinaria:** Queda prohibido a los servicios de inteligencia o policía la infiltración, grabación masiva o monitoreo preventivo de sermones y ritos. La fe no es un delito ni una sospecha.
 
-    i.  **Almacenamiento de Armas:** Uso del recinto para logística paramilitar.
+    b) **La Válvula de Pérdida de Inmunidad (Doctrina del Desvío):** La protección de privacidad del recinto sagrado **se extingue de pleno derecho** y habilita la intervención inmediata del Estado (con orden judicial del TDC o en flagrancia) cuando existan pruebas o indicios fundados de:
 
-    ii. **Incitación a la Violencia Física:** Prédica que ordene explícitamente dañar la integridad física de terceros (pogromos, yihad ofensiva, limpieza social).
+        i.  **Almacenamiento de Armas:** Uso del recinto para logística paramilitar.
 
-    iii. **Sedición Teocrática:** Promoción activa de la sustitución de la Constitución por una ley religiosa, o el establecimiento de tribunales religiosos paralelos que intenten juzgar asuntos civiles o penales al margen de la Ley de la República.
+        ii. **Incitación a la Violencia Física:** Prédica que ordene explícitamente dañar la integridad física de terceros (pogromos, yihad ofensiva, limpieza social).
 
-    iv. **Coacción al Abandono:** Secuestro o retención física de miembros que deseen ejercer su derecho a la apostasía.
+        iii. **Sedición Teocrática:** Promoción activa de la sustitución de la Constitución por una ley religiosa, o el establecimiento de tribunales religiosos paralelos que intenten juzgar asuntos civiles o penales al margen de la Ley de la República.
 
-> c) **Protocolo de Intervención Quirúrgica:** En estos casos, la intervención estatal debe ser específica contra los líderes instigadores y no contra la feligresía general. La carga de la prueba recae sobre el Estado, que deberá grabar y documentar la operación para su posterior validación ante el Tribunal de Defensa de la Constitución (TDC).
+        iv. **Coacción al Abandono:** Secuestro o retención física de miembros que deseen ejercer su derecho a la apostasía.
 
-6. **De la Separación entre Entidades Religiosas y Mercados Estratégicos.**\
-La República garantiza la libertad de culto y la propiedad de los recintos sagrados, pero prohíbe terminantemente la acumulación de poder macroeconómico por parte de instituciones religiosas, iglesias, logias, sectas u organizaciones de fe, para evitar la coacción laboral mediante la dependencia financiera.
+    c) **Protocolo de Intervención Quirúrgica:** En estos casos, la intervención estatal debe ser específica contra los líderes instigadores y no contra la feligresía general. La carga de la prueba recae sobre el Estado, que deberá grabar y documentar la operación para su posterior validación ante el Tribunal de Defensa de la Constitución (TDC).
+
+6. **De la Separación entre Entidades Religiosas y Mercados Estratégicos:** La República garantiza la libertad de culto y la propiedad de los recintos sagrados, pero prohíbe terminantemente la acumulación de poder macroeconómico por parte de instituciones religiosas, iglesias, logias, sectas u organizaciones de fe, para evitar la coacción laboral mediante la dependencia financiera.
 
     a)  **Límite de Propiedad Comercial Religiosa:** Toda institución de fe tiene derecho a poseer y operar empresas de escala menor (editoriales, tiendas de insumos religiosos, artesanías) bajo la figura de Sociedad de Emprendimiento Particular (SEP). Sin embargo, si la entidad religiosa expande su operación hacia industrias críticas (alimentación masiva, minería, telecomunicaciones, energía, banca) o supera el límite de facturación o empleados establecido para las macroempresas por el Tribunal de Arbitraje Técnico (TAT), **pierde de pleno derecho el permiso para ser titular del cien por ciento (100%) del capital.**
 
@@ -1799,15 +1806,13 @@ La República garantiza la libertad de culto y la propiedad de los recintos sagr
 
     c)  **Opción de Venta Directa:** En caso de rechazar la conversión a SACA, la institución religiosa está obligada a liquidar y vender la empresa a entidades civiles laicas registradas en el Registro Nacional Soberano (RNS).
 
-7. **De la Incompatibilidad entre el Liderazgo Religioso y la Dirección Corporativa.**\
-Para erradicar el conflicto de intereses entre la autoridad moral y la coacción corporativa:
+7. **De la Incompatibilidad entre el Liderazgo Religioso y la Dirección Corporativa:** Para erradicar el conflicto de intereses entre la autoridad moral y la coacción corporativa:
 
     a)  Se establece la **Incompatibilidad de Jerarquía Simultánea**. Ningún ciudadano que ejerza como líder espiritual oficial, sacerdote, imán, pastor titular, u homólogo en una institución religiosa registrada en el RNS, podrá ejercer simultáneamente como Director Ejecutivo (CEO), accionista mayoritario (AM) de control o miembro de la Junta Directiva de una macroempresa civil o SACA.
 
     b)  Si un líder espiritual desea dirigir una corporación a gran escala, deberá renunciar formalmente a su cargo religioso en el RNS. El púlpito y la junta de accionistas son excluyentes en la escala del poder fáctico.
 
-8. **Nulidad de Coacción Laboral por Fe (El Escudo del Trabajador).**\
-Queda tipificado como **Delito de Extorsión Teocrática** el condicionamiento del empleo, salario o ascenso en cualquier empresa (sea SACA, SEP o cooperativa) a la participación en ritos religiosos, donaciones eclesiásticas (\"diezmo por nómina\") o profesión de fe del trabajador.
+8. **Nulidad de Coacción Laboral por Fe:** Queda tipificado como **Delito de Extorsión Teocrática** el condicionamiento del empleo, salario o ascenso en cualquier empresa (sea SACA, SEP o cooperativa) a la participación en ritos religiosos, donaciones eclesiásticas (\"diezmo por nómina\") o profesión de fe del trabajador.
 
     a)  Si el TAT verifica mediante auditoría del RNS que una empresa despide, acosa o penaliza a un empleado por motivos de apostasía (Art. 149) o negativa a comulgar con la fe de los directivos, **el velo corporativo será levantado automáticamente**.
 
@@ -1927,8 +1932,7 @@ Queda tipificado como **Delito de Extorsión Teocrática** el condicionamiento d
 
 5. **Fianza de Veracidad para Emisores Sistémicos:** Toda entidad comercial, plataforma o particular que monetice la información y alcance un umbral de influencia masiva (definido por ley orgánica), deberá constituir una póliza de responsabilidad civil o Fianza de Integridad registrada en el Registro Nacional Soberano (RNS). En caso de sentencia firme por Difamación Armada, el sistema ejecutará de forma automática y sin fricción la indemnización a la víctima desde dicha fianza o desde la Capa de Capital de Maniobra (Artículo 115.5) de los directivos responsables.
 
-6. **Del Índice de Bienestar Biológico y Estabilidad Social (IBBES):**\
-Se instituye el IBBES como el sensor fundamental de la salud de la República. El Registro Nacional Soberano (RNS) procesará de forma ininterrumpida y algorítmica los datos agregados y anonimizados de cada municipio para detectar fallos de red en el contrato social.
+6. **Del Índice de Bienestar Biológico y Estabilidad Social (IBBES):** Se instituye el IBBES como el sensor fundamental de la salud de la República. El Registro Nacional Soberano (RNS) procesará de forma ininterrumpida y algorítmica los datos agregados y anonimizados de cada municipio para detectar fallos de red en el contrato social.
 
     a)  **Parámetros de Medición:** El IBBES se calculará basándose en la tasa de poder adquisitivo real, niveles de nutrición infantil, eficiencia de los Vouchers de Salud, índice de litigiosidad violenta y tiempo promedio de respuesta del Tribunal de Arbitraje Técnico (TAT).
 
@@ -2747,18 +2751,17 @@ Se instituye el TDAM como la herramienta fundamental del Registro Nacional Sober
 
     f)  **Conversión a Factura Soberana:** Todo TDAM puede ser transformado, por voluntad del emisor y aceptación del receptor, en una Factura Comercial válida para deducciones fiscales o auditorías de capital de maniobra, integrándose automáticamente en la Capa Alfa o Beta de transparencia según corresponda.
 
-8. De la Tenencia Irrestricta de Dinero Físico, Soberanía de Custodia y la Transacción Analógica. La República reconoce el derecho inalienable de todo ciudadano y persona jurídica a poseer, custodiar, transportar e intercambiar dinero en efectivo en cualquier volumen, cuantía o denominación, sin que el Estado pueda imponer topes máximos de tenencia física, porcentajes obligatorios de bancarización digital ni restricciones al monto de las transacciones en metálico.
+8. **De la Tenencia Irrestricta de Dinero Físico, Soberanía de Custodia y la Transacción Analógica:** La República reconoce el derecho inalienable de todo ciudadano y persona jurídica a poseer, custodiar, transportar e intercambiar dinero en efectivo en cualquier volumen, cuantía o denominación dentro del circuito económico nacional, sin que el Estado pueda imponer topes máximos de tenencia física, porcentajes obligatorios de bancarización digital ni restricciones al monto de las transacciones en metálico.
 
-    a) Proscripción de la Presunción de Culpabilidad Financiera: La tenencia, almacenamiento privado o movilización de altas sumas de dinero en efectivo no constituye, por sí misma, indicio de delito, falta administrativa ni hecho imponible extraordinario. Se prohíbe la incautación preventiva de dinero físico basada exclusivamente en la cuantía portada, exigiéndose orden judicial motivada y fundada en la comisión comprobada de un delito material tipificado.
+    a) **Proscripción de la Presunción de Culpabilidad Financiera:** La tenencia, almacenamiento privado o movilización interna de altas sumas de dinero en efectivo no constituye, por sí misma, indicio de delito, falta administrativa ni hecho imponible extraordinario.
 
-    b) Soberanía del Excedente Tributado: El deber del ciudadano hacia la Nación se extingue con la declaración veraz de sus ingresos y la liquidación del Impuesto Único Proporcional (Flat Tax, Artículo 43). Una vez cumplida la obligación fiscal, la decisión de mantener el capital líquido en cuentas digitales o en custodia material física pertenece al ámbito exclusivo de la privacidad individual (Capa Gamma), quedando prohibida cualquier auditoría sobre el método o lugar de almacenamiento del dinero físico legítimo.
+    b) **Control de Frontera Aduanera y Cooperación Internacional:** Lo dispuesto en este artículo rige de forma irrestricta en el territorio nacional, sin perjuicio de los protocolos aduaneros de declaración obligatoria para el transporte transfronterizo de divisas o metales preciosos al ingresar o salir del país, en estricto cumplimiento de los tratados internacionales de prevención del crimen organizado transnacional y financiamiento al terrorismo (Artículo 49.6).
 
-    c) Protección del Pago en Efectivo: Ningún comercio, empresa pública, Sociedad Anónima de Capital Abierto (SACA) o particular podrá ser obligado por el Estado a rechazar el dinero físico como medio liberatorio de pago.
+    c) **Protección del Pago en Efectivo:** Ningún comercio, empresa pública, Sociedad Anónima de Capital Abierto (SACA) o particular podrá ser obligado por el Estado a rechazar el dinero físico como medio liberatorio de pago.
 
-    d) Del Resguardo de la Transacción Analógica y la Cédula de Entrega: Para que las transacciones en efectivo gocen del amparo de restitución forzosa ante los Alguaciles de la Constitución en caso de estafa (Artículo 22.17), las partes conservan el derecho voluntario de emitir el Ticket de Testimonio Material en el Registro Nacional Soberano (RNS), sin que la omisión de este registro invalide la licitud del intercambio físico acordado entre partes libres.
+    d) **Del Resguardo de la Transacción Analógica y la Cédula de Entrega:** Para que las transacciones en efectivo gocen del amparo de restitución forzosa ante los Alguaciles de la Constitución en caso de estafa (Artículo 22.17), las partes conservan el derecho voluntario de emitir el Ticket de Testimonio Material en el Registro Nacional Soberano (RNS), sin que la omisión de este registro invalide la licitud del intercambio físico acordado entre partes libres.
 
-9. **Del Arbitraje de Activos Descentralizados y la Pasarela de Seguridad.**\
-Se prohíbe la indefensión del ciudadano ante fraudes o sustracciones en redes descentralizadas externas y mercados de criptoactivos.
+9. **Del Arbitraje de Activos Descentralizados y la Pasarela de Seguridad:** Se prohíbe la indefensión del ciudadano ante fraudes o sustracciones en redes descentralizadas externas y mercados de criptoactivos.
 
     a)  **El Sello de Billetera Verificada:** El RNS permitirá a los ciudadanos vincular sus direcciones de criptodivisas externas a su identidad soberana (Capa Gamma).
 
@@ -3161,15 +3164,13 @@ La República reconoce que el derecho de propiedad incluye la facultad de ceder 
 
     d)  **Ruptura de Custodia por Adicción o Dolo del Menor:** Si se demuestra mediante auditoría forense del Tribunal de Arbitraje Técnico (TAT) que el menor ejecutó el acto tras vulnerar deliberadamente los mecanismos de seguridad del hogar (forzar cajas fuertes, robo de contraseñas) o bajo el estado de alteración inducida por terceros (narcotráfico), la responsabilidad civil de los padres podrá ser atenuada o extinguida, recayendo el peso íntegro de la deuda sobre el menor infractor, quien la saldará a través del Sistema Penal Productivo (Art. 22) tras su condena.
 
-    e)  **De la Equiparación por Gravedad Predatoria:** Se establece la **Nulidad de la Minoridad en Delitos de Sangre y Terrorismo**. Para efectos de la justicia penal en la República de Cuba, la condición de \"menor de edad\" se extingue de pleno derecho ante la comisión de actos de Agresión Predatoria (Art. 97.12.d).
+    e) **Régimen Penal Especial de Imputabilidad por Delitos de Sangre y Terrorismo:** La minoría de edad no constituirá eximente, privilegio ni atenuante automática ante la comisión probada de actos de Agresión Predatoria (Art. 97.12.d).
 
-        <!-- -->
+        i. **Imputabilidad Agravada por el Acto:** Si un ciudadano menor de edad fuere convicto por homicidio doloso, asesinato, tortura, secuestro o extorsión armada, será juzgado bajo un régimen penal especial donde la sanción se tasará en función directa de la Gravedad del Daño. El régimen de trabajo y reparación del Sistema Penal Productivo (Art. 22.13) será plenamente aplicable en proporción a su capacidad física.
 
-        i.  **Imputabilidad por el Acto:** Si un ciudadano menor de edad es convicto por homicidio doloso, tortura, secuestro o extorsión armada, la pena será calculada sobre la **Gravedad del Daño** y no sobre la edad del perpetrador. El sistema penal productivo (Art. 22.13) se aplicará de forma íntegra.
+        ii. **Responsabilidad Agravada del Reclutador:** Todo adulto que induzca, contrate o utilice a un menor para la comisión de un delito será sancionado como Autor Intelectual Agravado, sumándose a su condena la totalidad de la pena impuesta al menor multiplicada por dos (2x).
 
-        ii. **Responsabilidad en Cascada hacia el Reclutador:** Todo adulto que utilice a un menor para la comisión de un delito será juzgado como **Autor Intelectual Agravado**, sumándose a su pena la totalidad de los años impuestos al menor, multiplicados por dos (2x). En la nación usar a un niño para matar es el delito más costoso del código penal.
-
-        iii. **Segregación Biológica en el Internamiento:** Aunque la pena sea de adulto, el internamiento del menor de edad se realizará en centros de **Redignificación de Alta Seguridad** separados de la población penal adulta, para evitar que las prisiones sean universidades del crimen, pero bajo el mismo régimen de trabajo y restitución económica.
+        iii. **Segregación Biológica y Revisión Periódica:** El cumplimiento de las penas privativas de libertad de menores se ejecutará obligatoriamente en centros de custodia y redignificación de alta seguridad estrictamente separados de la población penal adulta. Para preservar la proporcionalidad de la sanción, toda pena superior a diez (10) años estará sujeta a una auditoría técnica y psicológica obligatoria por el TAT al cumplirse dicho término, evaluando la redención fáctica del sancionado sin menoscabo de la deuda civil de restitución.
 
 9. **Cláusula de Neutralidad Ideológica y Primacía Bio-Social:** El sistema educativo nacional se define como un entorno de **Alta Fidelidad Técnica**. Se prohíbe terminantemente la impartición de contenidos, conductas, teorías de identidad o modelos de comportamiento sexual y social que no cuenten con la **Validación de Consentimiento Expreso** por parte de los padres o tutores legales para menores de dieciocho (18) años.
 

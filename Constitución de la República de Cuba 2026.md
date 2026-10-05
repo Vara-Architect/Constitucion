@@ -128,7 +128,9 @@ NOSOTROS, EL PUEBLO DE CUBA, en ejercicio de nuestra soberanía inalienable, pre
 
     d)  La disolución final temprana de un CER regional procederá por decreto presidencial una vez que el setenta y cinco por ciento (75%) de los municipios integrados en dicha región hayan alcanzado el estatus de emancipación.
 
-    e)  Independientemente del Índice de Estabilidad Vital (IEV), se establece una **Fecha de Extinción Innegociable** a los ciento veinte (120) meses (10 años) de la promulgación de esta Constitución.
+    e) **Fecha de Extinción Innegociable y Válvula de Latencia:** Independientemente del Índice de Estabilidad Vital (IEV), se establece la extinción de toda estructura provincial a los ciento veinte (120) meses (10 años) de la promulgación de esta Constitución. 
+
+        - Como única salvedad técnica, si en el último año de dicho ciclo (meses 109 a 120) sobreviniera una catástrofe climática de gran intensidad, epidemia severa o conflicto bélico debidamente certificado por unanimidad del TAT y el Senado de Rectores, que destruya la infraestructura básica de una región, se activará de pleno derecho una **Válvula de Latencia Extraordinaria de hasta doce (12) meses adicionales** para el Consorcio de Estabilización Regional (CER) afectado. Dicha prórroga tendrá carácter estrictamente logístico y de reconstrucción, sin capacidad impositiva ni autoridad política, extinguiéndose de forma definitiva e improrrogable al mes 132.
 
     f)  Llegado el mes 121 (10 años), el RNS ejecutará la desconexión financiera de toda estructura administrativa regional. Los municipios que no hayan alcanzado el 85% del IEV entrarán en régimen de **Autogestión por Emergencia**, bajo tutoría directa del TAT, pero sin burocracia intermedia, sin perjuicio de la extinción de la estructura provincial.
 
@@ -241,7 +243,7 @@ La República garantiza la integridad histórica de sus registros ante cualquier
 
 ## Artículo 5. Soberanía Digital III -- Protocolo de Doble Llave Digital.
 
-Protocolo de Doble Llave Digital: El acceso estatal a la información privada del ciudadano para fines de investigación criminal queda sujeto a la concurrencia obligatoria de dos firmas digitales: una proveniente de la autoridad investigadora y otra de validación emitida por un Juez del Tribunal de Defensa de la Constitución (TDC). Queda prohibido el acceso unilateral, masivo o automatizado por parte de cualquier agencia del Estado.
+1. Protocolo de Doble Llave Digital: El acceso estatal a la información privada del ciudadano para fines de investigación criminal queda sujeto a la concurrencia obligatoria de dos firmas digitales: una proveniente de la autoridad investigadora y otra de validación emitida por un Juez del Tribunal de Defensa de la Constitución (TDC). Queda prohibido el acceso unilateral, masivo o automatizado por parte de cualquier agencia del Estado.
 
 ------------------------------------------------------------------------
 
@@ -439,7 +441,7 @@ Cualquier acuerdo de uso compartido o cooperación militar con potencias o organ
 
     d)  **Integración de Sistemas Biotecnológicos Urbanos:** El financiamiento de proyectos de agricultura vertical, hidroponía, acuaponía y sistemas de producción de biomasa integrados en el tejido urbano. Esto incluye créditos preferenciales para la reconversión de edificaciones existentes o el diseño de nuevas estructuras que incorporen Módulos de Autoproducción Alimentaria en su arquitectura.
 
-5. De la Competencia Regulatoria entre Nodos.** Se garantiza el derecho de cada Nodo Municipal a diseñar su propio **Marco de Incentivos y Regulación Local**, siempre que no viole la Constitución Nacional.
+5. **De la Competencia Regulatoria entre Nodos.** Se garantiza el derecho de cada Nodo Municipal a diseñar su propio **Marco de Incentivos y Regulación Local**, siempre que no viole la Constitución Nacional.
 
     a)  Los ciudadanos y empresas tienen el derecho inalienable de trasladar su residencia, capital y activos a cualquier Nodo de la República sin pagar \"tasas de salida\" o enfrentar barreras burocráticas.
 
@@ -465,29 +467,29 @@ Cualquier acuerdo de uso compartido o cooperación militar con potencias o organ
 
 1. Definición de Recursos y Redes de Interconexión (RRI): Se definen como Redes de Interconexión aquellos sistemas físicos cuya operatividad trasciende la frontera de un solo Municipio y cuya parálisis compromete la estabilidad nacional. Estas incluyen:
 
-    a)  Redes Hidrodinámicas: Cuencas, ríos, acuíferos y sistemas de acueductos compartidos.
+    a)  **Redes Hidrodinámicas:** Cuencas, ríos, acuíferos y sistemas de acueductos compartidos.
 
-    b)  Redes Energéticas: Centrales de generación (termoeléctricas, solares, entre otras fuentes de generación), líneas de alta tensión y redes de distribución de hidrocarburos, etc.
+    b)  **Redes Energéticas:** Centrales de generación (termoeléctricas, solares, entre otras fuentes de generación), líneas de alta tensión y redes de distribución de hidrocarburos, etc.
 
-    c)  Redes Logísticas: Vías férreas, carreteras troncales, puertos de enlace y aeropuertos, etc.
+    c)  **Redes Logísticas:** Vías férreas, carreteras troncales, puertos de enlace y aeropuertos, etc.
 
-    d)  Redes de Datos: Fibra óptica troncal, centros de datos nacionales, y similares.
+    d)  **Redes de Datos:** Fibra óptica troncal, centros de datos nacionales, y similares.
 
-2. Servidumbre de Paso y No-Interferencia: Se establece la Servidumbre Constitucional de Paso sobre el suelo municipal para las RRI. Ningún Municipio podrá, invocando su autonomía, interrumpir, sabotear o bloquear el flujo de energía, agua, transporte o datos que transite hacia otros nodos de la República. El bloqueo deliberado será tipificado como Atentado contra la Seguridad de la Nación.
+2. **Servidumbre de Paso y No-Interferencia:** Se establece la Servidumbre Constitucional de Paso sobre el suelo municipal para las RRI. Ningún Municipio podrá, invocando su autonomía, interrumpir, sabotear o bloquear el flujo de energía, agua, transporte o datos que transite hacia otros nodos de la República. El bloqueo deliberado será tipificado como Atentado contra la Seguridad de la Nación.
 
-3. Del Tribunal de Arbitraje Técnico (TAT): Ante un conflicto por el uso, mantenimiento o gestión de una RRI, y a falta de acuerdo en el Consorcio de Infraestructura Técnica (CIT), se activará el TAT bajo las siguientes reglas:
+3. **Del Tribunal de Arbitraje Técnico (TAT):** Ante un conflicto por el uso, mantenimiento o gestión de una RRI, y a falta de acuerdo en el Consorcio de Infraestructura Técnica (CIT), se activará el TAT bajo las siguientes reglas:
 
-    a)  Composición del TAT: El TAT será un jurado ad hoc de tres (3) miembros: un Ingeniero Senior de la especialidad en conflicto, un Auditor Financiero y un Juez Administrativo, seleccionados por sorteo técnico entre los decanos de las facultades nacionales.
+    a)  **Composición del TAT:** El TAT será un jurado ad hoc de tres (3) miembros: un Ingeniero Senior de la especialidad en conflicto, un Auditor Financiero y un Juez Administrativo, seleccionados por sorteo técnico entre los decanos de las facultades nacionales.
 
-    b)  Criterio de Resolución (Primacía de la Red): El TAT fallará basándose en la Eficiencia del Sistema Total. No se juzga \"quién tiene derecho político\", sino \"cómo fluye el recurso con el menor daño y mayor beneficio para los usuarios finales\".
+    b)  **Criterio de Resolución (Primacía de la Red):** El TAT fallará basándose en la Eficiencia del Sistema Total. No se juzga \"quién tiene derecho político\", sino \"cómo fluye el recurso con el menor daño y mayor beneficio para los usuarios finales\".
 
-    c)  Plazo Perentorio: El TAT emitirá un dictamen técnico vinculante en un plazo máximo de treinta (30) días.
+    c)  **Plazo Perentorio:** El TAT emitirá un dictamen técnico vinculante en un plazo máximo de treinta (30) días.
 
 4. **Ejecución y Prorrateo de Intervención:** Si un Municipio se niega a acatar el dictamen del TAT, el CIT queda facultado para intervenir técnicamente la red. El costo de dicha intervención será debitado del presupuesto municipal del mes siguiente, estableciéndose un Techo de Retención Mensual del veinte por ciento (20%) de la cuota municipal para no paralizar los servicios básicos. El saldo restante se prorrateará en los ejercicios sucesivos hasta su liquidación total.
 
-5. Neutralidad de la Gestión: Las RRI serán gestionadas por entidades técnicas de propósito único (Artículo 2), financiadas por tasas de uso (peajes). Estas entidades están prohibidas de ejercer poder político o favorecer a municipios específicos por razones ajenas a la optimización técnica de la red.
+5. **Neutralidad de la Gestión:** Las RRI serán gestionadas por entidades técnicas de propósito único (Artículo 2), financiadas por tasas de uso (peajes). Estas entidades están prohibidas de ejercer poder político o favorecer a municipios específicos por razones ajenas a la optimización técnica de la red.
 
-6. De la Coordinación Técnica de Interconexión y Arbitraje Funcional: La interconexión entre Municipios, Consorcios de Propósito Único (CPU), y Consorcios de Infraestructura Técnica (CIT), empresas operadoras y redes de infraestructura nacional se regirá por un Mecanismo de Coordinación Técnica Transitoria (MCTT), de naturaleza estrictamente funcional, no institucional.
+6. **De la Coordinación Técnica de Interconexión y Arbitraje Funcional:** La interconexión entre Municipios, Consorcios de Propósito Único (CPU), y Consorcios de Infraestructura Técnica (CIT), empresas operadoras y redes de infraestructura nacional se regirá por un Mecanismo de Coordinación Técnica Transitoria (MCTT), de naturaleza estrictamente funcional, no institucional.
 
     a)  El MCTT tendrá como única finalidad:
 
@@ -575,14 +577,13 @@ Cualquier acuerdo de uso compartido o cooperación militar con potencias o organ
 
 8. **De la Validez Inter-Municipal de Actos Legales.** Se establece el principio de **Plena Fe y Crédito**. Los registros públicos, contratos, sentencias judiciales y certificaciones del RNS emanados de un Municipio tendrán validez automática y vinculante en todos los demás Municipios de la República. Ninguna autoridad local podrá desconocer un derecho adquirido o una identidad validada en otro nodo de la nación.
 
-9. Responsabilidad de Red y Protección del Tejido Nacional: La vigilancia de los bienes que nos sirven a todos (como los ríos, las redes de energía o las grandes empresas de suministro) es un deber ciudadano.
+9. **Responsabilidad de Red y Protección del Tejido Nacional:** La vigilancia de los bienes que nos sirven a todos (como los ríos, las redes de energía o las grandes empresas de suministro) es un deber ciudadano.
 
     a)  Protección a la Denuncia de Buena Fe: Cualquier ciudadano que reporte un daño a un río, un sabotaje eléctrico o un fraude en una SACA será protegido por la ley. Si el denunciante se equivoca en su reporte, pero actuó por un deseo real de proteger el bien común, no recibirá castigo alguno.
 
     b)  Sanción por Denuncia Maliciosa: Solo si se demuestra técnicamente que el denunciante mintió a propósito para hacer daño a una empresa o a una persona, se le aplicarán multas por Obstrucción a la Justicia. La ley protege el error honesto, pero castiga la mentira planificada.
 
-10. **Del Mandato de Seguridad en el Transporte y la Movilidad:**\
-La República reconoce que el derecho a la movilidad (Art. 13.7) es nulo sin la garantía de integridad física. El Estado Nacional, a través de las Agencias Reguladoras Autónomas y bajo auditoría del TAT, es el responsable último de la **Regulación de Seguridad del Flujo** en todas sus modalidades (Marítima, Terrestre, Ferroviaria y Aérea).
+10. **Del Mandato de Seguridad en el Transporte y la Movilidad:** La República reconoce que el derecho a la movilidad (Art. 13.7) es nulo sin la garantía de integridad física. El Estado Nacional, a través de las Agencias Reguladoras Autónomas y bajo auditoría del TAT, es el responsable último de la **Regulación de Seguridad del Flujo** en todas sus modalidades (Marítima, Terrestre, Ferroviaria y Aérea).
 
     a)  **Estándar de Seguridad Preventiva:** Ninguna embarcación, vehículo de transporte masivo o red ferroviaria podrá operar sin la certificación de **Sistemas de Mitigación de Colisión** y control de aforo en tiempo real conectado al RNS.
 
@@ -590,8 +591,7 @@ La República reconoce que el derecho a la movilidad (Art. 13.7) es nulo sin la 
 
     c)  **Veto al Caos en Festividades:** En periodos de alta demanda o movilización masiva, el TAT activará el **Protocolo de Flujo Sincronizado**, asumiendo el mando técnico de las terminales para evitar la aglomeración que ponga en riesgo la vida. La eficiencia del transporte nunca podrá estar por encima de la densidad biológica de seguridad.
 
-11. **Del Protocolo de Hitos de Visibilidad y Certificación de Obra Oculta:**\
-Se define como **Obra Oculta** a todo componente estructural, instalación técnica u operación biológica que, por la naturaleza del proceso, deba ser cubierto o enterrado, imposibilitando su auditoría física posterior sin la destrucción del conjunto.
+11. **Del Protocolo de Hitos de Visibilidad y Certificación de Obra Oculta:** Se define como **Obra Oculta** a todo componente estructural, instalación técnica u operación biológica que, por la naturaleza del proceso, deba ser cubierto o enterrado, imposibilitando su auditoría física posterior sin la destrucción del conjunto.
 
     a)  **Hito de Liberación Digital:** Se prohíbe el inicio de cualquier fase de \"recubrimiento\" (vaciado de hormigón, cierre de muros, soterramiento de redes en lugares donde se requiera este tipo de certificación, entre otros de similar índole) sin la obtención previa del **Certificado de Hito Liberado** emitido por el RNS.
 
@@ -937,17 +937,19 @@ La República reconoce a los hijos y nietos de la Diáspora como parte integrant
 
 4. **Del Visado de Rendimiento y la Extinción por Inactividad:** La residencia extranjera en la República no es un estatus vitalicio, es un Contrato de Productividad Continuada.
 
-    a) Vinculación Fiscal y Principio de Autosuficiencia: Todo permiso de residencia laboral, técnica o de inversión está vinculado algorítmicamente en el RNS al principio de sostenibilidad económica y no gravamen del erario público.
+    a) **Vinculación Fiscal y Principio de Autosuficiencia:** Todo permiso de residencia laboral, técnica o de inversión está vinculado algorítmicamente en el RNS al principio de sostenibilidad económica y no gravamen del erario público.
     
-    b) Reloj de Caducidad y Régimen de Prospección: Se establece un término perentorio de ciento veinte (120) días continuos de inactividad para la caducidad del permiso de residencia ordinario. No obstante, el cómputo de dicho reloj quedará neutralizado y el estatus plenamente vigente cuando el residente acredite ante el RNS cualquiera de las siguientes condiciones objetivas:
+    b) **Reloj de Caducidad y Régimen de Prospección:** Se establece un término perentorio de ciento veinte (120) días continuos de inactividad para la caducidad del permiso de residencia ordinario. No obstante, el cómputo de dicho reloj quedará neutralizado y el estatus plenamente vigente cuando el residente acredite ante el RNS cualquiera de las siguientes condiciones objetivas:
 
         i. Ejercicio Económico Ordinario: Existencia de contrato laboral registrado o declaración de actividad comercial bajo el régimen del Flat Tax (Artículo 43).
 
-        ii. Fase de Prospección e Inversión Pre-Operativa: Presentación de un plan de inversión, estudio de factibilidad o proyecto en fase de desarrollo o construcción, validado por el TAT, acreditando la inyección de capital en el circuito bancario nacional o el gasto operativo local documentado, aun cuando no se hayan generado utilidades comerciales inmediatas.
-        
-        iii. Autosuficiencia Patrimonial Garantizada: Depósito y custodia en el sistema bancario nacional de fondos líquidos propios, equivalentes al menos a doce (12) meses de la Canasta Básica de Vida (CBV) municipal, que garanticen su manutención y la cobertura de cualquier contingencia civil sin recurrir al auxilio público.
+        ii. **Inserción en Rampas de Redignificación:** Incorporación activa y remunerada en labores de infraestructura, saneamiento o agricultura en las Rampas de Redignificación (Artículos 20.15.c y 151), generando Créditos de Estancia que renuevan legalmente el permiso de residencia mientras dure la actividad.
 
-    Agotados los 120 días sin concurrir ninguna de estas tres causales de acreditación, el RNS revocará de pleno derecho la residencia, otorgando un plazo improrrogable de treinta (30) días naturales para el abandono voluntario del territorio nacional.
+        iii. Fase de Prospección e Inversión Pre-Operativa: Presentación de un plan de inversión validado por el TAT, acreditando inyección de capital o gasto operativo documentado.
+
+        iv. Autosuficiencia Patrimonial Garantizada: Depósito bancario de fondos propios equivalentes a doce (12) meses de la Canasta Básica de Vida (CBV).
+
+    Agotados los 120 días sin concurrir ninguna de estas cuatro causales de acreditación, el RNS activará la Escalera de Inserción del Artículo 20.9.e previa a cualquier medida de salida.
 
     c)  **De la Pausa Algorítmica por Fuerza Mayor (Cláusula de Crisis Severa):** El Reloj de Caducidad de ciento veinte (120) días para residentes extranjeros no es un instrumento ciego. Se suspenderá automáticamente el conteo, sin pérdida de estatus migratorio, cuando el Registro Nacional Soberano (RNS) reciba certificación médica, policial o técnica de una Crisis Personal Severa. Se definen como tales, de manera estricta:
 
@@ -959,7 +961,7 @@ La República reconoce a los hijos y nietos de la Diáspora como parte integrant
 
         iii. Pérdida total de vivienda o negocio por catástrofe natural o siniestro no imputable al titular.
 
-    > Esta pausa se mantendrá vigente por el tiempo que el Tribunal de Arbitraje Técnico (TAT) o la autoridad médica certifiquen la incapacidad física o el duelo, reanudándose el conteo de los 120 días solo cuando el individuo recupere su capacidad fáctica para operar en el mercado.
+    Esta pausa se mantendrá vigente por el tiempo que el Tribunal de Arbitraje Técnico (TAT) o la autoridad médica certifiquen la incapacidad física o el duelo, reanudándose el conteo de los 120 días solo cuando el individuo recupere su capacidad fáctica para operar en el mercado.
 
     d)  **Del Veto por Autolesión y Fraude de Vulnerabilidad (La Cláusula Anti-Mutilación):**\
         Queda terminantemente excluida del amparo de Fuerza Mayor (inciso anterior) cualquier crisis severa que haya sido provocada de manera dolosa por el propio individuo.\
@@ -993,13 +995,17 @@ La República de Cuba propondrá a la comunidad internacional la firma de \"Trat
 
     c)  **Protección contra el Imperialismo Jurídico:** Cuba reconoce la soberanía absoluta de cada Nación sobre su suelo. El BJT no podrá iniciar investigaciones en países que no hayan firmado Tratados de Reciprocidad, limitándose en esos casos a emitir alertas de riesgo a los ciudadanos para que no operen financieramente con dichos nodos de opacidad.
 
-9. **Del Estatus Derivado de la Infancia Migrante, la Proporcionalidad de Servicios y la Unidad de Retorno.** La República reconoce la Soberanía de la Familia (Art. 59) como un principio universal que aplica tanto a nacionales como a extranjeros. Para garantizar la protección de los menores dependientes de ciudadanos extranjeros residentes, sin que esto constituya una carga parasitaria para el erario público ni un vacío legal de permanencia, se establece el **Protocolo de Accesoriedad Migratoria**:
+9. **Del Estatus Derivado de la Infancia Migrante, la Proporcionalidad de Servicios y la Unidad de Retorno:** La República reconoce la Soberanía de la Familia (Art. 59) como un principio universal que aplica tanto a nacionales como a extranjeros. Para garantizar la protección de los menores dependientes de ciudadanos extranjeros residentes, sin que esto constituya una carga parasitaria para el erario público ni un vacío legal de permanencia, se establece el **Protocolo de Accesoriedad Migratoria**:
 
     a)  **Principio de Estatus Derivado:** Los menores de edad de nacionalidad extranjera que ingresen o residan en la República al amparo de sus progenitores o tutores legales poseerán una **Visa de Dependencia Biológica**. Estos menores quedan exentos del mandato de autosuficiencia y del \"Reloj de Caducidad por Inactividad\" de 120 días (Art. 20.4.b). Su estatus de legalidad está vinculado algorítmicamente y en tiempo real a la vigencia del Contrato de Productividad del titular principal (el progenitor).
 
     b)  **Voucher Educativo y Sanitario por Aporte (Circuito Cerrado):** Los menores extranjeros tendrán garantizado el acceso al sistema educativo y de salud de la República. Sin embargo, en estricta aplicación de la prohibición de subsidio asimétrico (Art. 20.5), el financiamiento de sus Vouchers de Libertad (Educación y Salud) **provendrá directa y proporcionalmente del hecho ineludible del pago del Impuesto Único (Flat Tax) abonado por sus progenitores**. El extranjero financia la integración de su propia descendencia mediante su productividad activa registrada en el RNS.
 
-    c)  **Unidad de Retorno Indivisible (Anti-Separación):** En caso de que el progenitor titular incurra en insolvencia, cometa un delito que active la Deportación Automática (Art. 20.6), o vea extinguida su residencia por inactividad, la Visa de Dependencia Biológica del menor caducará de pleno derecho en el mismo instante. **El Estado cubano procederá a la expulsión expedita de la unidad familiar completa.** Queda constitucionalmente prohibida la separación de menores extranjeros de sus padres con el fin de retenerlos como \"pupilos del Estado\", así como la utilización del menor como \"ancla legal\" para detener la deportación de un adulto insolvente o infractor.
+    c) **Unidad de Retorno Indivisible y Preservación de la Custodia:** En caso de que el progenitor extranjero incurra en insolvencia insubsanable, cometa un delito que active la Deportación Automática (Art. 20.6), o agote la Escalera de Inserción sin actividad productiva:
+
+        i. **Menores de Nacionalidad Extranjera:** Su Visa de Dependencia Biológica caducará de pleno derecho, procediéndose a la salida expedita de la unidad familiar completa. Queda constitucionalmente prohibida la separación de menores extranjeros de sus padres para retenerlos como pupilos del Estado o usarlos como ancla legal de permanencia de adultos infractores.
+
+        ii. **Menores Cubanos por Nacimiento (Art. 16.1):** En estricta primacía de la Soberanía de la Familia (Art. 59.1), el menor que ostente la nacionalidad cubana por nacimiento acompañará a sus progenitores al exterior en ejercicio irrestricto de la Patria Potestad y custodia parental. Dicho traslado no constituye pena ni deportación contra el ciudadano menor, quien conservará íntegra su nacionalidad cubana y la titularidad de su Acción Soberana (AS). Sus dividendos de Capas B y C continuarán acumulándose de forma inalienable en la Cuenta de Inversión Soberana (CIS) dentro del RNS (Art. 59.16.c.ii), quedando habilitado para retornar al territorio nacional y desbloquear su patrimonio al alcanzar la mayoría de edad y cumplir su Servicio Civil de Soberanía (Art. 111.2).
 
     d)  **Escudo Biológico de Tránsito:** Si durante el proceso de deportación o tránsito hacia la salida del país, el menor extranjero se encontrara en estado de vulnerabilidad extrema o emergencia médica, el Estado activará el **Voucher de Supervivencia Limitado** (Art. 20.15.b) con cargo al Fondo Catastrófico Nacional, garantizando exclusivamente el triage médico y la nutrición básica para preservar su vida hasta el abandono del territorio, priorizando la humanidad sin comprometer la soberanía.
 
@@ -1021,7 +1027,7 @@ La República de Cuba propondrá a la comunidad internacional la firma de \"Trat
 
             A.  **Proscripción de la Expulsión en Masa:**Queda terminantemente prohibida la ejecución de órdenes de deportación, salida obligatoria o repatriación que afecten a grupos de personas sin una previa sentencia judicial o técnica **individualizada**.
 
-            <!-- -->
+                <!-- -->
 
                 (A) El sistema RNS bloqueará automáticamente cualquier intento de procesar \"salidas por lotes\".
 
@@ -1030,7 +1036,7 @@ La República de Cuba propondrá a la comunidad internacional la firma de \"Trat
             B.  **El Deber de Enrutamiento Alternativo (La Cláusula de Salida Justa):**\
             Si el Tribunal de Arbitraje Técnico (TAT) determina que un extranjero no cumple con los requisitos de permanencia (Art. 20.4) pero su devolución al punto de origen implica un riesgo biológico o político (Art. 20.9.e.i), el Estado cubano tiene la **obligación de proponer alternativas**:
 
-            <!-- -->
+                <!-- -->
 
                 (A) **Búsqueda de Nodo Seguro:** Antes de ejecutar el abandono del territorio, la Cancillería y el RNS ofrecerán al individuo un listado de Jurisdicciones **de Tercer Destino** (países con tratados de reciprocidad o zonas internacionales) que estén dispuestos a recibirlo.
 
@@ -6902,21 +6908,19 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
         iv. Otras definidas en ley orgánica.
 
-2. **El Principio de Rescate Operativo:** La República reconoce que el fracaso biológico, la adicción, la baja capacidad cognitiva y la caída en la infracción penal son contingencias del libre albedrío. Se prohíbe la creación de un estrato de ciudadanos permanentemente subsidiados o irremediablemente proscritos. El Estado no otorga la dignidad por decreto, pero tiene la obligación constitucional de mantener abiertas las vías para que el ciudadano caído la recupere mediante el esfuerzo propio.
+2. **Naturaleza Jurídica de las Rampas de Redignificación y Simetría de Garantías Laborales:** La República prohíbe la creación de estratos de ciudadanos permanentemente subsidiados o excluidos del mercado. Se instituyen las Rampas de Redignificación como programas municipales y consorciales de empleo civil formal de puerta abierta y baja barrera de entrada. El trabajo en las Rampas no constituye sanción, servidumbre ni régimen asistencial degradado; es una relación laboral plena de derecho civil. Todo ciudadano o residente que se incorpore a una Rampa goza de forma íntegra e irrenunciable de la totalidad de las garantías del Título VII de esta Constitución:
 
-3. **Escudos de Baja Fricción y Labor Analógica (Para vulnerables):** Para aquellos ciudadanos que, por condiciones de salud mental, adicción en tratamiento o limitaciones cognitivas certificadas, no puedan competir en la economía de alta eficiencia y velocidad del mercado libre, los Municipios quedan facultados para establecer Zonas de Labor Básica.
+    a) **Estándar Biológico y Jornada (Art. 65):** Jornada máxima de cuarenta (40) horas semanales, descansos obligatorios, vacaciones anuales retribuidas y condiciones de seguridad e higiene industrial auditadas por el TAT.
 
-    a)  Estas zonas se enfocarán en el trabajo manual, la agricultura de proximidad, el mantenimiento de infraestructuras cívicas y la reforestación (Artículo 157).
+    b) **Remuneración Digna y Trazable:** Pago líquido registrado en el RNS contra tarea u horario cumplido, el cual jamás será inferior al costo de la Canasta Básica de Vida (CBV) municipal, permitiendo la generación de ahorro y el pago ordinario del Flat Tax o la acumulación de Créditos de Estancia.
 
-    b)  El pago se realizará estrictamente contra tarea cumplida, operando como un entorno predecible, de baja carga sensorial (Artículo 140) y sin exigencia de metas corporativas, garantizando un ingreso de supervivencia que preserve la dignidad del trabajo y evite la atrofia del espíritu.
+    c) **Libertad de Salida y Tránsito (Art. 64):** El trabajador conserva la propiedad absoluta de su tiempo, pudiendo rescindir su contrato o transitar hacia empleos del sector privado o SACAs en cualquier momento, sin preavisos coercitivos ni penalizaciones.
 
-    c)  Se prohíbe que este mecanismo se estructure como una transferencia de capital sin contraprestación física. La caridad estatal incondicional hacia individuos con capacidad motriz se tipifica como Mutilación de la Voluntad.
+    d) **Protección contra el Abuso:** Queda proscrito el uso de distintivos estigmatizantes o tratos degradantes. Los trabajadores de las Rampas cuentan con el amparo directo de la Agencia de Mediación y Arbitraje Laboral (AMAL) frente a cualquier arbitrariedad administrativa.
 
-4. **Vía de Expiación Activa y Redención del Registro (Para infractores):** El ostracismo civil, la pérdida del Velo de Identidad o el bloqueo de derechos comerciales en el Registro Nacional Soberano (RNS) derivados de infracciones previas no serán a perpetuidad, exceptuando los crímenes de traición y represión tipificados en las Cláusulas Pétreas. Se instituye el Derecho a la Redención Operativa.
+3. Modalidad de Baja Fricción y Carga Sensorial Controlada: Para aquellos ciudadanos que, por condiciones de salud mental, rehabilitación o neurodiversidad certificada, requieran entornos alejados de la alta velocidad competitiva corporativa, las Rampas ofrecerán plazas en agricultura de proximidad, viveros, mantenimiento cívico, artesanía técnica y reforestación (Art. 157), operando en entornos predecibles de baja carga sensorial (Art. 140) y sin exigencia de metas de estrés corporativo.
 
-    a)  Todo ciudadano que haya cumplido su pena privativa de libertad, pero que enfrente el rechazo del mercado laboral privado, tendrá el derecho de presentarse ante los Consorcios de Infraestructura Técnica (CIT) o el Cuerpo de Custodia Territorial (CCTR) para ejercer labores de alta dureza (saneamiento de cuencas, construcción vial, respuesta a desastres).
-
-    b)  El RNS establecerá un \"Algoritmo de Purga Institucional\": las horas de sudor y trabajo de riesgo ejecutadas y auditadas por el Estado se computarán como \"Dignificación Social\". Al alcanzar el umbral exigido, el sistema borrará automáticamente el estigma digital de la infracción pasada, restaurando la plenitud de sus Acciones de Mercado (AM) y su elegibilidad comercial. El individuo compra su honor de vuelta con su propio esfuerzo, y la sociedad está obligada a aceptarlo como un igual.
+4. Modalidad de Reinserción y Limpieza Registral Voluntaria: Todo ciudadano que haya cumplido una pena privativa de libertad y enfrente barreras de contratación en el sector privado, tendrá garantizado el derecho de acceso a un empleo remunerado en las Rampas de los Consorcios de Infraestructura Técnica (CIT). El desempeño laboral honesto y continuado en estas plazas activará en el RNS el algoritmo de purga de antecedentes, borrando el estigma digital de la infracción pasada y restaurando su plena reputación comercial.
 
 5. **De la Pausa Procesal y Administrativa por Duelo o Contingencia Vital Mayor:** El Estado no competirá por la atención del ciudadano cuando este enfrenta la pérdida de la vida de su núcleo familiar. Se establece el derecho a la \"Pausa Burocrática\":
 

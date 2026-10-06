@@ -2963,9 +2963,13 @@ La República reconoce que el derecho de propiedad incluye la facultad de ceder 
 
     b)  **Inviolabilidad de la Reserva:** Queda terminantemente prohibida cualquier actividad de extracción, vertido o alteración técnica dentro del perímetro de las RRB. La violación de estos límites será procesada como **Atentado a la Infraestructura Vital de la República**, conllevando la incautación de los medios utilizados y la deducción automática de Acciones Soberanas (AS) para la remediación del daño.
 
-    c)  **Vigilancia Tecnológica:** El cumplimiento de estos perímetros será monitoreado en tiempo real por el Registro Nacional Soberano (RNS) mediante la telemetría obligatoria de las embarcaciones civiles y comerciales. El sistema emitirá alertas de incursión automáticas, invalidando el amparo legal de navegación de cualquier nave que viole la zona de exclusión sin autorización técnica justificada.
+    c)  **Vigilancia Tecnológica y Protección de Navegación:** El cumplimiento de estos perímetros será monitoreado en tiempo real por el Registro Nacional Soberano (RNS).
+        
+        i. Se emitirán alertas de incursión y se invalidará el amparo legal de navegación y permanencia para toda embarcación que despliegue artes de pesca, ejecute faenas de extracción o realice vertidos técnicos dentro del perímetro protegido.
+        
+        ii. En estricta concordancia con la CONVEMAR (o cualquier otro tratado o convención internacional equivalente que en el futuro ratifique la República), se preserva el derecho de paso inocente continuo y expedito para buques comerciales y de transporte en tránsito que no realicen actividades extractivas, de fondeo no autorizado o perjudiciales para la conservación biológica del santuario.
 
-12. **De los Períodos de Veda y Autorización Táctica:** El derecho de extracción está supeditado a los **Ciclos de Reclutamiento Biológico** de las especies.
+13. **De los Períodos de Veda y Autorización Táctica:** El derecho de extracción está supeditado a los **Ciclos de Reclutamiento Biológico** de las especies.
 
     a)  **Calendario de Inmunidad Biológica:** El Tribunal de Arbitraje Técnico (TAT) publicará y actualizará en el RNS el calendario de vedas basado en la telemetría de biomasa. Durante estos períodos, el amparo legal para la extracción de especies específicas queda suspendido de pleno derecho.
 
@@ -2980,6 +2984,7 @@ La República reconoce que el derecho de propiedad incluye la facultad de ceder 
 ## Artículo 54. Propiedad Agraria, Arrendamiento Estratégico (AET) Límites y Excepción Urbana.
 
 1. **Límite a la Concentración de Suelo Primario:** Para asegurar la soberanía productiva y evitar monopolios extractivos, ninguna persona jurídica podrá poseer en propiedad (título de dominio) más del cinco por ciento (5%) de la tierra cultivable o de explotación forestal de un mismo municipio. No obstante, para proyectos de alta escala que requieran mayor superficie, la entidad podrá expandir su operación mediante Arrendamiento Estratégico (AET) con terceros propietarios, fomentando la cooperación entre la gran industria y el pequeño propietario sin concentrar la tenencia del suelo.
+    
     a)  El límite del 5% pueda ampliarse hasta un veinte por ciento (20%) exclusivamente para proyectos de silvicultura comercial de ciclo largo certificados bajo la regla de reposición del Artículo 157.
 
 2. **De la Inmunidad del Sector Agroindustrial y de Transformación:** Se declara la Cadena de Suministro Alimentario como infraestructura crítica protegida por la Inmunidad de Mercado.

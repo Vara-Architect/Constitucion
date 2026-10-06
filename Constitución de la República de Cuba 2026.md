@@ -207,7 +207,13 @@ La República garantiza la integridad histórica de sus registros ante cualquier
 
     b)  **Excepción de Riesgo Sistémico:** Este mecanismo de Aprobación Automática queda estrictamente bloqueado para solicitudes de concesiones que involucren impacto ambiental crítico, manejo de sustancias peligrosas, seguridad estructural o redes de interconexión (RRI). En estos casos, la falta de respuesta en 72 horas no generará aprobación tácita, sino que activará la intervención de oficio del Tribunal de Arbitraje Técnico (TAT) para la evaluación de la solicitud y la destitución automática del funcionario negligente.
 
-    c)  **Inhabilitación por Arrogancia para el Funcionario:** El funcionario que actúe con dolo, soberbia o represalia en el ejercicio de su función será destituido de forma fulminante y quedará inhabilitado permanentemente para ejercer cualquier cargo, contrato o función vinculada al Estado o los Municipios. La función pública no es un favor, es un servicio técnico sometido a la Ley, no una posición de poder personal.
+    c) **Graduación Sancionadora y Proscripción de la Soberbia en la Función Pública:** La función pública es un servicio técnico sometido a la Ley, no una posición de poder personal. La vulneración de este estándar se sancionará de forma proporcional y escalonada:
+
+        i. **Falta Leve (Descortesía o Trato Déspota Verbal):** Apercibimiento en el RNS y deducción salarial temporal, con obligación de cursar instrucción en atención cívica.
+        
+        ii. **Falta Grave (Obstrucción o Negligencia Reiterada):** Suspensión del cargo y sueldo de uno (1) a doce (12) meses.
+        
+        iii. **Falta Gravísima (Dolo Manifiesto o Represalia Institucional):** Únicamente cuando se demuestre que el funcionario utilizó deliberadamente su posición para ejecutar venganzas personales, chantaje, daño patrimonial o persecución ideológica contra un ciudadano, se aplicará la destitución fulminante y la inhabilitación para el servicio público conforme a la gravedad tasada por el tribunal.
 
     d)  **De la defensa del funcionario:** Un funcionario podrá denunciar abusos por parte de los ciudadanos que en pleno cumplimiento de sus facultades exijan de forma descompuesta, o amenazando, **de forma palpable** la integridad física o emocional del funcionario. El funcionario deberá probar su acusación para que tenga lugar.
 
@@ -1489,7 +1495,7 @@ La pena privativa de libertad no otorga al infractor el derecho a ser mantenido 
 
     b)  **Ingeniería del Flujo de Reparación:** La utilidad neta generada por la labor del interno será administrada por el RNS y fraccionada obligatoriamente en tres (3) vectores simultáneos:
 
-    <!-- -->
+        <!-- -->
 
         i.  **Vector de Operación:** Pago al Estado o al Municipio por el costo real de su alimentación, vestimenta y custodia (Prisión de Costo Cero para el contribuyente).
 
@@ -1497,7 +1503,9 @@ La pena privativa de libertad no otorga al infractor el derecho a ser mantenido 
 
         iii. **Vector de Responsabilidad Familiar:** Si el recluso posee hijos menores de edad, cónyuge u otros dependientes legales fuera del recinto, una fracción inalienable de su producción será derivada a sus cuentas para su sostenimiento, impidiendo que el delito del individuo genere indigencia en su linaje.
 
-    <!-- -->
+        iv. Techo Operativo y Prohibición de Deuda por Confinamiento: Bajo ninguna circunstancia el costo imputado al interno por concepto de estancia, custodia y manutención básica (Vector de Operación) podrá ser superior al valor de la remuneración generada en las plazas laborales provistas dentro del recinto penitenciario. Queda terminantemente prohibido que la privación de libertad genere un saldo deudor acumulativo contra el recluso por gastos de su propia custodia. Si la productividad del centro o la escala laboral asignada resultaren insuficientes para cubrir el costo operativo real de la plaza, el Estado o el Municipio asumirá la diferencia como carga pública del sistema judicial. La meta primordial de la ingeniería penitenciaria es garantizar la rentabilidad técnica de las unidades productivas para que todo interno con capacidad física genere excedentes netos reales que permitan saldar prioritariamente la indemnización a la víctima (Vector de Restitución) y el sustento de su hogar (Vector Familiar).
+
+        <!-- -->
 
     c)  La negativa del recluso a participar en el Sistema Penal Productivo lo limitará a recibir estrictamente el mínimo biológico de supervivencia certificado, sin acceso a beneficios, reducción de pena o flujo para sus dependientes. Quedan exceptuados de la obligación de labor física aquellos cuya incapacidad sea certificada por el TAT por razones de edad, senilidad, enfermedad, discapacidad física o mental severa. En estos casos, el Fondo de Auxilio Mutuo asumirá el costo de su manutención básica para preservar la dignidad humana.
 
@@ -1577,7 +1585,11 @@ La República no subsidia el crimen ni reconoce la privación de libertad como m
 
         ii. Una Multa Punitiva Intransferible equivalente al cien por ciento (100%) del valor del bien, pagadera directamente a la víctima (La Regla del Doble).
 
-        iii. El Costo Operativo Total del despliegue del Cuerpo de Custodia (CCTR) o Milicia, investigación del CICM y proceso judicial (El Costo del Sistema).
+        iii. El Costo Operativo y Techo de Proporcionalidad del Sistema: El costo operativo del despliegue de custodia, peritaje del CICM y proceso judicial. 
+    
+        - No obstante, en infracciones y delitos contra la propiedad de baja cuantía o no violentos, dicho rubro estará sujeto a un Techo de Proporcionalidad: bajo ninguna circunstancia el costo del sistema imputable al infractor podrá exceder el cincuenta por ciento (50%) del valor del daño base causado, absorbiendo el erario público el excedente administrativo.
+    
+        - En infracciones de impacto patrimonial insignificante (Principio de Bagatela), la causa derivará prioritariamente a la mediación comunitaria y restauración directa (Artículo 62.10), con exención absoluta de costas operativas estatales.
 
         <!-- -->
 
@@ -2175,9 +2187,13 @@ La República de Cuba reconoce que la contratación pública constituye una inve
 
 6. El Sistema de Auditoría Incógnita: Se faculta al Tribunal de Arbitraje Técnico (TAT) para desplegar auditores ciudadanos certificados (extraídos por sorteo del Padrón Soberano) que actuarán como Compradores de Verificación.
 
-a)  Si se detecta un desvío superior al cinco por ciento (5%) en el peso, calidad o pureza de un producto certificado en el RNS respecto a su oferta pública, la entidad infractora sufrirá una Suspensión Instantánea de Transacciones por 24 horas y una multa automática equivalente al diez por ciento (10%) de su capital de maniobra registrado.
+    a) Detección de Desvío y Régimen de Subsanación Escalonada: Si se detecta un desvío superior al cinco por ciento (5%) en el peso, calidad o pureza de un producto certificado en el RNS respecto a su oferta pública declarada en el mismo establecimiento:
+        
+        i. **Para Micro y Pequeñas Unidades Comerciales:** Ante una primera discrepancia técnica no dolosa (descalibración mecánica o merma física natural), el sistema emitirá una Alerta de Advertencia con un plazo de subsanación de cuarenta y ocho (48) horas para la recalibración del instrumento o ajuste del lote, sin suspensión de transacciones ni multa económica.
+        
+        ii. **Infracción Dolosa o Reincidencia:** Si el comerciante desatiende la advertencia, reincide, o si el TAT comprueba dolo deliberado en pesas y medidas para defraudar al público, se aplicará la suspensión de transacciones por veinticuatro (24) horas y una multa tasada sobre el beneficio indebido obtenido. Se ejecutará una retención del diez por ciento (10%) del capital de maniobra para medianas/grandes empresas y/o SACAs cuando se detecte un fraude continuado a gran escala.
 
-b)  La reincidencia en la adulteración de suministros vitales (comida, medicina, combustible) será tratada como Atentado contra la Salud Nacional, activando la Remoción Fulminante de la Junta Directiva de la SACA involucrada, o el juicio en el tribunal municipal a los responsables de la empresa o el particular correspondiente.
+    b)  La reincidencia en la adulteración de suministros vitales (comida, medicina, combustible) será tratada como Atentado contra la Salud Nacional, activando la Remoción Fulminante de la Junta Directiva de la SACA involucrada, o el juicio en el tribunal municipal a los responsables de la empresa o el particular correspondiente.
 
 7. De la Soberanía sobre el Hardware, Titularidad Absoluta sobre Bienes Muebles y Derecho Inalienable a la Reparación.: La República garantiza el derecho inalienable del ciudadano a reparar, modificar, transformar y mantener sus bienes muebles por cuenta propia o mediante terceros de su elección, en los términos que se detallan a continuación:
 
@@ -2186,7 +2202,8 @@ b)  La reincidencia en la adulteración de suministros vitales (comida, medicina
     b)  **De la Intervención Técnica y Prohibición de Mecanismos de Bloqueo:** Todo propietario posee la facultad jurídica de acceder, modificar, reparar o sustituir los componentes físicos y el código de control (firmware/software) de sus dispositivos. Se prohíbe el uso de \"bloqueos de software\", \"perfilado de piezas\", \"perfilado criptográfico de componentes\" o cualquier otro mecanismo técnico-digital destinado a impedir el funcionamiento del objeto tras una reparación no oficial. El acto deliberado de un fabricante o proveedor consistente en provocar la inhabilitación funcional remota, el bloqueo lógico o la inutilización técnica de un bien mueble como represalia o consecuencia de su intervención o reparación no autorizada, se tipifica como Delito de Sabotaje a la Propiedad Privada.
 
     c)  **De la Disponibilidad Técnica, Transparencia Tecnológica y Depósito Obligatorio en el RNS:** Toda entidad comercial (SACA o particular) que distribuya maquinaria, vehículos o dispositivos electrónicos en territorio nacional, está obligada a poner a disposición del público comprador los manuales técnicos, diagramas de flujo y protocolos de diagnóstico. Dicha documentación, junto con los protocolos de comunicación necesarios, deberá depositarse obligatoriamente en la Capa Alfa del RNS, garantizando su accesibilidad para los propietarios y talleres independientes. La ocultación, negativa o falta de suministro de esta información constituye una barrera técnica ilícita, se tipifica como Sabotaje a la Propiedad Ciudadana y causa la caducidad automática de la licencia de comercialización en la República.
-        i. Parágrafo transitorio: Las herramientas de diagnóstico específicas (software de escaneo, equipos de calibración, etc.), cuya naturaleza técnica varía según la familia de productos, serán objeto de leyes sectoriales complementarias que determinen su formato, modo de entrega y estándares mínimos, sin perjuicio de la obligación inmediata de proporcionar los protocolos de comunicación abiertos para su funcionamiento.
+        
+        i. **Parágrafo transitorio:** Las herramientas de diagnóstico específicas (software de escaneo, equipos de calibración, etc.), cuya naturaleza técnica varía según la familia de productos, serán objeto de leyes sectoriales complementarias que determinen su formato, modo de entrega y estándares mínimos, sin perjuicio de la obligación inmediata de proporcionar los protocolos de comunicación abiertos para su funcionamiento.
 
     d)  **Del Libre Mercado de Repuestos:** El fabricante no podrá restringir la venta de componentes esenciales a talleres independientes. Cualquier intento de monopolizar el suministro de piezas mediante contratos de exclusividad será sancionado con la pérdida de la licencia de comercialización. El propietario tiene plena libertad para adquirir repuestos de cualquier origen, quedando a su criterio la selección de los mismos, sin que el fabricante pueda oponer reserva de marca para impedir dicha adquisición.
 
@@ -2195,8 +2212,10 @@ b)  La reincidencia en la adulteración de suministros vitales (comida, medicina
     f)  **De la Excepción de Seguridad Biológica, Riesgo Asumido por el Propietario y Régimen de Garantía Comercial:** La única excepción válida para restringir la modificación de un objeto será el Riesgo Vital Probado para terceros (Art. 150.10). El Tribunal de Arbitraje Técnico (TAT) será el único juez para determinar si una modificación técnica (como la alteración de frenos, emisiones, sistemas de sujeción, o la sustitución de materiales constitutivos ---v. gr., cambiar un capó de aluminio por uno de fibra de vidrio o compuestos alternativos---) constituye un peligro fáctico e inminente para la vida o la integridad física de terceros. Las \"recomendaciones de uso\" del fabricante son meramente informativas y no tienen fuerza de ley sobre el propietario. El propietario asume toda responsabilidad técnica, civil y funcional por las modificaciones que realice, operando bajo su propio riesgo. El fabricante no podrá oponerse a dichas modificaciones ni condicionar la titularidad del bien por razón de ellas. La garantía comercial no caducará en su totalidad por una modificación; únicamente quedará sin efecto sobre aquellos componentes que hayan sido sustituidos o que se demuestre fehacientemente, mediante peritaje del TAT, que han resultado dañados como consecuencia directa y exclusiva de dicha modificación. El resto de componentes del objeto conservarán íntegramente su garantía original.
 
     g)  **Del Ámbito de Aplicación Universal, Cláusula de Razonabilidad Técnica y Vocación de Permanencia:** Las disposiciones del presente artículo son de orden público y se aplican a la totalidad de los bienes muebles, cualquiera que sea su naturaleza (tecnológica, electrónica, mecánica, electromecánica, de transporte, electrodoméstica, de maquinaria industrial, o de cualquier otra índole) que sean comercializados dentro del territorio nacional. La presente ley tiene vocación de permanencia y generalidad, concibiendo el derecho a la reparación y la soberanía del propietario sobre sus bienes como principios fundacionales e irreversibles del ordenamiento jurídico, con el fin de que sus efectos trasciendan en el tiempo sin necesidad de reformas ulteriores ante el surgimiento de nuevas tecnologías. 
-        - No obstante, si la naturaleza, complejidad, nivel de especialización o el estado de la técnica de un producto hiciera materialmente imposible o técnicamente irrazonable la aplicación íntegra de uno o varios de los incisos anteriores (v. gr., por requerir entornos de manufactura ultracontrolados con atmósfera inerte, protocolos de bioseguridad que impidan la intervención del usuario final, estándares de calibración que solo puedan ser ejecutados con equipos de metrología de única tenencia del fabricante, o sistemas cuya manipulación por terceros conlleve un riesgo sistémico no mitigable), el fabricante, importador o su representante legal podrá solicitar ante el Tribunal de Arbitraje Técnico (TAT) una excepción fundada y acotada a dichas obligaciones.
-        - El TAT resolverá la solicitud en un plazo perentorio, evaluando estrictamente la concurrencia de criterios objetivos de razonabilidad. La carga de la prueba para demostrar la inviabilidad técnica recaerá exclusivamente sobre quien solicita la excepción, no siendo suficientes la mera alegación de complejidad comercial, la reserva de secreto industrial, la pérdida de rentabilidad o los acuerdos de distribución para obtener la dispensa. La excepción, en caso de ser concedida, será específica para aquel producto o familia homogénea de productos, y el TAT deberá revisarla periódicamente (cada dos años) a fin de determinar si los avances tecnológicos han hecho viable la aplicación plena de la ley. La negativa infundada del TAT o su silencio administrativo se interpretarán a favor del propietario y de la plena aplicabilidad del presente artículo.
+
+        i. No obstante, si la naturaleza, complejidad, nivel de especialización o el estado de la técnica de un producto hiciera materialmente imposible o técnicamente irrazonable la aplicación íntegra de uno o varios de los incisos anteriores (v. gr., por requerir entornos de manufactura ultracontrolados con atmósfera inerte, protocolos de bioseguridad que impidan la intervención del usuario final, estándares de calibración que solo puedan ser ejecutados con equipos de metrología de única tenencia del fabricante, o sistemas cuya manipulación por terceros conlleve un riesgo sistémico no mitigable), el fabricante, importador o su representante legal podrá solicitar ante el Tribunal de Arbitraje Técnico (TAT) una excepción fundada y acotada a dichas obligaciones.
+
+        ii. El TAT resolverá la solicitud en un plazo perentorio, evaluando estrictamente la concurrencia de criterios objetivos de razonabilidad. La carga de la prueba para demostrar la inviabilidad técnica recaerá exclusivamente sobre quien solicita la excepción, no siendo suficientes la mera alegación de complejidad comercial, la reserva de secreto industrial, la pérdida de rentabilidad o los acuerdos de distribución para obtener la dispensa. La excepción, en caso de ser concedida, será específica para aquel producto o familia homogénea de productos, y el TAT deberá revisarla periódicamente (cada dos años) a fin de determinar si los avances tecnológicos han hecho viable la aplicación plena de la ley. La negativa infundada del TAT o su silencio administrativo se interpretarán a favor del propietario y de la plena aplicabilidad del presente artículo.
 
 8. **De la Certificación Técnica de Consumo y la Inmunidad Dietética:** El Estado reconoce el derecho al pluralismo de consumo y la libertad de oferta dietética.
 
@@ -2478,7 +2497,7 @@ La República prohíbe el uso de la deuda fiscal como mecanismo de expropiación
 
         iii. **Jerarquía Normativa:** Una vez ratificados, las tasas y condiciones preferenciales establecidas en los Tratados prevalecerán sobre el arancel general fijado por la ley interna.
 
-            a)  **Prohibición de Barreras No Arancelarias:** Se prohíbe a la administración pública y a las autoridades aduaneras la implementación de licencias previas de importación, cupos, cuotas o requisitos burocráticos que funcionen como restricciones comerciales encubiertas. Toda regulación técnica o sanitaria sobre importaciones deberá fundarse en evidencia científica auditada por el TAT. La imposición de trabas administrativas arbitrarias al libre comercio será sancionada como delito de Obstrucción Económica.
+    d)  **Prohibición de Barreras No Arancelarias:** Se prohíbe a la administración pública y a las autoridades aduaneras la implementación de licencias previas de importación, cupos, cuotas o requisitos burocráticos que funcionen como restricciones comerciales encubiertas. Toda regulación técnica o sanitaria sobre importaciones deberá fundarse en evidencia científica auditada por el TAT. La imposición de trabas administrativas arbitrarias al libre comercio será sancionada como delito de Obstrucción Económica.
 
 12. Del Límite al Endeudamiento Público.
 
@@ -2549,11 +2568,11 @@ El setenta por ciento (70%) retenido por el Municipio es de **Ejecución Discrec
 
     c) **Escala de Nivelación Horizontal:** En atención a su capacidad económica auditada por el TAT, los municipios integrarán la siguiente escala complementaria de solidaridad con cargo a su masa local:
 
-        - **Municipios de Alta Renta:** Aportarán una tasa complementaria del diez por ciento (10%) al FCIN. Su **Disponibilidad Fiscal de Libre Ejecución Local** resultante será del **cincuenta y siete por ciento (57%)**.
+        i. **Municipios de Alta Renta:** Aportarán una tasa complementaria del diez por ciento (10%) al FCIN. Su **Disponibilidad Fiscal de Libre Ejecución Local** resultante será del **cincuenta y siete por ciento (57%)**.
 
-        - **Municipios de Renta Media:** Aportarán una tasa complementaria del cinco por ciento (5%) al FCIN. Su **Disponibilidad Fiscal de Libre Ejecución Local** resultante será del **sesenta y dos por ciento (62%)**.
+        ii. **Municipios de Renta Media:** Aportarán una tasa complementaria del cinco por ciento (5%) al FCIN. Su **Disponibilidad Fiscal de Libre Ejecución Local** resultante será del **sesenta y dos por ciento (62%)**.
 
-        - **Municipios de Convergencia:** Quedan exentos de aportes complementarios, tributando únicamente la base solidaria. Su **Disponibilidad Fiscal de Libre Ejecución Local** será del **sesenta y siete por ciento (67%)**, siendo además los receptores prioritarios de las inyecciones de capital del fondo.
+        iii. **Municipios de Convergencia:** Quedan exentos de aportes complementarios, tributando únicamente la base solidaria. Su **Disponibilidad Fiscal de Libre Ejecución Local** será del **sesenta y siete por ciento (67%)**, siendo además los receptores prioritarios de las inyecciones de capital del fondo.
 
     d)  La clasificación de los municipios en las categorías anteriores será determinada anualmente por el Tribunal de Arbitraje Técnico (TAT) con base en indicadores objetivos de actividad económica, ingresos fiscales per cápita y nivel de desarrollo de infraestructura.
 
@@ -2646,8 +2665,7 @@ La República reconoce al Registro Nacional Soberano (RNS) como la infraestructu
 
     d)  **Del Acceso Universal a la Capitalización:** El Estado fomentará la atomización de la propiedad de las Sociedades Anónimas de Capital Abierto (SACA), garantizando que los mecanismos de adquisición sean accesibles a todos los ciudadanos sin discriminación por volumen de capital. El RNS servirá como herramienta de democratización económica, permitiendo que el ahorro individual se integre directamente en el desarrollo de la infraestructura nacional.
 
-5. **De las Entidades de Gestión de Intercambio y Agregación de Valor.**\
-La República garantiza la existencia de entornos de negociación autónomos que faciliten el flujo de capital y la inversión colectiva, siempre supeditados a la integridad del Registro Nacional Soberano (RNS).
+5. **De las Entidades de Gestión de Intercambio y Agregación de Valor:** La República garantiza la existencia de entornos de negociación autónomos que faciliten el flujo de capital y la inversión colectiva, siempre supeditados a la integridad del Registro Nacional Soberano (RNS).
 
     a)  **De la Naturaleza de las Entidades de Negociación:** Se reconoce el derecho de particulares y municipios a constituir entidades especializadas en la facilitación del intercambio de activos. Estas entidades actúan como **Módulos de Gestión Operativa** externos al registro principal. Su función es proveer la infraestructura de visualización, emparejamiento de ofertas y herramientas de análisis, sin poseer la facultad de alterar unilateralmente la fe pública del RNS.
 
@@ -3040,11 +3058,11 @@ La República reconoce que el derecho de propiedad incluye la facultad de ceder 
 
 2. Regalía Directa (Royalty): El propietario del suelo donde se halle un yacimiento percibirá una Regalía Directa pagadera mensualmente, no sujeta a impuestos adicionales, que no será inferior al:
 
-    - 10% en minería general.
+    i. 10% en minería general.
 
-    - 15% en hidrocarburos.
+    ii. 15% en hidrocarburos.
 
-    - 20% en recursos estratégicos críticos.
+    iii. 20% en recursos estratégicos críticos.
 
 3. El propietario del suelo posee derecho de veto sobre métodos de extracción que, mediante dictamen técnico del TAT, demuestren un riesgo de daño estructural irreversible a la vivienda o colapso del ecosistema local. Dicho veto no podrá ser invocado para impedir la extracción si la entidad operadora garantiza la integridad física del predio y el cumplimiento de los estándares de seguridad técnica. El desacuerdo sobre el monto de la regalía no constituye causa de veto.
 
@@ -6889,9 +6907,9 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
         i.  **Responsabilidad de los Organizadores:** Los convocantes de la manifestación responderán con la totalidad de su patrimonio y Acciones Soberanas (AS) por la reparación del daño.
 
-        ii. **Responsabilidad de los Participantes Identificados:** El RNS identificará mediante registros visuales o cualquiera otros medios legales a disposición de la ley a todos los individuos presentes en el perímetro inmediato del daño en el momento del acto. Todos ellos serán declarados Responsables Solidarios.
-
-        iii. **Mecánica de Cobro:** El sistema calculará el costo total del daño (tasado por el TAT) y lo prorrateará entre todos los identificados. El cobro será automático y de ejecución inmediata sobre sus cuentas de Capital de Maniobra (Capa C) y dividendos de AS (Capa B), hasta que la víctima recupere el valor total de su propiedad más un lucro cesante del 20%.
+        ii. **Responsabilidad de Perpetradores Activos e Instigadores:** El RNS identificará y la justicia procesará a aquellos individuos sobre los cuales existan pruebas fácticas, visuales o periciales de participación material directa, agresión, incitación explícita o saqueo. Queda terminantemente prohibida la imputación de responsabilidad solidaria civil o patrimonial basada en la mera presencia física pasiva, la geolocalización circunstancial o el tránsito accidental de un ciudadano por las inmediaciones del disturbio.
+        
+        iii. **Mecánica de Cobro:** El costo total del daño comprobado será prorrateado exclusivamente entre los organizadores convocantes que incitaron a la violencia (inciso i) y los participantes cuya autoría material activa en la destrucción haya sido judicialmente acreditada. El cobro será automático y de ejecución inmediata sobre sus cuentas de Capital de Maniobra (Capa C) y dividendos de AS (Capa B), hasta que la víctima recupere el valor total de su propiedad más un lucro cesante del 20%.
 
         iv. **Inhibición de Indulto:** El Estado tiene prohibido constitucionalmente condonar deudas civiles derivadas de daños a la propiedad privada durante disturbios. La paz social se fundamenta en que el que destruye, reconstruye con su propio sudor.
 

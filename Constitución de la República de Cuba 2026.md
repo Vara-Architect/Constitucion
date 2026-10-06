@@ -993,7 +993,7 @@ La República reconoce a los hijos y nietos de la Diáspora como parte integrant
 
 7. **Condición de Neutralidad del Residente Extranjero:** El extranjero residente en Cuba es un invitado bajo el Contrato de Productividad (Art. 20.4).
 
-    a) El extranjero residente en Cuba es un invitado bajo el Contrato de Productividad (Art. 20.4). Queda estrictamente prohibida la participación de extranjeros en la dirección, organización o financiamiento de movimientos partidistas, o en manifestaciones que alteren el orden público de la República.
+    a) Queda estrictamente prohibida la participación de extranjeros en la dirección, organización o financiamiento de movimientos partidistas, o en manifestaciones que alteren el orden público de la República.
 
         i. **Inviolabilidad de la Supervivencia Biológica:** La condición de neutralidad y la prohibición de alteración del orden público jamás podrán interpretarse en detrimento del derecho inalienable a la legítima defensa individual o de terceros frente a actos de agresión predatoria, asalto o violencia física no provocada. Repeler una agresión ilegítima no constituye alteración del orden público ni causa de expulsión.
 
@@ -1296,8 +1296,9 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
 
         vi. **El Agente Provocador y la Ruptura del Amparo:** Si se demuestra mediante la telemetría del RNS que la fuerza de seguridad inició agresiones físicas, insultos degradantes o provocaciones tácticas con el fin de incitar una respuesta violenta de la masa, el oficial y su cadena de mando perderán toda inmunidad. En este caso, la masa se considera bajo el **Derecho de Resistencia ante la Agresión (Art. 21.1)** y el oficial será juzgado por homicidio agravado en grado de provocación.
 
-3. **Protocolo de Custodia de Armas y Acceso a Menores.**\
-El derecho a la tenencia y porte de armas para la legítima defensa (Art. 21.2) conlleva la obligación de custodia biológica inalienable. El titular del arma es el garante absoluto de su resguardo.
+        vii. **Proscripción del Exceso Territorial y del Fuego contra Sujetos en Retirada:** Queda terminantemente prohibido a los particulares el uso de armas de fuego o fuerza letal contra personas o vehículos que transiten, giren, se retiren o se encuentren en caminos de acceso, predios abiertos, parcelas rurales o zonas perimetrales exteriores, cuando no exista agresión física armada en curso o tentativa violenta comprobada de vulnerar el habitáculo residencial habitado.
+
+3. **Protocolo de Custodia de Armas y Acceso a Menores:** El derecho a la tenencia y porte de armas para la legítima defensa (Art. 21.2) conlleva la obligación de custodia biológica inalienable. El titular del arma es el garante absoluto de su resguardo.
 
     a)  **Barrera de Acceso y Doble Factor:** Queda constitucionalmente prohibido otorgar o facilitar el acceso físico irrestricto a armas de fuego, municiones o material letal a ciudadanos menores de edad o a personas sin capacidad civil plena. Todo armamento en el hogar deberá estar asegurado mediante dispositivos de anclaje, cajas fuertes o candados que requieran validación biométrica o combinación mecánica exclusiva del titular. El incumplimiento de esta norma constituye el delito de Negligencia Temeraria con Armamento.
 
@@ -2031,7 +2032,7 @@ La libertad de manifestación es de naturaleza estrictamente civil y pacífica. 
         
         i. **Prohibición de Almacenamiento Nominal:** Queda terminantemente prohibido a cualquier operadora privada o estatal exigir, fotocopiar, almacenar o retener el nombre, biometría o documento de identidad del usuario final. El incumplimiento de esta norma se tipifica como Delito de Riesgo de Exposición de Datos, sancionado con el levantamiento del velo corporativo de la SACA infractora.
 
-        11. **Custodia en Capa Gamma:** La correspondencia exacta entre el identificador de red (Número telefónico/IP) y la identidad real del ciudadano quedará sellada bajo encriptación asimétrica exclusivamente en la **Capa Gamma** del RNS, constituyendo un activo de Privacidad Grado Cero, inalcanzable para auditorías administrativas o minería de datos estatales.
+        ii. **Custodia en Capa Gamma:** La correspondencia exacta entre el identificador de red (Número telefónico/IP) y la identidad real del ciudadano quedará sellada bajo encriptación asimétrica exclusivamente en la **Capa Gamma** del RNS, constituyendo un activo de Privacidad Grado Cero, inalcanzable para auditorías administrativas o minería de datos estatales.
 
 7. **De la Des-Anonimización Jurídica y la Erradicación de la Extorsión Tecnológica.** La República no ampara el anonimato como escudo para la agresión predatoria, el fraude, el secuestro virtual o la extorsión. Se establece el Protocolo de Apertura Selectiva:
 
@@ -4042,7 +4043,7 @@ Con el fin de evitar la captura unilateral del Estado y garantizar que las modif
 
         i.  **Validación del Poder Ejecutivo:** Firma del Presidente de la República, certificando la necesidad política y la capacidad operativa del Estado para ejecutar la medida.
 
-        ii. **Validación Técnica y de Constitucionalidad: Dictamen conjunto del Tribunal de Defensa de la Constitución (TDC) y el Tribunal de Arbitraje Técnico (TAT), certificando que la medida es constitucionalmente lícita y físicamente viable.
+        ii. **Validación Técnica y de Constitucionalidad:** Dictamen conjunto del Tribunal de Defensa de la Constitución (TDC) y el Tribunal de Arbitraje Técnico (TAT), certificando que la medida es constitucionalmente lícita y físicamente viable.
 
         iii. **Validación de Control Social:** Ratificación de la Cámara de Vigilancia Aleatoria (CVA) mediante el voto favorable de dos tercios (2/3) de sus miembros, actuando como filtro de control social inmediato.
 
@@ -6860,7 +6861,7 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
         ii. **Deducción por Daño Sistémico:** Se debitará de la Capa C del infractor el equivalente a **un año de salario mínimo** como multa inicial por el solo acto de la amenaza, la cual será transferida al Fondo Municipal de Auxilio Mutuo.
 
-        iii. **Responsabilidad del Clan en caso de Insolvencia:** Si el delincuente no posee fondos, la deuda de restitución hacia la víctima y el Estado quedará grabada como una **Carga de Linaje** (Art. 43.8) sobre cualquier activo futuro que el delincuente pretenda registrar, y se le asignará forzosamente a una **Rampa de Redignificación de Alta Dureza** (Art. 151) hasta que salde la deuda con su sudor físico.
+        iii. **Responsabilidad del Clan en caso de Insolvencia:** Si el delincuente no posee fondos, la deuda de restitución hacia la víctima y el Estado quedará grabada como una **Carga de Linaje** (Art. 43.8) sobre cualquier activo futuro que el delincuente pretenda registrar, y se le asignará a las Unidades del Sistema Penal Productivo (Art. 22.13) (Art. 151) hasta que salde la deuda con su sudor físico.
 
     c)  **Inmunidad para la Neutralización Ciudadana:** Se extiende el principio de Legítima Defensa (Art. 21.2) a la defensa del patrimonio ante la extorsión.
 
@@ -7748,7 +7749,7 @@ SOY UN INDIVIDUO SOBERANO. SOY UN CUBANO LIBRE. \"
 
 Constitución de la República de Cuba
 
-Versión final -- Elaborada en \[31 de Agosto de 2026\]
+Versión final -- Elaborada en \[10 de septiembre de 2026\]
 
 
 **Licencia de la Obra:** Esta Constitución es de Código Abierto. Está protegida bajo la Licencia Internacional Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA 4.0). Para ver una copia de esta licencia, visite: https://creativecommons.org/licenses/by-sa/4.0/deed.es

@@ -203,11 +203,25 @@ La República garantiza la integridad histórica de sus registros ante cualquier
 
 3. **De la Prohibición de Represalia Administrativa y Obstrucción.** Se tipifica como **Delito de Atentado a la Soberanía Ciudadana** cualquier acto de un funcionario público que condicione, retrase o deniegue la entrega de documentos o la realización de trámites como forma de represalia personal, emocional, en respuesta a críticas, o ideológica, en contra de un ciudadano.
 
-    a)  **Silencio Administrativo Positivo:** Ante cualquier solicitud ciudadana que requiera intervención humana excepcional, la falta de respuesta en un plazo de setenta y dos (72) horas se interpretará como Aprobación Automática (Silencio Positivo). El sistema del RNS ejecutará el trámite de oficio y emitirá una alerta disciplinaria inmediata contra el funcionario responsable.
+    a) **Silencio Administrativo Positivo para Trámites Ordinarios:** Ante cualquier solicitud ciudadana de carácter reglado, declarativo o de fe pública que requiera verificación humana, la falta de respuesta en un plazo de tres (3) días hábiles operará de pleno derecho como Aprobación Automática (Silencio Positivo) en el RNS, emitiéndose el documento de oficio [4.3.a].
 
-    b)  **Excepción de Riesgo Sistémico:** Este mecanismo de Aprobación Automática queda estrictamente bloqueado para solicitudes de concesiones que involucren impacto ambiental crítico, manejo de sustancias peligrosas, seguridad estructural o redes de interconexión (RRI). En estos casos, la falta de respuesta en 72 horas no generará aprobación tácita, sino que activará la intervención de oficio del Tribunal de Arbitraje Técnico (TAT) para la evaluación de la solicitud y la destitución automática del funcionario negligente.
+        i. **Graduación Disciplinaria Justa:** El RNS registrará una Alerta de Incidencia Operativa en el historial del funcionario [4.3.a]. La acumulación injustificada y reiterada de incidencias derivará en apercibimiento formal y deducciones proporcionadas a la jornada omitida, con audiencia de descargo previo (Art. 4.4.c), prohibiéndose sanciones que comprometan la subsistencia del trabajador [4.3.c.i, 4.4.c, 65.1].
 
-    c) **Graduación Sancionadora y Proscripción de la Soberbia en la Función Pública:** La función pública es un servicio técnico sometido a la Ley, no una posición de poder personal. La vulneración de este estándar se sancionará de forma proporcional y escalonada:
+    b) **Régimen de Trámites Complejos, Excepciones y Re-enrutamiento Diligente:** Queda proscrita la Aprobación Automática por Silencio Positivo en solicitudes sobre enajenación de bienes públicos, licencias de alto impacto vecinal, ambiental, sustancias peligrosas o redes de interconexión (RRI) [4.3.b].
+
+        i. **Protocolo de Pase de Testigo (Escalamiento por Competencia):** Si dentro de los tres (3) días hábiles el funcionario advierte que el trámite excede su competencia técnica o legal, activará en el RNS el **Re-enrutamiento Institucional** hacia el TAT o la oficina competente [13.3.a, 88.10.a]. Este acto traslada el expediente sin penalización alguna y notifica al ciudadano la nueva autoridad y plazo [17.5.b.iv].
+
+        ii. **Protección contra la Inacción y Escalado de Oficio:** Si vencen los tres (3) días hábiles sin resolución ni activación del Pase de Testigo, el RNS reasignará de oficio el expediente ante el TMDC o TAT para su resolución técnica prioritaria [88.10.f].
+
+            A. Sanción Proporcional con Debido Proceso: La inacción injustificada abrirá un proceso disciplinario sumario donde el funcionario podrá justificar su demora [4.4.c, 22.1]. Acreditada la negligencia culpable sin dolo, se aplicará una suspensión temporal proporcionada de corta duración [4.3.c.ii]; únicamente ante la comprobación de cohecho, soborno o daño doloso premeditado se procederá a la destitución fulminante y responsabilidades del Artículo 109 [4.3.c.iii, 4.5.b, 109.5].
+
+    c) De la Trazabilidad Procedimental en Tiempo Real, Notificación Soberana y Modularidad Futura: Todo ciudadano que inicie una solicitud, trámite o reclamación ante cualquier instancia municipal o nacional tiene el derecho inalienable a fiscalizar su curso fáctico en tiempo real a través del Registro Nacional Soberano (RNS) y su Pasaporte de Ciudadanía Soberana (PCSC) [4.3, 17.2.a].
+
+        i. **Telemetría de Estado y Notificación Activa:** La interfaz del RNS proveerá un panel de seguimiento transparente que reflejará en vivo: la fecha y hora de radicación, el funcionario o perito técnico asignado, los días hábiles consumidos, los hitos pendientes de resolución y cualquier re-enrutamiento o Pase de Testigo en el instante exacto en que se produzca, emitiendo alertas directas al PCSC del interesado ante cualquier variación del expediente [17.5.e, 23.3.a].
+
+        ii. **Arquitectura Modular y Escalabilidad Funcional:** El software del RNS integrará una arquitectura modular y extensible que faculte la incorporación progresiva de nuevas herramientas de asistencia ciudadana, simulación técnica de requisitos, subsanación remota de documentos y servicios interactivos que en el futuro determine la Ley Orgánica del RNS (Artículo 163.1) o el Cuerpo de Programadores bajo la supervisión del TDC, garantizando que el ciudadano sea en todo momento el auditor soberano de su propia causa [4.1, 17.3, 88.7.d].
+
+    d) **Graduación Sancionadora y Proscripción de la Soberbia en la Función Pública:** La función pública es un servicio técnico sometido a la Ley, no una posición de poder personal. La vulneración de este estándar se sancionará de forma proporcional y escalonada:
 
         i. **Falta Leve (Descortesía o Trato Déspota Verbal):** Apercibimiento en el RNS y deducción salarial temporal, con obligación de cursar instrucción en atención cívica.
         
@@ -215,9 +229,9 @@ La República garantiza la integridad histórica de sus registros ante cualquier
         
         iii. **Falta Gravísima (Dolo Manifiesto o Represalia Institucional):** Únicamente cuando se demuestre que el funcionario utilizó deliberadamente su posición para ejecutar venganzas personales, chantaje, daño patrimonial o persecución ideológica contra un ciudadano, se aplicará la destitución fulminante y la inhabilitación para el servicio público conforme a la gravedad tasada por el tribunal.
 
-    d)  **De la defensa del funcionario:** Un funcionario podrá denunciar abusos por parte de los ciudadanos que en pleno cumplimiento de sus facultades exijan de forma descompuesta, o amenazando, **de forma palpable** la integridad física o emocional del funcionario. El funcionario deberá probar su acusación para que tenga lugar.
+    e)  **De la defensa del funcionario:** Un funcionario podrá denunciar abusos por parte de los ciudadanos que en pleno cumplimiento de sus facultades exijan de forma descompuesta, o amenazando, **de forma palpable** la integridad física o emocional del funcionario. El funcionario deberá probar su acusación para que tenga lugar.
 
-    e)  **Escala de Responsabilidad y Restitución:** Con el fin de armonizar las penas con (Art. 109) (Estatuto de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos) y el (Art. 22.17) (Restitución Patrimonial Forzosa del Depredador), se establece el siguiente régimen para delitos contra el tesoro:
+    f)  **Escala de Responsabilidad y Restitución:** Con el fin de armonizar las penas con (Art. 109) (Estatuto de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos) y el (Art. 22.17) (Restitución Patrimonial Forzosa del Depredador), se establece el siguiente régimen para delitos contra el tesoro:
 
         i.  Ámbito Municipal: El funcionario convicto de malversación o soborno enfrentará una inhabilitación de cinco (5) años. Queda obligado a la restitución del valor total de lo robado más un veinte por ciento (20%) de recargo adicional.
 
@@ -3313,7 +3327,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
     d) Condición de No Coacción y Autonomía de Elección: El descanso maternal y la Renta de Crianza son derechos de protección irrenunciables frente a la exigencia patronal.
 
         i. Queda terminantemente prohibido a cualquier empleador exigir, coaccionar o incentivar el retorno anticipado al trabajo como condición de permanencia laboral.
-        
+
         ii.Sin embargo, la madre conserva la facultad de modular voluntariamente su tiempo de reincorporación laboral o trabajo remoto parcial cuando así lo estime conveniente, sin que ello anule la percepción de la Renta de Crianza ni vulnere la reserva obligatoria de su puesto original.
 
 ------------------------------------------------------------------------
@@ -6888,7 +6902,11 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
         ii. **Deducción por Daño Sistémico:** Se debitará de la Capa C del infractor el equivalente a **un año de salario mínimo** como multa inicial por el solo acto de la amenaza, la cual será transferida al Fondo Municipal de Auxilio Mutuo.
 
-        iii. **Responsabilidad del Clan en caso de Insolvencia:** Si el delincuente no posee fondos, la deuda de restitución hacia la víctima y el Estado quedará grabada como una **Carga de Linaje** (Art. 43.8) sobre cualquier activo futuro que el delincuente pretenda registrar, y se le asignará a las Unidades del Sistema Penal Productivo (Art. 22.13) (Art. 151) hasta que salde la deuda con su sudor físico.
+        iii. Gravamen Patrimonial Futuro en caso de Insolvencia: Si al momento de la condena el delincuente careciere de fondos o activos suficientes, la deuda de restitución hacia la víctima y el Estado no prescribirá ni podrá ser licuada mediante quiebra [22.17.a, 42.3.a].
+            
+            A.  Dicha obligación quedará registrada en el RNS como un Gravamen Personal Imprescriptible (Artículo 22.17.d) que se ejecutará automáticamente sobre cualquier ingreso salarial, cuenta mercantil o activo futuro que el infractor pretenda registrar a su nombre a lo largo de su vida, sin que dicha deuda trascienda jamás a sus hijos ni afecte la limpieza sucesoria de sus herederos (Artículos 21.4.h y 115.11.c) [21.4.h, 22.17.d, 115.11.c].
+            
+            B. Durante el cumplimiento de su condena penal privativa de libertad, el infractor será asignado a las Unidades del Sistema Penal Productivo (Artículo 22.13) para abonar a la restitución del daño mediante su labor física o intelectual [22.13.a, 22.17.c].
 
     c)  **Inmunidad para la Neutralización Ciudadana:** Se extiende el principio de Legítima Defensa (Art. 21.2) a la defensa del patrimonio ante la extorsión.
 

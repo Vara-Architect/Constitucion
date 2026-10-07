@@ -509,7 +509,7 @@ Cualquier acuerdo de uso compartido o cooperación militar con potencias o organ
 
     a)  **Composición del TAT:** El TAT será un jurado ad hoc de tres (3) miembros: un Ingeniero Senior de la especialidad en conflicto, un Auditor Financiero y un Juez Administrativo, seleccionados por sorteo técnico entre los decanos de las facultades nacionales.
 
-    b)  **Criterio de Resolución (Primacía de la Red):** El TAT fallará basándose en la Eficiencia del Sistema Total. No se juzga \"quién tiene derecho político\", sino \"cómo fluye el recurso con el menor daño y mayor beneficio para los usuarios finales\".
+    b) **Criterio de Resolución (Primacía de la Red y Prelación Biológica):** El TAT fallará basándose en la Eficiencia del Sistema Total. No se juzga "quién tiene derecho político", sino "cómo fluye el recurso con el menor daño y mayor beneficio para los usuarios finales". Dicho criterio estará subordinado de forma absoluta e innegociable a la prelación constitucional del agua y la energía para la subsistencia biológica, la salud pública y el consumo humano directo (Artículos 57.1 y 70.5.b), quedando terminantemente prohibido priorizar la eficiencia industrial o comercial en detrimento del sustento vital de las poblaciones.
 
     c)  **Plazo Perentorio:** El TAT emitirá un dictamen técnico vinculante en un plazo máximo de treinta (30) días.
 
@@ -744,7 +744,17 @@ La República reconoce al idioma español como la lengua de administración y ju
 
 ## Artículo 16. De la Nacionalidad e Identidad Soberana.
 
-1. **Derecho Natural e Irrevocable:** La nacionalidad cubana por nacimiento es un derecho natural e indeleble. El Estado carece de potestad para privar de la nacionalidad a un cubano por nacimiento. La adquisición de otras nacionalidades no extingue la cubana.
+1. **Derecho Natural, Definición y Criterio de Suelo:** La nacionalidad cubana por nacimiento es un derecho natural, originario e indeleble. El Estado carece de potestad para privar de la nacionalidad a un cubano por nacimiento. La adquisición de otras nacionalidades no extingue la cubana. Son cubanos por nacimiento:
+
+    a) Los nacidos en el territorio nacional hijos de al menos un progenitor cubano (por nacimiento o naturalización).
+
+    b) Los nacidos en el territorio nacional hijos de ciudadanos extranjeros que, al momento del alumbramiento, acrediten en el Registro Nacional Soberano (RNS) un mínimo de veinticuatro (24) meses de residencia productiva activa bajo el régimen del Flat Tax (Art. 20.4), reducido a doce (12) meses para nacionales de España e Iberoamérica (Art. 20.20).
+
+    c) **Cuna en Arraigo Diferido:** Los nacidos en el territorio nacional de extranjeros que no alcancen el tiempo de residencia previa establecido en el inciso anterior, pero cuya unidad familiar mantenga residencia legal ininterrumpida y escolarización del menor en la República durante sus primeros cinco (5) años de vida, consolidando la nacionalidad por nacimiento con carácter retroactivo.
+
+    d) **Escudo contra la Apatridia:** Los nacidos en el territorio nacional de padres extranjeros a quienes las leyes de su país de origen no reconozcan nacionalidad alguna, garantizando la no apatridia desde el nacimiento.
+
+    e) **Exclusión del Transeúnte:** Se excluye de la nacionalidad cubana por nacimiento a los hijos de extranjeros transeúntes o turistas (Art. 20.16) y de personal diplomático extranjero, a quienes el RNS expedirá un Certificado de Hecho Biológico de Nacimiento y salvoconducto de salida hacia su jurisdicción de origen.
 
 2. **Independencia del Soporte Físico:** El derecho de entrada y salida del territorio es absoluto para el nacional. La falta de pasaporte o documento físico no impedirá el ingreso al país si la identidad puede ser acreditada mediante biometría o testimonios ante la autoridad municipal de frontera.
 
@@ -1168,7 +1178,7 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
     
     b) **Inoponibilidad del Tiempo Turístico para Arraigo:** La permanencia continuada bajo el estatus de turista no otorga derecho a la adquisición automática de residencia ni computará en ningún caso para los plazos de naturalización establecidos en el Artículo 19. El cómputo para la radicación legal y cívica comenzará única y exclusivamente a partir de la fecha de concesión formal del estatus de residente.
     
-    c) **Transmutación Dinámica a Residencia Productiva:** La República mantiene el principio de Apertura de Frontera Productiva. El turista que decida integrarse a la economía nacional podrá, en cualquier momento y mediante su PCSC-T en el RNS, transmutar su condición a la de residente laboral o inversor mediante la declaración de una actividad generadora de ingresos o el registro de capital inicial (Artículo 20.4), asumiendo de inmediato el cumplimiento del Flat Tax.
+    c) **Transmutación Dinámica a Residencia Productiva y Caducidad por Abandono:** La República mantiene el principio de Apertura de Frontera Productiva. El turista que decida integrarse a la economía nacional podrá, en cualquier momento y mediante su PCSC-T en el RNS, transmutar su condición a la de residente laboral o inversor mediante la declaración de una actividad generadora de ingresos o el registro de capital inicial (Artículo 20.4), asumiendo de inmediato el cumplimiento del Flat Tax. Dicha transmutación confiere un estatus operativo provisional sujeto a la comprobación de permanencia fáctica y contribución fiscal efectiva. Si el titular abandona el territorio nacional o cesa sus actividades sin haber consolidado el ciclo ordinario de residencia, el estatus transmutado caducará pacíficamente de pleno derecho por ausencia de arraigo, retornando su registro al historial de visitante sin imposición de multas ni sanciones administrativas, extinguiéndose cualquier derecho de adquisición patrimonial originaria para alumbramientos ocurridos durante la estancia transitoria.
     
     d) **Prerrogativa Presidencial de Residencia por Mérito Excepcional:** Como potestad soberana del Estado, el Presidente de la República queda facultado para conceder, de forma directa y mediante Decreto Ejecutivo debidamente motivado y registrado en el RNS, el estatus de residente permanente a personalidades extranjeras de sobresaliente trayectoria en la ciencia, la tecnología, las artes, la industria o la defensa de las libertades humanas universales. Dicho estatus eximirá al beneficiario de los plazos ordinarios de tramitación, quedando sujeto a las obligaciones de compatibilidad civil del Artículo 19.
 
@@ -5767,7 +5777,7 @@ El acceso a la educación técnica y superior financiada mediante el **Voucher d
 
 1. La Acción Soberana (AS) es un título de propiedad nominativo, inalienable e impignorable, que constituye un **Derecho de Usufructo Soberano Vitalicio** sobre los activos estratégicos de la Nación.
 
-2. **Titularidad Originaria por Nacimiento:** Todo cubano por nacimiento adquiere el derecho de propiedad sobre el Núcleo Soberano de la Nación, representado en una (1) Acción Soberana (AS) de cada SACA, **desde el momento exacto de su inscripción de nacimiento en el Registro Nacional Soberano (RNS)**, sin costo alguno. Este derecho es personal e intransferible inter vivos. Los derechos políticos asociados a estas acciones (derecho a voto en asambleas corporativas) permanecerán suspendidos hasta que el titular alcance la mayoría de edad y complete el Servicio Civil de Soberanía (Artículo 111.2).
+2. **Titularidad Originaria por Nacimiento:** Todo cubano por nacimiento, de conformidad con los criterios y condiciones de arraigo establecidos en el Artículo 16.1 de esta Constitución, adquiere el derecho de propiedad sobre el Núcleo Soberano de la Nación, representado en una (1) Acción Soberana (AS) de cada SACA, desde el momento de la consolidación de su inscripción en el Registro Nacional Soberano (RNS), sin costo alguno. Este derecho es personal e intransferible inter vivos. Los derechos políticos asociados a estas acciones permanecerán suspendidos hasta que el titular alcance la mayoría de edad y complete el Servicio Civil de Soberanía (Artículo 111.2).
 
 3. El límite máximo de tenencia de Acciones Soberanas por ciudadano es de cinco (5) acciones por SACA, acumulables únicamente por herencia en línea directa o por designación de tutor legal.
 

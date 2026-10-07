@@ -3436,14 +3436,13 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
         <!-- -->
 
-        i.  Acceso por Voluntad: El ciudadano tiene el derecho inalienable de cambiar de centro educativo, especialidad o carrera en cualquier momento de su vida, basándose únicamente en su voluntad y en la superación de los requisitos técnicos del nuevo nodo.
+        i.  **Acceso por Voluntad:** El ciudadano tiene el derecho inalienable de cambiar de centro educativo, especialidad o carrera en cualquier momento de su vida, basándose únicamente en su voluntad y en la superación de los requisitos técnicos del nuevo nodo.
 
-        ii. Reconocimiento de Créditos Universal: El RNS mantendrá un historial de Competencias Adquiridas que no caduca. Los conocimientos aprobados en una vía (ej. Politécnico) serán convalidados automáticamente por el TAT si el ciudadano decide transitar a otra (ej. Universidad), prohibiéndose el \"borrado de historial\" por fracaso en una rama específica.
+        ii. **Reconocimiento de Créditos Universal:** El RNS mantendrá un historial de Competencias Adquiridas que no caduca. Los conocimientos aprobados en una vía (ej. Politécnico) serán convalidados automáticamente por el TAT si el ciudadano decide transitar a otra (ej. Universidad), prohibiéndose el \"borrado de historial\" por fracaso en una rama específica.
 
-        iii. Nulidad de Filtros de Infancia: Se prohíbe el uso de exámenes de admisión para centros de educación primaria y secundaria básica que pretendan determinar el futuro laboral del menor. El acceso a la educación básica es un flujo abierto; los filtros solo existen en la alta especialización.
+        iii. **Nulidad de Filtros de Infancia:** Se prohíbe el uso de exámenes de admisión para centros de educación primaria y secundaria básica que pretendan determinar el futuro laboral del menor. El acceso a la educación básica es un flujo abierto; los filtros solo existen en la alta especialización.
 
-14. **Del Blindaje Financiero del Recinto Académico y la Proscripción del Mercenarismo Estudiantil:**\
-La República garantiza la libertad de pensamiento (Art. 27 y 29), pero prohíbe terminantemente la instrumentalización de la infraestructura educativa (escuelas, universidades, campus) como plataformas de subversión financiadas desde el exterior.
+14. **Del Blindaje Financiero del Recinto Académico y la Proscripción del Mercenarismo Estudiantil:** La República garantiza la libertad de pensamiento (Art. 27 y 29), pero prohíbe terminantemente la instrumentalización de la infraestructura educativa (escuelas, universidades, campus) como plataformas de subversión financiadas desde el exterior.
 
     a)  **Transparencia Radical Universitaria y Extracurricular:** Todo \"club estudiantil\", \"asociación de alumnos\", \"cátedra de investigación\" o \"grupo extracurricular\" que opere dentro de instituciones que reciban Vouchers Educativos (Art. 60.2) o subvenciones del FCIN, y que reciba financiamiento directo, indirecto o en especie, queda obligado a registrar el cien por ciento (100%) del origen de sus fondos en la Capa Alfa (Pública) del Registro Nacional Soberano (RNS).
 
@@ -3465,7 +3464,7 @@ La República garantiza la libertad de pensamiento (Art. 27 y 29), pero prohíbe
 
         iv. La negativa a participar en juramentos, rezos, actos de repudio o asociaciones ideológicas.
 
-    <!-- -->
+        <!-- -->
 
     b)  **El Derecho Puro al Dato:** La educación es la transferencia de la Verdad Material y Científica de una generación a otra. El Estado y las instituciones tienen el mandato de proveer las herramientas de aprendizaje sin exigir como pago la sumisión del alma. \"La Universidad es para los que estudian\", siendo el mérito académico y la capacidad técnica los **únicos** filtros de permanencia lícitos.
 
@@ -7338,7 +7337,6 @@ La República reconoce que cada generación de ciudadanos posee el derecho inali
 
 ## Artículo 166. Del Pacto de Unión Soberana y la Estructura Nacional.
 
-
 1.  Del Derecho de Adhesión y Consulta Local: Cualquier territorio, región o municipio podrá solicitar su integración formal a la República de Cuba Libre bajo el Pacto de Unión Soberana. Para su validez, la solicitud requerirá la aprobación de la mayoría absoluta de los ciudadanos de dicho territorio mediante referéndum interno auditado y certificado.
 
 2.  De la Integración Nodal y Derechos Fiscales: Aprobada la adhesión, los nuevos territorios se integrarán al Registro Nacional Soberano (RNS) como Nodos de Nueva Formación. Sus derechos de retención fiscal (el algoritmo 70/30) y la emisión de sus Acciones Soberanas (AS) se activarán de forma proporcional a los activos físicos e infraestructura aportados a la Red Nacional, según tasación técnica del TAT.
@@ -7626,7 +7624,6 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
     
     b) Carga de la Prueba en el Estado y Límite al Parentesco: Se extingue la presunción automática de culpabilidad biológica. Los vínculos de parentesco con ex-funcionarios constituirán únicamente un indicio técnico para habilitar una auditoría de fondos por parte de la Unidad de Auditoría de Reclamaciones (UAR). Corresponderá al Estado y a la Fiscalía acreditar materialmente, mediante trazabilidad contable o financiera, que la empresa fue financiada con fondos distraídos del patrimonio público. En ausencia de prueba fehaciente de desvío de recursos del Estado, la titularidad privada de la empresa permanecerá intacta.
 
-
 2.  El Protocolo de Conversión Forzosa por Expolio Comprobado: Únicamente cuando la auditoría forense del TAT y la UAR demuestre de forma concluyente que la entidad mercantil fue capitalizada mediante el saqueo de recursos estatales o testaferrismo de la élite militar, se activará la Conversión Forzosa en SACA de Oficio:
 
     a)  Desposesión y Distribución del Núcleo Soberano (51%): El cincuenta y uno por ciento (51%) del capital social de la MiPYME o empresa infractora se convertirá instantáneamente en Acciones Soberanas (AS) bajo custodia del Fideicomiso Nacional de Pensiones, distribuyéndose sus utilidades de forma mensual y equitativa entre todos los ciudadanos cubanos por nacimiento a través del RNS (Art. 115.5).
@@ -7638,7 +7635,8 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 3.  El Antivirus contra el Testaferrismo (Algoritmo de Enjambre): La interposición de personas naturales ajenas al núcleo familiar (testaferros o \"hombres de paja\") no impedirá la aplicación de este artículo. El RNS, mediante el análisis criptográfico de grafos de relaciones y transferencias de divisas (Algoritmo de Enjambre - Art. 117.5.b), rastreará el origen del flujo de fondos. De demostrarse que el capital real o el control fáctico de la empresa pertenece a familiares de la cúpula, la SACA se constituirá de oficio, y el testaferro perderá el cien por ciento (100%) de sus bienes personales registrados por el delito de Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d)
 
 ## ANEXO COMPLEMENTARIO: TABLA DE DEFINICIONES TÉCNICAS E INTERPRETACIÓN HERMENÉUTICA
-*(Disposición interpretativa de referencia conceptual para los órganos jurisdiccionales, el Tribunal de Arbitraje Técnico y los usuarios del Registro Nacional Soberano)*
+
+> *(Disposición interpretativa de referencia conceptual para los órganos jurisdiccionales, el Tribunal de Arbitraje Técnico y los usuarios del Registro Nacional Soberano)*
 
 ------------------------------------------------------------------------
 
@@ -7795,7 +7793,6 @@ SOY UN INDIVIDUO SOBERANO. SOY UN CUBANO LIBRE. \"
 Constitución de la República de Cuba
 
 Versión final -- Elaborada en \[10 de septiembre de 2026\]
-
 
 **Licencia de la Obra:** Esta Constitución es de Código Abierto. Está protegida bajo la Licencia Internacional Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA 4.0). Para ver una copia de esta licencia, visite: https://creativecommons.org/licenses/by-sa/4.0/deed.es
 **Autor Original:** Vara-Architect.

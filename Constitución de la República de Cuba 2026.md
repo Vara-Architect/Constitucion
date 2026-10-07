@@ -918,10 +918,15 @@ La naturalización no es un proceso administrativo de tiempo, sino un acto de Tr
 
         i.  Audiencia Pública de Naturalización: Previo al juramento, la solicitud del extranjero será publicada en la Capa Alfa del RNS del municipio donde reside.
 
-        ii. Veto Vecinal: Se convocará a un Jurado de Proximidad compuesto por cincuenta (50) ciudadanos cubanos por nacimiento que residan en un radio de quinientos (500) metros del solicitante. Si el jurado, mediante mayoría simple, expone pruebas de incivilidad, desprecio por la cultura local, ruido, o comportamiento antisocial, la naturalización será vetada y suspendida por cinco (5) años. El Estado no impone a un nuevo "hermano" si la familia local lo rechaza.
+        ii. Veto Vecinal y Jurado de Proximidad: Se convocará a un Jurado de Proximidad compuesto por cincuenta (50) ciudadanos cubanos por nacimiento seleccionados por sorteo técnico entre los residentes del entorno del solicitante.
+            
+            A. **Regla de Densidad Adaptativa:** El radio de sorteo base será de quinientos (500) metros. En zonas rurales, semi-rurales o de baja densidad demográfica donde el censo no alcance la masa crítica de ciudadanos requerida, el Registro Nacional Soberano (RNS) expandirá paulatinamente el radio en coronas concéntricas sucesivas hasta cubrir el distrito municipal electoral correspondiente, o constituirá el jurado de forma proporcional con los ciudadanos disponibles en el asentamiento.
+            
+            B. **Quórum y No-Oposición:** La no comparecencia, abstención o silencio de los vecinos sorteados tras un plazo perentorio de quince (15) días se computará formalmente como No-Oposición.
+            
+            C. **Estándar de Prueba y Control Judicial:** El veto vecinal no operará por mera antipatía subjetiva. Para suspender la naturalización por cinco (5) años, la mayoría simple del jurado deberá presentar evidencia fáctica comprobable de incivilidad, violencia o desacato al orden constitucional, la cual deberá ser ratificada en su veracidad material por el Juez de Garantías del Tribunal Municipal de Defensa de la Constitución (TMDC).
 
-4. **De la Integración de la Diáspora en la Reconstrucción.**\
-La República reconoce a los hijos y nietos de la Diáspora como parte integrante de la Nación. El sistema facilitará su retorno y acceso a la función pública técnica, priorizando su linaje histórico sobre su estatus migratorio previo. El Registro Nacional Soberano (RNS) habilitará una **Capa de Validación de Ancestros** para simplificar la acreditación del linaje soberano sin necesidad de trámites burocráticos extranjeros.
+4. **De la Integración de la Diáspora en la Reconstrucción:** La República reconoce a los hijos y nietos de la Diáspora como parte integrante de la Nación. El sistema facilitará su retorno y acceso a la función pública técnica, priorizando su linaje histórico sobre su estatus migratorio previo. El Registro Nacional Soberano (RNS) habilitará una **Capa de Validación de Ancestros** para simplificar la acreditación del linaje soberano sin necesidad de trámites burocráticos extranjeros.
 
 ------------------------------------------------------------------------
 
@@ -3299,13 +3304,17 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
 17. **Del Santuario de la Maternidad y el Blindaje Biológico Generacional:** La República reconoce que la gestación, el parto y la crianza temprana son el acto de ingeniería fundamental que sostiene la existencia de la Nación. Se instituye la Maternidad como un **Activo Estratégico Protegido** por encima de cualquier otra consideración económica o laboral.
 
-    a)  **El Velo Prenatal (Cuarto Mes):** A partir del cuarto mes de embarazo certificado en el RNS, la ciudadana queda eximida de toda obligación laboral, pública o privada. Su única función es la preservación de su propia salud y la del ser en gestación.
+    a) **El Velo Prenatal (Inmunidad y Reposo Gestacional):** A partir del cuarto mes de embarazo certificado en el RNS, la ciudadana adquiere el derecho inalienable a la suspensión voluntaria de toda obligación laboral física o presencial, pública o privada, sin pérdida de remuneración ni de sus derechos de retorno. Esta prerrogativa constituye un escudo de protección biológica frente al empleador, quedando preservada la soberanía de la mujer para continuar ejerciendo, de forma libre y por propia decisión, actividades intelectuales, creativas, comerciales o profesionales que no impliquen riesgo físico certificado para su salud o la del ser en gestación.
 
     b)  **La Renta de Crianza Temprana:** Durante el periodo que abarca desde el cuarto mes de embarazo hasta que el hijo cumpla los **tres (3) años** de edad, la madre recibirá una **Renta de Crianza Temprana**, financiada por el Fondo Municipal de Auxilio Mutuo, equivalente al menos al cien por ciento (100%) del costo de la Canasta Básica de Vida (CBV). Está cantidad podrá ampliarse mediante leyes municipales con fondos de su 70% del presupuesto dedicados a tal efecto.
 
     c)  **Retorno Garantizado al Puesto:** El contrato laboral de la madre quedará en estado de suspensión de pleno derecho. Cumplido el periodo de tres años, tiene el derecho inalienable de retornar a su puesto de trabajo original o a uno de igual jerarquía y remuneración.
 
-    d)  **Condición de No Coacción:** Estos derechos son irrenunciables. Es nulo de pleno derecho cualquier contrato o acuerdo que obligue a una madre a renunciar a este periodo de cuidado para mantener su empleo. La coacción del empleador será tipificada como **Atentado a la Infraestructura Biológica de la Nación**.
+    d) Condición de No Coacción y Autonomía de Elección: El descanso maternal y la Renta de Crianza son derechos de protección irrenunciables frente a la exigencia patronal.
+
+        i. Queda terminantemente prohibido a cualquier empleador exigir, coaccionar o incentivar el retorno anticipado al trabajo como condición de permanencia laboral.
+        
+        ii.Sin embargo, la madre conserva la facultad de modular voluntariamente su tiempo de reincorporación laboral o trabajo remoto parcial cuando así lo estime conveniente, sin que ello anule la percepción de la Renta de Crianza ni vulnere la reserva obligatoria de su puesto original.
 
 ------------------------------------------------------------------------
 

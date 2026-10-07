@@ -2,7 +2,7 @@
   <img src="media/image1.jpeg" width="150" alt="Descripción de imagen">
 </p>
 
-# Constitución de la Republica de Cuba
+# Constitución de la República de Cuba
 
 <p align="center">
 <img src="media/image2.png" width="800">
@@ -1575,7 +1575,7 @@ Sin perjuicio de la garantía de Cosa Juzgada para procesos válidamente conclui
     b)  **Asimetría de Poder (La Responsabilidad del Funcionario):** La acción penal y la responsabilidad civil por delitos cometidos por funcionarios públicos en el ejercicio de su cargo contra la soberanía individual, la propiedad privada ciudadana o los recursos del Tesoro Nacional, son imprescriptibles mientras el infractor mantenga vínculos de poder, inmunidad de facto, protección institucional o residencia en jurisdicciones extranjeras que nieguen o dificulten su extradición. El reloj de la prescripción procesal permanecerá congelado jurídicamente y solo se activará el día y la hora en que el infractor pise territorio nacional en condición de ciudadano común, sin fueros de protección y plenamente accesible a la justicia.\
         - *Cláusula de Memoria y Día Cero:* El tiempo transcurrido bajo el amparo de un régimen totalitario o autoritario no computa para la prescripción de los delitos cometidos por sus agentes. Para todos los efectos legales, el cómputo del tiempo para la justicia comienza a marcar el \"Día Cero\" de la promulgación de esta Constitución. Ningún jerarca, oficial o burócrata podrá alegar la \"obediencia debida\" o el \"paso del tiempo\" transcurrido bajo la impunidad de la dictadura como eximente de responsabilidad civil o penal.
 
-    c)  **La Mancha Inborrable (Delitos de Sangre y Naturaleza Depredatoria):** El tiempo no extingue la responsabilidad sobre la anulación de la vida humana o la destrucción de la integridad física profunda. Quedan exceptuados de toda prescripción legal, amnistía, indulto o caducidad, aplicable a cualquier ciudadano, extranjero o autoridad civil y militar **que no haya sido previamente juzgado mediante debido proceso**, la persecución de los siguientes delitos:
+    c)  **La Mancha Imborrable (Delitos de Sangre y Naturaleza Depredatoria):** El tiempo no extingue la responsabilidad sobre la anulación de la vida humana o la destrucción de la integridad física profunda. Quedan exceptuados de toda prescripción legal, amnistía, indulto o caducidad, aplicable a cualquier ciudadano, extranjero o autoridad civil y militar **que no haya sido previamente juzgado mediante debido proceso**, la persecución de los siguientes delitos:
 
     <!-- -->
 
@@ -2282,8 +2282,7 @@ La República de Cuba reconoce que la contratación pública constituye una inve
 
     c)  Apertura Arancelaria Instantánea: La eliminación automática de cualquier traba o impuesto a la importación del bien en crisis para saturar el mercado de oferta externa.
 
-5.  **De la Proscripción de la Ilusión de Crecimiento y la Estímulo Artificial:**\
-    Queda constitucionalmente prohibida la implementación de políticas de estímulo a la demanda basadas en la expansión monetaria, la manipulación de las tasas de interés por debajo de su nivel de mercado, o el endeudamiento destinado al consumo corriente.
+5.  **De la Proscripción de la Ilusión de Crecimiento y el Estímulo Artificial:** Queda constitucionalmente prohibida la implementación de políticas de estímulo a la demanda basadas en la expansión monetaria, la manipulación de las tasas de interés por debajo de su nivel de mercado, o el endeudamiento destinado al consumo corriente.
 
     <!-- -->
 
@@ -4073,7 +4072,7 @@ Ninguna orden ejecutiva, decreto o ley podrá contravenir un hecho técnico, cie
 7. **Protocolo de Concurrencia Obligatoria para Decisiones de Impacto Sistémico:**\
 Con el fin de evitar la captura unilateral del Estado y garantizar que las modificaciones estructurales posean legitimidad política, validez técnica y consenso ciudadano, se establece la **Regla de la Triple Validación**:
 
-    a)  **Ámbito de Aplicación:** Requerirán obligatoriamente la concurrencia de las tres sde las ramas del poder nacional todas aquellas leyes, decretos o modificaciones algorítmicas que afecten:
+    a)  **Ámbito de Aplicación:** Requerirán obligatoriamente la concurrencia de las tres ramas del poder nacional todas aquellas leyes, decretos o modificaciones algorítmicas que afecten:
 
         <!-- -->
 
@@ -4250,7 +4249,7 @@ La soberanía municipal reside en el cuerpo de ciudadanos con arraigo fáctico e
 
 ## Artículo 78. De la Cámara de Vigilancia Aleatoria (CVA) como Gran Jurado.
 
-1.  La CVA estará compuesta por un panel aleatorio de trescientos sesenta (360) ciudadanos sorteados mensualmente (a 120 por mes) la base del sorteo garantizará la representatividad de cada uno de los nodos municipales existentes, asegurando que ningún municipio quede excluido de la fiscalización ciudadana, independientemente de su densidad poblacional, son representativos de la demografía real y reciben un (1) mes de capacitación antes de asumir el relevo del CVA anterior saliente por tres (3) meses de servicio. Está capacitación será dirigida por parte de profesores profesionales preparados en los distintos escenarios y poderes legales de la nación. Su elección (la del CVA) es entre los ciudadanos registrados del RNS mayores de 30 años de edad. Para evitar la captura geográfica o física, el panel se dividirá en tres sub-cámaras de 120 miembros que deliberarán de forma independiente y asíncrona; solo la coincidencia de dos de las tres cámaras activará el dictamen de acusación ante un hecho determinado.
+1.  La CVA estará compuesta por un panel aleatorio de trescientos sesenta (360) ciudadanos sorteados mensualmente (a 120 por mes) la base del sorteo garantizará la representatividad de cada uno de los nodos municipales existentes, asegurando que ningún municipio quede excluido de la fiscalización ciudadana, independientemente de su densidad poblacional, son representativos de la demografía real y reciben un (1) mes de capacitación antes de asumir el relevo del CVA anterior saliente por tres (3) meses de servicio. Esta capacitación será dirigida por parte de profesores profesionales preparados en los distintos escenarios y poderes legales de la nación. Su elección (la del CVA) es entre los ciudadanos registrados del RNS mayores de 30 años de edad. Para evitar la captura geográfica o física, el panel se dividirá en tres sub-cámaras de 120 miembros que deliberarán de forma independiente y asíncrona; solo la coincidencia de dos de las tres cámaras activará el dictamen de acusación ante un hecho determinado.
 
 2.  **Del Dictamen de Acusación Ciudadana (Indictment) y el Filtro de Evidencia:** La CVA no posee mando directo sobre la fuerza física, pero tiene la potestad de emitir un Dictamen de Acusación Ciudadana contra cualquier alto funcionario, incluyendo magistrados del TDC, sujeto a las siguientes garantías probatorias:
 
@@ -4924,7 +4923,7 @@ La República proscribe el uso de menores de edad en cualquier función de comba
 
         iii. **Soberanía de Decisión:** Entrenamiento para operar en condiciones de \"Cero Comunicación\", donde cada oficial debe ser capaz de rediseñar la estrategia en el campo sin esperar al Mando Central.
 
-    c)  **Evaluación por Resultados (Post-Factum):** Una vez terminada una operación militar, el TAT auditara la telemetría grabada (Art. 98.2). El oficial no será juzgado por haber \"engañado\" (eso es su oficio), sino por si su engaño cumplió con la **Pureza de las Armas** (protección de civiles y proporcionalidad).
+    c)  **Evaluación por Resultados (Post-Factum):** Una vez terminada una operación militar, el TAT auditará la telemetría grabada (Art. 98.2). El oficial no será juzgado por haber \"engañado\" (eso es su oficio), sino por si su engaño cumplió con la **Pureza de las Armas** (protección de civiles y proporcionalidad).
 
     d)  **Autarquía Mental:** Se prohíbe la adopción de doctrinas militares extranjeras que se basen en el sacrificio masivo de hombres o en la rigidez burocrática. El oficial cubano será un **Ingeniero del Combate**, cuya prioridad es la victoria con la mínima entropía biológica (mínimas bajas propias).
 
@@ -6993,7 +6992,7 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
     d)  **Los acreedores tienen el derecho** de solicitar al Estado que este cubra temporalmente el pago de estas deudas. El TSJ dará el visto bueno mediante análisis de la evidencia documental. Sin embargo el deudor tiene la obligación una vez terminado su periodo de duelo, de reponer lo pagado por el estado al mismo ritmo de su deuda anterior. Siendo el estado el último que recupera su dinero al final de la prórroga sin intereses adicionales.
 
-    e)  **El TSJ tiene el deber** mediante los órganos correspondientes de velar por qué no se cometa un fraude fiscal en el uso de este mecanismo. Para ello creará una comisión investigadora de uno de los órganos del estado la cual investigue apropiadamente el caso una vez pasado el duelo.
+    e)  **El TSJ tiene el deber** mediante los órganos correspondientes de velar por que no se cometa un fraude fiscal en el uso de este mecanismo. Para ello creará una comisión investigadora de uno de los órganos del estado la cual investigue apropiadamente el caso una vez pasado el duelo.
 
         i.  El objetivo de esta comisión no es hallar culpables sino únicamente velar por que no se cometa fraude con el presupuesto estatal.
 
@@ -7123,10 +7122,9 @@ La República reconoce que la curiosidad intelectual es el motor de la innovaci�
 
 4.  **Ejecución de Garantía contra Morosos (Cero Fricción):** El sistema no admite impagos que pongan en riesgo el colapso del inmueble. Ante la insuficiencia de fondos líquidos del propietario para cubrir el Canon Estructural, el RNS ejecutará el cobro automático reteniendo la fracción necesaria de:
 
-    - 1ro: Los dividendos de la Capa de Capital de Maniobra de sus Acciones Soberanas (AS).
+    a) Los dividendos de la Capa de Capital de Maniobra de sus Acciones Soberanas (AS).
 
-    - 2do: Cualquier flujo de ingresos comerciales o laborales registrados.\
-    El derecho a la vivienda inembargable (Art. 154.1) no exime del deber de sostener la estructura física que la contiene.
+    b) Cualquier flujo de ingresos comerciales o laborales registrados. El derecho a la vivienda inembargable (Art. 154.1) no exime del deber de sostener la estructura física que la contiene.
 
 5.  **Intervención Técnica de Emergencia:** Si un edificio presenta riesgo inminente de colapso o daño grave a la salud pública (fugas de aguas negras, fallo eléctrico estructural) avalado por el Tribunal de Arbitraje Técnico (TAT) local, y la Junta de Propietarios no ejecuta la obra, el Municipio queda facultado para contratar de oficio a un Gremio Constructor privado. El pago se debitará automáticamente del Fideicomiso del edificio. De no haber fondos suficientes, el Municipio ejecutará la reparación gravando una Deuda de Rescate sobre el Derecho de Superficie de los propietarios, recuperable al momento de cualquier venta futura del inmueble.
 
@@ -7496,7 +7494,7 @@ La apertura a pruebas supletorias (Transitoria Segunda) exige una defensa implac
 
 1.  Quedan cesados de forma inmediata y sin indemnización todos los cargos de confianza política, comisarios ideológicos y mandos de la policía política del régimen anterior. Se prohíbe el ejercicio de cargos públicos por 10 años a los miembros del Comité Central y Buró Político del Partido Comunista. Esta inhabilitación es definitiva e imprescriptible para los sujetos comprendidos en este periodo histórico. Los funcionarios operativos, maestros y médicos se someterán a un proceso de Recertificación Ética y Profesional de 24 meses. Este periodo de diez (10) años constituye una sanción política mínima por la responsabilidad en el colapso nacional. Sin perjuicio de lo anterior, si se probara la participación del sujeto en delitos de sangre, tortura o crímenes de lesa humanidad (Artículo 22.15), la inhabilitación para el ejercicio de cualquier función pública será Perpetua, Absoluta e Imprescriptible, sin que el cumplimiento de los 10 años extinga la responsabilidad penal.
 
-2.  Aquellos individuos que hayan formado parte de la alta dirección política o órganos de represión del régimen anterior (1959-hasta su caída) o de cualquier régimen futuro de similar índole quedan inhabilitados perpetuamente para ejercer funciones de Mando Estratégico. Para cargos en la Capa Operativa de servicios vitales, dichos sujetos deberán someterse a una Auditoría de Conducta y Recertificación Técnica de 24 meses. Si no se hallan pruebas de actos represivos o corrupción, podrán acceder a funciones técnicas, bajo estricta supervisión del RNS y sin posibilidad de ascenso a mandos de decisión estratégica, manteniendo su lealtad subordinada a la auditoría técnica permanente de esta Constitución.
+2.  Aquellos individuos que hayan formado parte de la alta dirección política u órganos de represión del régimen anterior (1959-hasta su caída) o de cualquier régimen futuro de similar índole quedan inhabilitados perpetuamente para ejercer funciones de Mando Estratégico. Para cargos en la Capa Operativa de servicios vitales, dichos sujetos deberán someterse a una Auditoría de Conducta y Recertificación Técnica de 24 meses. Si no se hallan pruebas de actos represivos o corrupción, podrán acceder a funciones técnicas, bajo estricta supervisión del RNS y sin posibilidad de ascenso a mandos de decisión estratégica, manteniendo su lealtad subordinada a la auditoría técnica permanente de esta Constitución.
 
 3.  La inhabilitación perpetua se aplicará estrictamente a los Comisarios Políticos y órganos de represión.
 
@@ -7570,7 +7568,7 @@ Para mitigar el impacto antropológico del cambio de régimen económico y prote
 
 1.  Durante los primeros sesenta (60) meses de vigencia de esta Constitución, se garantiza una **Renta Básica de Subsistencia** para ciudadanos mayores de 65 años, personas con discapacidad certificada y ciudadanos en situación de pobreza extrema.
 
-2.  Este fondo se financiará con el diez por ciento (10%) de la cuota nacional del Tesoro (del % nacional) y será distribuido de forma incondicionada en la Capa A del **Pasaporte de Ciudadanía Soberana (PCSC)**.
+2.  Este fondo se financiará con el diez por ciento (10%) de la cuota nacional del Tesoro (de la cuota del treinta por ciento 30% nacional) y será distribuido de forma incondicionada en la Capa A del **Pasaporte de Ciudadanía Soberana (PCSC)**.
 
 3.  El objetivo de esta renta es garantizar la estabilidad biológica mientras la población completa su alfabetización en el sistema de **Acciones Soberanas (SACA)**. Este beneficio será independiente de la participación laboral y solo caducará al cumplirse el plazo de transición o al estabilizarse el IEV municipal por encima del umbral de seguridad.
 

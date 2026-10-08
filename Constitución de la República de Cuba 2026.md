@@ -793,7 +793,7 @@ La República reconoce al idioma español como la lengua de administración y ju
 
             A.  **Casos de fuerza mayor.** En casos donde la legislación extranjera prohíba la renuncia a la nacionalidad de origen, el postulante deberá presentar una Declaración Jurada de Suspensión de Lealtad y entregar en custodia física y/o digital su pasaporte extranjero ante el TDC por la duración de su cargo, este debe ser guardado en una bóveda de banco y devuelto una vez termine su periodo de mandato. El hallazgo de un uso activo de la nacionalidad extranjera durante el mandato será causal de destitución inmediata.
 
-4. Se prohíbe terminantemente al Estado, a sus dependencias policiales, militares o administrativas, así como a cualquier entidad privada o particular, la retención forzosa de pasaportes, títulos de propiedad o documentos de identidad de terceros (Salvó por proceso penal en cuyo caso tendrá los mismos derechos que un nacional). La privación de la posesión física del soporte documental de identidad se tipifica como delito de extorsión institucional y reducción a la servidumbre, acarreando la destitución inmediata del funcionario involucrado y la inhabilitación perpetua para cargos públicos.
+4. Se prohíbe terminantemente al Estado, a sus dependencias policiales, militares o administrativas, así como a cualquier entidad privada o particular, la retención forzosa de pasaportes, títulos de propiedad o documentos de identidad de terceros (Salvo por proceso penal en cuyo caso tendrá los mismos derechos que un nacional). La privación de la posesión física del soporte documental de identidad se tipifica como delito de extorsión institucional y reducción a la servidumbre, acarreando la destitución inmediata del funcionario involucrado y la inhabilitación perpetua para cargos públicos.
 
 5. **De la Propiedad Privada del Dato Biográfico.** Toda información relativa al nacimiento, filiación, estado civil y antecedentes de un ciudadano es propiedad privada y exclusiva del individuo. El Estado actúa únicamente como depositario técnico y custodio a través del Registro Nacional Soberano (RNS). Se garantiza por mandato constitucional el **Derecho de Autogestión Documental**: todo ciudadano, mediante su Pasaporte de Ciudadanía Soberana (PCSC), tiene la potestad de generar, descargar y validar sus propias certificaciones registrales de forma instantánea y digital, las 24 horas del día, sin que medie autorización, firma manual o \"visto bueno\" de funcionario alguno.
 
@@ -831,7 +831,7 @@ c)  **Soberanía de los Afectos:** Ninguna autoridad municipal podrá restringir
 
     d)  **Principio de Fricción Elegida:** Ningún ciudadano podrá ser sancionado ni discriminado civilmente por mantener apagados los módulos avanzados del RNS. Quien decida operar bajo métodos analógicos, contabilidad tradicional o facturación manual conservará todos sus derechos, asumiendo por voluntad propia el costo en tiempo, cálculo y almacenamiento de evidencia (recibos físicos) exigidos para superar las auditorías ordinarias del Tribunal de Arbitraje Técnico (TAT). El Estado provee la máxima eficiencia, pero el ciudadano tiene el derecho a elegir la ineficiencia si le resulta más cómoda.
 
-    e)  El TDC mediante el cuerpo de programadores es el órgano encargado de adaptar mediante ley orgánica está estructura, para la ampliación o reducción de estos requerimientos según lo dicten las circunstancias del mercado y la estructura de la nación.
+    e)  El TDC mediante el cuerpo de programadores es el órgano encargado de adaptar mediante ley orgánica esta estructura, para la ampliación o reducción de estos requerimientos según lo dicten las circunstancias del mercado y la estructura de la nación.
 
 4. **De la Naturaleza Física y Criptográfica del PCSC:** El PCSC no es un documento de identidad pasivo, sino un **Módulo de Identidad Activa**. Se define por su arquitectura en tres capas:
 
@@ -1436,36 +1436,35 @@ Para evitar la repetición de los ciclos de complicidad histórica entre el Esta
 
 1. Se garantiza el derecho al habeas corpus de forma permanente e irrenunciable. Ninguna autoridad podrá suspenderlo, ni aun en estados de emergencia.
 
-a)  **De la Proscripción del Limbo Investigativo y la Caducidad Algorítmica de la Prisión Provisional.**\
-    La República proscribe la utilización de la investigación policial o judicial como mecanismo de castigo anticipado. El \"arresto bajo investigación\" no puede convertirse en una condena fáctica. Se instituye el **Habeas Corpus Algorítmico**:
+    a)  **De la Proscripción del Limbo Investigativo y la Caducidad Algorítmica de la Prisión Provisional:** La República proscribe la utilización de la investigación policial o judicial como mecanismo de castigo anticipado. El \"arresto bajo investigación\" no puede convertirse en una condena fáctica. Se instituye el **Habeas Corpus Algorítmico**:
 
-    i.  **Plazo Criptográfico de Instrucción:** Al momento de ejecutarse un arresto, el oficial actuante debe registrar la captura en el Registro Nacional Soberano (RNS). En ese instante, el RNS inicia una cuenta regresiva inalterable de **setenta y dos (72) horas**.
+        i.  **Plazo Criptográfico de Instrucción:** Al momento de ejecutarse un arresto, el oficial actuante debe registrar la captura en el Registro Nacional Soberano (RNS). En ese instante, el RNS inicia una cuenta regresiva inalterable de **setenta y dos (72) horas**.
 
-    ii. **Liberación por *Time-Out*:** Si cumplidas las 72 horas el fiscal no ha ingresado en el RNS un pliego formal de cargos respaldado por Pruebas Fácticas Prevalentes (Art. 49.7), la celda o instalación de detención perderá su amparo legal. El sistema emitirá una orden automática de liberación. Mantener al ciudadano retenido posterior al vencimiento del plazo constituye **Delito de Secuestro Agravado** por parte de la cadena de mando del centro de detención. No obstante, ante la declaración formal del Protocolo de Baja Tecnología o Pérdida de Enlace de Red, el reloj de liberación automática se suspende temporalmente en sus efectos sin que medie delito alguno, transfiriendo de inmediato la obligación de revisión personal y física del detenido a un panel presencial de Alguaciles y Jueces Municipales mediante acta en el Libro Físico.
+        ii. **Liberación por *Time-Out*:** Si cumplidas las 72 horas el fiscal no ha ingresado en el RNS un pliego formal de cargos respaldado por Pruebas Fácticas Prevalentes (Art. 49.7), la celda o instalación de detención perderá su amparo legal. El sistema emitirá una orden automática de liberación. Mantener al ciudadano retenido posterior al vencimiento del plazo constituye **Delito de Secuestro Agravado** por parte de la cadena de mando del centro de detención. No obstante, ante la declaración formal del Protocolo de Baja Tecnología o Pérdida de Enlace de Red, el reloj de liberación automática se suspende temporalmente en sus efectos sin que medie delito alguno, transfiriendo de inmediato la obligación de revisión personal y física del detenido a un panel presencial de Alguaciles y Jueces Municipales mediante acta en el Libro Físico.
 
-    iii. **Plazo Máximo de Prisión Preventiva:** Si se formulan cargos y un juez dicta prisión preventiva (aplicable exclusivamente en riesgo de fuga comprobado o crímenes de sangre), el RNS establecerá un límite perentorio de **sesenta (60) días calendario** para el inicio del juicio público.
+        iii. **Plazo Máximo de Prisión Preventiva:** Si se formulan cargos y un juez dicta prisión preventiva (aplicable exclusivamente en riesgo de fuga comprobado o crímenes de sangre), el RNS establecerá un límite perentorio de **sesenta (60) días calendario** para el inicio del juicio público.
 
-    iv. **Extinción del Caso:** Si el juicio no inicia en el día 60, el proceso penal se **extingue de pleno derecho por caducidad del Estado**, el ciudadano es liberado de inmediato, y la causa no podrá ser reabierta jamás. El Estado no puede secuestrar el tiempo de un ciudadano por su propia ineficiencia burocrática.
+        iv. **Extinción del Caso:** Si el juicio no inicia en el día 60, el proceso penal se **extingue de pleno derecho por caducidad del Estado**, el ciudadano es liberado de inmediato, y la causa no podrá ser reabierta jamás. El Estado no puede secuestrar el tiempo de un ciudadano por su propia ineficiencia burocrática.
 
-<!-- -->
+            <!-- -->
 
-A.  Se exceptúan los crímenes de sangre. Los cuales podrán ser prorrogables al finalizar el periodo de los 60 días previa aprobación de un juez de forma escalonada:
+            A.  Se exceptúan los crímenes de sangre. Los cuales podrán ser prorrogables al finalizar el periodo de los 60 días previa aprobación de un juez de forma escalonada:
 
-<!-- -->
+                <!-- -->
 
-(A) Primera prórroga juez municipal
+                (A) Primera prórroga juez municipal
 
-(B) Segunda prórroga jefe del TSJM
+                (B) Segunda prórroga jefe del TSJM
 
-(C) Tercera prórroga TSJN.
+                (C) Tercera prórroga TSJN.
 
-(D) Cuarta prórroga presidente del TSJN.
+                (D) Cuarta prórroga presidente del TSJN.
 
-<!-- -->
+                <!-- -->
 
-B.  Al concluir la cuarta prórroga deberá ser liberado si no se ha iniciado un juicio pero el proceso podrá ser reabierto con aprobación del presidente del TSJN si se encuentran pruebas con posterioridad.
+            B.  Al concluir la cuarta prórroga deberá ser liberado si no se ha iniciado un juicio pero el proceso podrá ser reabierto con aprobación del presidente del TSJN si se encuentran pruebas con posterioridad.
 
-C.  En caso de que el proceso penal concluya de forma que se demuestre la inocencia manifiesta del acusado pueden aplicar indemnizaciones acorde a lo que dicta está constitución.
+            C.  En caso de que el proceso penal concluya de forma que se demuestre la inocencia manifiesta del acusado pueden aplicar indemnizaciones acorde a lo que dicta esta constitución.
 
 2. Rige el principio de pacta sunt servanda para todas las relaciones contractuales privadas, salvo vicio de consentimiento o ilegalidad manifiesta.
 
@@ -1499,11 +1498,13 @@ C.  En caso de que el proceso penal concluya de forma que se demuestre la inocen
 
     a)  **De la Insuficiencia del Testimonio Visual:** Queda prohibida la condena a penas privativas de libertad superiores a cinco (5) años basándose exclusivamente en el reconocimiento ocular o testimonios subjetivos.
 
-    <!-- -->
+        <!-- -->
 
         i.  **Exigencia de Huella Material:** Para delitos graves (robo, asesinato, violación), el sistema exige la concurrencia de al menos una **Prueba de Identidad Inapelable**: ADN, huella dactilar, registro biométrico facial certificado por el TAT o telemetría del RNS (geolocalización del PCSC).
 
         ii. **El Filtro del Doble:** Ante cualquier alegación de inocencia basada en la existencia de un tercero idéntico, el RNS ejecutará un **Barrido Biométrico Nacional** de forma automática para localizar posibles colisiones de imagen.
+
+        <!-- -->
 
 9. **De la Inviolabilidad de la Conciencia y No Autoincriminación.** Ningún ciudadano podrá ser compelido a declarar contra sí mismo, ni a prestar testimonio bajo juramento que pueda resultar en su propia incriminación penal. El silencio del investigado es un derecho absoluto y no podrá ser interpretado como indicio de culpabilidad.
 
@@ -1540,7 +1541,7 @@ La pena privativa de libertad no otorga al infractor el derecho a ser mantenido 
 
     d)  **De la Segregación por Grado de Infección Social:** Se prohíbe terminantemente el contacto físico, visual o comunicativo entre internos de distintas categorías de peligrosidad. El Tribunal de Arbitraje Técnico (TAT) definirá los centros de internamiento mediante el **Algoritmo de Triage Penal**:
 
-    <!-- -->
+        <!-- -->
 
         i.  **Nivel I (Recuperación Biológica):** Para menores y adultos convictos por delitos comunes no violentos (hurtos menores, infracciones técnicas). Estos centros se enfocan en la **Rampa de Redignificación** y el aprendizaje de oficios.
 
@@ -1548,7 +1549,7 @@ La pena privativa de libertad no otorga al infractor el derecho a ser mantenido 
 
         iii. **Nivel III (Aislamiento de Máxima Seguridad y Contención Estricta):** Para miembros de pandillas, carteles o terroristas. Estos centros operarán bajo la **Doctrina de Vacío de Mando**. El aislamiento es total. Queda prohibida cualquier interacción con internos de Nivel I o II. El quebrantamiento deliberado de este aislamiento para contactar a internos de menor peligrosidad constituirá falta disciplinaria gravísima y sumará penas accesorias de régimen cerrado en el RNS.
 
-    <!-- -->
+        <!-- -->
 
     e)  **Responsabilidad Civil del Alcaide por Contaminación:** Si por negligencia administrativa o corrupción, un delincuente predatorio es colocado en el mismo espacio que un delincuente común y esto resulta en la muerte, lesión o radicalización del segundo, el funcionario responsable será juzgado por **Negligencia Criminal Agravada**.
 
@@ -1767,7 +1768,7 @@ El dispositivo físico (teléfono móvil, ordenador, sensores domóticos, vehíc
     
     d) Excepción: Se exceptúan los mecanismos informáticos adónde el usuario tiene control total sobre el resultado y lo hace de forma deliberada y previa, o elementos que se encuentren desconectados de la red para la escucha de información y procesamiento local, o los mecanismos activados por voz, los cuales no podrán usar este permiso para transmitir información recopilada por ninguna vía, a no ser que el usuario decida vender esa información de forma deliberada y jamás de forma autónoma.
 
-5.Del Principio de Propiedad del Dato y el Pago por información o Entrenamiento de Inteligencia Artificial.
+5. Del Principio de Propiedad del Dato y el Pago por información o Entrenamiento de Inteligencia Artificial.
 La República reconoce que la experiencia, la voz, el texto y las decisiones del ciudadano no son "datos públicos gratuitos", sino Propiedad Intelectual y Biológica.
 
     a) El Dato como Activo de Mercado (AM): Queda terminantemente prohibido a cualquier empresa, nacional o extranjera, la recolección de textos, audios, imágenes o preferencias de los ciudadanos cubanos (mediante extracción masiva automatizada, minería de datos o métodos análogos) con el propósito de entrenar modelos cognitivos sintéticos, redes de aprendizaje o sistemas de inteligencia artificial presentes o futuros, a menos que medie un Contrato Inteligente de Arrendamiento de Datos en el RNS.
@@ -3329,7 +3330,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
     a) **El Velo Prenatal (Inmunidad y Reposo Gestacional):** A partir del cuarto mes de embarazo certificado en el RNS, la ciudadana adquiere el derecho inalienable a la suspensión voluntaria de toda obligación laboral física o presencial, pública o privada, sin pérdida de remuneración ni de sus derechos de retorno. Esta prerrogativa constituye un escudo de protección biológica frente al empleador, quedando preservada la soberanía de la mujer para continuar ejerciendo, de forma libre y por propia decisión, actividades intelectuales, creativas, comerciales o profesionales que no impliquen riesgo físico certificado para su salud o la del ser en gestación.
 
-    b)  **La Renta de Crianza Temprana:** Durante el periodo que abarca desde el cuarto mes de embarazo hasta que el hijo cumpla los **tres (3) años** de edad, la madre recibirá una **Renta de Crianza Temprana**, financiada por el Fondo Municipal de Auxilio Mutuo, equivalente al menos al cien por ciento (100%) del costo de la Canasta Básica de Vida (CBV). Está cantidad podrá ampliarse mediante leyes municipales con fondos de su 70% del presupuesto dedicados a tal efecto.
+    b)  **La Renta de Crianza Temprana:** Durante el periodo que abarca desde el cuarto mes de embarazo hasta que el hijo cumpla los **tres (3) años** de edad, la madre recibirá una **Renta de Crianza Temprana**, financiada por el Fondo Municipal de Auxilio Mutuo, equivalente al menos al cien por ciento (100%) del costo de la Canasta Básica de Vida (CBV). Esta cantidad podrá ampliarse mediante leyes municipales con fondos de su 70% del presupuesto dedicados a tal efecto.
 
     c)  **Retorno Garantizado al Puesto:** El contrato laboral de la madre quedará en estado de suspensión de pleno derecho. Cumplido el periodo de tres años, tiene el derecho inalienable de retornar a su puesto de trabajo original o a uno de igual jerarquía y remuneración.
 
@@ -3337,7 +3338,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
         i. Queda terminantemente prohibido a cualquier empleador exigir, coaccionar o incentivar el retorno anticipado al trabajo como condición de permanencia laboral.
 
-        ii.Sin embargo, la madre conserva la facultad de modular voluntariamente su tiempo de reincorporación laboral o trabajo remoto parcial cuando así lo estime conveniente, sin que ello anule la percepción de la Renta de Crianza ni vulnere la reserva obligatoria de su puesto original.
+        ii. Sin embargo, la madre conserva la facultad de modular voluntariamente su tiempo de reincorporación laboral o trabajo remoto parcial cuando así lo estime conveniente, sin que ello anule la percepción de la Renta de Crianza ni vulnere la reserva obligatoria de su puesto original.
 
 ------------------------------------------------------------------------
 
@@ -3355,7 +3356,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
 5. Estándar de Calidad Humana: La percepción de fondos vía Voucher obliga a la institución educativa a integrar, junto a la excelencia técnica, la formación del carácter, el estudio del humanismo martiano, la Libertad de Conciencia, el Derecho a la Apostasía (libre salida de instituciones religiosas o de otro tipo), el respeto a la soberanía individual. La educación en Cuba no será una mera transferencia de datos, sino el cultivo del Decoro Ciudadano. Se prohíbe el uso de fondos públicos para cualquier forma de pedagogía que deshumanice al individuo o promueva la servidumbre al Estado. El aislamiento pedagógico absoluto o la prohibición de salida de comunidades cerradas se tipifica como Abuso Infantil Sistémico.
 
-6. La profesión docente es declarada Activo Crítico Nacional. El Estado fomentará que el mercado educativo valore el talento mediante la eliminación de topes salariales, permitiendo que la excelencia pedagógica sea la profesión más rentable y respetada de la República
+6. La profesión docente es declarada Activo Crítico Nacional. El Estado fomentará que el mercado educativo valore el talento mediante la eliminación de topes salariales, permitiendo que la excelencia pedagógica sea la profesión más rentable y respetada de la República.
 
 7. **De la Inviolabilidad Docente y la Responsabilidad Parental Objetiva.** Con el fin de preservar el orden académico y proteger a la profesión docente como Activo Crítico Nacional, se establecen las siguientes garantías de autoridad:
 
@@ -3439,7 +3440,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
         iii. **Capacitación del Personal Docente Responsable:** El docente o directivo a cuyo cargo estuviere la instrucción cívica, en caso de acreditarse dolo o negligencia inexcusable en el plan de estudios, será obligado a cursar un programa de actualización y revalidación impartido por el Senado Técnico de Rectores sin costo para el centro escolar [60.6, 60.13.a.ii, 79.1].
 
-    b)  **Del Homeschooling:** Se prohíbe al Estado imponer estándares de \"socialización\" que diluyan la instrucción técnica. El padre que educa en casa tiene el derecho inalienable a que su hijo sea evaluado exclusivamente por su competencia técnica y constitucional, protegiendo la superioridad del conocimiento sobre el adoctrinamiento de grupo. Sin embargo, debe aprobar los exámenes anuales o el homeschooling puede ser suspendido si no se encuentran problemas físicos, motoros, psicológicos o psiquiátricos que impidan un normal aprendizaje del menor.
+    b)  **Del Homeschooling:** Se prohíbe al Estado imponer estándares de \"socialización\" que diluyan la instrucción técnica. El padre que educa en casa tiene el derecho inalienable a que su hijo sea evaluado exclusivamente por su competencia técnica y constitucional, protegiendo la superioridad del conocimiento sobre el adoctrinamiento de grupo. Sin embargo, debe aprobar los exámenes anuales o el homeschooling puede ser suspendido si no se encuentran problemas físicos, motrices, psicológicos o psiquiátricos que impidan un normal aprendizaje del menor.
 
     c)  Del Derecho al Reinicio Académico y la Proscripción de la Vía Única. La República proscribe el modelo de \"examen de destino único\". Se garantiza la Movilidad Horizontal y Vertical Incondicional:
 

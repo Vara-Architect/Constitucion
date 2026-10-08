@@ -7267,22 +7267,19 @@ La República no reconoce \"Zonas de Tolerancia\", \"Territorios Liberados\" ni 
 
     b)  El Registro Nacional Soberano (RNS) activará unidades móviles para garantizar que todo ciudadano honesto dentro del enclave reciba su Pasaporte de Ciudadanía Soberana (PCSC) y acceda a la Ración Calórica de Rescate. El Estado separa mediante el dato a los rehenes de sus captores.
 
-2. **Fase Beta: La Conquista por Infraestructura (Sustitución de Servicios):**\
-El Estado neutralizará el poder político del grupo criminal eliminando su rol de \"proveedor social\".
+2. **Fase Beta: La Conquista por Infraestructura (Sustitución de Servicios):** El Estado neutralizará el poder político del grupo criminal eliminando su rol de \"proveedor social\".
 
     a)  El Tribunal de Arbitraje Técnico (TAT) ordenará la instalación inmediata, protegida y gratuita de infraestructura de Redes de Interconexión Nacional (RRI) ---agua potable, fibra óptica, iluminación de alta intensidad, energía, y otras de similar índole--- directamente en el enclave.
 
     b)  Queda tipificado como **Sabotaje de Dominio** cualquier intento del grupo criminal de cortar, cobrar peaje o destruir estas redes estatales. El Estado demuestra su supremacía proveyendo la luz que el crimen intenta apagar.
 
-3. **Fase Gamma: Extracción Quirúrgica y Ruina del Liderazgo:**\
-Una vez que la población civil está conectada al RNS y ya no depende del cártel para sobrevivir, el CNSPOC ejecutará el **Protocolo de Acción Defensiva Inmediata (PADI, Art. 105)** modificado para uso interno.
+3. **Fase Gamma: Extracción Quirúrgica y Ruina del Liderazgo:** Una vez que la población civil está conectada al RNS y ya no depende del cártel para sobrevivir, el CNSPOC ejecutará el **Protocolo de Acción Defensiva Inmediata (PADI, Art. 105)** modificado para uso interno.
 
     a)  Se autoriza la extracción quirúrgica de los líderes criminales identificados por telemetría.
 
     b)  Se aplicará la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** (Art. 109) y la **Extinción de Dominio (Restitución Patrimonial Forzosa)** sobre todos los bienes, Acciones Soberanas (AS) y cuentas de los líderes y colaboradores del cártel, transfiriendo esos fondos a la reconstrucción del propio barrio.
 
-4. **Fase Delta: Urbanización de Oficio (Formateo del Terreno):**\
-Neutralizada la amenaza fáctica, el Municipio está constitucionalmente obligado a aplicar el **Artículo 110.4 (Urbanización de Oficio)**.
+4. **Fase Delta: Urbanización de Oficio (Formateo del Terreno):** Neutralizada la amenaza fáctica, el Municipio está constitucionalmente obligado a aplicar el **Artículo 110.4 (Urbanización de Oficio)**.
 
     a)  La topografía caótica y laberíntica que favorece la clandestinidad será rediseñada. El Estado abrirá calles anchas, asfaltará las vías y garantizará el acceso de vehículos de emergencia (ambulancias, bomberos, patrullas) a cada rincón del asentamiento.
 
@@ -7290,7 +7287,7 @@ Neutralizada la amenaza fáctica, el Municipio está constitucionalmente obligad
 
 ------------------------------------------------------------------------
 
-## **Artículo 162. De la Derogación del Orden Jurídico Anterior.**
+## Artículo 162. De la Derogación del Orden Jurídico Anterior.
 
 1. La presente Constitución deroga de pleno derecho cualquier ordenamiento, ley, decreto o costumbre anterior que contravenga sus principios, especialmente aquellos que establezcan centralismo administrativo, propiedad estatal de medios de producción competitivos o privilegios de investidura.
 
@@ -7300,7 +7297,7 @@ Neutralizada la amenaza fáctica, el Municipio está constitucionalmente obligad
 
 ------------------------------------------------------------------------
 
-## **Artículo 163. Del Mandato de Implementación y Leyes Orgánicas.**
+## Artículo 163. Del Mandato de Implementación y Leyes Orgánicas.
 
 Dentro de los primeros seis (6) meses tras la entrada en vigor, la Comisión Nacional de Reconstrucción (CNR) dictará las Leyes Orgánicas necesarias para la operatividad del sistema, que incluirán obligatoriamente:
 
@@ -7322,7 +7319,7 @@ Dentro de los primeros seis (6) meses tras la entrada en vigor, la Comisión Nac
 
 ------------------------------------------------------------------------
 
-## **Artículo 164. De la Supremacía de la Interpretación Técnica.**
+## Artículo 164. De la Supremacía de la Interpretación Técnica.
 
 Ante cualquier duda de interpretación entre esta Constitución y cualquier normativa secundaria futura, prevalecerá la interpretación que garantice la **Máxima Descentralización**, la **Supremacía del Dato sobre el Arbitrio** y el **Resguardo de la Soberanía Individual**. La Constitución no es un texto de sugerencias; es el algoritmo de gobierno de la República.
 
@@ -7709,15 +7706,15 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
 1. REGISTRO NACIONAL SOBERANO (RNS): Sistema tecnológico de registro público, inalterable, descentralizado y auditable por cualquier ciudadano. Sus propiedades funcionales son:
 
-· Inalterabilidad de los registros
+    · Inalterabilidad de los registros
 
-· Transparencia radical y código abierto
+    · Transparencia radical y código abierto
 
-· Respaldo físico analógico como fuente primaria
+    · Respaldo físico analógico como fuente primaria
 
-· Privacidad por capas (ALFA, BETA, GAMMA)
+    · Privacidad por capas (ALFA, BETA, GAMMA)
 
-· Neutralidad tecnológica: no prescribe una tecnología concreta, permite evolución futura
+    · Neutralidad tecnológica: no prescribe una tecnología concreta, permite evolución futura
 
 2. PCSC (Pasaporte de Ciudadanía Soberana y Comercial): Documento de identidad y llave financiera. Permite a la diáspora operar comercialmente y gestionar sus acciones SACA desde cualquier lugar.
 
@@ -7769,11 +7766,11 @@ Durante los primeros 36 meses de vigencia, el TAT abrirá un canal de Acreditaci
 
 26. Estratificación Táctica de la Información:
 
-· CAPA ALFA (Pública): Acceso irrestricto a presupuestos, gasto público tokenizado, salarios, resultados electorales.
+    · CAPA ALFA (Pública): Acceso irrestricto a presupuestos, gasto público tokenizado, salarios, resultados electorales.
 
-· CAPA BETA (Auditoría): Acceso restringido a TDC/TAT mediante pruebas de conocimiento cero. Valida derechos sin revelar datos.
+    · CAPA BETA (Auditoría): Acceso restringido a TDC/TAT mediante pruebas de conocimiento cero. Valida derechos sin revelar datos.
 
-· CAPA GAMMA (Soberanía): Privacidad individual absoluta. Técnicamente inaccesible para el Estado; solo apertura por orden judicial bajo doble llave.
+    · CAPA GAMMA (Soberanía): Privacidad individual absoluta. Técnicamente inaccesible para el Estado; solo apertura por orden judicial bajo doble llave.
 
 27. Zero-Knowledge Proofs (Pruebas de Conocimiento Cero): Protocolo criptográfico que permite validar afirmaciones sin revelar información subyacente.
 

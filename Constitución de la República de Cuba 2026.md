@@ -1070,9 +1070,9 @@ La naturalización no es un proceso administrativo de tiempo, sino un acto de Tr
 
     f)  **Protocolo de Enrutamiento de Santuario e Involuntariedad de Retorno (Anti-Refoulement).** La República establece la primacía irrefutable del derecho a la vida sobre el cumplimiento de los contratos de productividad migratoria. Si un ciudadano extranjero amparado bajo el estatus de **Refugiado Político o Asilado Humanitario Certificado** incurre en el agotamiento del Reloj de Caducidad de ciento veinte (120) días por inactividad económica (Art. 20.4), y la activación de la Fase 3 del inciso anterior, el Registro Nacional Soberano (RNS) activará el **Protocolo de Enrutamiento de Santuario**:
 
-        i.  **Del Protocolo de Enrutamiento Individualizado y Proscripción de la Expulsión Colectiva:** La República de Cuba proscribe y declara como **Acto de Barbaría Administrativa** la deportación masiva o colectiva de ciudadanos extranjeros. Para garantizar la justicia del dato sobre el drama de la masa, se establece:
+        i. **Del Protocolo de Enrutamiento Individualizado y Proscripción de la Expulsión Colectiva:** La República de Cuba proscribe y declara como **Acto de Barbaría Administrativa** la deportación masiva o colectiva de ciudadanos extranjeros. Para garantizar la justicia del dato sobre el drama de la masa, se establece:
 
-            A.  **Proscripción de la Expulsión en Masa:**Queda terminantemente prohibida la ejecución de órdenes de deportación, salida obligatoria o repatriación que afecten a grupos de personas sin una previa sentencia judicial o técnica **individualizada**.
+            A. **Proscripción de la Expulsión en Masa:**Queda terminantemente prohibida la ejecución de órdenes de deportación, salida obligatoria o repatriación que afecten a grupos de personas sin una previa sentencia judicial o técnica **individualizada**.
 
                 <!-- -->
 
@@ -1080,42 +1080,45 @@ La naturalización no es un proceso administrativo de tiempo, sino un acto de Tr
 
                 (B) Cada individuo o unidad familiar (Art. 20.9) debe poseer un expediente único con telemetría de su conducta, productividad y nivel de riesgo. La expulsión de un inocente junto a un infractor bajo una \"medida general\" se tipifica como **Delito de Perversión de la Justicia**.
 
-            B.  **El Deber de Enrutamiento Alternativo (La Cláusula de Salida Justa):**\
-            Si el Tribunal de Arbitraje Técnico (TAT) determina que un extranjero no cumple con los requisitos de permanencia (Art. 20.4) pero su devolución al punto de origen implica un riesgo biológico o político (Art. 20.9.e.i), el Estado cubano tiene la **obligación de proponer alternativas**:
-
                 <!-- -->
 
-                (A) **Búsqueda de Nodo Seguro:** Antes de ejecutar el abandono del territorio, la Cancillería y el RNS ofrecerán al individuo un listado de Jurisdicciones **de Tercer Destino** (países con tratados de reciprocidad o zonas internacionales) que estén dispuestos a recibirlo.
+            B. **El Deber de Enrutamiento Alternativo, Salida Justa y Proscripción del Desamparo Foráneo:** Si el Tribunal de Arbitraje Técnico (TAT) determina que un extranjero no cumple con los requisitos de permanencia (Art. 20.4), pero su devolución al punto de origen implica un riesgo biológico o político (Art. 20.9.e.i), el Estado cubano tiene la obligación ineludible de proponer alternativas y garantizar su integridad, bajo las siguientes reglas:
 
-                (B) **Libertad de Tránsito de Salida:** El individuo tiene el derecho de elegir su punto de salida. El Estado no puede imponer el punto de origen (Cuba, en el caso de los que huyen) como destino forzoso si el ciudadano cuenta con medios o visas para un tercer país.
+                (A) **Búsqueda de Nodo Seguro y Veto de Zonas Hostiles:** Antes de ejecutar el abandono del territorio, la Cancillería y el RNS ofrecerán al individuo un listado de Jurisdicciones de Tercer Destino que hayan manifestado formalmente su disposición a recibirlo.
+                
+                    - **Prohibición de Entrega a Zonas de Conflicto o Secuestro:** Queda terminantemente prohibido trasladar o expulsar a cualquier persona hacia Estados o regiones clasificadas bajo alerta de conflicto armado, desgobierno, presencia hegemónica de bandas criminales o riesgo acreditado de secuestro extorsivo y trata de personas.
+                    
+                    - **Exigencia de Estatus Legal en Destino:** Todo acuerdo de traslado hacia un tercer país requerirá la garantía diplomática de dicho Estado de otorgar al transferido personalidad jurídica formal y permiso legal de estancia o tránsito seguro, prohibiéndose la entrega de seres humanos en condiciones de desamparo documental o apatridia de facto.
 
-                (C) **Del Financiamiento del Enrutamiento de Salida:** Si el individuo carece de los medios económicos para costear su traslado hacia una jurisdicción de tercer destino seguro, la República activará el **Protocolo de Salida Asistida**, bajo las siguientes opciones excluyentes:
+                (B) **Libertad de Tránsito de Salida y Proscripción de Vuelos a Ciegas:** El individuo tiene el derecho inalienable de elegir su punto de destino entre las opciones disponibles (Art. 20.9.f.i.B). El Estado no puede imponer el punto de origen persecutor como destino forzoso si el ciudadano cuenta con medios o visados para un tercer país (Art. 20.9.f.i.B).
 
-                    <!-- -->
+                    - **Deber de Notificación Previa:** Queda prohibido el traslado forzoso sin notificación escrita y fehaciente del destino con una antelación mínima de diez (10) días hábiles, garantizando el derecho a la asistencia legal y la impugnación del destino ante el Tribunal Municipal de Defensa de la Constitución (TMDC).
 
-                    I.  **Opción de Labor de Pasaje (Trabajo por Ticket):** Se le ofrecerá al individuo la posibilidad de integrarse voluntariamente en una Rampa de Redignificación (Art. 151) por un periodo breve y determinado (de preferencia no superior a 30 días). El salario generado se acreditará íntegramente y de forma prioritaria para la compra del boleto de transporte y una ración de viaje. Cumplida la meta financiera, la salida se ejecuta inmediatamente.
+                (C) **Inviolabilidad de la Documentación e Identidad de Tránsito:** Ninguna persona podrá ser expulsada despojada de su documentación personal, pasaporte de origen o registros de identidad civil (Art. 16.4, 20.10.b). En caso de carencia de documentos emitidos por su país natal, el RNS expedirá un Salvoconducto Internacional de Tránsito con respaldo biométrico que certifique la identidad y antecedentes del titular.
 
-                    II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el Registro Nacional Soberano, conforme a las previsiones del Artículo 20, Inciso 15.a y el Artículo 25, Inciso 5.
+                (D) **Del Financiamiento del Enrutamiento de Salida (Protocolo de Salida Asistida):** Si el individuo carece de los medios económicos para costear su traslado hacia una jurisdicción de tercer destino seguro, la República activará las siguientes opciones excluyentes (Art. 20.9.f.i.B):
 
-                    III. **Asunción de Pérdida Sistémica (El Préstamo de Gracia):** En casos de urgencia médica o política donde la salida no pueda esperar, el Fondo Catastrófico Nacional adelantará el costo del viaje. Esta suma quedará registrada en el historial del PCSC-Temporal del extranjero como una **Deuda Pendiente con la República**.
+                    I. **Opción de Labor de Pasaje (Trabajo por Ticket):** Se le ofrecerá al individuo la posibilidad de integrarse voluntariamente en una Rampa de Redignificación (Art. 151) por un periodo breve y determinado (de preferencia no superior a 30 días) (Art. 20.9.f.i.B). El salario generado se acreditará íntegramente y de forma prioritaria para la compra del boleto de transporte y una ración de viaje. Cumplida la meta financiera, la salida se ejecuta inmediatamente (Art. 20.9.f.i.B).
 
-                        - Esta deuda no impedirá su salida.
+                    II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el RNS (Artículos 20.15.a y 25.5) [20.9.f.i.B, 20.15.a, 25.5].
 
-                        - Sin embargo, actuará como un **Bloqueo de Reingreso y de Transacción**: el individuo no podrá volver a entrar a la República, ni contratar con SACAs o empresas cubanas en el extranjero, hasta que la deuda sea liquidada a valor presente.
+                    III. **Asunción de Pérdida Sistémica (El Préstamo de Gracia):** En casos de urgencia médica o política donde la salida no pueda esperar, el Fondo Catastrófico Nacional adelantará el costo del viaje (Art. 20.9.f.i.B). Esta suma quedará registrada en el historial del PCSC-Temporal como una Deuda Pendiente con la República (Art. 20.9.f.i.B). Esta deuda no impedirá su salida, pero actuará como un Bloqueo de Reingreso y de Transacción comercial hasta que sea liquidada a valor presente (Art. 20.9.f.i.B).
 
-                            A.  **El Derecho a la Última Instancia Humana:** Ninguna deportación podrá ser ejecutada por un algoritmo ciego. Todo proceso de salida obligatoria debe contar con la validación de un **Facilitador de Garantías Soberanas (Art.  88.10.e)**, quien certificará que se han agotado las ofertas de empleo (Art. 20.9.e.i) y que no existe riesgo de muerte en el destino elegido.
+                (E) **El Derecho a la Última Instancia Humana:** Ninguna orden de salida obligatoria podrá ser ejecutada por un algoritmo ciego (Art. 4.4.c, 20.9.f.i.B). Todo proceso requerirá la validación de un Facilitador de Garantías Soberanas (Art. 88.10.e), quien certificará que se han agotado las opciones laborales y que no existe riesgo de muerte, tortura ni secuestro en el destino elegido (Art. 20.9.f.i.B, 88.10.e).
 
-                        i.  **Reubicación en Tercer País Seguro:** La Cancillería de la República, en coordinación con el Tribunal de Arbitraje Técnico (TAT) y organismos internacionales, dispondrá de un plazo de gracia para gestionar la reubicación voluntaria o asistida del refugiado hacia una jurisdicción neutral y segura que esté dispuesta a recibirlo.
+                (F) **Protocolo de Reubicación en Tercer País Seguro y Acogida Subsidiaria:**
 
-                        ii. **El Escudo de Supervivencia por Contraprestación (El Limbo Soberano):** Si la reubicación internacional resultase fáctica o diplomáticamente imposible, el Estado no abandonará al refugiado a la inanición ni le otorgará subsidios líquidos extraídos del erario público. El refugiado y su núcleo familiar serán transferidos a la jurisdicción de **Servicio Cívico de Contingencia**:
+                    i. Gestión Diplomática de Reubicación: La Cancillería, en coordinación con el TAT y organismos internacionales, dispondrá de un plazo de gracia para gestionar la reubicación hacia una jurisdicción neutral y segura dispuesta a recibir al individuo (Art. 20.9.f.i.B).
 
-                            A.  El Estado, a través del Fondo Catastrófico Nacional, proveerá albergue de seguridad en instalaciones bajo supervisión de los Alguaciles, garantizando la ración calórica vital (Capa A) y la educación de los menores en la red de Vouchers de Gracia (Art. 60).
+                    ii. **El Escudo de Supervivencia por Contraprestación (Servicio Cívico de Contingencia):** Si la reubicación internacional resultase temporalmente imposible y el retorno al país de origen supusiera riesgo para la vida, el Estado no abandonará al refugiado a la inanición ni lo arrojará al vacío exterior. El refugiado y su familia serán transferidos al régimen de Servicio Cívico de Contingencia (Art. 20.9.f.ii):
 
-                            B.  Como contraprestación ineludible por este escudo de vida, los adultos de la unidad familiar quedarán sujetos al cumplimiento de cuotas de labor en mantenimiento de infraestructura, saneamiento o producción alimentaria de Estado, hasta que logren reinsertarse en el mercado laboral privado o se materialice su salida hacia un tercer país.
+                        A. El Fondo Catastrófico Nacional proveerá albergue de seguridad bajo supervisión de los Alguaciles, garantizando la ración calórica vital (Capa A) y la educación de los menores en la red de Vouchers de Gracia (Art. 60, 20.9.f.ii, 60.1).
 
-                            C.  En caso de un rechazo manifiesto a cualquier tipo de labor (y si no tuviesen ingresos suficientes por vías alternativas) se acelerará su deportación como prioridad estatal.
+                        B. Como contraprestación por este escudo de vida, los adultos cumplirán cuotas de labor en mantenimiento cívico o producción alimentaria hasta su reinserción laboral o su salida hacia un tercer país (Art. 20.9.f.ii).
 
-                        iii. **Protección del Estatus de Cautiverio del Menor:** En ningún caso se penalizará a los menores dependientes del refugiado político por la insolvencia de sus progenitores. La educación y el sustento del menor bajo este protocolo quedan blindados por el principio de Separación del Fracaso Parental (Art. 59.8), asegurando que el santuario otorgado por la República no fracture la unidad del hogar.
+                        C. En caso de rechazo manifiesto e injustificado a toda labor (careciendo de ingresos propios alternativos), se acelerará su salida hacia un tercer destino seguro como prioridad estatal (Art. 20.9.f.ii).
+
+                    iii. **Protección del Menor y No Fraccionamiento Familiar:** En ningún caso se penalizará a los menores dependientes por la insolvencia de sus progenitores (Art. 20.9.f.iii). La educación y sustento del menor quedan blindados por el principio de Separación del Fracaso Parental (Art. 59.8), asegurando que el santuario otorgado por la República preserve la unidad del hogar (Art. 20.9.f.iii, 59.8).
 
 10. Del Derecho a la Portabilidad de Estatus y Prohibición de Retención Documental. Para evitar la formación de trampas migratorias y servidumbre laboral:
 
@@ -1216,7 +1219,7 @@ Ante flujos migratorios masivos que pongan en riesgo la estabilidad biológica o
 
 19. Del Derecho de Asilo, el Filtro de Seguridad y la Ventana de Supervivencia.
 
-    a)  **Principio de Santuario y No Devolución:** La República de Cuba reconoce el asilo político y humanitario. Queda constitucionalmente prohibida la devolución (non-refoulement) de cualquier ser humano hacia territorios donde enfrente riesgo probado de ejecución, tortura o exterminio, prevaleciendo el derecho a la vida sobre la irregularidad documental.
+    a) **Principio de Santuario, No Devolución y Proscripción de la Triangulación Forzosa:** La República de Cuba reconoce el derecho de asilo político y humanitario. Queda constitucionalmente prohibida la devolución directa o indirecta de cualquier ser humano hacia territorios donde enfrente riesgo probado de ejecución, tortura, tratos crueles, persecución o exterminio, prevaleciendo el derecho a la vida sobre la irregularidad administrativa o documental. Esta prohibición ampara expresamente la proscripción de expulsiones trianguladas, acuerdos de transferencia sumaria o convenios de tercerización que utilicen Estados intermediarios como vía para consumar el desamparo material o el retorno forzoso del individuo hacia la jurisdicción de la cual huye.
 
     b)  **Cláusula de Exclusión por Criminalidad:** El asilo será denegado a quienes posean antecedentes por crímenes de lesa humanidad, terrorismo o delitos comunes graves. Los prófugos serán detenidos para su extradición o deportación a un tercer país seguro.
 

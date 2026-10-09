@@ -1100,7 +1100,7 @@ La naturalización no es un proceso administrativo de tiempo, sino un acto de Tr
 
                     I. **Opción de Labor de Pasaje (Trabajo por Ticket):** Se le ofrecerá al individuo la posibilidad de integrarse voluntariamente en una Rampa de Redignificación (Art. 151) por un periodo breve y determinado (de preferencia no superior a 30 días) (Art. 20.9.f.i.B). El salario generado se acreditará íntegramente y de forma prioritaria para la compra del boleto de transporte y una ración de viaje. Cumplida la meta financiera, la salida se ejecuta inmediatamente (Art. 20.9.f.i.B).
 
-                    II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el RNS (Artículos 20.15.a y 25.5) [20.9.f.i.B, 20.15.a, 25.5].
+                    II. **Asignación de Auxilio Humanitario:** El Estado podrá sufragar el costo del traslado con cargo a los fondos específicos constituidos mediante donaciones de carácter estrictamente asistencial debidamente acreditadas en el RNS (Artículos 20.15.a y 25.5).
 
                     III. **Asunción de Pérdida Sistémica (El Préstamo de Gracia):** En casos de urgencia médica o política donde la salida no pueda esperar, el Fondo Catastrófico Nacional adelantará el costo del viaje (Art. 20.9.f.i.B). Esta suma quedará registrada en el historial del PCSC-Temporal como una Deuda Pendiente con la República (Art. 20.9.f.i.B). Esta deuda no impedirá su salida, pero actuará como un Bloqueo de Reingreso y de Transacción comercial hasta que sea liquidada a valor presente (Art. 20.9.f.i.B).
 

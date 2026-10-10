@@ -1493,7 +1493,13 @@ Para evitar la repetición de los ciclos de complicidad histórica entre el Esta
 
         iii. Tipificación de Secuestro por Dilación: Toda retención física del ciudadano que exceda el término perentorio de dos (2) horas posteriores a la firma digital de la resolución en el RNS —salvo existencia acreditada de otra orden judicial firme e independiente de captura por delito grave diferente— constituirá Delito de Secuestro Institucional Agravado. Dicha conducta acarreará la destitución fulminante y el procesamiento penal inmediato de la cadena de mando del centro de custodia responsable, sin posibilidad de alegar dilación burocrática ni orden jerárquica en contrario.
 
-2. Rige el principio de pacta sunt servanda para todas las relaciones contractuales privadas, salvo vicio de consentimiento o ilegalidad manifiesta.
+2. **Del Principio de Pacta Sunt Servanda y la Inviolabilidad de las Obligaciones Contractuales frente al Estado:** Los acuerdos libremente celebrados entre particulares constituyen ley ineludible entre las partes y deberán cumplirse según sus propios términos, rigiendo de forma absoluta el principio de *pacta sunt servanda*, salvo acreditación de vicio de consentimiento o ilegalidad manifiesta.
+
+   a) **Proscripción de la Alteración Legislativa y Ejecutiva:** Queda terminantemente prohibido a la Cámara de Representantes, al Presidente de la República y a las Asambleas Municipales sancionar leyes, decretos, ordenanzas o resoluciones de emergencia que anulen, suspendan, alteren, renegocien o difieran retroactivamente los términos, plazos, tasas de interés o condiciones patrimoniales pactadas en contratos privados legalmente suscritos y registrados en el RNS.
+
+   b) **Inadmisibilidad de Moratorias Forzosas:** El Estado no podrá invocar razones de "interés social", "emergencia económica" o "utilidad pública" para decretar moratorias de pago obligatorias, congelaciones de alquileres o quitas de deuda que trasladen coactivamente la pérdida patrimonial entre particulares. Toda ley o decreto que pretenda reescribir un contrato civil o comercial legítimo será nulo de pleno derecho desde su origen.
+
+   c) **Principio de Certeza Temporal:** Todo contrato privado se regirá durante toda su vigencia por el marco normativo legal vigente en el instante exacto de su perfeccionamiento y registro en el Registro Nacional Soberano (RNS), quedando blindado frente a cualquier reforma legislativa posterior que pretenda menoscabar los derechos adquiridos en dicho instrumento.
 
 3. En materia penal, rigen los principios de in dubio pro reo, nullum crimen, nulla poena sine lege y la irretroactividad de la ley penal desfavorable.
 
@@ -2984,7 +2990,15 @@ Se instituye el TDAM como la herramienta fundamental del Registro Nacional Sober
 
 1. Reconocimiento y Protección: El Estado reconoce y garantiza la propiedad privada sobre bienes muebles, inmuebles, medios de producción y propiedad intelectual.
 
-2. Régimen de Expropiación: La expropiación solo procederá por causa de utilidad pública debidamente demostrada, mediante sentencia judicial firme y Previo Pago de Indemnización Justa en Efectivo al valor de mercado, pagadera antes de la toma de posesión del bien.
+2. **Del Régimen de Expropiación y la Reintegración Posesoria Sumaria contra el Despojo Estatal:** La propiedad privada es inviolable. La expropiación forzosa procederá con carácter estrictamente excepcional, única y exclusivamente por causa de utilidad pública o necesidad social de infraestructura vital debidamente acreditada, mediante sentencia judicial firme y previo pago total de indemnización justa en efectivo y a valor de mercado libre, tasada pericialmente por el Tribunal de Arbitraje Técnico (TAT).
+
+   a) Condición Suspensiva Absoluta de Pago Líquido en el RNS: La toma de posesión material, la ocupación física, el desalojo o la demolición del bien expropiado quedará supeditada de forma inexorable a la previa acreditación y disponibilidad efectiva del cien por ciento (100%) de la indemnización dineraria en la cuenta del titular dentro del Registro Nacional Soberano (RNS). Se prohíbe el pago diferido, la entrega de pagarés sin liquidez inmediata o la ocupación provisional por supuesta "urgencia de obra".
+
+   b) Acción Sumaria de Amparo y Reintegración Posesoria (Doctrina de 1940): Si cualquier autoridad del Estado, del Municipio o de las fuerzas de seguridad pública ocupase materialmente un bien inmueble o mueble sin la concurrencia fehaciente del pago previo acreditado en el RNS, el acto se considerará Vía de Hecho y Delito de Usurpación Institucional en Flagrancia. 
+   
+   A falta del pago previo completo, el propietario despojado tendrá el derecho inalienable a ser amparado y reintegrado inmediatamente en la posesión física de su propiedad por los Tribunales Municipales de Defensa de la Constitución (TMDC) o jueces ordinarios en un plazo perentorio de veinticuatro (24) horas, auxiliado por los Alguaciles de la Constitución, aun contra la propia fuerza pública o autoridad ejecutante.
+
+   c) Responsabilidad Patrimonial del Funcionario Ejecutor: La orden o ejecución material de desalojo u ocupación sin el previo pago acreditado acarreará la destitución inmediata del funcionario responsable y la obligación de indemnizar a la víctima con su propio patrimonio por los daños morales y materiales ocasionados, sin perjuicio de las sanciones del Artículo 109.
 
 3. De la Propiedad sobre Bienes Muebles y Medios de Transporte.
 
@@ -3873,6 +3887,14 @@ Se tipifica como **Delito de Sabotaje a la Vida Laboral** cualquier acuerdo tác
 
 3. Autonomía Municipal de Incentivos: Los Municipios, usando su autonomía fiscal del 70%, podrán incrementar voluntariamente las pensiones de sus residentes para premiar la permanencia y contribución local.
 
+4. **De la Proscripción Absoluta de Pensiones Graciosas, Privilegios Singulares y Rentas de Favor (Regla Anti-Favoritismo):** Los fondos del Tesoro Nacional, los Presupuestos Municipales y el Fideicomiso Nacional de Pensiones pertenecen indivisiblemente a la ciudadanía y están regidos por el principio de universalidad matemática y no discriminación.
+
+   a) Prohibición de Asignaciones Nominales ad Hominem: Queda terminantemente prohibido a la Cámara de Representantes, al Presidente de la República, a las Asambleas Municipales o a cualquier autoridad pública conceder, votar o asignar pensiones graciosas, jubilaciones de privilegio, rentas vitalicias personalizadas, subsidios singulares o incrementos extraordinarios de retiro a favor de personas específicas con cargo al erario público, bajo pretexto de homenajes históricos, méritos cívicos, afinidad política o agradecimiento estatal.
+
+   b) Principio de Abstracción Universal del Gasto Social: Todo derecho a percibir fondos de retiro, pensiones de subsistencia o auxilio mutuo debe emanar exclusiva e indistintamente de las reglas generales de capitalización individual (Art. 68.1), de la titularidad de Acciones Soberanas (Art. 115) o de los baremos objetivos e impersonales del Fondo de Auxilio Mutuo (Art. 62). Se proscribe la creación de categorías especiales de pensionados basadas en investiduras civiles o gremiales pasadas.
+
+   c) Nulidad de Pleno Derecho y Tipificación de Malversación: Toda ley, decreto, ordenanza o partida presupuestaria que pretenda asignar una pensión nominal singular se declara Nula de Pleno Derecho desde su origen. El Registro Nacional Soberano (RNS) bloqueará automáticamente cualquier desembolso que carezca de una regla algorítmica general previa. El legislador, presidente o funcionario que promueva o autorice una pensión singular incurrirá en el Delito de Malversación Agravada del Tesoro, respondiendo solidariamente con su propio patrimonio por los fondos indebidamente comprometidos.
+
 ------------------------------------------------------------------------
 
 # TÍTULO VIII EL PODER MUNICIPAL Y LA COOPERACIÓN TÉCNICA
@@ -4298,6 +4320,16 @@ La soberanía municipal reside en el cuerpo de ciudadanos con arraigo fáctico e
     d)  **Excepción por Fundación:** En el caso de municipios de nueva creación o territorios recién integrados bajo el Pacto de Unión Soberana (Art. 166), el periodo de inercia quedará en suspenso únicamente para los primeros pobladores fundadores certificados por el TAT, permitiendo la conformación del primer gobierno local de forma inmediata.
 
     e)  **Recalibración por Interés Patrimonial:** Si un ciudadano adquiere la titularidad de una vivienda principal en el nuevo municipio y liquida el Flat Tax correspondiente en dicha jurisdicción, el periodo de inercia podrá reducirse a dieciocho (18) meses, previa auditoría de buena fe por el TMDC local.
+
+11. **Del Principio de Especialidad Presupuestaria y Proscripción Radical del Contrabando Legislativo (Anti-Rider Rule):** La Ley del Presupuesto General de la República (en su cuota nacional del 30%) y los Presupuestos Municipales (en su cuota del 70%) tienen naturaleza estrictamente contable, financiera y de balance de recursos.
+
+    a) **Proscripción Absoluta de Materia Ajena (Veto al Contrabando Legislativo):** Queda terminantemente prohibido a la Cámara de Representantes y a las Asambleas Municipales incluir en las leyes de presupuesto disposiciones normativas, reformas legislativas, modificaciones a los códigos civiles o penales, alteraciones al régimen regulatorio, creación de sanciones o mandatos administrativos de cualquier otro orden ajenos a la asignación cifrada del gasto y la estimación de ingresos autorizados en esta Constitución.
+       
+       i. **Nulidad de Oficio por Incongruencia:** Toda disposición sustantiva no presupuestaria que sea insertada subrepticiamente dentro de una ley de presupuesto será declarada Nula de Pleno Derecho por el Tribunal de Defensa de la Constitución (TDC) o el Tribunal de Arbitraje Técnico (TAT), teniéndose por no puesta y careciendo de fuerza obligatoria, sin afectar la validez del balance contable general.
+
+    b) **Regla de Compensación de Ingresos y Prohibición de Desbalance:** El Congreso no podrá reducir ni suprimir fuentes de ingresos públicos permanentes sin establecer en el mismo acto la reducción o supresión de gastos permanentes equivalentes, o sin certificar la existencia de reservas líquidas reales y auditadas en el Registro Nacional Soberano (RNS) que cubran la diferencia. Queda proscrito el voto de gastos corrientes que carezcan de respaldo en ingresos genuinos previamente acreditados por el algoritmo del Tesoro.
+
+    c) **Auditoría Algorítmica de Límites:** Ninguna Cámara o Asamblea podrá asignar a un servicio público ordinario una partida presupuestaria que exceda la capacidad real del Tesoro auditada por el RNS, ni redistribuir fondos en detrimento de la Reserva Estratégica de Soberanía (RES) o el Fondo de Convergencia (FCIN), bajo pena de procesamiento de los legisladores por Delito de Tentativa de Quiebra Fiscal.
 
 ------------------------------------------------------------------------
 

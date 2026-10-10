@@ -4146,12 +4146,15 @@ El Presidente de la República es el Líder Estratégico y Garante Existencial d
 
     c)  **Veto de Constitucionalidad:** Facultad de detener preventivamente cualquier norma que erosione la Soberanía Individual, la Propiedad Privada o la Identidad Nacional, debiendo el TDC emitir fallo definitivo en un plazo máximo de 72 horas.
 
-5. **El Veto de la Realidad Física (Supremacía del Dato sobre el Arbitrio):**\
-Ninguna orden ejecutiva, decreto o ley podrá contravenir un hecho técnico, científico o contable auditado por el RNS.
+5. **El Veto de la Realidad Física (Supremacía del Dato sobre el Arbitrio):** Ninguna orden ejecutiva, decreto o ley podrá contravenir un hecho técnico, científico o contable auditado por el RNS.
 
-    a)  El Tribunal de Arbitraje Técnico (TAT) es la autoridad final para determinar la veracidad técnica de las premisas de una ley u orden.
+    a) El Tribunal de Arbitraje Técnico (TAT) es la autoridad final para determinar la veracidad técnica de las premisas de una ley u orden.
 
-    b)  Si el TAT declara una orden presidencial como \"Falsedad Técnica\" o \"Alucinación Administrativa\", dicha orden se extingue automáticamente y el Presidente será sometido a Juicio de Responsabilidad por Engaño Constitucional (Art. 84.4). El Líder solo puede liderar en la realidad; la mentira es el fin del mandato.
+    b) Si el TAT declara una orden presidencial como "Falsedad Técnica" o "Alucinación Administrativa", dicha orden se extingue automáticamente y el Presidente será sometido a Juicio de Responsabilidad por Engaño Constitucional (Art. 84.4). El Líder solo puede liderar en la realidad; la mentira es el fin del mandato.
+
+    c) Delimitación Ontológica de la Competencia Técnica: La jurisdicción de veto del Tribunal de Arbitraje Técnico (TAT) se restringe estricta y exclusivamente a la Imposibilidad Aritmética, Termodinámica o Biológica de una norma. El TAT posee potestad absoluta para anular cualquier ley que ordene un gasto superior a la liquidez auditada en el Registro Nacional Soberano (RNS), o que exija la entrega de un flujo energético o material físicamente inexistente en las Redes de Interconexión Nacional (RRI).
+
+    d) Proscripción del Veto Ideológico o Teórico: Queda terminantemente prohibido al TAT emitir vetos de inviabilidad basados en discrepancias sobre teorías macroeconómicas, preferencias de gasto social, o modelos de desarrollo. El TAT certifica el impacto material del dato; la Cámara de Representantes asume el costo de la preferencia política.
 
 6. **Protección del Recinto de Soberanía:** El asalto físico a la Cámara de Representantes, el Tribunal de Defensa de la Constitución o la Casa Presidencial, con el fin de alterar un resultado electoral o un dictamen judicial, será tipificado como **Atentado a la Estabilidad Sistémica**.
 
@@ -4540,9 +4543,17 @@ Para garantizar la continuidad del Estado y prevenir la parálisis del mando por
 
     c)  Esta protección no cubre delitos en flagrancia de violencia física grave, ni lo exime del Juicio de Residencia (Art. 78) ante la Cámara de Vigilancia Aleatoria por violaciones constitucionales.
 
-3. Inexistencia de Fondos Reservados: El Presidente carece de capacidad para mover, asignar o prometer fondos públicos de forma discrecional. Todo gasto de la Casa Presidencial está pre-programado en el algoritmo del Tesoro Nacional y es auditable en tiempo real por cualquier ciudadano de catorce años.
+3. **Inexistencia de Fondos Reservados:** El Presidente carece de capacidad para mover, asignar o prometer fondos públicos de forma discrecional. Todo gasto de la Casa Presidencial está pre-programado en el algoritmo del Tesoro Nacional y es auditable en tiempo real por cualquier ciudadano de catorce años.
 
-4. Veto de la Realidad: Si el Presidente emite una orden de emergencia que el Tribunal de Arbitraje Técnico (TAT) declara como \"Falsedad Técnica\" (conforme al **Veto de la Realidad definido en el Artículo 74.5**), la orden queda revocada de pleno derecho y se activa automáticamente el proceso de destitución por el Delito de Engaño Constitucional.
+4. **Veto de la Realidad y Audiencia de Contradicción Pública:** Si el Presidente emite una orden de emergencia que el Tribunal de Arbitraje Técnico (TAT) certifica como "Falsedad Técnica" por contravenir constantes materiales o aritméticas, la orden u acto quedará suspendida de pleno derecho.
+
+    a) Proscripción de la Destitución Automática: Esta suspensión fáctica no implicará la destitución inmediata ni la inhabilitación del mandatario. El expediente completo y la telemetría del caso serán derivados de oficio, en un plazo máximo de veinticuatro (24) horas, a la Cámara de Vigilancia Aleatoria (CVA).
+
+    b) El Cónclave de Veredicto Popular: La CVA convocará a una Audiencia de Contradicción. En ella escuchará, en igualdad de condiciones, los datos fácticos y matemáticos expuestos por los peritos del TAT, y los argumentos de necesidad política, urgencia humanitaria o estrategia de Estado presentados por el Presidente.
+
+    c) Resolución Ciudadana y Dolo: Si la CVA, mediante mayoría calificada de dos tercios (2/3) de sus miembros, determina que el Presidente actuó con Dolo Manifiesto, intención de fraude al RNS o búsqueda de beneficio personal, procederá a su destitución fulminante por el Delito de Engaño Constitucional.
+
+    d) Eximente por Necesidad de Estado: Si la CVA determina que el Presidente actuó de buena fe bajo un estado de necesidad política o urgencia, el mandatario conservará el cargo sin mácula legal. No obstante, la orden original permanecerá suspendida y el Ejecutivo estará obligado a rediseñar la medida ajustándose a los parámetros físicos dictados por el TAT.
 
 5. Prohibición de la Guardia Pretoriana: Se prohíbe la creación de cuerpos de seguridad o inteligencia que respondan personalmente al Presidente. Su protección física y su servicio de inteligencia dependen de oficiales rotativos del CNSPOC, cuya lealtad primera es a la Constitución y no a la persona del mandatario.
 

@@ -964,6 +964,16 @@ La naturalización no es un proceso administrativo de tiempo, sino un acto de Tr
 
     c) Tipificación del Agravante por Vulnerabilidad Migratoria: La invocación del estatus migratorio, la falta de arraigo o la condición de extranjero de la víctima como justificación, atenuante o pretexto para el delito, se tipifica como Agravante de Odio y Depredación Asimétrica, duplicando de pleno derecho la responsabilidad civil de restitución sobre el patrimonio del agresor. La República no reconoce grados de humanidad ni admite zonas de desamparo físico en su suelo.
 
+    d) **Garantía de Notificación Consular Inmediata y Escudo de Protección al Asilado:** Todo ciudadano extranjero que sea privado de su libertad en el territorio nacional goza del derecho inalienable a la asistencia y comunicación consular de su país de origen o residencia legal, de conformidad con los tratados internacionales vigentes.
+
+       i. Automatización Telemática del Aviso (Plazo de Doce Horas): Al momento de registrarse la detención de un portador de PCSC-Temporal (Art. 17.5) o pasaporte foráneo en el Registro Nacional Soberano (RNS), el sistema emitirá y transmitirá de oficio, en un plazo no mayor a doce (12) horas, una Notificación Electrónica de Custodia a la representación diplomática o consular acreditada del país del detenido. El documento informará la identidad, el lugar de custodia física, el motivo del arresto y la autoridad judicial interviniente.
+
+       ii. Derecho a la Visita y Asistencia Legal Consular: La autoridad penitenciaria o policial garantizará el acceso físico o telemático seguro del funcionario consular para entrevistar y proveer asistencia legal a su nacional en condiciones de estricta privacidad, sin interferencia ni dilación administrativa.
+
+       iii. Excepción de Santuario (Veto a la Notificación en Casos de Asilo y Refugio): Queda terminantemente prohibida la notificación consular automática cuando el extranjero detenido ostente la condición de Refugiado Político o Asilado Humanitario Certificado (Art. 20.9.e), o cuando en el momento de la detención formule formalmente solicitud de protección internacional y manifieste fundado temor de persecución, tortura o represalias por parte del Estado emisor de su pasaporte. En tales supuestos, la notificación a la sede diplomática de origen requerirá la autorización expresa, libre e informada del detenido registrada en el RNS. La violación de este secreto diplomático se tipificará como Delito de Violación de Salvaguarda de Santuario.
+
+       iv. Nulidad por Incomunicación Foránea: La omisión injustificada de la notificación consular dentro del plazo fijado, o la negativa arbitraria de permitir el contacto diplomático legítimo, generará la presunción de privación ilegal de la libertad, habilitando la activación inmediata del Habeas Corpus Algorítmico (Art. 22.1) ante el Tribunal Municipal de Defensa de la Constitución (TMDC).
+
 2. Principio de Reciprocidad Efectiva y Doctrina Espejo:
    
     a) Condición General de Paridad: La concesión de visados, facilidades de inversión, derechos de residencia ordinaria o adquisición de bienes en favor de personas naturales, jurídicas o entidades de un Estado extranjero, estará condicionada estrictamente a que dicho Estado otorgue un trato análogo, equitativo y simétrico a los ciudadanos y empresas de la República de Cuba en su jurisdicción de origen.
@@ -1475,6 +1485,14 @@ Para evitar la repetición de los ciclos de complicidad histórica entre el Esta
 
             C.  En caso de que el proceso penal concluya de forma que se demuestre la inocencia manifiesta del acusado pueden aplicar indemnizaciones acorde a lo que dicta esta constitución.
 
+    b) **De la Inmediata e Ineludible Puesta en Libertad ante Absolución o Sobreseimiento:** Dictado auto de sobreseimiento, archivo de la causa o sentencia absolutoria por cualquier tribunal de la República (municipal o nacional), la persona detenida o sujeta a prisión preventiva recobrará su libertad física y ambulatoria de forma plena, instantánea y de pleno derecho.
+
+        i. Inoponibilidad de Recursos Acusatorios: Queda terminantemente prohibido mantener la privación de libertad bajo el argumento de recursos de apelación, casación, consultas o revisiones interpuestas por la fiscalía o la acusación particular. Todo recurso acusatorio pendiente se sustanciará y resolverá obligatoriamente con el ciudadano en libertad plena, sin que proceda la imposición de nuevas medidas cautelares privativas de libertad sobre los mismos hechos.
+
+        ii. Automatización Registral y Desconexión de Custodia: En el instante exacto en que el juez emita y firme digitalmente la resolución absolutoria o de sobreseimiento en el Registro Nacional Soberano (RNS), el sistema generará y notificará la Orden Criptográfica de Liberación Inmediata al centro de detención correspondiente. 
+
+        iii. Tipificación de Secuestro por Dilación: Toda retención física del ciudadano que exceda el término perentorio de dos (2) horas posteriores a la firma digital de la resolución en el RNS —salvo existencia acreditada de otra orden judicial firme e independiente de captura por delito grave diferente— constituirá Delito de Secuestro Institucional Agravado. Dicha conducta acarreará la destitución fulminante y el procesamiento penal inmediato de la cadena de mando del centro de custodia responsable, sin posibilidad de alegar dilación burocrática ni orden jerárquica en contrario.
+
 2. Rige el principio de pacta sunt servanda para todas las relaciones contractuales privadas, salvo vicio de consentimiento o ilegalidad manifiesta.
 
 3. En materia penal, rigen los principios de in dubio pro reo, nullum crimen, nulla poena sine lege y la irretroactividad de la ley penal desfavorable.
@@ -1517,7 +1535,23 @@ Para evitar la repetición de los ciclos de complicidad histórica entre el Esta
 
 9. **De la Inviolabilidad de la Conciencia y No Autoincriminación.** Ningún ciudadano podrá ser compelido a declarar contra sí mismo, ni a prestar testimonio bajo juramento que pueda resultar en su propia incriminación penal. El silencio del investigado es un derecho absoluto y no podrá ser interpretado como indicio de culpabilidad.
 
-10. **De la Prohibición de Tratos Crueles e Inusuales.** Queda terminantemente prohibida la imposición de fianzas excesivas, multas desproporcionadas y la aplicación de penas crueles, inhumanas, degradantes o inusuales. Se proscribe el uso de la tortura física o psicológica, así como el confinamiento solitario prolongado. La pena tiene como único fin la restitución del daño y la seguridad pública, nunca el quebranto de la voluntad del individuo.
+10. **De la Prohibición de Tratos Crueles, Inusuales y Proscripción Absoluta del Aislamiento Disciplinario:** Queda terminantemente prohibida la imposición de fianzas excesivas, multas desproporcionadas y la aplicación de penas crueles, inhumanas, degradantes o inusuales. Se proscribe de forma absoluta la tortura física o psicológica en todas sus modalidades. La pena judicial tiene como único fin la restitución material del daño a la víctima y la seguridad de la sociedad, jamás el castigo corporal, la venganza estatal ni el quebranto de la voluntad o dignidad del individuo.
+
+    a) Proscripción Categórica del Confinamiento Solitario y Celdas de Castigo: Queda estrictamente prohibida la utilización del aislamiento en solitario, el encierro en celdas de castigo, la privación sensorial, la reclusión en oscuridad, o cualquier reducción de espacio que impida la movilidad natural como mecanismo de sanción disciplinaria interna dentro del sistema penitenciario. 
+
+    b) Régimen de Disciplina Penitenciaria Lícita: Las faltas disciplinarias cometidas por reclusos dentro de los recintos productivos solo podrán ser sancionadas mediante:
+       
+       i. Pérdida temporal de comodidades o privilegios recreativos.
+       
+       ii. Reasignación temporal a tareas productivas de menor preferencia o mayor esfuerzo manual (respetando la jornada de 40 horas y el estándar biológico del Art. 65).
+       
+       iii. Suspensión temporal de comunicaciones o visitas recreativas extraordinarias (garantizando siempre la visita de abogados defensores y del Defensor Municipal).
+       
+       iv. Pérdida o suspensión de créditos temporales de redención de pena.
+
+    c) Delimitación con la Contención de Seguridad de Nivel III: La prohibición del aislamiento disciplinario no obsta para que los internos clasificados en Nivel III (pertenencia probada a crimen organizado, carteles o terrorismo, Art. 22.13.d.iii) sean sujetos a un régimen de estricta segregación comunicativa y visual respecto a la población de Nivel I y II para evitar el contagio o la continuidad de mandos criminales. Dicha segregación de seguridad se ejecutará obligatoriamente en habitáculos individuales dignos, ventilados, con acceso a luz natural continua, espacio de lectura, saneamiento propio y derecho a patio al aire libre no inferior a dos (2) horas diarias, bajo supervisión constante de telemetría y biometría conectada al RNS (Art. 139.6).
+
+    d) Responsabilidad Penal por Uso de Celdas de Castigo: La orden o ejecución material de confinar a un interno en celdas de castigo, tapiadas o aislamiento solitario se tipifica como Delito de Tortura Institucional. Acarreará la destitución inmediata del alcaide o funcionario que ordene la medida, su inhabilitación perpetua conforme al Artículo 109, y la indemnización obligatoria a la víctima con cargo al patrimonio personal del custodio infractor.
 
 11. **Del Juicio Rápido, Público y con Defensa.** Todo acusado tiene derecho a un juicio público y expedito ante un tribunal imparcial. Se garantiza el derecho a ser asistido por un abogado de su elección desde el primer instante de la detención. En caso de carecer de recursos, el Municipio proveerá defensa técnica mediante el Fondo de Auxilio Mutuo, garantizando que la justicia no sea un privilegio de la solvencia económica.
 
@@ -1669,6 +1703,14 @@ La República no subsidia el crimen ni reconoce la privación de libertad como m
     b)  **Apelación de Derecho:** Se eleva al Tribunal de Defensa de la Constitución (TDC).
 
     c)  **Suspensión de Efectos:** La apelación suspende cualquier sanción pecuniaria o física, salvo en casos de riesgo inminente para la vida o destrucción de infraestructura crítica.
+
+    d) **Prohibición Absoluta de Empeoramiento de la Sanción (Principio de Non Reformatio in Peius):** En todo recurso de apelación, queja, revisión o impugnación interpuesto exclusivamente por el ciudadano sancionado, imputado o administrado, o por su defensa técnica, queda terminantemente prohibido al tribunal superior o instancia de alzada agravar, incrementar o endurecer en perjuicio del recurrente la pena, multa, retención patrimonial, calificación jurídica o consecuencia lesiva fijada en la resolución recurrida.
+
+        i. Extensión Universal al Ámbito Administrativo, Técnico y Tributario: Esta garantía rige de forma idéntica ante cualquier procedimiento sancionador municipal, controversia técnica ante el Tribunal de Arbitraje Técnico (TAT) o liquidación fiscal en el Registro Nacional Soberano (RNS). El ejercicio del derecho a impugnar una sanción jamás facultará a la autoridad para imponer gravámenes adicionales, recargos punitivos derivados del recurso o pérdidas de derechos no contempladas en el acto de origen.
+
+        ii. Límite de Congruencia ante Recursos Cruzados: Únicamente procederá la revisión hacia una sanción superior cuando la fiscalía, la administración o la contraparte legítima hayan interpuesto formalmente y en tiempo propio un recurso agravatorio específico en contra del fallo de primera instancia. En tal supuesto, el tribunal revisor limitará su pronunciamiento estrictamente al debate de los agravios formulados por la acusación, sin poder introducir agravantes oficiosas no solicitadas.
+
+        iii. Tipificación de Amedrentamiento Procesal: Se tipifica como Falta Grave contra las Garantías Ciudadanas cualquier acto, advertencia verbal o resolución formal de un juez, fiscal, inspector o funcionario público que amenace, condicione o disuada a un ciudadano de recurrir una decisión bajo advertencia o apercibimiento de sufrir una sanción superior.
 
 19. **El Colchón de Acceso (Habilitadores de Derecho):** Se crea el cuerpo de **Habilitadores de Derecho**. Son profesionales (estatales o privados certificados) cuya función NO es el litigio adversario, sino la **Depuración de Causas**.
 
@@ -3244,13 +3286,19 @@ La República reconoce que el derecho de propiedad incluye la facultad de ceder 
 
     d)  A los efectos de salvaguardar la privacidad de la conciencia, se prohíbe terminantemente a las instituciones educativas, públicas o privadas, realizar censos, encuestas o registros que soliciten la afiliación religiosa, política o ideológica de los estudiantes o sus familias. La información sobre las creencias personales pertenece exclusivamente a la Esfera de Privacidad Grado Cero. Cualquier funcionario que exija la revelación de estos datos bajo coacción de pérdida de beneficios académicos o estigmatización social, será destituido de forma fulminante y perderá sus Acciones Soberanas (AS) en favor de las familias afectadas. El Voucher Educativo es un derecho técnico del ciudadano; su entrega o uso no puede estar condicionado a la revelación de la fe o la ideología del tutor o el menor.
 
-10. **Del Privilegio del Vínculo de Sangre y la Inmunidad de Lealtad Familiar.** La Constitución reconoce que la lealtad entre padres, hijos y cónyuges es biológica y preexistente al Estado. El Estado no tiene jurisdicción para fracturar el amor familiar en nombre de la \"Seguridad Nacional\" o el \"Interés Público\".
+10. **Del Privilegio del Vínculo de Sangre y la Inmunidad de Lealtad Familiar:** La Constitución reconoce que la lealtad entre padres, hijos y cónyuges es biológica y preexistente al Estado. El Estado no tiene jurisdicción para coaccionar la fractura de los lazos familiares en nombre de la "Seguridad Nacional", el "Orden Público" o la persecución penal ordinaria por delitos contra terceros.
 
-    a)  **Proscripción del Delito de Encubrimiento Familiar:** Queda absolutamente derogado y proscrito el delito de encubrimiento, omisión de denuncia o \"complicidad pasiva\" cuando el infractor principal sea el cónyuge (unido por contrato civil), hijo, padre, madre o hermano del ciudadano. Un individuo no comete delito alguno al negar asilo, información o cooperación a las autoridades cuando el objetivo sea la captura de un familiar de primer grado, exceptuando únicamente los delitos de Agresión Predatoria o crímenes de sangre en curso (Art. 97.12.d).
+    a) **Proscripción del Delito de Encubrimiento Familiar frente al Estado:** Queda absolutamente derogado y proscrito el delito de encubrimiento, omisión de denuncia o "complicidad pasiva" cuando el infractor principal sea el cónyuge (unido por contrato civil), hijo, padre, madre o hermano del ciudadano. Un individuo no comete delito alguno al negar asilo, información o cooperación a las autoridades cuando el objetivo sea la captura de un familiar de primer grado perseguido por delitos contra el Estado o contra terceros ajenos al núcleo familiar, exceptuando únicamente los delitos de Agresión Predatoria o crímenes de sangre en curso (Art. 97.12.d).
 
-    b)  **Invalidez Constitucional del Testimonio:** El Estado carece de autoridad para citar, coaccionar, o interrogar a un ciudadano en calidad de testigo en contra de un familiar de primer grado. Cualquier testimonio obtenido de un familiar, incluso si fuese \"voluntario\", se considera viciado por el vínculo emocional y es **nulo de pleno derecho** como evidencia de cargo en tribunales civiles o penales de la República. No obstante se podrán abrir líneas de investigación amparadas por estos testimonios.
+    b) **Invalidez del Testimonio Forzado en Delitos contra Terceros:** En investigaciones por delitos cometidos contra el Estado o contra terceros, el Estado carece de potestad para citar, coaccionar o compeler a un ciudadano a declarar en calidad de testigo de cargo en contra de su cónyuge o parientes hasta el cuarto grado de consanguinidad o segundo de afinidad. Se prohíbe el uso de la amenaza penal o el desacato para forzar la incriminación intrafamiliar en dichos supuestos.
 
-    c)  **Penalización de la Coacción Estatal:** El fiscal, Alguacil o agente del Cuerpo de Investigación (CICM) que intente presionar, amenazar con encarcelamiento o chantajear a un ciudadano para que revele información incriminatoria sobre un familiar, incurrirá en el Delito de Coacción Institucional, conllevando su destitución fulminante y la ejecución de su Capa de Capital de Maniobra (AS).
+    c) **Penalización de la Coacción Estatal:** El fiscal, Alguacil o agente del Cuerpo de Investigación (CICM) que intente presionar, amenazar con encarcelamiento o chantajear a un ciudadano para que revele información incriminatoria sobre un familiar, incurrirá en el Delito de Coacción Institucional, conllevando su destitución fulminante y la ejecución de su Capa de Capital de Maniobra (AS).
+
+    d) **Excepción Taxativa por Delitos Intra-Familiares, Violencia Doméstica y Abuso contra Menores o Vulnerables:** La inmunidad de lealtad familiar, el privilegio de no incriminación y la proscripción del encubrimiento cesan de pleno derecho y son absolutamente inaplicables cuando el hecho delictivo sea perpetrado en contra de los propios miembros del núcleo familiar o personas bajo tutela del agresor.
+
+       i. **Plena Validez del Testimonio Voluntario de la Víctima y Testigos Familiares:** En causas por violencia física, abuso sexual infantil (Art. 22.15.c.ii), tentativa de homicidio, explotación, coacción somática o maltrato grave cometidos dentro del hogar, la víctima y cualquier familiar o pariente poseen el derecho inalienable a denunciar y prestar testimonio voluntario. Dicho testimonio, corroborado por pruebas periciales, médicas o telemetría del RNS (Art. 22.8), gozará de plena validez jurídica probatoria como evidencia de cargo.
+
+       ii. **Inadmisibilidad del Privilegio como Escudo del Depredador:** Ningún agresor podrá invocar la "inviolabilidad familiar" (Art. 59.4) ni la "lealtad de sangre" para exigir la nulidad de declaraciones de parientes, coaccionar el silencio de la víctima o impedir la intervención policial y judicial urgente. La soberanía de la familia termina donde comienza la agresión física contra el cuerpo y la vida de sus integrantes.
 
 11. **De la Proscripción del Trabajo Infantil y la Protección del Aprendizaje:** La infancia y la adolescencia son el periodo de capitalización cognitiva de la Nación. Se prohíbe la explotación laboral de menores.
 
@@ -3348,6 +3396,16 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
         i. Queda terminantemente prohibido a cualquier empleador exigir, coaccionar o incentivar el retorno anticipado al trabajo como condición de permanencia laboral.
 
         ii. Sin embargo, la madre conserva la facultad de modular voluntariamente su tiempo de reincorporación laboral o trabajo remoto parcial cuando así lo estime conveniente, sin que ello anule la percepción de la Renta de Crianza ni vulnere la reserva obligatoria de su puesto original.
+    
+    e) **De la Codecisión Familiar, Portabilidad y Alternancia en la Crianza:** En estricta observancia de la Soberanía de la Familia (Art. 59.1) y la autonomía en la división del trabajo doméstico, los progenitores gozan de la facultad inalienable de decidir de mutuo acuerdo la distribución, alternancia o cesión del periodo de cuidado y de la Renta de Crianza Temprana, sujeto a las siguientes reglas de blindaje:
+
+       i. Núcleo Biológico Intransferible de Recuperación Materna: Para garantizar la salud somática de la madre y del lactante, el Velo Prenatal (desde el cuarto mes de gestación) y los primeros seis (6) meses posteriores al alumbramiento constituyen un derecho de reposo preferente y personalísimo de la madre biológica, inembargable e incesible sin su consentimiento explícito y formalizado en el RNS.
+
+       ii. Portabilidad Hacia el Padre o Cuidado Compartido: A partir del sexto mes de vida del menor y hasta que este cumpla los tres (3) años de edad, los padres podrán acordar en cualquier momento, mediante declaración conjunta en el Registro Nacional Soberano (RNS), que el padre asuma de forma total o alternada el reposo laboral remunerado y la percepción de la Renta de Crianza Temprana. En este supuesto, el padre adquirirá de pleno derecho la misma garantía de reserva de puesto laboral (Art. 59.17.c) y la protección contra el despido ante su respectivo empleador.
+
+       iii. Delegación en la Red Familiar de Apoyo: Si ambos progenitores decidieren por conveniencia económica o profesional reincorporarse de forma simultánea a la actividad laboral o mercantil activa antes de que el menor cumpla los tres (3) años, podrán transferir la titularidad de la Renta de Crianza Temprana a un ascendiente de primer o segundo grado (abuelos del menor) que asuma el cuidado presencial cotidiano y directo del niño, certificado mediante inspección fáctica del TMDC local.
+
+       iv. Subrogación Automática por Causa de Fuerza Mayor: En caso de fallecimiento de la madre, incapacidad médica severa sobrevenida o ejercicio de paternidad monoparental acreditada en el RNS, la totalidad de los derechos de reposo laboral, suspensión de contratos y cobro de la Renta de Crianza Temprana se transferirán de pleno derecho y de forma automática e inmediata al padre o tutor legal sobreviviente desde el momento del suceso.
 
 ------------------------------------------------------------------------
 

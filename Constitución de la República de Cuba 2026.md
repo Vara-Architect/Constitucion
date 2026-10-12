@@ -2787,6 +2787,16 @@ La República reconoce al Registro Nacional Soberano (RNS) como la infraestructu
 
     c)  **Arbitraje de Flujo Rápido:** En caso de disputa en frontera municipal, el TAT dictaminará en un plazo de doce (12) horas. La prioridad siempre será el movimiento del recurso sobre la disputa administrativa.
 
+8. **Del Motor de Auditoría Heurística y Búsqueda de Patrones:** El Registro Nacional Soberano (RNS) estará dotado por mandato constitucional de un Motor de Auditoría Heurística ininterrumpida. Su función es el escaneo algorítmico, el análisis de grafos y la detección de patrones de desviación, triangulación o fraccionamiento de capital (smurfing) que pretendan eludir la carga fiscal o encubrir el origen y destino de los fondos.
+    
+    a) **Mandato de Evolución Continua:** La Constitución consagra la existencia y operatividad de este motor de auditoría como pilar de la fe pública. Las especificaciones técnicas, los umbrales de alerta, los modelos de inteligencia artificial y los algoritmos de detección específicos no serán estáticos; su actualización periódica queda sujeta a reserva de Ley Orgánica y a las directivas del Tribunal de Arbitraje Técnico (TAT), garantizando que la capacidad de detección del Estado evolucione a la misma velocidad que la ingeniería financiera criminal.
+    
+    b) **Primacía de la Sustancia sobre la Forma (Anti-Layering Legal):** La República no reconoce el fraude amparado en la complejidad burocrática. Queda tipificado como Desvío de Capital por Ofuscación el uso de estructuras corporativas anidadas (empresas pantalla), la facturación de servicios intangibles simulados (falsas consultorías) o la triangulación de pagos cuya única finalidad comprobable sea la extracción de dividendos de una SACA o la evasión del Impuesto Único (Flat Tax).
+    
+    c) **Levantamiento del Velo Algorítmico:** Si el Motor de Auditoría detecta un patrón de transferencias que carezca de Causalidad Material Demostrable (Art. 108.8), el TAT queda facultado para ignorar la personalidad jurídica de las empresas intermediarias y colapsar la estructura hasta identificar al Beneficiario Final. El capital desviado será incautado y devuelto a su fuente legítima (Tesoro o SACA), sin que el infractor pueda alegar el cumplimiento formal o "legal" de los contratos simulados.
+    
+    d) **Trazabilidad de la Inteligencia Financiera Transnacional:** Para los capitales que intenten abandonar o ingresar a la jurisdicción de la República mediante redes descentralizadas o mercados offshore, el Buró de Justicia Transnacional (BJT) operará bajo el mandato de seguir el rastro económico (Follow the Money) hasta el nodo final, estableciendo alertas tempranas sobre cualquier intento de lavado de activos proveniente del terrorismo, el narcotráfico o la corrupción.
+
 ------------------------------------------------------------------------
 
 ## Artículo 47. Del Algoritmo de Convergencia Solidaria y Capital Semilla.

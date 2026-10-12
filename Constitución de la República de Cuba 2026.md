@@ -7555,19 +7555,25 @@ Toda acción militar, financiamiento extraordinario o incentivo industrial regul
 
 4.  **Continuidad de Servicios:** Funcionarios sin delitos de sangre o corrupción permanecerán bajo supervisión de interventores del TAT hasta la automatización total. Se elimina, desde el día 1, cualquier requisito de filiación partidista.
 
-5. Del Régimen de Resiliencia Analógica Transitoria: Durante la Fase I y II de la transición (los primeros 60 meses), se reconoce como un hecho material la inestabilidad de la red eléctrica y de telecomunicaciones del país. Para evitar la parálisis de la vida civil y económica, se establece la Vigencia Concurrente de la Fe Analógica:
+5. **Del Mantenimiento del Sistema Heredado y la Migración Gradual de Datos:** La República reconoce que la continuidad de la vida civil y la reactivación económica exigen mantener operativos los sistemas de administración preexistentes, estableciendo una Migración en Tres Fases:
+
+    a) **Fase I (Mantenimiento Heredado y Continuidad Comercial):** Durante la Fase de Estabilización, las instituciones del Estado utilizarán los registros digitales y bases de datos heredados para la emisión de documentos, compraventa entre particulares y trámites ordinarios, garantizando que el mercado privado no se detenga.
     
-    a) **Proscripción de la Excusa de "Caída de Sistema":** Queda terminantemente prohibido a cualquier funcionario público, notario, policía, alguacil o juez, paralizar un trámite vital, un juicio, una transferencia de bienes o la atención al ciudadano bajo la justificación de ausencia de red, energía o conectividad con el Registro Nacional Soberano (RNS). La administración del Estado no se detiene por el colapso del fluido eléctrico.
+    b) **Protocolo Puente para la Transferencia de Macro-Activos (La Válvula de Liquidez Segura):** Para acelerar la reconstrucción nacional y evitar la parálisis económica, se autoriza expresamente la enajenación, privatización y capitalización de empresas estatales, industrias y macro-activos desde el inicio de la transición, sujetos inexcusablemente al Filtro Transitorio de Integridad:
+        
+        i. **Aplicación Inmediata del Modelo SACA:** Toda transferencia de un macro-activo estatal a inversores privados o extranjeros quedará sometida de inmediato a la regla del Artículo 117. El inversor adquirirá hasta el cuarenta y nueve por ciento (49%) del control operativo e inyectará liquidez a la Nación. El cincuenta y uno por ciento (51%) restante será asignado temporalmente a un Fideicomiso Ciudadano de Transición, que custodiará las acciones hasta que el RNS esté operativo para acuñar y distribuir las Acciones Soberanas (AS) digitales a cada cubano.
+        
+        ii. **Auditoría Forense de Origen (Freno al Testaferro):** Previo a cualquier firma, la Comisión Nacional de Reconstrucción (CNR) y el TAT auditarán el origen de los fondos del comprador. Si se detecta que el capital proviene del expolio totalitario previo (Transitoria Decimoctava), la venta será nula. El capital honesto fluye rápido; el capital oscuro queda bloqueado.
+        
+        iii. **Publicidad Notarial Abierta:** Ante la ausencia temporal de la Capa Alfa del RNS, todo contrato de privatización o transferencia de macro-activos deberá ser publicado íntegramente en un Boletín Público de Transición de libre acceso ciudadano.
     
-    b) **Legalidad Primaria del Libro Físico y el Recibo Analógico:** Ante la caída de red, toda transacción, contrato o registro de propiedad se ejecutará de forma manual en el Libro Físico Municipal Foliado o mediante la emisión de recibos en papel con firmas autógrafas y sellos húmedos. Estos documentos analógicos gozarán de presunción de validez jurídica absoluta, actuando como Títulos de Fe Pública en condiciones de Cero-Energía (Art. 3.2).
+    c) **Fase II (Despliegue en la Sombra - Shadow Run):** El RNS se construirá y operará en paralelo a los sistemas heredados. Los datos históricos de propiedad serán purgados de sesgos ideológicos, auditados por el TAT e inyectados en la nueva arquitectura criptográfica sin interrumpir el servicio.
     
-    c) **Amnistía de Sincronización (Fricción Cero para el Ciudadano):** La carga de sincronizar la vida analógica con el registro digital recae exclusivamente sobre el Estado. El ciudadano no será sancionado, multado ni perderá derechos si no puede liquidar su Flat Tax o registrar un contrato en tiempo real por falta de red. El RNS otorgará periodos de gracia automáticos (Días de Sincronización) proporcionales al tiempo de apagón registrado en su municipio.
-    
-    d) **Validación Asíncrona (El Hash de Papel):** Restaurada la conectividad, las autoridades municipales tendrán la obligación de digitalizar y subir a la Capa Alfa del RNS el respaldo fotográfico de los folios físicos generados durante el apagón. La discrepancia no justificada entre el documento físico entregado al ciudadano y el registro subido posteriormente al sistema, se tipificará como Delito de Alteración de la Fe Pública.
+    d) **Fase III (El Encendido Soberano y la Implementación del Respaldo Físico):** Únicamente cuando el Tribunal de Arbitraje Técnico (TAT) certifique que el RNS ha alcanzado la estabilidad de red necesaria, se ejecutará la desconexión definitiva de los servidores heredados. A partir de este hito, los Municipios implementarán el Libro Físico Foliado (Art. 126) exclusivamente como Respaldo de Cero-Energía ante catástrofes.
 
 ## DISPOSICIÓN TRANSITORIA TERCERA (Medioambiental): De las cuencas hidrográficas y su protección.
 
-El Estado y los Municipios iniciarán, en un plazo no mayor a doce meses tras la promulgación de esta Constitución, el censo técnico de vertidos y la instalación de los primeros módulos de tratamiento descentralizado en las zonas críticas identificadas.
+El Estado y los Municipios iniciarán, en un plazo no mayor a doce meses tras la promulgación de esta Constitución, el censo técnico de vertidos, y posteriormente la instalación de los primeros módulos de tratamiento descentralizado en las zonas críticas identificadas.
 
 ------------------------------------------------------------------------
 

@@ -4376,7 +4376,15 @@ La soberanía municipal reside en el cuerpo de ciudadanos con arraigo fáctico e
 
 2. Composición: El Senado estará integrado de forma vitalicia y honorífica por los Rectores en funciones de las Universidades Nacionales y los directores técnicos de los Consorcios de Infraestructura Técnica.
 
-3. Facultad de Veto por Inviabilidad: El Senado Técnico tendrá la potestad de interponer un Veto de Inviabilidad ante cualquier ley o decreto aprobado por la Cámara de Representantes que carezca de respaldo técnico, presupuestario o científico. Dicho veto suspenderá la vigencia de la norma hasta que las deficiencias técnicas sean subsanadas, requiriendo una mayoría calificada del Congreso para su nueva consideración. No obstante, si la Cámara de Representantes ratifica la ley mediante el voto de las tres cuartas partes (75%) de sus miembros tras recibir el informe técnico, el veto quedará levantado y la ley entrará en vigor, asumiendo el Legislativo la responsabilidad política y civil por los resultados técnicos.
+3. Facultad de Veto por Inviabilidad y Superación por Riesgo Soberano: El Senado Técnico tendrá la potestad de interponer un Veto de Inviabilidad ante cualquier ley o decreto aprobado por la Cámara de Representantes que carezca de respaldo técnico, presupuestario o científico.
+    
+    a) Levantamiento del Veto Técnico por Mayoría Calificada: La Cámara de Representantes podrá superar el Veto de Inviabilidad emitido por el Senado Técnico de Rectores o el TAT mediante el voto nominal y público de las tres cuartas partes (75%) de sus miembros, asumiendo de forma soberana el riesgo operativo de la medida.
+    
+    b) Registro de Predicción de Fallo (La Hipótesis Material): Previo a la votación de levantamiento, el órgano técnico vetante (Senado o TAT) deberá inscribir en la Capa Alfa del RNS un "Registro de Predicción de Fallo", estableciendo las métricas exactas, los plazos y los daños físicos o financieros que la ley provocará según sus cálculos.
+    
+    c) Cláusula de Responsabilidad Patrimonial Solidaria (Skin in the Game): La activación del levantamiento del veto técnico implica la renuncia automática a la inmunidad por error de cálculo. Los legisladores que emitan su voto a favor de la superación del veto lo harán bajo caución de su propio patrimonio.
+    
+    d) Ejecución de la Sanción: Si la ejecución de la ley ratificada provoca, en un lapso de cinco (5) años, el daño estructural, el déficit financiero o el colapso sistémico exactamente previsto en el Registro de Predicción de Fallo, la ley será derogada de oficio. Los legisladores que votaron afirmativamente responderán con el cien por ciento (100%) de la Capa de Capital de Maniobra de sus Acciones Soberanas (AS) y su patrimonio personal para indemnizar al Tesoro Nacional.
 
 4. Principio de Diversidad Metodológica y Disidencia Obligatoria: Las decisiones, dictámenes y vetos del Senado Técnico de Rectores no se adoptarán bajo consenso único y ciego. Toda resolución deberá incluir, de manera pública y obligatoria, los argumentos técnicos de la minoría disidente. Se prohíbe la adopción de dictámenes mediante votación secreta o bloque monolítico. La disidencia es una herramienta de seguridad nacional contra el error sistémico y el dogmatismo académico; el Senado deberá someter sus premisas a un proceso de Validación por Adversario Técnico (V.A.T.) antes de emitir cualquier veto de inviabilidad.
 
@@ -4899,6 +4907,16 @@ Dado que el dinero es el resultado de la vida de la persona, el Estado no se lim
     a)  Los Magistrados del TAT estarán sujetos al mecanismo de Revocación Popular.
 
     b)  Si el veinte por ciento (20%) del censo nacional firma una petición digital a través del RNS, se convocará a un referéndum de remoción del magistrado técnico. La ciencia debe servir al hombre, y el hombre debe tener la última palabra sobre el científico.
+
+8. De la Responsabilidad Patrimonial del Perito y Proscripción del Sesgo Gremial: La emisión de un dictamen técnico vinculante por parte del Tribunal de Arbitraje Técnico (TAT) o el Senado de Rectores no otorga impunidad legal ni exime de responsabilidad civil.
+   
+    a) Proscripción del Bloqueo Malicioso: Si se demuestra, mediante auditoría forense del RNS o investigación del Cuerpo de Alguaciles, que un magistrado técnico, perito o auditor emitió un "Veto de Inviabilidad" fundamentado en datos deliberadamente falseados, sesgo corporativo, soborno o protección de monopolios gremiales, dicho veto será nulo de pleno derecho.
+   
+    b) Responsabilidad Civil y Ejecución Patrimonial: El autor del dictamen fraudulento perderá la protección del Puerto Seguro Administrativo (Art. 108.3). El infractor responderá con el cien por ciento (100%) de la Capa C de sus Acciones Soberanas (AS) y con su patrimonio personal, para indemnizar al Tesoro Nacional o al particular por el lucro cesante y los daños causados por la paralización de la obra o ley.
+   
+    c) Inhabilitación Vitalicia de la Firma Técnica: Además de las responsabilidades penales por Sabotaje a la Fe Pública, el perito perderá de forma perpetua su licencia profesional y su acreditación ante el Registro Nacional Soberano (RNS), quedando inhabilitado para emitir firmas de validez jurídica en la República.
+   
+    d) La Revocación Popular Directa: La infalibilidad del dato no exime al técnico de la voluntad del soberano. Si el veinte por ciento (20%) del censo ciudadano correspondiente (municipal o nacional) firma una petición digital a través del RNS denunciando la pérdida de confianza en un magistrado del TAT, se convocará automáticamente a un referéndum vinculante para su remoción. La ciencia debe servir al hombre, y el pueblo soberano tiene la última palabra sobre el científico que abusa de su posición.
 
 ------------------------------------------------------------------------
 
@@ -6082,6 +6100,16 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
         ii. Umbral de Participación Minoritaria (Menos de 51%): Si la compra es minoritaria, los títulos físicos o digitales de propiedad serán transferidos de forma inmediata y automática al Fideicomiso Nacional de Pensiones (Artículo 118). El Fideicomiso actuará como custodio y fideicomisario ciego, reteniendo la titularidad del activo exclusivamente para garantizar el flujo ininterrumpido de dividendos a la Capa B de las AS de todos los ciudadanos. El Estado no posee el activo; el Estado es solo el catalizador que lo compra para entregárselo a su único dueño: el pueblo.
 
 7. Del Secreto de Flujo Nacional: Se prohíbe a cualquier inversor extranjero, sea cual sea su porcentaje de participación en una SACA, la extracción masiva de metadatos comerciales, rutas logísticas o perfiles de proveedores fuera del territorio nacional. La inteligencia de mercado de las SACA es un Activo de Seguridad Nacional. El intento de replicar el grafo de relaciones comerciales en servidores externos se tipifica como Espionaje Industrial Estratégico.
+
+8. De la Excepción de Riesgo Originario (Doctrina Greenfield): La regla inalterable del cincuenta y uno por ciento (51%) de Acciones Soberanas (AS) en favor del pueblo cubano aplica estrictamente a la infraestructura y entidades preexistentes, restituidas, o aquellas donde exista co-financiamiento del erario público.
+    
+    a) Proyectos de Capital 100% Privado: Se exceptúan de la participación soberana obligatoria aquellos proyectos de infraestructura crítica, industrial o logística que sean diseñados, construidos y financiados en un cien por ciento (100%) por capital de riesgo enteramente privado o foráneo sobre suelo no edificado previamente o sin infraestructura previa del Estado (Greenfield).
+    
+    b) Régimen de Concesión Estratégica Total: Estas entidades operarán como Concesiones Estratégicas Totales. El inversor privado mantendrá el control del cien por ciento (100%) de las acciones comerciales y operativas durante el ciclo de vida de la concesión (Art. 11), sujeto únicamente al pago del Impuesto Único Proporcional (Flat Tax, Art. 43) y a las normativas de bioseguridad del TAT, sin injerencia asamblearia del Estado.
+    
+    c) Preferencia Soberana (Cortafuegos Antimonopolio): Para proteger la viabilidad de la industria nacional, en cualquier licitación o necesidad de nueva infraestructura, el Estado aplicará obligatoriamente el Algoritmo de Costo Neto Soberano (Art. 35.2).
+    
+    d) Penalización Algorítmica Foránea: Se penalizará algorítmicamente la propuesta de Concesión Estratégica Total (100% foránea) si una SACA local (51/49) demuestra capacidad fáctica para ejecutar la obra con un margen de tolerancia en el sobrecosto no mayor al quince por ciento (15%), garantizando la prioridad del modelo de capital popular.
 
 ------------------------------------------------------------------------
 
@@ -7526,6 +7554,16 @@ Toda acción militar, financiamiento extraordinario o incentivo industrial regul
         - Ante la duda razonable y la presentación de pruebas supletorias no refutadas por un tercero legítimo, el Estado fallará a favor de la presunción de propiedad del ciudadano expropiado, procediendo a la restitución material o compensación fiscal según lo dispuesto en la Transitoria Cuarta.
 
 4.  **Continuidad de Servicios:** Funcionarios sin delitos de sangre o corrupción permanecerán bajo supervisión de interventores del TAT hasta la automatización total. Se elimina, desde el día 1, cualquier requisito de filiación partidista.
+
+5. Del Régimen de Resiliencia Analógica Transitoria: Durante la Fase I y II de la transición (los primeros 60 meses), se reconoce como un hecho material la inestabilidad de la red eléctrica y de telecomunicaciones del país. Para evitar la parálisis de la vida civil y económica, se establece la Vigencia Concurrente de la Fe Analógica:
+    
+    a) **Proscripción de la Excusa de "Caída de Sistema":** Queda terminantemente prohibido a cualquier funcionario público, notario, policía, alguacil o juez, paralizar un trámite vital, un juicio, una transferencia de bienes o la atención al ciudadano bajo la justificación de ausencia de red, energía o conectividad con el Registro Nacional Soberano (RNS). La administración del Estado no se detiene por el colapso del fluido eléctrico.
+    
+    b) **Legalidad Primaria del Libro Físico y el Recibo Analógico:** Ante la caída de red, toda transacción, contrato o registro de propiedad se ejecutará de forma manual en el Libro Físico Municipal Foliado o mediante la emisión de recibos en papel con firmas autógrafas y sellos húmedos. Estos documentos analógicos gozarán de presunción de validez jurídica absoluta, actuando como Títulos de Fe Pública en condiciones de Cero-Energía (Art. 3.2).
+    
+    c) **Amnistía de Sincronización (Fricción Cero para el Ciudadano):** La carga de sincronizar la vida analógica con el registro digital recae exclusivamente sobre el Estado. El ciudadano no será sancionado, multado ni perderá derechos si no puede liquidar su Flat Tax o registrar un contrato en tiempo real por falta de red. El RNS otorgará periodos de gracia automáticos (Días de Sincronización) proporcionales al tiempo de apagón registrado en su municipio.
+    
+    d) **Validación Asíncrona (El Hash de Papel):** Restaurada la conectividad, las autoridades municipales tendrán la obligación de digitalizar y subir a la Capa Alfa del RNS el respaldo fotográfico de los folios físicos generados durante el apagón. La discrepancia no justificada entre el documento físico entregado al ciudadano y el registro subido posteriormente al sistema, se tipificará como Delito de Alteración de la Fe Pública.
 
 ## DISPOSICIÓN TRANSITORIA TERCERA (Medioambiental): De las cuencas hidrográficas y su protección.
 

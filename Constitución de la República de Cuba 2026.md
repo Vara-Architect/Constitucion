@@ -2436,13 +2436,15 @@ Si un usuario de una plataforma de apuestas amenaza a un tercero (periodista, t�
 
 3. **Obligación de Interoperabilidad Técnica:** Ninguna entidad dominante podrá restringir el acceso a sus protocolos, APIs o redes de transporte a competidores directos. El TAT definirá anualmente los estándares de neutralidad para infraestructuras esenciales. La negativa a la interconexión será sancionada como delito de exclusión soberana.
 
-4. **Prohibición de Rescates Estatales y Doctrina de Destrucción Creativa (Anti-Zombificación):** Queda terminantemente prohibido el uso de fondos del Tesoro Nacional, presupuestos municipales, emisión monetaria o créditos del Banco Central para el salvamento, rescate, subsidio a la nómina o refinanciación de empresas (privadas, cooperativas o SACAs) que incurran en pérdidas comerciales.
+4. **Prohibición de Rescates Estatales y Doctrina de Destrucción Creativa (Anti-Zombificación):** Queda terminantemente prohibido el uso de fondos del Tesoro Nacional, presupuestos municipales, emisión monetaria o créditos del Banco Central para el salvamento, rescate, subsidio a la nómina o refinanciación de empresas (privadas, cooperativas o SACAs) que incurran en insolvencia técnica por ineficiencia operativa, obsolescencia tecnológica o falta de demanda en el mercado.
 
-    a) **Naturaleza del Fracaso Comercial:** La insolvencia técnica por ineficiencia operativa, obsolescencia tecnológica o falta de demanda es un mecanismo natural de saneamiento del mercado. El Estado reconoce la quiebra comercial como el proceso biológico de liberar capital y fuerza de trabajo hacia sectores productivos viables.
+    a) **Proscripción del Empleo Ficticio:** Queda prohibida la inyección de capital estatal con el único fin de "proteger el empleo" en una industria que produce bienes sin demanda real. La persistencia en la ineficiencia conllevará la liquidación obligatoria de activos bajo la supervisión del Tribunal de Arbitraje Técnico (TAT).
 
-    b) **Proscripción del Empleo Ficticio:** Queda prohibida la inyección de capital estatal con el único fin de "proteger el empleo" en una industria que produce bienes sin demanda real. El derecho al trabajo del ciudadano se protege fomentando la creación de nuevas industrias, jamás subsidiando la ineficiencia estructural de la empresa fracasada.
+    b) **Excepción Estricta por Fuerza Mayor:** Quedan expresamente excluidas de esta prohibición de rescate todas las entidades (SACAs, empresas privadas y cooperativas, sin distinción de titularidad) cuya insolvencia, riesgo de quiebra o destrucción de activos sea consecuencia directa, exclusiva y demostrable de catástrofes medioambientales (huracanes, sismos), conflictos bélicos o actos de terrorismo sistémico.
 
-    c) **Liquidación Ágil:** La persistencia en la ineficiencia conllevará la liquidación obligatoria de activos bajo la supervisión del Tribunal de Arbitraje Técnico (TAT), priorizando de forma absoluta la dación en pago a los trabajadores (indemnización) y acreedores sobre los accionistas.
+    c) **Ejecución del Rescate Fáctico:** En los supuestos de Fuerza Mayor descritos en el inciso anterior, se activará de pleno derecho el Régimen de Rescate Financiero Excepcional (Art. 38.11). El Estado o Municipio, bajo auditoría del TAT, proveerá créditos retornables de emergencia, inyección de capital temporal o asunción condicionada de pasivos, destinados única y exclusivamente a la reconstrucción física de los activos destruidos para restaurar la operatividad de la empresa afectada.
+
+        i. Podrán aprovarse otros elementos de inyección que determine el TAT municipal o nacional segun corresponda, previa petición de la empresa rescatada.
 
 5. **Invalidez de Activos Tóxicos:** Ninguna entidad financiera nacional podrá computar como capital de reserva deudas estatales o municipales que excedan el límite de solvencia real auditado por el RNS. El Estado no podrá obligar al sistema bancario a absorber su deuda bajo ninguna figura jurídica.
 
@@ -5905,17 +5907,13 @@ El acceso a la educación técnica y superior financiada mediante el **Voucher d
 
     b)  Ninguna SACA podrá declarar, ni el RNS procesar, distribución alguna que exceda el remanente de la utilidad neta una vez aplicado el coeficiente de retención acordado. El flujo resultante de esta operación constituirá, a todos los efectos constitucionales y fiscales, la Utilidad Distribuible sobre la cual se calcularán las asignaciones y derechos económicos regulados en esta Constitución.
 
-9. **Del Régimen de Insolvencia SACA y la Purga de Gestión Operativa:** Si una Sociedad Anónima de Capital Abierto (SACA) entra en déficit y es incapaz de generar dividendos para el Núcleo Soberano (el 51% ciudadano) durante tres (3) trimestres consecutivos, el Registro Nacional Soberano (RNS) activará la Alerta de Inviabilidad Operativa.
-    
-    a) **Remoción Fulminante del Operador (La Cuota de Sangre Comercial):** Al activarse la alerta, la Junta Directiva y el operador de gestión (los tenedores de las Acciones de Mercado - AM) perderán de pleno derecho el control administrativo de la entidad. El TAT intervendrá la SACA con el único fin de purgar a la directiva ineficiente, sin que el Estado inyecte capital de rescate.
-    
-    b) **Licitación Ciega de Nueva Gestión:** El TAT someterá el control operativo de la SACA a una Licitación Ciega Nacional e Internacional (Art. 35). Un nuevo grupo inversor podrá adquirir el bloque de Acciones de Mercado (AM) depreciadas de los antiguos dueños, inyectar capital fresco y asumir el mando, garantizando que el ciudadano conserve su cincuenta y uno por ciento (51%) intacto mientras el mercado castiga y reemplaza al gerente ineficiente.
+9. **Del Régimen de Insolvencia SACA por Ineficiencia y la Purga de Gestión Operativa:** Si una SACA entra en déficit y es incapaz de generar dividendos para el Núcleo Soberano (el 51% ciudadano) durante tres (3) trimestres consecutivos, y el TAT certifica que dicho déficit NO es producto de Fuerza Mayor, el Registro Nacional Soberano (RNS) activará la Alerta de Inviabilidad Operativa.
 
-10. **Liquidación Terminal por Obsolescencia Industrial:** Si la Licitación Ciega queda desierta y ningún inversor privado desea asumir el rescate técnico de la SACA, el TAT declarará la Obsolescencia Terminal del Sector.
-    
-    a) Extinción de la SACA: La empresa será disuelta. Sus terrenos, maquinaria, propiedad intelectual y bienes raíces serán subastados públicamente en el mercado libre por el RNS.
-    
-    b) Distribución del Salvamento: Tras el pago prioritario a los trabajadores liquidados y a los acreedores (Art. 42.3), el saldo líquido remanente de la subasta se distribuirá matemáticamente: el cincuenta y uno por ciento (51%) irá directo a la Cuenta de Inversión Soberana (CIS) de los ciudadanos, y el cuarenta y nueve por ciento (49%) a los inversores privados, cerrándose el ciclo de la empresa. El capital inútil vuelve a ser dinero vivo en los bolsillos del pueblo.
+    a) **Remoción Fulminante del Operador (La Cuota de Sangre Comercial):** Al activarse la alerta por ineficiencia, la Junta Directiva y el grupo inversor (tenedores de AM) perderán de pleno derecho el control administrativo. El TAT intervendrá la SACA sin inyectar capital de rescate.
+
+    b) **Licitación Ciega de Nueva Gestión:** El TAT someterá el control operativo a una Licitación Ciega. Un nuevo inversor podrá adquirir las Acciones de Mercado (AM) depreciadas e inyectar capital fresco, garantizando que el ciudadano conserve su cincuenta y uno por ciento (51%) mientras el mercado reemplaza al gerente ineficiente.
+
+10. **Liquidación Terminal por Obsolescencia Industrial:** Si la Licitación Ciega queda desierta y ningún inversor privado desea asumir el riesgo de la SACA, el TAT declarará la Obsolescencia Terminal del Sector. La empresa será disuelta y sus activos físicos subastados públicamente. Tras el pago a los trabajadores y acreedores, el saldo líquido remanente de la subasta se distribuirá matemáticamente: el cincuenta y uno por ciento (51%) irá a la Cuenta de Inversión Soberana (CIS) de los ciudadanos, y el cuarenta y nueve por ciento (49%) a los inversores privados, luego de la taxación de impuestos correspondiente.
 
 ------------------------------------------------------------------------
 

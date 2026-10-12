@@ -2430,13 +2430,19 @@ Si un usuario de una plataforma de apuestas amenaza a un tercero (periodista, t�
 
 ## Artículo 40. De la Inmunidad al Éxito y la Neutralidad de Red.
 
-1. Garantía de Crecimiento: Se reconoce el derecho de todo individuo y empresa privada a crecer sin límites de capital, activos o beneficios. El éxito económico, por sí mismo, nunca será causa de intervención, expropiación o cambio forzoso de la estructura de propiedad.
+1. **Garantía de Crecimiento:** Se reconoce el derecho de todo individuo y empresa privada a crecer sin límites de capital, activos o beneficios. El éxito económico, por sí mismo, nunca será causa de intervención, expropiación o cambio forzoso de la estructura de propiedad.
 
-2. Obligación de Interoperabilidad (Para Actores Sistémicos): Cuando una empresa privada gestione una infraestructura que sea declarada por el TAT como \"Esencial para la Vida Nacional\" (ej. un software de pagos masivo o una red logística), estará obligada a mantener sus interfaces (API) abiertas y neutrales. Podrá cobrar por el uso, pero no podrá discriminar a competidores ni imponer condiciones que asfixien el mercado local.
+2. **Obligación de Interoperabilidad (Para Actores Sistémicos):** Cuando una empresa privada gestione una infraestructura que sea declarada por el TAT como \"Esencial para la Vida Nacional\" (ej. un software de pagos masivo o una red logística), estará obligada a mantener sus interfaces (API) abiertas y neutrales. Podrá cobrar por el uso, pero no podrá discriminar a competidores ni imponer condiciones que asfixien el mercado local.
 
-3. Obligación de Interoperabilidad Técnica: Ninguna entidad dominante podrá restringir el acceso a sus protocolos, APIs o redes de transporte a competidores directos. El TAT definirá anualmente los estándares de neutralidad para infraestructuras esenciales. La negativa a la interconexión será sancionada como delito de exclusión soberana.
+3. **Obligación de Interoperabilidad Técnica:** Ninguna entidad dominante podrá restringir el acceso a sus protocolos, APIs o redes de transporte a competidores directos. El TAT definirá anualmente los estándares de neutralidad para infraestructuras esenciales. La negativa a la interconexión será sancionada como delito de exclusión soberana.
 
-4. Prohibición de Rescates Estatales (Anti-Zombificación): Queda terminantemente prohibido el uso de fondos públicos para el salvamento, rescate o refinanciación de empresas privadas insolventes. El fracaso comercial es un mecanismo natural de saneamiento económico. La persistencia en la ineficiencia conllevará la liquidación obligatoria de activos bajo la supervisión del TAT, priorizando la dación en pago a los trabajadores y acreedores.
+4. **Prohibición de Rescates Estatales y Doctrina de Destrucción Creativa (Anti-Zombificación):** Queda terminantemente prohibido el uso de fondos del Tesoro Nacional, presupuestos municipales, emisión monetaria o créditos del Banco Central para el salvamento, rescate, subsidio a la nómina o refinanciación de empresas (privadas, cooperativas o SACAs) que incurran en pérdidas comerciales.
+
+    a) **Naturaleza del Fracaso Comercial:** La insolvencia técnica por ineficiencia operativa, obsolescencia tecnológica o falta de demanda es un mecanismo natural de saneamiento del mercado. El Estado reconoce la quiebra comercial como el proceso biológico de liberar capital y fuerza de trabajo hacia sectores productivos viables.
+
+    b) **Proscripción del Empleo Ficticio:** Queda prohibida la inyección de capital estatal con el único fin de "proteger el empleo" en una industria que produce bienes sin demanda real. El derecho al trabajo del ciudadano se protege fomentando la creación de nuevas industrias, jamás subsidiando la ineficiencia estructural de la empresa fracasada.
+
+    c) **Liquidación Ágil:** La persistencia en la ineficiencia conllevará la liquidación obligatoria de activos bajo la supervisión del Tribunal de Arbitraje Técnico (TAT), priorizando de forma absoluta la dación en pago a los trabajadores (indemnización) y acreedores sobre los accionistas.
 
 5. **Invalidez de Activos Tóxicos:** Ninguna entidad financiera nacional podrá computar como capital de reserva deudas estatales o municipales que excedan el límite de solvencia real auditado por el RNS. El Estado no podrá obligar al sistema bancario a absorber su deuda bajo ninguna figura jurídica.
 
@@ -2460,7 +2466,7 @@ Si un usuario de una plataforma de apuestas amenaza a un tercero (periodista, t�
 
     c)  **De la Verificación de Buena Fe y Sanción al Denunciante Instrumental.** El incentivo económico del diez por ciento (10%) previsto para el denunciante solo se liquidará una vez que el Tribunal emita una **Sentencia Condenatoria Firme** contra los corruptos, basada en pruebas materiales irrefutables aportadas o facilitadas por el denunciante.
 
-        i.  Activación de la Reciprocidad Punitiva: Si el tribunal competente determina, de conformidad con las garantías y el estándar probatorio del Artículo 93, Incisos 5 y 7, que la denuncia de soborno fue fabricada, simulada o instrumentalizada con dolo manifiesto con el fin de obtener la recompensa o perjudicar a un tercero, el denunciante perderá todo derecho a reserva de identidad y será procesado conforme a la escala de reciprocidad punitiva allí establecida.
+        i.  **Activación de la Reciprocidad Punitiva:** Si el tribunal competente determina, de conformidad con las garantías y el estándar probatorio del Artículo 93, Incisos 5 y 7, que la denuncia de soborno fue fabricada, simulada o instrumentalizada con dolo manifiesto con el fin de obtener la recompensa o perjudicar a un tercero, el denunciante perderá todo derecho a reserva de identidad y será procesado conforme a la escala de reciprocidad punitiva allí establecida.
 
         ii. **Pena Específica por Perjurio Lucrativo:** En este caso, el denunciante falso será condenado a la misma pena de inhabilitación perpetua y cárcel que pretendía para el acusado, y deberá abonar al Estado y al afectado una multa equivalente al **monto que pretendía cobrar como recompensa**, la cual será ejecutada sobre sus Acciones Soberanas (AS) y/o Acciones de Mercado (AM) si las hubiese.
 
@@ -2476,9 +2482,9 @@ Si un usuario de una plataforma de apuestas amenaza a un tercero (periodista, t�
 
 ## Artículo 42. De la Vigilancia de la \"Puerta Giratoria\".
 
-1. Incompatibilidad Post-Cargo: Ningún funcionario de alta jerarquía (TDC, TAT, Congreso) podrá trabajar, asesorar o recibir beneficios de empresas del sector que supervisó hasta diez (10) años después de dejar el cargo.
+1. **Incompatibilidad Post-Cargo:** Ningún funcionario de alta jerarquía (TDC, TAT, Congreso) podrá trabajar, asesorar o recibir beneficios de empresas del sector que supervisó hasta diez (10) años después de dejar el cargo.
 
-2. Sanción por Captura: Si se demuestra que una empresa privada ha \"diseñado\" una ley o reglamento mediante influencia sobre un funcionario, dicha norma es nula y la empresa recibirá una multa equivalente al 100% de los beneficios obtenidos por esa ventaja injusta, sin perder su propiedad, pero perdiendo toda la ganancia del engaño.
+2. **Sanción por Captura:** Si se demuestra que una empresa privada ha \"diseñado\" una ley o reglamento mediante influencia sobre un funcionario, dicha norma es nula y la empresa recibirá una multa equivalente al 100% de los beneficios obtenidos por esa ventaja injusta, sin perder su propiedad, pero perdiendo toda la ganancia del engaño.
 
 3. Del Régimen de Insolvencia Ordenada, la Prelación de Pagos y la Responsabilidad de Cadena.
 
@@ -5898,6 +5904,18 @@ El acceso a la educación técnica y superior financiada mediante el **Voucher d
     a)  El porcentaje exacto de retención dentro de este rango será determinado anualmente por acuerdo de la asamblea general de accionistas de cada SACA, aplicando la retención de forma directa sobre las utilidades antes de cualquier declaración de dividendos, garantizando que el bloque del Núcleo Soberano (AS - 51%) y los tenedores de Acciones de Mercado (AM - 49%) contribuyan en idéntica proporción a la capitalización de la empresa.
 
     b)  Ninguna SACA podrá declarar, ni el RNS procesar, distribución alguna que exceda el remanente de la utilidad neta una vez aplicado el coeficiente de retención acordado. El flujo resultante de esta operación constituirá, a todos los efectos constitucionales y fiscales, la Utilidad Distribuible sobre la cual se calcularán las asignaciones y derechos económicos regulados en esta Constitución.
+
+9. **Del Régimen de Insolvencia SACA y la Purga de Gestión Operativa:** Si una Sociedad Anónima de Capital Abierto (SACA) entra en déficit y es incapaz de generar dividendos para el Núcleo Soberano (el 51% ciudadano) durante tres (3) trimestres consecutivos, el Registro Nacional Soberano (RNS) activará la Alerta de Inviabilidad Operativa.
+    
+    a) **Remoción Fulminante del Operador (La Cuota de Sangre Comercial):** Al activarse la alerta, la Junta Directiva y el operador de gestión (los tenedores de las Acciones de Mercado - AM) perderán de pleno derecho el control administrativo de la entidad. El TAT intervendrá la SACA con el único fin de purgar a la directiva ineficiente, sin que el Estado inyecte capital de rescate.
+    
+    b) **Licitación Ciega de Nueva Gestión:** El TAT someterá el control operativo de la SACA a una Licitación Ciega Nacional e Internacional (Art. 35). Un nuevo grupo inversor podrá adquirir el bloque de Acciones de Mercado (AM) depreciadas de los antiguos dueños, inyectar capital fresco y asumir el mando, garantizando que el ciudadano conserve su cincuenta y uno por ciento (51%) intacto mientras el mercado castiga y reemplaza al gerente ineficiente.
+
+10. **Liquidación Terminal por Obsolescencia Industrial:** Si la Licitación Ciega queda desierta y ningún inversor privado desea asumir el rescate técnico de la SACA, el TAT declarará la Obsolescencia Terminal del Sector.
+    
+    a) Extinción de la SACA: La empresa será disuelta. Sus terrenos, maquinaria, propiedad intelectual y bienes raíces serán subastados públicamente en el mercado libre por el RNS.
+    
+    b) Distribución del Salvamento: Tras el pago prioritario a los trabajadores liquidados y a los acreedores (Art. 42.3), el saldo líquido remanente de la subasta se distribuirá matemáticamente: el cincuenta y uno por ciento (51%) irá directo a la Cuenta de Inversión Soberana (CIS) de los ciudadanos, y el cuarenta y nueve por ciento (49%) a los inversores privados, cerrándose el ciclo de la empresa. El capital inútil vuelve a ser dinero vivo en los bolsillos del pueblo.
 
 ------------------------------------------------------------------------
 

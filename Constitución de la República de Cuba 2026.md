@@ -6513,19 +6513,29 @@ Toda ley orgánica, decreto municipal o regulación administrativa, técnica o f
 
     d)  **Ratificación y Extinción por Silencio:** La prórroga requerirá la aprobación del TAT y el voto favorable del Congreso. En ausencia de auditoría aprobada y ratificación legislativa, la norma desaparecerá automáticamente del ordenamiento jurídico.
 
-5. **Prohibición del Principio de Precaución Regulatoria:** Se prohíbe regular tecnologías, modelos de negocio o descubrimientos científicos antes de que estos hayan causado un daño tangible y cuantificable. El miedo a lo desconocido no es Fuente de Derecho. El innovador goza de la presunción de inocencia técnica; el Estado debe probar el daño antes de imponer la traba.
+5. Del Principio de Retrocompatibilidad Normativa, Vacatio Legis de Gracia y Proscripción de la Invalidez Sobrevenida: Ninguna ley, decreto, ordenanza o regulación administrativa que modifique requisitos, procedimientos, formatos documentales o condiciones de permanencia y ejercicio civil podrá aplicarse de forma lesiva o intempestiva sobre situaciones jurídicas consolidadas.
 
-6. **Arquitectura de Cumplimiento Orgánico:** Las normas de convivencia y las infraestructuras públicas deberán diseñarse bajo el criterio de Inducción Positiva. Se priorizará el diseño sistémico que haga del cumplimiento de la ley la opción más lógica y natural para el ciudadano, reduciendo al mínimo la necesidad de imposición coercitiva o señalización punitiva constante.
+    a) Presunción de Vigencia y Ultraactividad de Títulos Preexistentes: Todo documento de identidad civil, permiso de residencia, visado, licencia comercial, concesión o registro otorgado válidamente bajo una norma previa mantendrá su plena fuerza jurídica y validez material hasta la fecha exacta de expiración consignada en el documento original. Queda terminantemente prohibida la anulación repentina o la exigencia de revalidación forzosa anticipada de documentos vigentes.
 
-7. **Cláusula de Primacía de la Sustancia sobre la Forma:** El Tribunal de Arbitraje Técnico (TAT) anulará cualquier estructura societaria, contrato o arquitectura financiera cuya única finalidad demostrable sea el arbitraje de capas fiscales o el ocultamiento de la titularidad real de los beneficios. La República no reconoce la validez jurídica de la opacidad. Todo flujo de capital debe tener un origen y un destino identificable en el RNS para gozar de la protección de los tribunales nacionales.
+    b) Período de Gracia Mínimo Obligatorio: Toda norma que altere trámites, imponga nuevos estándares o sustituya credenciales debe contener de forma obligatoria un régimen transitorio con un período de gracia no inferior a doce (12) meses contados a partir de su publicación oficial en el RNS. Durante este término, las autoridades tienen prohibido imponer multas, denegar servicios, iniciar procedimientos sancionatorios o alterar el estatus de las personas afectadas por el proceso de adaptación.
 
-8. **Garantía de Acceso Multinivel:** El Registro Nacional Soberano (RNS) integrará en su interfaz una arquitectura de **\"Doble Lectura\"**.
+    c) Gratuidad de la Transición Sobrevenida y Proscripción del Afán Recaudatorio: Cuando por razones de actualización técnica el Estado determine la sustitución anticipada de un soporte documental antes de su vencimiento natural, el canje en el RNS será automático, digital y con costo cero absoluto para el titular. Se tipifica como Fraude a la Fe Pública y Extorsión Administrativa la promulgación de reformas normativas cuyo propósito material o efecto fáctico sea obligar a los ciudadanos o residentes a abonar tasas extraordinarias por revalidar derechos que ya ostentaban legalmente.
+
+    d) Invalidez de Normas Huérfanas de Transición: Toda ley o reglamento que afecte el ejercicio de derechos, trámites o permanencia ciudadana que omita el protocolo expreso de compatibilidad hacia atrás y su cronograma de migración técnica, será nula de pleno derecho en sus efectos lesivos, prevaleciendo de oficio la norma anterior más favorable hasta que el legislador subsane la omisión.
+
+6. **Prohibición del Principio de Precaución Regulatoria:** Se prohíbe regular tecnologías, modelos de negocio o descubrimientos científicos antes de que estos hayan causado un daño tangible y cuantificable. El miedo a lo desconocido no es Fuente de Derecho. El innovador goza de la presunción de inocencia técnica; el Estado debe probar el daño antes de imponer la traba.
+
+7. **Arquitectura de Cumplimiento Orgánico:** Las normas de convivencia y las infraestructuras públicas deberán diseñarse bajo el criterio de Inducción Positiva. Se priorizará el diseño sistémico que haga del cumplimiento de la ley la opción más lógica y natural para el ciudadano, reduciendo al mínimo la necesidad de imposición coercitiva o señalización punitiva constante.
+
+8. **Cláusula de Primacía de la Sustancia sobre la Forma:** El Tribunal de Arbitraje Técnico (TAT) anulará cualquier estructura societaria, contrato o arquitectura financiera cuya única finalidad demostrable sea el arbitraje de capas fiscales o el ocultamiento de la titularidad real de los beneficios. La República no reconoce la validez jurídica de la opacidad. Todo flujo de capital debe tener un origen y un destino identificable en el RNS para gozar de la protección de los tribunales nacionales.
+
+9. **Garantía de Acceso Multinivel:** El Registro Nacional Soberano (RNS) integrará en su interfaz una arquitectura de **\"Doble Lectura\"**.
 
     a)  Cada artículo técnico de la Constitución contará con un enlace directo a su explicación correspondiente en el Manual de Ciudadanía Soberana.
 
     b)  El sistema educativo nacional evaluará la competencia del estudiante no en la memorización de artículos, sino en la **capacidad operativa para ejercer sus derechos** (uso del PCSC, contacto con Facilitadores y auditoría de dividendos).
 
-9. **De la Integridad en las Relaciones con Estados Hostiles:**\
+10. **De la Integridad en las Relaciones con Estados Hostiles:**\
 Las leyes o sanciones dirigidas contra naciones extranjeras o entidades externas deben cumplir con el **Tríptico de Legitimidad**:
 
     a)  **Causalidad Probada:** El TDC debe certificar que dicho Estado ha violado activamente las **Cláusulas Pétreas** de la República de Cuba en la jurisdicción cubana o ha realizado agresiones fácticas (ciberataques, sabotajes, entre otros dirigidos a dañar la nación).

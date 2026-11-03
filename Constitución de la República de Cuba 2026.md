@@ -6496,14 +6496,13 @@ La República reconoce que la Constitución no es una declaración de intencione
 
 ## Artículo 133. Del Principio de Comprensibilidad y Límite de la Complejidad.
 
-1. Derecho a la Simplicidad: Todo ciudadano tiene el derecho a entender las leyes que lo rigen. Se establece la Cláusula de Transparencia Cognitiva: Ninguna regulación técnica, algoritmo fiscal o protocolo administrativo tendrá validez legal si su lógica esencial no puede ser explicada y auditada por un ciudadano de catorce (14) años de edad promedio.
+1. **Derecho a la Simplicidad:** Todo ciudadano tiene el derecho a entender las leyes que lo rigen. Se establece la Cláusula de Transparencia Cognitiva: Ninguna regulación técnica, algoritmo fiscal o protocolo administrativo tendrá validez legal si su lógica esencial no puede ser explicada y auditada por un ciudadano de catorce (14) años de edad promedio.
 
-2. Freno a la Recursividad: Se prohíbe la creación de estratos de control cuya única función sea la supervisión de supervisores. La cadena de responsabilidad debe terminar siempre en un Individuo Humano Identificable.
+2. **Freno a la Recursividad:** Se prohíbe la creación de estratos de control cuya única función sea la supervisión de supervisores. La cadena de responsabilidad debe terminar siempre en un Individuo Humano Identificable.
 
-3. Veto de Opacidad: El Tribunal de Defensa de la Constitución (TDC) anulará de pleno derecho cualquier norma cuya complejidad técnica actúe como una barrera de facto a la soberanía ciudadana.
+3. **Veto de Opacidad:** El Tribunal de Defensa de la Constitución (TDC) anulará de pleno derecho cualquier norma cuya complejidad técnica actúe como una barrera de facto a la soberanía ciudadana.
 
-4. **Caducidad Perentoria de la Regulación Restrictiva (Sunset Law):**\
-Toda ley orgánica, decreto municipal o regulación administrativa, técnica o fiscal que imponga una prohibición, una carga extraordinaria o una restricción al libre ejercicio de derechos, nacerá con una **Fecha de Extinción Obligatoria** de cinco (5) años.
+4. **Caducidad Perentoria de la Regulación Restrictiva (Sunset Law):** Toda ley orgánica, decreto municipal o regulación administrativa, técnica o fiscal que imponga una prohibición, una carga extraordinaria o una restricción al libre ejercicio de derechos, nacerá con una **Fecha de Extinción Obligatoria** de cinco (5) años.
 
     a)  **Extinción Automática:** Al cumplirse el plazo, la norma caducará de pleno derecho y desaparecerá del Registro Nacional Soberano (RNS).
 
@@ -6535,8 +6534,7 @@ Toda ley orgánica, decreto municipal o regulación administrativa, técnica o f
 
     b)  El sistema educativo nacional evaluará la competencia del estudiante no en la memorización de artículos, sino en la **capacidad operativa para ejercer sus derechos** (uso del PCSC, contacto con Facilitadores y auditoría de dividendos).
 
-10. **De la Integridad en las Relaciones con Estados Hostiles:**\
-Las leyes o sanciones dirigidas contra naciones extranjeras o entidades externas deben cumplir con el **Tríptico de Legitimidad**:
+10. **De la Integridad en las Relaciones con Estados Hostiles:** Las leyes o sanciones dirigidas contra naciones extranjeras o entidades externas deben cumplir con el **Tríptico de Legitimidad**:
 
     a)  **Causalidad Probada:** El TDC debe certificar que dicho Estado ha violado activamente las **Cláusulas Pétreas** de la República de Cuba en la jurisdicción cubana o ha realizado agresiones fácticas (ciberataques, sabotajes, entre otros dirigidos a dañar la nación).
 
@@ -6550,11 +6548,9 @@ Las leyes o sanciones dirigidas contra naciones extranjeras o entidades externas
 
 Para garantizar que la República no sea capturada en el futuro por agendas ideológicas, experimentos sociológicos o demandas de facciones que disfracen la búsqueda de privilegios bajo el lenguaje de la \"injusticia social\" (Fenómeno de Ingeniería Identitaria), todo juez, tribunal (TDC/TAT) o legislador aplicará obligatoriamente el Test de Asimetría Material ante cualquier nueva demanda de derechos:
 
-1. **Definición de Justicia Social Legítima (Derecho Negativo):**\
-Se considerará una demanda de Justicia amparada por esta Constitución aquella que exija la **eliminación de una barrera artificial** creada por el Estado o por monopolios privados que impida a un individuo o minoría competir, expresarse o ejercer su propiedad en igualdad de condiciones fácticas con la mayoría. (Ej. Exigir que no se prohíba el acceso a un trabajo por motivos de raza o religión). El remedio a la injusticia es la **Restauración de la Neutralidad**.
+1. **Definición de Justicia Social Legítima (Derecho Negativo):** Se considerará una demanda de Justicia amparada por esta Constitución aquella que exija la **eliminación de una barrera artificial** creada por el Estado o por monopolios privados que impida a un individuo o minoría competir, expresarse o ejercer su propiedad en igualdad de condiciones fácticas con la mayoría. (Ej. Exigir que no se prohíba el acceso a un trabajo por motivos de raza o religión). El remedio a la injusticia es la **Restauración de la Neutralidad**.
 
-2. **Definición de Privilegio Ilegítimo (Derecho Positivo Coactivo):**\
-Se declarará **Nula de Pleno Derecho** y ajena al amparo constitucional toda demanda, ley o movimiento que exija:
+2. **Definición de Privilegio Ilegítimo (Derecho Positivo Coactivo):** Se declarará **Nula de Pleno Derecho** y ajena al amparo constitucional toda demanda, ley o movimiento que exija:
 
     a)  **Subsidio Asimétrico:** Que el Estado o terceros financien con su patrimonio las consecuencias de la identidad, estilo de vida, o percepciones subjetivas de un grupo específico.
 
@@ -6564,8 +6560,7 @@ Se declarará **Nula de Pleno Derecho** y ajena al amparo constitucional toda de
 
 3. **Principio de Universalidad Fáctica:** La República no oprime minorías ni ignora mayorías, porque la República **no legisla sobre identidades, legisla sobre acciones materiales**. Lo que es un delito para la mayoría, es un delito para la minoría. Lo que es un costo termodinámico para la minoría, lo es para la mayoría.
 
-4. Del Principio de Taxatividad Estricta y Parámetros Objetivos de Legalidad (Proscripción de la Ambigüedad Normativa).\
-Para garantizar que la ley no habilite márgenes de arbitrariedad judicial o administrativa, se establece el Principio de Taxatividad Estricta en la redacción y ejecución del ordenamiento jurídico:
+4. **Del Principio de Taxatividad Estricta y Parámetros Objetivos de Legalidad (Proscripción de la Ambigüedad Normativa):** Para garantizar que la ley no habilite márgenes de arbitrariedad judicial o administrativa, se establece el Principio de Taxatividad Estricta en la redacción y ejecución del ordenamiento jurídico:
 
     a)  **Proscripción de Conceptos Jurídicos Indeterminados:** Queda prohibida la inclusión de términos vagos, ambiguos o discrecionales en normas penales, fiscales o sancionadoras que restrinjan derechos. Los conceptos que carezcan de correlato fáctico objetivo o definición medible carecerán de eficacia jurídica para fundamentar sanciones o limitaciones a los derechos ciudadanos.
 

@@ -6572,29 +6572,29 @@ Para garantizar que la República no sea capturada en el futuro por agendas ideo
 
 ## Artículo 135. De la Neutralidad Ideológica Internacional y el Criterio de Sanción.
 
-1. Reconocimiento de la Diversidad Política: La República de Cuba reconoce el derecho de toda nación a elegir su propio sistema de gobierno, organización territorial y política económica. La ausencia de Municipalismo, el centralismo administrativo o la elección de modelos económicos distintos a los de esta Constitución no constituyen causa de sanción, hostilidad ni discriminación por parte del Estado cubano.
+1. **Reconocimiento de la Diversidad Política:** La República de Cuba reconoce el derecho de toda nación a elegir su propio sistema de gobierno, organización territorial y política económica. La ausencia de Municipalismo, el centralismo administrativo o la elección de modelos económicos distintos a los de esta Constitución no constituyen causa de sanción, hostilidad ni discriminación por parte del Estado cubano.
 
-2. El Criterio de la Frontera Fáctica (Ataque vs. Elección): Cuba sólo activará protocolos de desconexión o sanción (Art. 10.4.b) cuando una acción extranjera se clasifique como Agresión al Territorio Nacional:
+2. **El Criterio de la Frontera Fáctica (Ataque vs. Elección):** Cuba sólo activará protocolos de desconexión o sanción (Art. 10.4.b) cuando una acción extranjera se clasifique como Agresión al Territorio Nacional:
 
-    a)  Agresión Cinética o Lógica: Invasión física, ciberataques probados o sabotaje de las RRI cubanas.
+    a)  **Agresión Cinética o Lógica:** Invasión física, ciberataques probados o sabotaje de las RRI cubanas.
 
-    b)  Daño Transfronterizo Material: Si un país vecino destruye su medio ambiente de forma que afecte fásticamente el aire, el agua o la biología de nuestra nación (Causalidad Física).
+    b)  **Daño Transfronterizo Material:** Si un país vecino destruye su medio ambiente de forma que afecte fásticamente el aire, el agua o la biología de nuestra nación (Causalidad Física).
 
-    c)  Violación de Tratados de Reciprocidad: El incumplimiento de contratos comerciales o de servidumbres de paso pactados en el RNS.
+    c)  **Violación de Tratados de Reciprocidad:** El incumplimiento de contratos comerciales o de servidumbres de paso pactados en el RNS.
 
-3. Límite de la Sanción por Derechos Humanos: La República sólo apoyará sanciones internacionales en casos de Crímenes de Exterminio o Lesa Humanidad (Genocidio, Esclavitud Fáctica), entendidos como la anulación total de las Leyes Universales de Civilidad. El \"desacuerdo ideológico\" o la \"forma de Estado\" quedan excluidos de este ámbito.
+3. **Límite de la Sanción por Derechos Humanos:** La República sólo apoyará sanciones internacionales en casos de Crímenes de Exterminio o Lesa Humanidad (Genocidio, Esclavitud Fáctica), entendidos como la anulación total de las Leyes Universales de Civilidad. El \"desacuerdo ideológico\" o la \"forma de Estado\" quedan excluidos de este ámbito.
 
-4. No Interferencia en la Deuda Ajena: Cuba se prohíbe a sí misma utilizar su potencia financiera o tecnológica para forzar cambios constitucionales en otras naciones. La soberanía ajena es el espejo de la nuestra.
+4. **No Interferencia en la Deuda Ajena:** Cuba se prohíbe a sí misma utilizar su potencia financiera o tecnológica para forzar cambios constitucionales en otras naciones. La soberanía ajena es el espejo de la nuestra.
 
 ------------------------------------------------------------------------
 
 ## Artículo 136. De la Soberanía de la Función y la Innovación Disruptiva.
 
-1. Primacía del Hecho sobre el Título: Se garantiza el derecho de todo individuo a demostrar competencia técnica mediante la funcionalidad. Ninguna titulación académica podrá ser utilizada para prohibir el ejercicio de la innovación si el individuo demuestra ante el TAT (Artículo 13.3) que su proceso o invento es funcional y seguro.
+1. **Primacía del Hecho sobre el Título:** Se garantiza el derecho de todo individuo a demostrar competencia técnica mediante la funcionalidad. Ninguna titulación académica podrá ser utilizada para prohibir el ejercicio de la innovación si el individuo demuestra ante el TAT (Artículo 13.3) que su proceso o invento es funcional y seguro.
 
-2. Protección al Innovador Independiente: El Estado garantizará la libertad y protección jurídica de los desarrolladores e investigadores independientes frente a barreras de entrada corporativas o monopolios del conocimiento.
+2. **Protección al Innovador Independiente:** El Estado garantizará la libertad y protección jurídica de los desarrolladores e investigadores independientes frente a barreras de entrada corporativas o monopolios del conocimiento.
 
-3. Inmunidad Regulatoria de Innovación Sostenible: El investigador o empresa particular que desarrolle métodos de producción de energía, agua o suministros básicos mediante el reciclaje de desechos o el uso de recursos subutilizados, gozará de inmunidad regulatoria durante los primeros diez (10) años de su actividad, quedando sujeto exclusivamente a la responsabilidad civil por daños a terceros (Art. 53.7).
+3. **Inmunidad Regulatoria de Innovación Sostenible:** El investigador o empresa particular que desarrolle métodos de producción de energía, agua o suministros básicos mediante el reciclaje de desechos o el uso de recursos subutilizados, gozará de inmunidad regulatoria durante los primeros diez (10) años de su actividad, quedando sujeto exclusivamente a la responsabilidad civil por daños a terceros (Art. 53.7).
 
 4. Del Registro de Técnicas y Soluciones Asimétricas. Se crea la **Capa de innovación estratégica** en el Registro Nacional Soberano.
 
@@ -6608,16 +6608,15 @@ Para garantizar que la República no sea capturada en el futuro por agendas ideo
 
 6. **Del Derecho al Examen por Suficiencia Fáctica:** Toda institución educativa, centro de investigación o SACA técnica tiene la obligación de mantener un Protocolo de Puerta Abierta para la validación de competencias. Cualquier ciudadano, independientemente de su vinculación formal con la institución o de su cargo actual (sea este de mantenimiento, soporte o administración), que demuestre poseer el conocimiento técnico de una cátedra o proceso, tiene el derecho inalienable a solicitar un Examen de Suficiencia ante el TAT. La aprobación de dicho examen otorgará la certificación inmediata de competencia, anulando cualquier requisito de \"tiempo de servicio\" o \"matrícula previa\".
 
-7. Régimen de Entorno Controlado (Regulatory Sandbox): Se establece el derecho de toda SACA de nueva creación, que opere con modelos de negocio no contemplados en la legislación vigente (Fintech, Biotech, IA), a solicitar una Licencia Provisional de Innovación.
+7. **Régimen de Entorno Controlado:** Se establece el derecho de toda SACA de nueva creación, que opere con modelos de negocio no contemplados en la legislación vigente (Fintech, Biotech, IA), a solicitar una Licencia Provisional de Innovación.
 
     a)  Esta licencia permite operar bajo un régimen de regulación simplificada por un periodo improrrogable de veinticuatro (24) meses.
 
-    b)  Límite de Escala: Para contener riesgos sistémicos, la licencia restringirá el volumen de transacciones o usuarios a una cuota de prueba fijada por el TAT.
+    b)  **Límite de Escala:** Para contener riesgos sistémicos, la licencia restringirá el volumen de transacciones o usuarios a una cuota de prueba fijada por el TAT.
 
     c)  Superado el plazo o el volumen, la empresa deberá transitar al régimen regulado ordinario o cesar operaciones, sin que pueda ser sancionada retroactivamente por la normativa preexistente.
 
-8. **Fondo Nacional de Capital Semilla e Impulso al Talento (FNCIT):**\
-La República reconoce que la innovación es el único medio para romper los ciclos de escasez. Para garantizar que el genio individual no se pierda por falta de infraestructura financiera, se establece:
+8. **Fondo Nacional de Capital Semilla e Impulso al Talento (FNCIT):** La República reconoce que la innovación es el único medio para romper los ciclos de escasez. Para garantizar que el genio individual no se pierda por falta de infraestructura financiera, se establece:
 
     a)  **Crédito de Arranque de Innovación:** Todo ciudadano cubano o residente que registre una patente, un modelo de utilidad o un proceso industrial de alta eficiencia, validado técnicamente por el TAT como \"Proyecto de Interés Nacional\", tendrá acceso automático a una línea de crédito preferente desde la Cuenta de Inversión Soberana (CIS) nacional.
 
@@ -6629,23 +6628,23 @@ La República reconoce que la innovación es el único medio para romper los cic
 
 ## Artículo 137. De la Inmunidad al Consenso y Protección de la Disidencia Técnica.
 
-1. Derecho a la Duda Metódica: Ningún \"Consenso Científico\" o \"Verdad Técnica\" avalada por el Estado o el ICI podrá ser utilizado para silenciar, sancionar o discriminar civilmente a un individuo que sostenga una tesis contraria.
+1. **Derecho a la Duda Metódica:** Ningún \"Consenso Científico\" o \"Verdad Técnica\" avalada por el Estado o el ICI podrá ser utilizado para silenciar, sancionar o discriminar civilmente a un individuo que sostenga una tesis contraria.
 
-2. Blindaje del Disidente: Se prohíbe la \"Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos Digitales\" o la restricción de derechos basada en el perfilado de opiniones o hallazgos científicos discrepantes.
+2. **Blindaje del Disidente:** Se prohíbe la \"Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos Digitales\" o la restricción de derechos basada en el perfilado de opiniones o hallazgos científicos discrepantes.
 
 ------------------------------------------------------------------------
 
 ## Artículo 138. Del Patrimonio de la Diversidad Cognitiva.
 
-1. Protección Neuroarquitectónica: El Estado reconoce la neurodiversidad no como una discapacidad, sino como un diseño especializado de la especie humana. Queda prohibida cualquier intervención neurológica, psiquiátrica o farmacológica forzada destinada a \"normalizar\" la conducta del individuo.
+1. **Protección Neuroarquitectónica:** El Estado reconoce la neurodiversidad no como una discapacidad, sino como un diseño especializado de la especie humana. Queda prohibida cualquier intervención neurológica, psiquiátrica o farmacológica forzada destinada a \"normalizar\" la conducta del individuo.
 
-2. Inviolabilidad del Procesamiento: Los ciudadanos cuya arquitectura cognitiva les permita detectar patrones de error o corrupción sistémica gozarán de especial protección contra el acoso institucional.
+2. **Inviolabilidad del Procesamiento:** Los ciudadanos cuya arquitectura cognitiva les permita detectar patrones de error o corrupción sistémica gozarán de especial protección contra el acoso institucional.
 
 ------------------------------------------------------------------------
 
 ## Artículo 139. De la Inviolabilidad Funcional del Cuerpo Humano.
 
-1. Definición de Mutilación: Se tipifica como Crimen de Lesa Dignidad toda intervención física, quirúrgica o química que resulte en la anulación, pérdida o degradación irreversible de una función biológica natural, realizada por motivos ideológicos, culturales o de control social.
+1. **Definición de Mutilación:** Se tipifica como Crimen de Lesa Dignidad toda intervención física, quirúrgica o química que resulte en la anulación, pérdida o degradación irreversible de una función biológica natural, realizada por motivos ideológicos, culturales o de control social.
 
 2. **Protección de la Integridad Somática y Psicológica Infantil:** El cuerpo y la psiquis de los menores de edad se consideran un **Activo en Custodia bajo Prohibición de Rediseño**.
 
@@ -6665,12 +6664,11 @@ La República reconoce que la innovación es el único medio para romper los cic
 
 3. La protección de la Soberanía Somática es absoluta. El tráfico de órganos, tejidos, células o cualquier componente biológico humano, así como el trasplante fuera de los protocolos auditados por el Tribunal de Arbitraje Técnico, se declaran crímenes de lesa humanidad e imprescriptibles. La República no reconocerá derecho alguno derivado de la comercialización de la integridad física humana. El personal sanitario que participe en dichas prácticas incurrirá en inhabilitación perpetua y confiscación total de su patrimonio personal a favor del Fondo Catastrófico Nacional
 
-4. Sanción de \"Muerte Profesional\": Todo personal sanitario que participe en una mutilación incurrirá en inhabilitación perpetua, confiscación de activos y responsabilidad penal individual.
+4. **Sanción de \"Muerte Profesional\":** Todo personal sanitario que participe en una mutilación incurrirá en inhabilitación perpetua, confiscación de activos y responsabilidad penal individual.
 
-5. Excepción por Riesgo Vital: Solo se autorizan intervenciones que comprometan funciones si existe un riesgo inminente para la vida del paciente, validado por el TAT.
+5. **Excepción por Riesgo Vital:** Solo se autorizan intervenciones que comprometan funciones si existe un riesgo inminente para la vida del paciente, validado por el TAT.
 
-6. **De la Transparencia Radical en Lugares de Custodia.**\
-Todo centro donde existan ciudadanos bajo privación de libertad o custodia estatal se considera **Capa Alfa de Información (Pública)** en sus indicadores vitales.
+6. **De la Transparencia Radical en Lugares de Custodia:** Todo centro donde existan ciudadanos bajo privación de libertad o custodia estatal se considera **Capa Alfa de Información (Pública)** en sus indicadores vitales.
 
     a)  **Telemetría Nutricional Obligatoria:** El Registro Nacional Soberano (RNS) auditará diariamente el flujo de calorías y suministros médicos entregados a cada recinto. Si el suministro cae por debajo del Estándar Biológico Mínimo por más de 48 horas, el sistema generará una **Alerta de Atentado a la Soberanía Somática**, facultando a la CVA (Cámara de Vigilancia Aleatoria) local para la intervención física inmediata del almacén y la destitución del director del penal sin orden judicial previa.
 

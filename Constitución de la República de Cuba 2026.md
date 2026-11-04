@@ -1445,7 +1445,7 @@ Para evitar la repetición de los ciclos de complicidad histórica entre el Esta
 
     a)  **Inmunidad Cero:** Ninguna autoridad de la República (Presidente, Alcaldes, legisladores, alguaciles o jueces) posee la facultad para negociar treguas, otorgar amnistías no aprobadas por el Congreso, o integrar a miembros de pandillas en nóminas del Estado, fuerzas policiales o empresas bajo intervención.
 
-    b)  **Responsabilidad de la Autoridad:** Si el Registro Nacional Soberano (RNS) o el Tribunal de Arbitraje Técnico (TAT) detectan que un funcionario público ha desviado fondos, otorgado empleos (\"botellas\") o facilitado impunidad a líderes o miembros de grupos predatorios a cambio de \"paz social\" o apoyo político, dicho funcionario será destituido de forma fulminante bajo el cargo de Traición Constitucional.
+    b)  **Responsabilidad de la Autoridad:** Si el Registro Nacional Soberano (RNS) o el Tribunal de Arbitraje Técnico (TAT) detectan que un funcionario público ha desviado fondos, otorgado empleos (\"botellas\") o facilitado impunidad a líderes o miembros de grupos predatorios a cambio de \"paz social\" o apoyo político, dicho funcionario será destituido de forma fulminante bajo el cargo de Concierto Delictivo y Prevaricación Agravada.
 
     c)  **Monopolio de la Fuerza Legítima:** La aplicación de la ley y el uso de la fuerza coactiva recaen exclusivamente en los Alguaciles, la Policía Nacional y las Fuerzas de Defensa institucionales. Cualquier delegación de estas funciones a \"grupos de acción\", \"comités parapoliciales\" o pandillas privadas es nula de pleno derecho y activa el Derecho de Resistencia Ciudadana contra el funcionario que la ordene.
 
@@ -4483,14 +4483,13 @@ Ante el incumplimiento sostenido de las metas registradas o una caída crítica 
 
 12. **De la Iniciativa Legislativa de Estado.** El Presidente de la República posee facultad de iniciativa legislativa preferente ante la Cámara de Representantes. Los proyectos calificados por el Ejecutivo como \"De Urgencia por Estabilidad Nacional\" deberán ser votados en un plazo de quince (15) días hábiles. El silencio legislativo transcurrido dicho plazo activará el proyecto como Decreto-Ley Provisional, sujeto a ratificación o derogación por la Cámara en un ciclo posterior de cuarenta y cinco (45) días.
 
-13. **De la Caducidad Automática de Facultades Extraordinarias.**\
-Toda facultad excepcional, decreto de emergencia o suspensión de protocolos ordinarios otorgada al Ejecutivo por causa de crisis nacional, desastre o conflicto:
+13. **De la Caducidad Automática de Facultades Extraordinarias:** Toda facultad excepcional, decreto de emergencia o suspensión de protocolos ordinarios otorgada al Ejecutivo por causa de crisis nacional, desastre o conflicto:
 
     a)  Tendrá una vigencia máxima improrrogable de sesenta (60) días.
 
     b)  Al cumplirse el plazo, el Registro Nacional Soberano (RNS) **desactivará automáticamente** el amparo legal de dichas facultades, restaurando la soberanía plena de los Nodos Municipales.
 
-    c)  Cualquier intento de prolongar estas medidas sin una nueva aprobación del 75% de la Cámara será procesado como **Usurpación de Mando y Traición**.
+    c)  Cualquier intento de prolongar estas medidas sin una nueva aprobación del 75% de la Cámara será procesado como **Usurpación de Mando y Rebelión Constitucional**.
 
 14. **De la Potestad de Veto Estratégico.** El Presidente podrá vetar leyes nacionales que considere lesivas para la estabilidad o soberanía. Para superar el veto presidencial y ratificar la ley, la Cámara de Representantes requerirá una mayoría calificada de las tres cuartas partes (75%) de sus miembros.
 
@@ -4701,7 +4700,7 @@ Los Municipios, en ejercicio de su autonomía (Art. 69), están facultados para 
 
 6. De la Responsabilidad y el Juicio de Residencia de los Magistrados:
 
-    a)  Los magistrados del TDC son personal y solidariamente responsables por sus fallos. Se establece el Delito de Traición Constitucional para aquel magistrado que utilice su facultad de anulación o intervención para fines de persecución política, personal o ideológica.
+    a)  Los magistrados del TDC son personal y solidariamente responsables por sus fallos. Se establece el Delito de Prevaricación Judicial Agravada y Persecución Política Ilícita para aquel magistrado que utilice su facultad de anulación o intervención para fines de persecución política, personal o ideológica.
 
     b)  Recusación Ciudadana: Cualquier Municipio, mediante acuerdo de su Asamblea, podrá solicitar la Auditoría de Sesgo de una sentencia del TDC ante un Panel de Revisión Ad Hoc, compuesto por tres (3) decanos de facultades de leyes extranjeras de naciones con Estricta Reciprocidad (Artículo 20). Si el panel detecta una violación de las Cláusulas Pétreas por parte del TDC, el fallo quedará suspendido.
 
@@ -5287,7 +5286,7 @@ En el caso extremo de activación de la Leva Nacional por amenaza de extinción 
 
     a)  **Prioridad de Escalamiento:** El reclutamiento comenzará por los ciudadanos de mayor edad y experiencia, protegiendo a la juventud como el **Activo de Continuidad Biológica de la Nación**.
 
-    b)  **Veto a la Minoría:** Bajo ninguna circunstancia, ni siquiera en caso de colapso total de las fuerzas regulares, se permitirá el reclutamiento o movilización de ciudadanos menores de dieciocho (18) años. El uso de niños en la guerra se tipifica como **Crimen de Lesa Humanidad** y conlleva la destitución inmediata y juicio por traición para la autoridad que firme la orden.
+    b)  **Veto a la Minoría:** Bajo ninguna circunstancia, ni siquiera en caso de colapso total de las fuerzas regulares, se permitirá el reclutamiento o movilización de ciudadanos menores de dieciocho (18) años. El uso de niños en la guerra se tipifica como Crimen de Lesa Humanidad y Crimen de Guerra, conllevando la destitución inmediata y juicio penal para la autoridad que firme la orden.
 
     c)  **Funciones Protegidas:** Los ciudadanos entre 18 y 21 años que sean llamados en una emergencia existencial, serán asignados exclusivamente a labores de logística interna, sanidad, y mantenimiento de infraestructura en zonas de baja hostilidad, preservando su integridad para la reconstrucción post-conflicto.
 
@@ -5471,7 +5470,7 @@ En el caso extremo de activación de la Leva Nacional por amenaza de extinción 
 
 1. Activación de Emergencia: Ante una agresión militar extranjera comprobada, un ataque inminente o una catástrofe de exterminio, el Presidente de la República queda investido de la facultad de activar el PADI.
 
-2. Poderes Plenipotenciarios Temporales: Durante un plazo máximo e improrrogable de setenta y dos (72) horas, el Presidente podrá ordenar el despliegue total de las Fuerzas Armadas, el uso de suministros estratégicos y la respuesta cinética defensiva sin previa aprobación del Congreso. Bajo ninguna circunstancia la activación del PADI faculta al Presidente para detener a miembros del Congreso, Magistrados del TDC, o interferir con la operatividad del RNS y la CVA. Cualquier orden de arresto contra autoridades civiles o el bloqueo de comunicaciones internas durante estas 72 horas será nula de pleno derecho y activará el proceso de destitución automática por Traición Constitucional.
+2. Poderes Plenipotenciarios Temporales: Durante un plazo máximo e improrrogable de setenta y dos (72) horas, el Presidente podrá ordenar el despliegue total de las Fuerzas Armadas, el uso de suministros estratégicos y la respuesta cinética defensiva sin previa aprobación del Congreso. Bajo ninguna circunstancia la activación del PADI faculta al Presidente para detener a miembros del Congreso, Magistrados del TDC, o interferir con la operatividad del RNS y la CVA. Cualquier orden de arresto contra autoridades civiles o el bloqueo de comunicaciones internas durante estas 72 horas será nula de pleno derecho y activará el proceso de destitución automática por Sedición, Usurpación de Funciones y Ruptura del Orden Constitucional.
 
 3. Ratificación por Existencia: Al cumplirse la hora setenta y dos (72):
 
@@ -5657,7 +5656,7 @@ Este régimen se define como un marco de conducta jurídica y ética inalterable
     
         ii. Dolo y Negligencia Temeraria: Únicamente ante la demostración fehaciente de dolo, sabotaje deliberado, falsificación o negligencia inexcusable que ignore deliberadamente las alertas del TAT, se activará la responsabilidad patrimonial personal directa sobre el infractor (Art. 4.4) y la pérdida de idoneidad conforme al Artículo 109.
 
-6.  El Sello de Inviabilidad Moral por Traición, Sabotaje a la Verdad o Perjurio Tecnológico: Todo funcionario de alta jerarquía condenado mediante sentencia judicial firme por traición a la patria (Artículo 21.4.e y, cuando corresponda, Artículo 129.2), Sabotaje a la Verdad (Artículo 4.4.d-e) o Perjurio Tecnológico Agravado (Artículo 22.21.b.ii) recibirá en su PCSC el Sello de Inviabilidad Moral conforme al Artículo 109. La venta o tráfico de secretos de seguridad nacional quedará sujeta a la tipificación y al régimen sancionador de la futura Ley Orgánica de Seguridad Nacional.
+6.  Todo funcionario de alta jerarquía condenado mediante sentencia judicial firme por traición a la patria (Artículo 21.4.e), atentado al orden constitucional (Artículo 129.2), Sabotaje a la Verdad (Artículo 4.4.d-e) o Perjurio Tecnológico Agravado (Artículo 22.21.b.ii) recibirá en su PCSC el Sello de Inviabilidad Moral conforme al Artículo 109. La venta o tráfico de secretos de seguridad nacional quedará sujeta a la tipificación y al régimen sancionador de la futura Ley Orgánica de Seguridad Nacional.
 
     a)  Este sello prohíbe permanentemente que el individuo vuelva a trabajar para el Estado, que administre dinero de otros ciudadanos o que sea dueño de acciones en empresas estratégicas (SACAs).
 
@@ -5713,7 +5712,7 @@ Para garantizar la integridad perpetua de la República y sancionar las traicion
 
 5.  **Crímenes que Activan el Sello:** La aplicación de la Inhabilitación Cívica y Desconexión Fiduciaria está reservada exclusivamente para los siguientes delitos, demostrados más allá de toda duda razonable mediante sentencia judicial firme:
 
-    a) Alta Traición a la Patria (Disp. Transitoria Sexta.1) y Alta Traición a la Fe Pública (Art. 145.7.d).
+    a) Alta Traición a la Patria (Disp. Transitoria Sexta.1) y Delito de Falsedad Oficial y Engaño al Soberano (Art. 145.7.d).
 
     b) Simulación de Soberanía y Mercenarismo Financiero (Art. 117.5.d).
 
@@ -5745,8 +5744,7 @@ Para garantizar la integridad perpetua de la República y sancionar las traicion
 
         <!-- -->
 
-    b)  **El Protocolo de Reintegración Excepcional (El Camino de Retorno):**\
-    Para todos los demás delitos que conllevan la Inhabilitación Cívica y Desconexión Fiduciaria (ej. Alta Traición a la Fe Pública, Sabotaje Económico, Simulación de Soberanía), el infractor podrá solicitar la restitución parcial de sus derechos económicos, pero jamás sus derechos políticos, bajo el cumplimiento estricto y sucesivo de las siguientes condiciones:
+    b)  **El Protocolo de Reintegración Excepcional (El Camino de Retorno):** Para todos los demás delitos que conllevan la Inhabilitación Cívica y Desconexión Fiduciaria (ej. Falsedad Oficial Agravada, Sabotaje Económico, Simulación de Soberanía), el infractor podrá solicitar la restitución parcial de sus derechos económicos, pero jamás sus derechos políticos, bajo el cumplimiento estricto y sucesivo de las siguientes condiciones:
 
         <!-- -->
 
@@ -6250,7 +6248,7 @@ Para los ciudadanos que padezcan discapacidades mentales severas que impidan una
     
     e) **Asignación Generacional:** El cincuenta y uno por ciento (51%) de las acciones de estas nuevas entidades será asignado de forma automática y gratuita, a través del RNS, a los ciudadanos cubanos por nacimiento que alcancen la mayoría de edad en el ciclo fiscal correspondiente, garantizando la renovación constante del portafolio soberano individual ante el crecimiento demográfico.
 
-3. Garantía de Integridad Patrimonial del Accionista de Mercado (AM):** En todo proceso de escisión o mitosis obligatoria definida en el inciso anterior, los titulares de Acciones de Mercado (AM) que representen el cuarenta y nueve por ciento (49%) de la entidad cedente, recibirán de pleno derecho y sin costo adicional una participación idéntica y proporcional en el capital social de la entidad beneficiaria (SACA Hija).
+3. **Garantía de Integridad Patrimonial del Accionista de Mercado (AM):** En todo proceso de escisión o mitosis obligatoria definida en el inciso anterior, los titulares de Acciones de Mercado (AM) que representen el cuarenta y nueve por ciento (49%) de la entidad cedente, recibirán de pleno derecho y sin costo adicional una participación idéntica y proporcional en el capital social de la entidad beneficiaria (SACA Hija).
 
     a)  Se prohíbe cualquier forma de reducción forzosa del porcentaje de participación privada durante el proceso de escisión, considerándose tal acto como expropiación sin indemnización y nulo de pleno derecho.
 
@@ -6953,7 +6951,7 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
     c)  **Presunción Legal de Negligencia Interna:** En ausencia de una certificación de Agresión Externa emitida por el TAT, cualquier fallo sistémico, crisis de desabastecimiento o colapso de servicios se presumirá, a todos los efectos legales y penales, como consecuencia directa de la **mala gestión, la impericia o la corrupción de los funcionarios públicos responsables**. La carga de la prueba se invierte: el gobierno debe demostrar que fue atacado, no el pueblo demostrar que fue abandonado.
 
-    d)  **Delito de Falsedad Oficial y Engaño al Soberano:** El Presidente, Ministro, Alcalde o cualquier funcionario que, en un discurso público o comunicado oficial, atribuya un fallo de origen interno (certificado por el TAT) a una \"agresión externa\" o a un \"bloqueo\" inexistente, incurrirá de forma inmediata en el Delito de Delito de Falsedad Oficial y Engaño al Soberano, que activa el Juicio de Residencia y la destitución fulminante.
+    d)  **Delito de Falsedad Oficial y Engaño al Soberano:** El Presidente, Ministro, Alcalde o cualquier funcionario que, en un discurso público o comunicado oficial, atribuya un fallo de origen interno (certificado por el TAT) a una \"agresión externa\" o a un \"bloqueo\" inexistente, incurrirá de forma inmediata en el Delito de Falsedad Oficial y Engaño al Soberano, que activa el Juicio de Residencia y la destitución fulminante.
 
     e)  **Ejecución Automática de la Sanción:** El RNS, al detectar la discrepancia entre el discurso del funcionario y el informe del TAT, activará de oficio el proceso de **Juicio de Residencia (Art. 78)** ante la Cámara de Vigilancia Aleatoria (CVA), conllevando la destitución fulminante del cargo.
 
@@ -7756,7 +7754,7 @@ Para erradicar la disonancia cognitiva y el negacionismo histórico, y al mismo 
 
     - **CAPA GAMMA (Bóveda de Estado y Continuidad Técnica):** Queda terminantemente prohibida la publicación o desclasificación de los Secretos Legítimos de la Nación. Todo registro relativo a la ubicación de infraestructuras estratégicas, códigos de defensa cibernética, armamento, vulnerabilidades del suelo nacional, e identidades de agentes de inteligencia operando en el exterior en defensa de la integridad territorial cubana, será transferido de forma intacta, secreta y cifrada al nuevo Cuerpo Nacional de Seguridad (CNSPOC) y al mando de las Fuerzas Armadas Profesionales (Art. 96). El Estado no sacrifica su escudo para castigar su pasado.
 
-3. **Prohibición de la Destrucción de la Memoria:** Cualquier funcionario, militar o burócrata del régimen saliente que destruya, mutile, oculte o altere archivos clasificados antes de su entrega a la CTVR, será juzgado por el **Delito de Alta Traición a la Memoria de la Nación**, enfrentando la confiscación total de su patrimonio y la inhabilitación perpetua.
+3. **Prohibición de la Destrucción de la Memoria:** Cualquier funcionario, militar o burócrata del régimen saliente que destruya, mutile, oculte o altere archivos clasificados antes de su entrega a la CTVR, será juzgado por el **Delito de Destrucción Agravada del Patrimonio Documental de la Nación**, enfrentando la confiscación total de su patrimonio y la inhabilitación perpetua.
 
 ------------------------------------------------------------------------
 

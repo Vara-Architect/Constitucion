@@ -251,7 +251,7 @@ La República garantiza la integridad histórica de sus registros ante cualquier
 
     e)  La pena para este delito será la **Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos** y el ingreso inmediato al **Sistema Penal Productivo** (Art. 22.13). El dolo o la distorsión deliberada de datos en el ejercicio de la función pública constituirá el delito de Sabotaje a la Verdad, sancionado con la inhabilitación perpetua y la responsabilidad patrimonial conforme a este artículo.
 
-5. **De la Prohibición Absoluta del Soborno y la Corrupción.** Se establece la **Imprescriptibilidad de los Delitos contra el Tesoro y la Fe Pública**. El soborno, en sus modalidades de cohecho activo y pasivo, se define como una forma de **Alta Traición a la Estabilidad Económica**.
+5. **De la Prohibición Absoluta del Soborno y la Corrupción.** Se establece la **Imprescriptibilidad de los Delitos contra el Tesoro y la Fe Pública**. El soborno, en sus modalidades de cohecho activo y pasivo, se define como una forma de **Cohecho Agravado y Corrupción contra el Tesoro**.
 
     a)  **Responsabilidad Binaria:** La ley penal castigará con idéntica severidad tanto al funcionario que solicita o acepta la dádiva (soborno pasivo) como al particular, empresa o entidad que la ofrece o entrega (soborno activo). No existe jerarquía moral en la corrupción; ambos actores son destructores del orden constitucional.
 
@@ -1960,7 +1960,7 @@ La República reconoce que la experiencia, la voz, el texto y las decisiones del
 
 4. Inmunidad del Individuo frente al Tribalismo: Ninguna mayoría municipal o nacional podrá votar leyes que restrinjan el acceso al Voucher de Salud, Educación o Propiedad basándose en prejuicios tribales o raciales. El Registro Nacional Soberano rechazará automáticamente cualquier transacción que contenga filtros de discriminación por origen o creencia.
 
-5. **De la Coautoría Local en la Agresión Identitaria (El Testaferro Ideológico):** Aquel ciudadano cubano que, valiéndose de su condición de nacional, actúe como rostro local, organizador o \"activista orgánico\" para promover el antisemitismo, el borrado civil o la agenda de organizaciones o Estados que persigan la destrucción de otras naciones, recibiendo para ello compensación de entidades foráneas, será juzgado bajo el agravante de **Alta Traición por Subversión Interna**.
+5. **De la Coautoría Local en la Agresión Identitaria (El Testaferro Ideológico):** Aquel ciudadano cubano que, valiéndose de su condición de nacional, actúe como rostro local, organizador o \"activista orgánico\" para promover el antisemitismo, el borrado civil o la agenda de organizaciones o Estados que persigan la destrucción de otras naciones, recibiendo para ello compensación de entidades foráneas, será juzgado bajo el agravante de **Incitación al Odio y Mercenarismo Ideológico Ilícito**.
 
     a)  **Pérdida de Blindaje:** El infractor pierde de forma automática el Velo de Identidad y la protección de privacidad de la Capa Gamma.
 
@@ -2050,7 +2050,7 @@ La República reconoce que la experiencia, la voz, el texto y las decisiones del
 
     a)  Ante un apagón, falta de agua o escasez de un insumo, el RNS debe publicar en la Capa Alfa el **Informe de Causa Raíz** en menos de 24 horas.
 
-    b)  El informe debe detallar: responsabilidad técnica, falta de inversión detectada y cronograma de reparación automática. El silencio administrativo ante la crisis se tipifica como **Traición a la Fe Pública**.
+    b)  El informe debe detallar: responsabilidad técnica, falta de inversión detectada y cronograma de reparación automática. El silencio administrativo ante la crisis se tipifica como **Delito de Obstrucción a la Transparencia y Negligencia Administrativa Agravada**.
 
 ------------------------------------------------------------------------
 
@@ -2454,11 +2454,11 @@ Si un usuario de una plataforma de apuestas amenaza a un tercero (periodista, t�
 
 1. **Prohibición Absoluta de Financiamiento Político:** Ninguna empresa, pequeña o grande, ni sus propietarios, podrán destinar un solo centavo a actividades políticas, campañas o publicidad de facción. El poder del dinero termina donde empieza el derecho al voto.
 
-2. **Tipificación de la Captura Legislativa:** Se declara nulo e írrito todo anteproyecto de ley cuya redacción técnica haya contado con la participación de agentes privados del sector regulado. La facultad de redacción normativa técnica reside exclusivamente en el Senado de Rectores y las Facultades Universitarias. El lobbying corporativo en materia de política fiscal o comercial se tipifica como Delito de Traición a la Estabilidad Económica.
+2. **Tipificación de la Captura Legislativa:** Se declara nulo e írrito todo anteproyecto de ley cuya redacción técnica haya contado con la participación de agentes privados del sector regulado. La facultad de redacción normativa técnica reside exclusivamente en el Senado de Rectores y las Facultades Universitarias. El lobbying corporativo en materia de política fiscal o comercial se tipifica como Delito de Tráfico de Influencias, Colusión y Captura Institucional Ilícita.
 
 3. **Levantamiento Judicial y Penal del Velo Corporativo:** En caso de comisión de delitos de corrupción, cohecho o prácticas monopolísticas coercitivas, se decretará el levantamiento del velo corporativo de la persona jurídica, respondiendo los administradores, directivos y beneficiarios finales con su patrimonio personal por las responsabilidades civiles y penales derivadas del ilícito.
 
-4. **Tipificación de la Captura Corporativa:** Se define como Delito de Alta Traición la participación de agentes privados en la redacción, sugerencia o consultoría de normas que generen ventajas competitivas asimétricas para su sector. Toda ley técnica debe nacer de la academia y ser validada por el Senado Técnico de Rectores bajo protocolo de "Ciego Ideológico".
+4. **Tipificación de la Captura Corporativa:** Se define como Delito de Tráfico de Influencias, Colusión y Captura Institucional Ilícita a la participación de agentes privados en la redacción, sugerencia o consultoría de normas que generen ventajas competitivas asimétricas para su sector. Toda ley técnica debe nacer de la academia y ser validada por el Senado Técnico de Rectores bajo protocolo de "Ciego Ideológico".
 
 5. **Del Blindaje contra el Cohecho Corporativo.** Las empresas (SACAs o Sociedades Anónimas) que utilicen el soborno para obtener ventajas competitivas, licitaciones o subvenciones, sufrirán el **Levantamiento del Velo Corporativo de Oficio**.
 
@@ -2652,7 +2652,7 @@ El setenta por ciento (70%) retenido por el Municipio es de **Ejecución Discrec
 
 7. **Del Procedimiento de Acceso y Evaluación Ciega.** Tanto los particulares como las sociedades comerciales podrán acceder a estos fondos y subvenciones mediante la presentación de proyectos técnicos específicos. El otorgamiento se regirá por el Protocolo de Evaluación Ciega: los proyectos serán calificados por un Comité Técnico independiente que desconocerá la identidad de los proponentes hasta la emisión del fallo, garantizando la igualdad de oportunidades y el mérito técnico superior, proscribiendo toda asignación directa. Los retornos, reintegros o la recuperación de capital semilla derivados del éxito operativo retornarán de forma automática y algorítmica al mismo fondo en el Registro Nacional Soberano para financiar nuevos ciclos productivos locales.
 
-8. **De la Salvaguarda contra el Conflicto de Intereses y la Exclusión Ejecutiva.** Queda terminantemente prohibida la participación, recomendación o ejercicio de derecho a veto por parte del Alcalde o del poder ejecutivo local en las fases de diseño, evaluación y adjudicación de estos fondos. Todo funcionario público que posea intereses económicos privados en una empresa proponente de subvención queda inhabilitado para participar en cualquier etapa del proceso de evaluación o votación. La violación de este precepto (o el intento del Alcalde de direccionar estos recursos) anulará la subvención y será juzgada como Traición a la Estabilidad Económica, conllevando la destitución fulminante. El ejercicio de un cargo público no excluye a la empresa de competir, siempre que se garantice la abstención del funcionario y el TAT certifique el mérito técnico superior de la propuesta.
+8. **De la Salvaguarda contra el Conflicto de Intereses y la Exclusión Ejecutiva.** Queda terminantemente prohibida la participación, recomendación o ejercicio de derecho a veto por parte del Alcalde o del poder ejecutivo local en las fases de diseño, evaluación y adjudicación de estos fondos. Todo funcionario público que posea intereses económicos privados en una empresa proponente de subvención queda inhabilitado para participar en cualquier etapa del proceso de evaluación o votación. La violación de este precepto (o el intento del Alcalde de direccionar estos recursos) anulará la subvención y será juzgada como Malversación de Fondos Públicos y Prevaricación, conllevando la destitución fulminante. El ejercicio de un cargo público no excluye a la empresa de competir, siempre que se garantice la abstención del funcionario y el TAT certifique el mérito técnico superior de la propuesta.
 
 9. **Distribución Secundaria y Deber de Solidaridad Federada (Aportes al FCIN):**
 
@@ -2918,7 +2918,7 @@ Se instituye el TDAM como la herramienta fundamental del Registro Nacional Sober
 
     a)  **Inviolabilidad de la Masa Monetaria Total:** En caso de que el Estado o el Banco Central decidan sustituir el signo monetario nacional por uno nuevo, el canje será de **carácter universal, ilimitado y con paridad matemática exacta (1:1 o la tasa técnica auditada)** para la totalidad de los haberes registrados en el Registro Nacional Soberano (RNS).
 
-    b)  **Prohibición de Techos de Canje:** Queda terminantemente prohibido, y se tipifica como **Crimen de Alta Traición a la Estabilidad Económica**, el establecimiento de límites máximos, cuotas por núcleo familiar, o la congelación de excedentes durante una transición monetaria.
+    b)  **Prohibición de Techos de Canje:** Queda terminantemente prohibido, y se tipifica como **Confiscación Monetaria Ilícita y Abuso de Poder Bancario**, el establecimiento de límites máximos, cuotas por núcleo familiar, o la congelación de excedentes durante una transición monetaria.
 
     c)  **Automatización y Sincronicidad:** El canje no se realizará \"en ventanilla\" ni mediante la entrega física condicionada. Al activarse un cambio de moneda, el RNS ejecutará una **Transmutación Algorítmica Simultánea**. El saldo que el ciudadano tenía en la moneda antigua aparecerá instantáneamente en la moneda nueva, sin necesidad de trámites, permisos o inspecciones de origen previas al cambio.
 
@@ -4088,7 +4088,7 @@ La vida de un ciudadano es un activo soberano de la Nación. Se prohíbe la indi
 
     a)  **Tipificación del Delito de Omisión de Socorro:** Incurre en infracción grave el ciudadano que, pudiendo prestar auxilio a una persona en peligro manifiesto y grave (accidente, desmayo, agresión), se abstuviera de hacerlo **siempre que ello no implique un riesgo real para su propia vida o integridad**.
 
-    b)  **Auxilio por Coordinación:** Si el ciudadano carece de la competencia técnica para intervenir físicamente (ej. no sabe cómo mover a un herido), su obligación de socorro se cumple mediante la activación inmediata de los servicios de emergencia a través del RNS y la permanencia en el sitio como **Veedor de Seguridad** hasta la llegada de los peritos. El \"pasar de largo\" se tipifica como **Traición a la Fraternidad Ciudadana**.
+    b)  **Auxilio por Coordinación:** Si el ciudadano carece de la competencia técnica para intervenir físicamente (ej. no sabe cómo mover a un herido), su obligación de socorro se cumple mediante la activación inmediata de los servicios de emergencia a través del RNS y la permanencia en el sitio como **Veedor de Seguridad** hasta la llegada de los peritos. El \"pasar de largo\" se tipifica como **Denegación de Auxilio u Omisión del Deber de Socorro**.
 
     c)  **Inmunidad del Buen Samaritano:** Todo ciudadano que preste auxilio siguiendo los protocolos básicos aprendidos en la instrucción nacional, gozará de **Inmunidad Civil y Penal** ante daños colaterales accidentales. El Estado protege al que intenta salvar, siempre que no medie dolo o una imprudencia grosera ajena a los manuales certificados.
 
@@ -5491,7 +5491,7 @@ En el caso extremo de activación de la Leva Nacional por amenaza de extinción 
 
     c)  Contribución del Trabajo: La exención definida en el inciso anterior no se extiende a los salarios, dividendos personales o bonificaciones percibidas por los trabajadores y accionistas de dichas empresas. Estas rentas personales mantendrán el gravamen constitucional general (29%/31%), garantizando la continuidad del flujo fiscal hacia los servicios públicos y la seguridad social.
 
-    d)  Auditoría de Propósito: El RNS ejecutará la trazabilidad finalista de cada contrato. Cualquier beneficio fiscal obtenido mediante la simulación de producción bélica será sancionado como Delito de Traición Constitucional y conllevará la incautación de los activos de la empresa.
+    d)  Auditoría de Propósito: El RNS ejecutará la trazabilidad finalista de cada contrato. Cualquier beneficio fiscal obtenido mediante la simulación de producción bélica será sancionado como Fraude Fiscal Estratégico y Estafa en Tiempo de Guerra y conllevará la incautación de los activos de la empresa.
 
     e)  Finalizado el conflicto, las empresas acogidas a este régimen retornarán automáticamente al Régimen Fiscal General, conservando la propiedad privada de la tecnología e infraestructura desarrollada.
 
@@ -6057,7 +6057,7 @@ El acceso a la educación técnica y superior financiada mediante el **Voucher d
 
     c)  Nulidad de Voto Condicionado por Incentivo Externo: Cualquier voto o firma digital en el RNS que se demuestre fásticamente haber sido ejecutado para cumplir con parámetros de un contrato colateral externo de incentivo financiero (compra de voto sintético), será declarado nulo e írrito de pleno derecho. El sistema del RNS, mediante auditoría de grafos de relación en tiempo real, rastreará la correlación entre flujos financieros de entrada a la Capa C del ciudadano y sus patrones de votación. Ante una colisión de firmas o evidencia de coacción de recompensa sintética, se suspenderán de forma inmediata los derechos políticos y el usufructo de la AS del ciudadano infractor por un periodo de diez (10) años, procediéndose a la incautación de todos los activos derivados de dicha operación ilegal para el Fondo Catastrófico Nacional.
 
-3. Cualquier operación que directa o indirectamente disminuya el Núcleo Soberano será nula de pleno derecho, y sus promotores incurrirán en el delito de Traición a la Patria.
+3. Cualquier operación, contrato o ingeniería financiera que directa o indirectamente disminuya, grave o enajene el Núcleo Soberano será nula de pleno derecho. Sus promotores y administradores incurrirán en los delitos de Fraude a la Soberanía Patrimonial y Sabotaje Económico Agravado, conllevando el levantamiento del velo corporativo, la inhabilitación fiduciaria perpetua conforme al Artículo 109 y la obligación de restitución patrimonial tasada al triple del valor del daño (Artículo 22.17).
 
 4. **De la Protección Contra Testaferros y Capitales Ocultos.**
 
@@ -6137,7 +6137,7 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
     
     d) Penalización Algorítmica Foránea: Se penalizará algorítmicamente la propuesta de Concesión Estratégica Total (100% foránea) si una SACA local (51/49) demuestra capacidad fáctica para ejecutar la obra con un margen de tolerancia en el sobrecosto no mayor al quince por ciento (15%), garantizando la prioridad del modelo de capital popular.
 
-9. **De la Proscripción del Vaciamiento Tecnológico, Blindaje de Intangibles y Límites al Licenciamiento Internacional (Cláusula Anti-Stripping):** Los activos intangibles de toda SACA —incluyendo patentes, modelos de utilidad, código fuente, algoritmos, secretos industriales, marcas y bases de datos estratégicas— constituyen parte inalienable del patrimonio de la empresa y están indisolublemente vinculados al Núcleo Soberano del cincuenta y uno por ciento (51%). Se prohíbe terminantemente su vaciamiento hacia el exterior bajo las siguientes reglas de hierro:
+9. **De la Proscripción del Vaciamiento Tecnológico, Blindaje de Intangibles y Límites al Licenciamiento Internacional:** Los activos intangibles de toda SACA —incluyendo patentes, modelos de utilidad, código fuente, algoritmos, secretos industriales, marcas y bases de datos estratégicas— constituyen parte inalienable del patrimonio de la empresa y están indisolublemente vinculados al Núcleo Soberano del cincuenta y uno por ciento (51%). Se prohíbe terminantemente su vaciamiento hacia el exterior bajo las siguientes reglas de hierro:
     
     a) **Proscripción de Licencias Exclusivas Foráneas:** Queda terminantemente prohibido a toda SACA celebrar contratos de cesión definitiva, licencias de explotación exclusiva, pactos de irrevocabilidad o mandatos de transferencia de derechos de uso sobre tecnología nacional a favor de personas naturales, jurídicas o entidades extranjeras que impidan, restrinjan o monopolicen su uso frente a la propia SACA o a la industria de la República.
     
@@ -6145,7 +6145,7 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
     
     c) **Inalienabilidad de la Titularidad Soberana:** La titularidad del registro de patentes y propiedad intelectual desarrollada por una SACA residirá de forma perpetua e indeleble bajo la jurisdicción de la República de Cuba. Ninguna reestructuración, arbitraje internacional o acuerdo societario podrá transferir el dominio jurídico del activo intangible a jurisdicciones foráneas.
     
-    d) **Nulidad Absoluta y Levantamiento del Velo:** Todo contrato, cláusula confidencial o acuerdo fáctico que contravenga lo dispuesto en este inciso se declara Nulo de Pleno Derecho desde su origen. Su suscripción activará de forma automática el levantamiento del velo corporativo, la remoción inmediata de la Junta Directiva conforme al Artículo 114.9, y el procesamiento penal de los administradores y apoderados responsables bajo el cargo de Sabotaje Tecnológico y Traición a la Patria (Art. 117.3), respondiendo solidariamente con su patrimonio personal por el daño infligido a la Nación.
+    d) **Nulidad Absoluta y Levantamiento del Velo:** Todo contrato, cláusula confidencial o acuerdo fáctico que contravenga lo dispuesto en este inciso se declara Nulo de Pleno Derecho desde su origen. Su suscripción activará de forma automática el levantamiento del velo corporativo, la remoción inmediata de la Junta Directiva conforme al Artículo 114.9, y el procesamiento penal de los administradores y apoderados responsables bajo el cargo de Sabotaje Tecnológico y Fraude a la Soberanía Económica, conllevando la inhabilitación perpetua para la administración de entidades comerciales o SACAs conforme al Artículo 109, respondiendo solidariamente con su patrimonio personal por el daño infligido a la empresa y a la Nación.
 
 ------------------------------------------------------------------------
 
@@ -6179,9 +6179,9 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
 
 4. De la Herencia, el Usufructo de Viudedad y Límite de Acumulación.
 
-    a)  Inflexibilidad Vertical del Título (Nuda Propiedad): Las Acciones Soberanas (AS) son títulos de arraigo generacional. A la muerte del titular, la propiedad del título (Nuda Propiedad) se transferirá de forma exclusiva, indivisible y estrictamente vertical a sus descendientes directos (hijos) o, en su defecto, revertirá a la Reserva Generacional del Fideicomiso Nacional de Pensiones. Queda constitucionalmente prohibida la transferencia horizontal del Título de Propiedad de la AS a cónyuges, socios o terceros.
+    a)  **Inflexibilidad Vertical del Título (Nuda Propiedad):** Las Acciones Soberanas (AS) son títulos de arraigo generacional. A la muerte del titular, la propiedad del título (Nuda Propiedad) se transferirá de forma exclusiva, indivisible y estrictamente vertical a sus descendientes directos (hijos) o, en su defecto, revertirá a la Reserva Generacional del Fideicomiso Nacional de Pensiones. Queda constitucionalmente prohibida la transferencia horizontal del Título de Propiedad de la AS a cónyuges, socios o terceros.
 
-    b)  Del Derecho de Usufructo Soberano de Viudedad: Para garantizar la protección del núcleo familiar y honrar la economía del cuidado, el cónyuge supérstite (viudo/a) unido mediante el \"Contrato de Unión Soberana\" (Artículo 59.13.b) no heredará la Acción Soberana, pero gozará del derecho inalienable al Usufructo Vitalicio de la misma, bajo el siguiente protocolo algorítmico del RNS:
+    b)  **Del Derecho de Usufructo Soberano de Viudedad:** Para garantizar la protección del núcleo familiar y honrar la economía del cuidado, el cónyuge supérstite (viudo/a) unido mediante el \"Contrato de Unión Soberana\" (Artículo 59.13.b) no heredará la Acción Soberana, pero gozará del derecho inalienable al Usufructo Vitalicio de la misma, bajo el siguiente protocolo algorítmico del RNS:
 
         <!-- -->
 
@@ -6195,7 +6195,7 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
 
         <!-- -->
 
-    c)  Condición de Arraigo Afectivo (Filtro Anti-Depredación): Para evitar la captura de rentas mediante matrimonios fraudulentos o de última hora, el Derecho de Usufructo Soberano de Viudedad solo se activará si el \"Contrato de Unión Soberana\" cumple con al menos una de las siguientes pruebas físicas de arraigo:
+    c)  **Condición de Arraigo Afectivo (Filtro Anti-Depredación):** Para evitar la captura de rentas mediante matrimonios fraudulentos o de última hora, el Derecho de Usufructo Soberano de Viudedad solo se activará si el \"Contrato de Unión Soberana\" cumple con al menos una de las siguientes pruebas físicas de arraigo:
 
         <!-- -->
 
@@ -6206,10 +6206,9 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
 
         <!-- -->
 
-    d)  Extinción por Indignidad Sucesoria: Cualquier cónyuge o heredero condenado mediante sentencia firme por atentar contra la vida, integridad o libertad del titular originario, perderá de forma fulminante y perpetua tanto el derecho a la Nuda Propiedad como al Usufructo de Viudedad, revirtiendo los flujos a los herederos inocentes o al Estado.
+    d)  **Extinción por Indignidad Sucesoria:** Cualquier cónyuge o heredero condenado mediante sentencia firme por atentar contra la vida, integridad o libertad del titular originario, perderá de forma fulminante y perpetua tanto el derecho a la Nuda Propiedad como al Usufructo de Viudedad, revirtiendo los flujos a los herederos inocentes o al Estado.
 
-5. **Del Fideicomiso de Linaje y la Continuidad del Esfuerzo.**\
-Para evitar la dilución del patrimonio y fomentar la visión a largo plazo que construye civilizaciones:
+5. **Del Fideicomiso de Linaje y la Continuidad del Esfuerzo.** Para evitar la dilución del patrimonio y fomentar la visión a largo plazo que construye civilizaciones:
 
     a)  **El Fideicomiso de Linaje Protector:** Se garantiza el derecho de los progenitores a estructurar la herencia de sus Acciones de Mercado (AM) y activos físicos mediante **Contratos Inteligentes de Maduración (Smart Trusts)** en el RNS. Estos contratos podrán condicionar la liberación del capital a los herederos al cumplimiento de hitos de madurez, tales como la culminación del Servicio Civil de Soberanía, la obtención de un título técnico o la formación de su propio núcleo familiar estable.
 
@@ -6363,7 +6362,7 @@ En caso de caída total de los sistemas digitales superior a setenta y dos (72) 
 
     b)  **Cierre Diario de Folio:** Al finalizar cada jornada de contingencia, el Alcalde y un representante del Tribunal de Arbitraje Técnico (TAT) local procederán al sellado físico del folio con lacre y sello seco, fotografiando el folio con dispositivos de tiempo inalterable para su difusión en redes descentralizadas (Art. 32.2).
 
-    c)  **Protocolo de Re-Ingesta (Hash de Papel):** Restaurado el sistema digital, el proceso de carga de los datos físicos al RNS será auditado por un Comité Ad Hoc de la CVA. Ninguna transacción física tendrá validez digital si presenta tachaduras, enmiendas o si el folio físico no coincide con las imágenes de respaldo difundidas durante el apagón. La discrepancia no justificada entre el Libro Físico y el respaldo fotográfico diario se tipificará como Alta Traición a la Memoria de la Nación.
+    c)  **Protocolo de Re-Ingesta (Hash de Papel):** Restaurado el sistema digital, el proceso de carga de los datos físicos al RNS será auditado por un Comité Ad Hoc de la CVA. Ninguna transacción física tendrá validez digital si presenta tachaduras, enmiendas o si el folio físico no coincide con las imágenes de respaldo difundidas durante el apagón. La discrepancia no justificada entre el Libro Físico y el respaldo fotográfico diario se tipificará como Falsificación de Documento Público y Fraude Registral Agravado a la Memoria de la Nación.
 
 ------------------------------------------------------------------------
 
@@ -6456,7 +6455,7 @@ La República reconoce que la Constitución no es una declaración de intencione
 
     k)  El Certificado de Compatibilidad Civil (CCC) como requisito de función pública.
 
-2. Nulidad de Pleno Derecho: Todo acto, decreto o iniciativa de reforma que atente contra estos principios será nulo de pleno derecho. Su promoción por funcionarios públicos constituye el delito de Alta Traición a la Patria.
+2. Nulidad de Pleno Derecho: Todo acto, decreto o iniciativa de reforma que atente contra estos principios será nulo de pleno derecho. Su promoción por funcionarios públicos constituye el delito de Falta Gravísima contra el Orden Constitucional, conllevando la destitución e inhabilitación perpetua (Art. 109).
 
 ------------------------------------------------------------------------
 
@@ -6762,7 +6761,7 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
 1.  **Inversión de la Carga de la Prueba (Burden of Proof):** En productos químicos, biotecnológicos o genéticamente modificados destinados al consumo humano o al ecosistema, no corresponde al Estado demostrar el daño, sino a la entidad innovadora demostrar la inocuidad absoluta. La duda razonable técnica paralizará la comercialización bajo el **Principio de Precaución**.
 
-2.  **Prohibición de la Ciencia en la Sombra:** Se tipifica como delito de **Traición a la Salud Pública** el \"Ghostwriting\" corporativo. Todo estudio científico presentado para aprobación regulatoria debe declarar bajo juramento sus fuentes de financiamiento. Cualquier manipulación de datos o colusión con funcionarios del **Tribunal de Arbitraje Técnico (TAT)** anulará la licencia de operación de la entidad en el territorio nacional por 7 años, prorrogable por el TAT.
+2.  **Prohibición de la Ciencia en la Sombra:** Se tipifica como delito de **Fraude Científico y Atentado contra la Salud Colectiva** el \"Ghostwriting\" corporativo. Todo estudio científico presentado para aprobación regulatoria debe declarar bajo juramento sus fuentes de financiamiento. Cualquier manipulación de datos o colusión con funcionarios del **Tribunal de Arbitraje Técnico (TAT)** anulará la licencia de operación de la entidad en el territorio nacional por 7 años, prorrogable por el TAT.
 
 3.  **Inalienabilidad de la Semilla (Soberanía Alimentaria):** El código genético de las especies vegetales básicas para la vida humana se declara **Patrimonio Inviolable de la Nación**. Queda prohibida la patente de semillas que impida al agricultor el ciclo natural de siembra, recolección y re-siembra. La \"Policía de Semillas\" es inconstitucional.
 
@@ -6954,7 +6953,7 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
     c)  **Presunción Legal de Negligencia Interna:** En ausencia de una certificación de Agresión Externa emitida por el TAT, cualquier fallo sistémico, crisis de desabastecimiento o colapso de servicios se presumirá, a todos los efectos legales y penales, como consecuencia directa de la **mala gestión, la impericia o la corrupción de los funcionarios públicos responsables**. La carga de la prueba se invierte: el gobierno debe demostrar que fue atacado, no el pueblo demostrar que fue abandonado.
 
-    d)  **Delito de Alta Traición a la Fe Pública:** El Presidente, Ministro, Alcalde o cualquier funcionario que, en un discurso público o comunicado oficial, atribuya un fallo de origen interno (certificado por el TAT) a una \"agresión externa\" o a un \"bloqueo\" inexistente, incurrirá de forma inmediata en el Delito de Alta Traición a la Fe Pública.
+    d)  **Delito de Falsedad Oficial y Engaño al Soberano:** El Presidente, Ministro, Alcalde o cualquier funcionario que, en un discurso público o comunicado oficial, atribuya un fallo de origen interno (certificado por el TAT) a una \"agresión externa\" o a un \"bloqueo\" inexistente, incurrirá de forma inmediata en el Delito de Delito de Falsedad Oficial y Engaño al Soberano, que activa el Juicio de Residencia y la destitución fulminante.
 
     e)  **Ejecución Automática de la Sanción:** El RNS, al detectar la discrepancia entre el discurso del funcionario y el informe del TAT, activará de oficio el proceso de **Juicio de Residencia (Art. 78)** ante la Cámara de Vigilancia Aleatoria (CVA), conllevando la destitución fulminante del cargo.
 
@@ -6964,7 +6963,7 @@ La innovación científica es un derecho ciudadano, pero su aplicación comercia
 
     b)  Protección del Presupuesto de Víctimas: El TAT auditará trimestralmente la eficiencia de los fondos de ayuda. El 100% de los recursos debe ir a casos donde el riesgo biológico sea verificado de forma fáctica. La \"percepción subjetiva de opresión\" no constituye un hecho imponible para la asignación de recursos públicos. No obstante, cada caso debe ser evaluado individualmente dependiendo el grado de complejidad.
 
-9.  De la Prelación del Suministro Interno: Se prohíbe el uso de fondos del Tesoro Nacional o Municipal para el financiamiento de programas de asistencia humanitaria internacional o proyectos de proyección de imagen exterior mientras el Índice de Estabilidad Vital (IEV) de cualquier nodo municipal cubano se encuentre por debajo del setenta por ciento (70%). La caridad de la República nace de la abundancia, no de la privación del Socio Activo. La violación de esta prelación se tipifica como Traición a la Fraternidad Ciudadana.
+9.  De la Prelación del Suministro Interno: Se prohíbe el uso de fondos del Tesoro Nacional o Municipal para el financiamiento de programas de asistencia humanitaria internacional o proyectos de proyección de imagen exterior mientras el Índice de Estabilidad Vital (IEV) de cualquier nodo municipal cubano se encuentre por debajo del setenta por ciento (70%). La caridad de la República nace de la abundancia, no de la privación del Socio Activo. La violación de esta prelación se tipifica como Malversación por Desvío de Prelación Presupuestaria.
 
 ------------------------------------------------------------------------
 

@@ -6137,6 +6137,16 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
     
     d) Penalización Algorítmica Foránea: Se penalizará algorítmicamente la propuesta de Concesión Estratégica Total (100% foránea) si una SACA local (51/49) demuestra capacidad fáctica para ejecutar la obra con un margen de tolerancia en el sobrecosto no mayor al quince por ciento (15%), garantizando la prioridad del modelo de capital popular.
 
+9. **De la Proscripción del Vaciamiento Tecnológico, Blindaje de Intangibles y Límites al Licenciamiento Internacional (Cláusula Anti-Stripping):** Los activos intangibles de toda SACA —incluyendo patentes, modelos de utilidad, código fuente, algoritmos, secretos industriales, marcas y bases de datos estratégicas— constituyen parte inalienable del patrimonio de la empresa y están indisolublemente vinculados al Núcleo Soberano del cincuenta y uno por ciento (51%). Se prohíbe terminantemente su vaciamiento hacia el exterior bajo las siguientes reglas de hierro:
+    
+    a) **Proscripción de Licencias Exclusivas Foráneas:** Queda terminantemente prohibido a toda SACA celebrar contratos de cesión definitiva, licencias de explotación exclusiva, pactos de irrevocabilidad o mandatos de transferencia de derechos de uso sobre tecnología nacional a favor de personas naturales, jurídicas o entidades extranjeras que impidan, restrinjan o monopolicen su uso frente a la propia SACA o a la industria de la República.
+    
+    b) **Límites Temporales y Precios de Transferencia:** La concesión de licencias internacionales no-exclusivas sobre activos intangibles de una SACA no podrá pactarse por un término superior a diez (10) años (renovable únicamente previa auditoría de beneficio mutuo por el TAT), ni bajo cánones o regalías inferiores al valor de mercado internacional. El uso de precios de transferencia artificiales o subvalorados para desviar utilidades hacia filiales o matrices extranjeras se tipifica como Delito de Evasión y Fraude a la Soberanía Económica.
+    
+    c) **Inalienabilidad de la Titularidad Soberana:** La titularidad del registro de patentes y propiedad intelectual desarrollada por una SACA residirá de forma perpetua e indeleble bajo la jurisdicción de la República de Cuba. Ninguna reestructuración, arbitraje internacional o acuerdo societario podrá transferir el dominio jurídico del activo intangible a jurisdicciones foráneas.
+    
+    d) **Nulidad Absoluta y Levantamiento del Velo:** Todo contrato, cláusula confidencial o acuerdo fáctico que contravenga lo dispuesto en este inciso se declara Nulo de Pleno Derecho desde su origen. Su suscripción activará de forma automática el levantamiento del velo corporativo, la remoción inmediata de la Junta Directiva conforme al Artículo 114.9, y el procesamiento penal de los administradores y apoderados responsables bajo el cargo de Sabotaje Tecnológico y Traición a la Patria (Art. 117.3), respondiendo solidariamente con su patrimonio personal por el daño infligido a la Nación.
+
 ------------------------------------------------------------------------
 
 ## Artículo 118. Del Fideicomiso Nacional de Pensiones.

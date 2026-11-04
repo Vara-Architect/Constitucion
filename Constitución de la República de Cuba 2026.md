@@ -6229,9 +6229,17 @@ Para los ciudadanos que padezcan discapacidades mentales severas que impidan una
 
 1. Las SACA deberán destinar un porcentaje de sus utilidades anuales a un Fondo de Recapitalización de Reserva, aprobado en sesión anual de la asamblea municipal donde se encuentre enclavada cada SACA. Este fondo compensará la emisión de nuevas acciones para las nuevas generaciones, asegurando que el valor de mercado y el poder adquisitivo de la acción individual no decrezcan con el tiempo. Queda prohibida la emisión de nuevas Acciones de Mercado (AM) con fines puramente financieros o de dilución. Toda nueva emisión debe estar respaldada por un Proyecto de Expansión de Capital Físico certificado por el TAT, garantizando que el valor intrínseco y la capacidad de generación de dividendos de las Acciones Soberanas (AS) se mantengan constantes o crezcan en términos reales.
 
-2. **Escisión Empresarial Obligatoria y Diversificación Productiva:** Las SACA que alcancen una posición de dominio de mercado o una madurez operativa superior a los veinte (20) años, deberán escindir sus unidades de investigación, desarrollo e innovación en nuevas sociedades anónimas independientes.
-
-    a)  El cincuenta y uno por ciento (51%) de las acciones de estas nuevas entidades será asignado de forma automática y gratuita, a través del RNS, a los ciudadanos cubanos por nacimiento que alcancen la mayoría de edad en el ciclo fiscal correspondiente, garantizando la renovación constante del portafolio soberano individual ante el crecimiento demográfico.
+2. **Mitosis Productiva por Superávit y Diversificación:** La escisión obligatoria de unidades de investigación, desarrollo e innovación (I+D+i) en nuevas sociedades anónimas independientes procederá por mandato del TAT bajo los siguientes supuestos técnicos:
+    
+    a) **Por Dominio de Mercado:** Procederá de forma obligatoria cuando la SACA alcance una posición monopólica que distorsione la libre competencia en su sector, certificada por el TAT, con el fin de restaurar el equilibrio de mercado.
+    
+    b) **Por Madurez con Superávit Real:** Al cumplirse ciclos de veinte (20) años, procederá única y exclusivamente si el TAT y el RNS certifican que la SACA ha duplicado su Patrimonio Neto real auditado o su capacidad física productiva desde su fundación o última mitosis, habiendo mantenido un reparto ininterrumpido de dividendos en su Capa A durante los cinco (5) años previos.
+    
+    c) **Suspensión por Estrés Económico (Pausa Anti-Burocracia):** Si la SACA presenta déficit operativo, pérdidas o márgenes decrecientes al cumplirse los veinte años, el reloj de escisión quedará congelado de pleno derecho, prohibiéndose divisiones forzosas que comprometan la viabilidad de la empresa o diluyan el dividendo ciudadano.
+    
+    d) **Autonomía Operativa y Techo de Buroes:** La unidad escindida debe demostrar viabilidad fáctica ante el TAT para operar con flujo de caja propio a veinticuatro (24) meses. El gasto administrativo combinado de la matriz y la nueva entidad resultante no podrá exceder el costo administrativo previo más un margen técnico de expansión del diez por ciento (10%).
+    
+    e) **Asignación Generacional:** El cincuenta y uno por ciento (51%) de las acciones de estas nuevas entidades será asignado de forma automática y gratuita, a través del RNS, a los ciudadanos cubanos por nacimiento que alcancen la mayoría de edad en el ciclo fiscal correspondiente, garantizando la renovación constante del portafolio soberano individual ante el crecimiento demográfico.
 
 3. Garantía de Integridad Patrimonial del Accionista de Mercado (AM):** En todo proceso de escisión o mitosis obligatoria definida en el inciso anterior, los titulares de Acciones de Mercado (AM) que representen el cuarenta y nueve por ciento (49%) de la entidad cedente, recibirán de pleno derecho y sin costo adicional una participación idéntica y proporcional en el capital social de la entidad beneficiaria (SACA Hija).
 

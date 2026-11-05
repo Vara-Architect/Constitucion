@@ -3352,7 +3352,7 @@ La República reconoce que el derecho de propiedad incluye la facultad de ceder 
 
     a)  **Plataforma de Reconocimiento Legal:** Para que cualquier unión libremente acordada (oficiada por un líder religioso, un notario o un acto laico privado) surta efectos patrimoniales, hereditarios, migratorios y de presunción de paternidad frente a terceros, el Estado proveerá una plataforma digital dentro del Registro Nacional Soberano (RNS).
 
-    b)  **El Contrato de Unión Soberana:** Las partes deberán inscribir su vínculo en dicha plataforma mediante un \"Contrato de Unión Soberana\", estableciendo de mutuo acuerdo el régimen de bienes y las responsabilidades compartidas. Una vez firmado criptográficamente, este contrato tiene fuerza de ley y presunción de validez en todo el territorio nacional, desestatizando la moralidad íntima y garantizando la seguridad jurídica plena del núcleo familiar.
+    b)  **El Contrato de Unión Soberana:** Las partes contratantes deberán inscribir su vínculo en dicha plataforma mediante un **\'Contrato de Unión Soberana\'**, estableciendo de mutuo acuerdo el régimen de bienes, las responsabilidades compartidas y la distribución fraccionaria del Usufructo de Supervivencia. Una vez firmado criptográficamente por la totalidad de sus integrantes, este contrato tiene fuerza de ley y presunción de validez en todo el territorio nacional, desestatizando la moralidad íntima y garantizando la seguridad jurídica plena del núcleo familiar.
 
     c)  **El Vínculo de Simetría Somática:** Todo Contrato de Unión Soberana (Art. 59.13.b) lleva implícita la renuncia mutua a cualquier forma de coacción física. El uso de la fuerza física demostrado dentro de la pareja extingue de pleno derecho los beneficios fiscales de la unión y activa la Responsabilidad Civil Objetiva del agresor, quien deberá indemnizar a la víctima mediante la deducción automática de sus dividendos de Acciones Soberanas (AS).
 
@@ -3364,6 +3364,8 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
     a)  Separación Intransferible: Las Acciones Soberanas (AS), la Cuenta de Inversión Soberana (CIS) y los dividendos generados en la Capa A (Mínimo Vital) de cada ciudadano son Bienes Personalísimos e Incomunicables. Bajo ninguna circunstancia podrán integrarse a un régimen de bienes mancomunados, sociedad conyugal o fondo común de la pareja.
 
     b)  Blindaje contra la Deuda Conyugal: Queda proscrita la responsabilidad solidaria sobre las AS. Ningún tribunal, acreedor o banco podrá embargar, retener o pignorar las Acciones Soberanas, ni las Capas B o C de la CIS de un ciudadano, para saldar deudas comerciales, tarjetas de crédito o pasivos contraídos unilateralmente por su cónyuge o pareja de unión soberana, incluso si este último se declarara en insolvencia absoluta. El patrimonio soberano del ciudadano no responderá por obligaciones o deudas contraídas unilateralmente por su cónyuge o conviviente.
+
+    c) **Unanimidad de Expansión:** Bajo el principio de que la voluntad contractual es indivisible, toda modificación a un Contrato de Unión Soberana preexistente que pretenda integrar a un nuevo conviviente y diluir el porcentaje de Usufructo de Supervivencia original, requerirá obligatoriamente la firma digital y el consentimiento expreso de la totalidad de las partes que ya integraban el pacto. La inclusión unilateral o secreta es nula de pleno derecho.
 
 15. **Deber de Instrucción Constitucional y el Compendio Didáctico:**
 
@@ -6179,19 +6181,15 @@ La titularidad de Acciones Soberanas (AS) y Acciones de Mercado (AM) presupone e
 
     a)  **Inflexibilidad Vertical del Título (Nuda Propiedad):** Las Acciones Soberanas (AS) son títulos de arraigo generacional. A la muerte del titular, la propiedad del título (Nuda Propiedad) se transferirá de forma exclusiva, indivisible y estrictamente vertical a sus descendientes directos (hijos) o, en su defecto, revertirá a la Reserva Generacional del Fideicomiso Nacional de Pensiones. Queda constitucionalmente prohibida la transferencia horizontal del Título de Propiedad de la AS a cónyuges, socios o terceros.
 
-    b)  **Del Derecho de Usufructo Soberano de Viudedad:** Para garantizar la protección del núcleo familiar y honrar la economía del cuidado, el cónyuge supérstite (viudo/a) unido mediante el \"Contrato de Unión Soberana\" (Artículo 59.13.b) no heredará la Acción Soberana, pero gozará del derecho inalienable al Usufructo Vitalicio de la misma, bajo el siguiente protocolo algorítmico del RNS:
-
-        <!-- -->
-
-        i.  Desvío Automático de Flujo: Al certificarse el fallecimiento, el RNS transferirá el Título a los descendientes, pero enrutará el cien por ciento (100%) de los dividendos correspondientes a la Capa A (Mínimo Vital, 30%) directamente a la Cuenta de Inversión Soberana del cónyuge sobreviviente hasta el día de su muerte.
-
-        ii. Restricción de Maniobra: El cónyuge usufructuario no adquiere derechos políticos sobre la AS (no vota en las juntas de las SACA si no tiene acciones propias) ni puede pignorar, arrendar o vender el flujo del Usufructo. Es estrictamente para su sustento biológico.
-
-        iii. Los dividendos correspondiente a las capas B y C se acumulan en su totalidad como fondo CIS (Cuenta de inversión soberana) para los descendientes titulares de la Nuda propiedad.
-
-        iv. Retorno Final: Al fallecimiento del cónyuge usufructuario, el contrato inteligente se extingue y el flujo de dividendos retorna de forma automática a los descendientes titulares de la Nuda Propiedad.
-
-        <!-- -->
+    b) **Del Derecho de Usufructo Soberano de Viudedad:** Para garantizar la protección del núcleo familiar y honrar la economía del cuidado, la parte o partes supérstites unidas mediante el "Contrato de Unión Soberana" (Artículo 59.13.b) no heredarán la Acción Soberana, pero gozarán del derecho inalienable al Usufructo Vitalicio de la misma, bajo el siguiente protocolo algorítmico del RNS:
+        
+        i. **Desvío Automático de Flujo:** Al certificarse el fallecimiento, el RNS transferirá el Título a los descendientes, pero enrutará el cien por ciento (100%) de los dividendos correspondientes a la Capa A (Mínimo Vital, 30%) directamente a la Cuenta de Inversión Soberana del sobreviviente, o lo distribuirá en las fracciones pactadas en el contrato cuando este integre a múltiples partes, hasta el día de su muerte.
+        
+        ii. **Restricción de Maniobra:** El usufructuario no adquiere derechos políticos sobre la AS (no vota en las juntas de las SACA si no tiene acciones propias) ni puede pignorar, arrendar o vender el flujo del Usufructo. Es estrictamente para su sustento biológico.
+        
+        iii. Los dividendos correspondientes a las capas B y C se acumulan en su totalidad como fondo CIS (Cuenta de Inversión Soberana) para los descendientes titulares de la Nuda propiedad.
+        
+        iv. **Retorno Final Fraccionado:** Al fallecimiento de un usufructuario, su fracción específica en el contrato inteligente se extingue y el flujo de dividendos correspondiente retorna de forma automática a los descendientes titulares de la Nuda Propiedad.
 
     c)  **Condición de Arraigo Afectivo (Filtro Anti-Depredación):** Para evitar la captura de rentas mediante matrimonios fraudulentos o de última hora, el Derecho de Usufructo Soberano de Viudedad solo se activará si el \"Contrato de Unión Soberana\" cumple con al menos una de las siguientes pruebas físicas de arraigo:
 

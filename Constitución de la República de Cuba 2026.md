@@ -7477,6 +7477,19 @@ La República no reconoce \"Zonas de Tolerancia\", \"Territorios Liberados\" ni 
 
 3. **De la Auditoría de Bucle Algorítmico:** El RNS integrará una función de "Auto-Observación". Si un proceso administrativo o fiscal genera un estancamiento (bucle) de más de diez (10) días hábiles sin resolución posterior a su fecha de resolución esperada el sistema degradará automáticamente la autoridad del algoritmo hacia el Facilitador Humano (Art. 4.4). La máquina nunca podrá usar su propia lógica para paralizar la vida del ciudadano.
 
+4. **Del Principio de Agnósticismo de Sustrato y Continuidad Tecnológica:** La existencia y validez del Registro Nacional Soberano (RNS) son ontológicamente independientes del soporte físico, electrónico, energético o criptográfico en el que opere en cada época.
+
+    a) El RNS se define como un protocolo lógico de preservación de derechos. Si la evolución científica hiciese obsoleta la arquitectura digital originaria, el Tribunal de Arbitraje Técnico (TAT) y el Cuerpo de Programadores tendrán el mandato constitucional de ejecutar la migración íntegra del estado patrimonial y civil de la Nación hacia los nuevos sustratos tecnológicos disponibles (cuánticos, ópticos o biológicos), garantizando la inmutabilidad de los títulos de propiedad, la identidad individual y la soberanía de los datos a través de los siglos.
+
+5. **Del Protocolo de Mutación Adaptativa ante lo Imprevisto:**
+Si en el transcurso del tiempo emergieran fenómenos físicos, económicos, tecnológicos o civilizatorios no previstos en el diseño original de esta Constitución, que generen una parálisis operativa o desincronización entre las fórmulas algorítmicas y la realidad material:
+
+    a) **Proscripción del Colapso:** Queda terminantemente prohibido que el RNS utilice la rigidez de su código para forzar la asfixia de la sociedad o la extinción de derechos biológicos.
+
+    b) **La Vía de la Mutación Paramétrica:** El Tribunal de Defensa de la Constitución (TDC), a solicitud unánime del Tribunal de Arbitraje Técnico (TAT) y del Senado Técnico de Rectores, podrá declarar el Estado de Desincronización Histórica de Parámetros, facultando la actualización de las constantes de cálculo y protocolos de consenso.
+
+    c) **El Límite Ontológico de la Mutación:** Ninguna adaptación técnica, mutación de software o reescritura algorítmica podrá, bajo pena de nulidad radical y traición institucional, alterar las Cláusulas Pétreas (Art. 129), diluir el Núcleo Soberano del cincuenta y uno por ciento (51%) de las Acciones Soberanas (Art. 117), ni reintroducir el monopolio coercitivo estatal sobre la vida y la propiedad del individuo. El código muta para servir a la vida humana, jamás para someterla.
+
 ------------------------------------------------------------------------
 
 ## Artículo 163. Del Mandato de Implementación y Leyes Orgánicas.

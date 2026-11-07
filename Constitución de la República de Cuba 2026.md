@@ -4124,6 +4124,16 @@ La vida de un ciudadano es un activo soberano de la Nación. Se prohíbe la indi
 
 10. **Proscripción de la Tercerización de la Violencia:** Se prohíbe la creación o el fomento por parte del Estado, municipios o partidos políticos, de grupos de choque, brigadas de vigilancia ciudadana armada o cualquier forma de \"civiles defendiendo el orden\" que no estén integrados en la Milicia Municipal bajo mando dual (Art. 21.4) y debidamente uniformados e identificados. El ciudadano que actúe como \"fuerza de orden\" por cuenta propia en la vía pública sin ser parte de la estructura legal, será tratado como un **Agresor Predatorio (Art. 97.12.d)**.
 
+11. **De los Servicios de Bomberos, Rescate Civil y la Proscripción del Cobro por Desgracia:** La protección de la vida humana, la extinción de incendios, el salvamento acuático y el rescate ante accidentes o catástrofes naturales constituyen un servicio público esencial, indivisible y de gratuidad universal absoluta para todo habitante de la República.
+
+    a) Financiamiento Obligatorio del 70% Municipal: Es obligación ineludible y preferente de cada Municipio sostener, equipar y remunerar con cargo exclusivo a su cuota del setenta por ciento (70%) de retención fiscal (Art. 44) el Cuerpo Municipal de Bomberos, Rescate y Paramédicos de Emergencia. Se prohíbe condicionar la prestación del auxilio a la suscripción de pólizas previas, contratos de membresía o pagos de cuotas locales.
+    
+    b) Proscripción de Facturación a la Víctima (Anti-Crash Tax): Queda terminantemente prohibido a los Municipios, al Estado o a empresas concesionarias emitir facturas, tasas de cobro, aranceles de desplazamiento o recargos a las víctimas o propietarios por concepto de agua utilizada, espuma química, despliegue de ambulancias, uso de herramientas de extricación o limpieza de vías públicas tras un siniestro. Sufrir un incendio, colapso estructural o accidente de tránsito es un hecho fortuito amparado por la solidaridad municipal; la desgracia no constituye hecho imponible ni genera deuda civil con el erario.
+    
+    c) Régimen de Sensores y Activación Accidental de Alarmas: La activación accidental, fallo técnico o disparo involuntario de detectores de humo, alarmas de incendio o sensores residenciales y comerciales se considerará contingencia técnica ordinaria. Queda prohibida la imposición de multas o cobros por desplazamiento ante alarmas no dolosas.
+    
+    d) Excepción por Dolo Manifiesto (Simulación Maliciosa): La gratuidad del servicio solo se extinguirá cuando el Tribunal de Arbitraje Técnico (TAT) o los Alguaciles certifiquen la comisión dolosa y deliberada de llamadas falsas, simulación de emergencias inexistentes o sabotaje deliberado para movilizar recursos con fines de distracción. En tal supuesto, el infractor responderá conforme al Artículo 22.17 por el costo operativo total del despliegue más la sanción penal por Obstrucción a los Servicios de Rescate.
+
 ------------------------------------------------------------------------
 
 ## Artículo 73. Del Cuerpo de Custodia Territorial y Rural (CCTR).
@@ -7702,6 +7712,20 @@ La apertura a pruebas supletorias (Transitoria Segunda) exige una defensa implac
 11. **Cláusula de Eficiencia Operativa y Salvaguarda del Activo:** Si transcurrido un periodo de siete (7) años desde la asignación de las ACT, la gestión técnica del acreedor no ha generado utilidades suficientes para cubrir al menos el quince por ciento (15%) del capital de la deuda auditada por causas de negligencia operativa, subcapitalización o mala praxis técnica comprobada, el TAT podrá ordenar la remoción del operador y la licitación internacional de la gestión operativa de dicha SACA. Esta medida no afectará el saldo de la deuda pendiente ni la titularidad de las acciones de mercado adquiridas por el acreedor, pero priorizará la restauración de la rentabilidad del activo en beneficio de los accionistas ciudadanos.
 
 12. **Seguridad Jurídica e Invariabilidad Contractual:** La República garantiza al acreedor que se acoja a este protocolo la invariabilidad de las reglas fiscales y la protección absoluta de sus activos operativos por un ciclo de treinta y tres (33) años. El Estado renuncia a cualquier facultad de expropiación, confiscación o intervención unilateral sobre estas sociedades. Cualquier diferendo de naturaleza técnica u operativa será resuelto exclusivamente mediante el arbitraje del TAT, bajo el amparo de legalidad del Tribunal de Defensa de la Constitución (TDC).
+
+13. **De la Equidad Sucesoria en la Restitución, Universalidad de la Filiación y Resolución de Conflictos Hereditarios:** La restitución de bienes, indemnizaciones o títulos de SACAs a los herederos de personas despojadas entre 1959 y la fecha de vigencia de esta Constitución, se regirá por el principio supremo de justicia conmutativa y sanación generacional, bajo los siguientes mandatos inalterables:
+
+    a) Igualdad Absoluta de Filiación: A todos los efectos de la restitución, se proscribe cualquier distinción histórica entre hijos matrimoniales, extramatrimoniales o adoptivos. La ausencia de matrimonio legal entre los progenitores no menoscabará en grado alguno el derecho de ningún descendiente a reclamar su cuota hereditaria legítima.
+    
+    b) Nulidad de Cláusulas de Desheredación por el Conflicto Histórico: Se declaran nulas y sin valor legal aquellas disposiciones testamentarias o acuerdos familiares de época que hayan desheredado o excluido a hijos por razones de exilio, residencia geográfica, divergencia ideológica o disputas menores derivadas del trauma del régimen anterior. Únicamente se reconocerá la desheredación formal cuando la Unidad de Auditoría de Reclamaciones (UAR) verifique actos de Indignidad Sucesoria tipificados (delitos contra la vida, violencia intrafamiliar probada o abandono físico en estado de desamparo grave).
+    
+    c) Tribunal Arbitral de Equidad Sucesoria: Ante la concurrencia de testamentos contradictorios, reclamaciones cruzadas o litigios entre descendientes, la Unidad de Auditoría de Reclamaciones (UAR) constituirá una Comisión Arbitral de Equidad Sucesoria, presidida por un juez del Tribunal de Arbitraje Técnico (TAT) y jurados de la Cámara de Vigilancia Aleatoria (CVA).
+    
+    d) La Regla de Partición Justa (Sangre y Cuidados): Si el tribunal verifica que un hijo convivió, cuidó y sostuvo económicamente al progenitor despojado durante su ancianidad o enfermedad, mientras otros descendientes estuvieron ausentes de buena fe, la partición de los activos restituidos se liquidará de forma obligatoria bajo la siguiente regla:
+    
+        i. El cincuenta por ciento (50%) del valor de la restitución se distribuirá en cuotas matemáticas idénticas entre la totalidad de los hijos con derecho (Legítima Soberana).
+    
+        ii. El cincuenta por ciento (50%) restante de libre disposición se asignará con carácter preferente al hijo cuidador, reconociendo el valor moral y la compensación por la economía del cuidado y sostén vital prestado al causante.
 
 ------------------------------------------------------------------------
 

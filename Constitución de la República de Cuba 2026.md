@@ -3445,7 +3445,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
     c)  **Retorno Garantizado al Puesto:** El contrato laboral de la madre quedará en estado de suspensión de pleno derecho. Cumplido el periodo de tres años, tiene el derecho inalienable de retornar a su puesto de trabajo original o a uno de igual jerarquía y remuneración.
 
-    d) Condición de No Coacción y Autonomía de Elección: El descanso maternal y la Renta de Crianza son derechos de protección irrenunciables frente a la exigencia patronal.
+    d) **Condición de No Coacción y Autonomía de Elección:** El descanso maternal y la Renta de Crianza son derechos de protección irrenunciables frente a la exigencia patronal.
 
         i. Queda terminantemente prohibido a cualquier empleador exigir, coaccionar o incentivar el retorno anticipado al trabajo como condición de permanencia laboral.
 
@@ -3453,29 +3453,29 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
     
     e) **De la Codecisión Familiar, Portabilidad y Alternancia en la Crianza:** En estricta observancia de la Soberanía de la Familia (Art. 59.1) y la autonomía en la división del trabajo doméstico, los progenitores gozan de la facultad inalienable de decidir de mutuo acuerdo la distribución, alternancia o cesión del periodo de cuidado y de la Renta de Crianza Temprana, sujeto a las siguientes reglas de blindaje:
 
-       i. Núcleo Biológico Intransferible de Recuperación Materna: Para garantizar la salud somática de la madre y del lactante, el Velo Prenatal (desde el cuarto mes de gestación) y los primeros seis (6) meses posteriores al alumbramiento constituyen un derecho de reposo preferente y personalísimo de la madre biológica, inembargable e incesible sin su consentimiento explícito y formalizado en el RNS.
+       i. **Núcleo Biológico Intransferible de Recuperación Materna:** Para garantizar la salud somática de la madre y del lactante, el Velo Prenatal (desde el cuarto mes de gestación) y los primeros seis (6) meses posteriores al alumbramiento constituyen un derecho de reposo preferente y personalísimo de la madre biológica, inembargable e incesible sin su consentimiento explícito y formalizado en el RNS.
 
-       ii. Portabilidad Hacia el Padre o Cuidado Compartido: A partir del sexto mes de vida del menor y hasta que este cumpla los tres (3) años de edad, los padres podrán acordar en cualquier momento, mediante declaración conjunta en el Registro Nacional Soberano (RNS), que el padre asuma de forma total o alternada el reposo laboral remunerado y la percepción de la Renta de Crianza Temprana. En este supuesto, el padre adquirirá de pleno derecho la misma garantía de reserva de puesto laboral (Art. 59.17.c) y la protección contra el despido ante su respectivo empleador.
+       ii. **Portabilidad Hacia el Padre o Cuidado Compartido:** A partir del sexto mes de vida del menor y hasta que este cumpla los tres (3) años de edad, los padres podrán acordar en cualquier momento, mediante declaración conjunta en el Registro Nacional Soberano (RNS), que el padre asuma de forma total o alternada el reposo laboral remunerado y la percepción de la Renta de Crianza Temprana. En este supuesto, el padre adquirirá de pleno derecho la misma garantía de reserva de puesto laboral (Art. 59.17.c) y la protección contra el despido ante su respectivo empleador.
 
-       iii. Delegación en la Red Familiar de Apoyo: Si ambos progenitores decidieren por conveniencia económica o profesional reincorporarse de forma simultánea a la actividad laboral o mercantil activa antes de que el menor cumpla los tres (3) años, podrán transferir la titularidad de la Renta de Crianza Temprana a un ascendiente de primer o segundo grado (abuelos del menor) que asuma el cuidado presencial cotidiano y directo del niño, certificado mediante inspección fáctica del TMDC local.
+       iii. **Delegación en la Red Familiar de Apoyo:** Si ambos progenitores decidieren por conveniencia económica o profesional reincorporarse de forma simultánea a la actividad laboral o mercantil activa antes de que el menor cumpla los tres (3) años, podrán transferir la titularidad de la Renta de Crianza Temprana a un ascendiente de primer o segundo grado (abuelos del menor) que asuma el cuidado presencial cotidiano y directo del niño, certificado mediante inspección fáctica del TMDC local.
 
-       iv. Subrogación Automática por Causa de Fuerza Mayor: En caso de fallecimiento de la madre, incapacidad médica severa sobrevenida o ejercicio de paternidad monoparental acreditada en el RNS, la totalidad de los derechos de reposo laboral, suspensión de contratos y cobro de la Renta de Crianza Temprana se transferirán de pleno derecho y de forma automática e inmediata al padre o tutor legal sobreviviente desde el momento del suceso.
+       iv. **Subrogación Automática por Causa de Fuerza Mayor:** En caso de fallecimiento de la madre, incapacidad médica severa sobrevenida o ejercicio de paternidad monoparental acreditada en el RNS, la totalidad de los derechos de reposo laboral, suspensión de contratos y cobro de la Renta de Crianza Temprana se transferirán de pleno derecho y de forma automática e inmediata al padre o tutor legal sobreviviente desde el momento del suceso.
 
 ------------------------------------------------------------------------
 
 ## Artículo 60. Del Sistema Educativo y el Bono (Voucher) de Libertad.
 
-1. Libertad de Enseñanza y Financiamiento a la Demanda: Se garantiza la libertad de enseñanza. El Estado financiará el acceso a la educación mediante la entrega directa a la familia de un Bono Educativo (Voucher) por cada hijo en edad escolar.
+1. **Libertad de Enseñanza y Financiamiento a la Demanda:** Se garantiza la libertad de enseñanza. El Estado financiará el acceso a la educación mediante la entrega directa a la familia de un Bono Educativo (Voucher) por cada hijo en edad escolar.
 
-2. Naturaleza del Voucher: Este bono es un título de crédito de carácter universal y canjeable exclusivamente en instituciones educativas acreditadas, sean públicas o de gestión privada. El financiamiento estatal sigue al estudiante; se prohíbe el subsidio directo a la oferta (instituciones).
+2. **Naturaleza del Voucher:** Este bono es un título de crédito de carácter universal y canjeable exclusivamente en instituciones educativas acreditadas, sean públicas o de gestión privada. El financiamiento estatal sigue al estudiante; se prohíbe el subsidio directo a la oferta (instituciones).
 
-3. De la Instrucción en el Hogar: Se reconoce y ampara jurídicamente la modalidad de educación en el hogar bajo tutela directa de los padres. Las familias que opten por esta vía obtendrán certificación oficial mediante la superación de pruebas periódicas de suficiencia académica estandarizadas y auditadas por las autoridades técnicas de educación.
+3. **De la Instrucción en el Hogar:** Se reconoce y ampara jurídicamente la modalidad de educación en el hogar bajo tutela directa de los padres. Las familias que opten por esta vía obtendrán certificación oficial mediante la superación de pruebas periódicas de suficiencia académica estandarizadas y auditadas por las autoridades técnicas de educación.
 
     a)  En ningún caso esta modalidad podrá utilizarse para justificar el aislamiento pedagógico o la privación de competencias cívicas fundamentales.
 
-4. Garantía de Servicio y Proveedor de Última Instancia: En zonas donde no exista oferta privada, el Municipio tiene la obligación de asegurar el servicio. Esta obligación se cumplirá prioritariamente mediante la Licitación de Gestión por Desempeño a favor de entidades técnicas o cooperativas profesionales, financiadas por el FCIN. El Municipio actuará como supervisor y garante, evitando la creación de estructuras administrativas directas que generen gasto corriente improductivo.
+4. **Garantía de Servicio y Proveedor de Última Instancia:** En zonas donde no exista oferta privada, el Municipio tiene la obligación de asegurar el servicio. Esta obligación se cumplirá prioritariamente mediante la Licitación de Gestión por Desempeño a favor de entidades técnicas o cooperativas profesionales, financiadas por el FCIN. El Municipio actuará como supervisor y garante, evitando la creación de estructuras administrativas directas que generen gasto corriente improductivo.
 
-5. Estándar de Calidad Humana: La percepción de fondos vía Voucher obliga a la institución educativa a integrar, junto a la excelencia técnica, la formación del carácter, el estudio del humanismo martiano, la Libertad de Conciencia, el Derecho a la Apostasía (libre salida de instituciones religiosas o de otro tipo), el respeto a la soberanía individual. La educación en Cuba no será una mera transferencia de datos, sino el cultivo del Decoro Ciudadano. Se prohíbe el uso de fondos públicos para cualquier forma de pedagogía que deshumanice al individuo o promueva la servidumbre al Estado. El aislamiento pedagógico absoluto o la prohibición de salida de comunidades cerradas se tipifica como Abuso Infantil Sistémico.
+5. **Estándar de Calidad Humana:** La percepción de fondos vía Voucher obliga a la institución educativa a integrar, junto a la excelencia técnica, la formación del carácter, el estudio del humanismo martiano, la Libertad de Conciencia, el Derecho a la Apostasía (libre salida de instituciones religiosas o de otro tipo), el respeto a la soberanía individual. La educación en Cuba no será una mera transferencia de datos, sino el cultivo del Decoro Ciudadano. Se prohíbe el uso de fondos públicos para cualquier forma de pedagogía que deshumanice al individuo o promueva la servidumbre al Estado. El aislamiento pedagógico absoluto o la prohibición de salida de comunidades cerradas se tipifica como Abuso Infantil Sistémico.
 
 6. La profesión docente es declarada Activo Crítico Nacional. El Estado fomentará que el mercado educativo valore el talento mediante la eliminación de topes salariales, permitiendo que la excelencia pedagógica sea la profesión más rentable y respetada de la República.
 
@@ -3533,7 +3533,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
     b)  **Proscripción de la Ineficiencia Educativa:** Se prohíbe la apertura de cupos universitarios financiados mediante Vouchers de Libertad (Art. 60.2) en áreas que presenten un índice de saturación superior al diez por ciento (10%) o cuya tasa de empleabilidad técnica sea inferior al ochenta por ciento (80%).
 
-    c)  De la Adjudicación de Plazas por Vector de Idoneidad: Ante la existencia de plazas limitadas en cualquier rama de la educación superior (incluyendo artes y oficios), la República proscribe el uso de \"escalafones ideológicos\" o \"subastas monetarias\". El acceso se regirá por el Algoritmo de Vector de Idoneidad, compuesto por tres factores auditados por el RNS:
+    c)  **De la Adjudicación de Plazas por Vector de Idoneidad:** Ante la existencia de plazas limitadas en cualquier rama de la educación superior (incluyendo artes y oficios), la República proscribe el uso de \"escalafones ideológicos\" o \"subastas monetarias\". El acceso se regirá por el Algoritmo de Vector de Idoneidad, compuesto por tres factores auditados por el RNS:
 
         i.  Aptitud Técnica (40%): Evaluaciones continuas de conocimiento específico en el área de interés, realizadas mediante simuladores y pruebas de lógica aplicada.
 
@@ -3541,11 +3541,11 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
         iii. Factor de Necesidad Nodal (20%): Bonificación algorítmica para el ciudadano que elija cursar su carrera en un municipio con déficit certificado de ese perfil profesional.
 
-    d)  De la Responsabilidad por Sobrecapacidad: Si un ciudadano insiste en cursar una carrera declarada por el TAT como \"Saturada\" (oferta superior a la demanda en un 150%), podrá hacerlo en ejercicio de su libertad individual, pero bajo las siguientes condiciones:
+    d)  **De la Responsabilidad por Sobrecapacidad:** Si un ciudadano insiste en cursar una carrera declarada por el TAT como \"Saturada\" (oferta superior a la demanda en un 150%), podrá hacerlo en ejercicio de su libertad individual, pero bajo las siguientes condiciones:
 
-        i.  Suspensión del Voucher: El Estado no financiará mediante Vouchers de Libertad carreras sin utilidad social fáctica. El ciudadano deberá sufragar el costo utilizando su Capa C (Capital de Maniobra).
+        i.  **Suspensión del Voucher:** El Estado no financiará mediante Vouchers de Libertad carreras sin utilidad social fáctica. El ciudadano deberá sufragar el costo utilizando su Capa C (Capital de Maniobra).
 
-        ii. Asunción de Riesgo Laboral: El egresado de una carrera saturada no podrá reclamar al Estado el beneficio de \"Puesto de Alta Jerarquía\" (Art. 60.12.e), asumiendo el riesgo de su inserción en el mercado libre.
+        ii. **Asunción de Riesgo Laboral:** El egresado de una carrera saturada no podrá reclamar al Estado el beneficio de \"Puesto de Alta Jerarquía\" (Art. 60.12.e), asumiendo el riesgo de su inserción en el mercado libre.
 
     e)  **Garantía de Destino:** El Estado y los municipios, a través del Fondo de Convergencia (FCIN), facilitarán que las plazas técnicas superiores de cupo limitado cuenten con opciones de vinculación profesional temprana o acceso a líneas de capital semilla para emprendimiento especializado (Art. 136.8), asegurando la inserción productiva del egresado.
 
@@ -3660,6 +3660,8 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
         ii. Se prohíbe el uso de exámenes de admisión traumáticos en la infancia que generen exclusión social prematura.
 
+        <!-- -->
+
 18. Del Estándar de Dignidad en Instituciones de Régimen Interno (Anti-Hacinamiento). Para erradicar el modelo de albergues masivos que destruyen el espíritu y facilitan la delincuencia juvenil, se establecen los Parámetros Biomecánicos de Vivienda Estudiantil:
 
 a)  Proscripción del Hacinamiento: Se prohíbe la existencia de albergues o cubículos de pernocta con una densidad superior a cuatro (4) personas por unidad habitacional.
@@ -3674,45 +3676,45 @@ b)  Vigilancia de la Zona de Sueño (Derecho al Reposo Inviolable):
 
     ii) Los dormitorios contarán con sensores de ruido y telemetría de movimiento en pasillos y zonas comunes, conectados al RNS, para que el TAT pueda realizar reconstrucciones forenses exactas de cualquier incidente.
 
-c)  Responsabilidad Civil Objetiva por Diseño: Si una escuela interna (pública o privada) opera bajo condiciones de hacinamiento o infraestructura deficiente que facilite la violencia, el Estado o la SACA propietaria asumirán la Responsabilidad Civil Objetiva (Art. 13.10.b). El director de la institución enfrentará la destitución inmediata y/o medidas disciplinarias profesionales si se demuestra que ignoró quejas de los padres sobre la seguridad de los albergues.
+c)  **Responsabilidad Civil Objetiva por Diseño:** Si una escuela interna (pública o privada) opera bajo condiciones de hacinamiento o infraestructura deficiente que facilite la violencia, el Estado o la SACA propietaria asumirán la Responsabilidad Civil Objetiva (Art. 13.10.b). El director de la institución enfrentará la destitución inmediata y/o medidas disciplinarias profesionales si se demuestra que ignoró quejas de los padres sobre la seguridad de los albergues.
 
 19. De la Responsabilidad Institucional del Nodo Educativo, Plazo de Respuesta y Educación Remota Protegida. Se declara el acoso sistemático (bullying), tanto físico como digital o social, como un Acto de Sabotaje al Capital Intelectual de la Nación.
 
-    a)  Responsabilidad del Nodo Educativo: Toda institución (SACA o particular) que perciba Vouchers es responsable de garantizar un Ambiente de Ruido Sensorial Mínimo y seguridad psicológica.
+    a)  **Responsabilidad del Nodo Educativo:** Toda institución (SACA o particular) que perciba Vouchers es responsable de garantizar un Ambiente de Ruido Sensorial Mínimo y seguridad psicológica.
 
-    b)  Activación de Alerta por Acoso: Ante una denuncia de acoso validada por el RNS (Art. 144.1), el centro educativo tiene cuarenta y ocho (48) horas para neutralizar la agresión.
+    b)  **Activación de Alerta por Acoso:** Ante una denuncia de acoso validada por el RNS (Art. 144.1), el centro educativo tiene cuarenta y ocho (48) horas para neutralizar la agresión.
 
-    c)  Sanción al Agresor y sus Tutores: Siguiendo el Art. 60.7.b, el costo del tratamiento psicológico de la víctima y la pérdida de tiempo educativo será debitado de la Capa C de las Acciones Soberanas (AS) de los padres del agresor. La República no permite que la violencia de un niño destruya el futuro de otro sin costo patrimonial.
+    c)  **Sanción al Agresor y sus Tutores:** Siguiendo el Art. 60.7.b, el costo del tratamiento psicológico de la víctima y la pérdida de tiempo educativo será debitado de la Capa C de las Acciones Soberanas (AS) de los padres del agresor. La República no permite que la violencia de un niño destruya el futuro de otro sin costo patrimonial.
 
-    d)  Derecho a la Educación Remota Protegida: Si el daño psicológico impide al menor asistir físicamente al centro (Fenómeno de Retiro), el Estado garantiza el acceso inmediato a la Red de Instrucción Digital Descentralizada, manteniendo el flujo del Voucher para que el niño siga educándose en un entorno seguro hasta su recuperación, sin pérdida de año escolar.
+    d)  **Derecho a la Educación Remota Protegida:** Si el daño psicológico impide al menor asistir físicamente al centro (Fenómeno de Retiro), el Estado garantiza el acceso inmediato a la Red de Instrucción Digital Descentralizada, manteniendo el flujo del Voucher para que el niño siga educándose en un entorno seguro hasta su recuperación, sin pérdida de año escolar.
 
 ------------------------------------------------------------------------
 
 ## Artículo 61. Del Sistema de Salud, el Seguro Portable y la Restitución de la Autonomía.
 
-1. Seguro Público Portable: Se garantiza el acceso universal a la salud mediante un sistema de Seguro Público Portable (Voucher de Salud), que faculta al ciudadano para elegir libremente su proveedor médico y hospitalario, sea este de gestión pública, privada o cooperativa. El financiamiento estatal sigue al paciente y se liquida en tiempo real mediante el RNS.
+1. **Seguro Público Portable:** Se garantiza el acceso universal a la salud mediante un sistema de Seguro Público Portable (Voucher de Salud), que faculta al ciudadano para elegir libremente su proveedor médico y hospitalario, sea este de gestión pública, privada o cooperativa. El financiamiento estatal sigue al paciente y se liquida en tiempo real mediante el RNS.
 
-2. Fondo Nacional de Alta Complejidad: Para situaciones de riesgo vital extremo y enfermedades catastróficas, se instituye el Fondo Nacional de Alta Complejidad, financiado por el Tesoro Nacional. Este fondo garantiza que ningún nacional quede desprotegido ante emergencias médicas cuyo costo exceda la cobertura del seguro básico.
+2. **Fondo Nacional de Alta Complejidad:** Para situaciones de riesgo vital extremo y enfermedades catastróficas, se instituye el Fondo Nacional de Alta Complejidad, financiado por el Tesoro Nacional. Este fondo garantiza que ningún nacional quede desprotegido ante emergencias médicas cuyo costo exceda la cobertura del seguro básico.
 
-3. De la Inviolabilidad y Protección Física del Personal Sanitario: Se declara al personal médico, sanitario y de rescate como Activo Crítico Nacional. Toda agresión física o coacción contra estos profesionales generará Responsabilidad Civil Objetiva y Automática, debitándose las indemnizaciones directamente de las Acciones Soberanas del agresor.
+3. **De la Inviolabilidad y Protección Física del Personal Sanitario:** Se declara al personal médico, sanitario y de rescate como Activo Crítico Nacional. Toda agresión física o coacción contra estos profesionales generará Responsabilidad Civil Objetiva y Automática, debitándose las indemnizaciones directamente de las Acciones Soberanas del agresor.
 
-4. De la Inviolabilidad de la Infraestructura Médica, Equipamiento y Régimen de Contingencia Hospitalaria: Se declara al personal médico, sanitario y de emergencias como Activo Crítico Nacional. Toda agresión física, coacción o destrucción de equipamiento médico por parte de un paciente, sus familiares o menores a su cargo, generará la Responsabilidad Civil Objetiva y Automática del agresor o sus tutores legales. El RNS debitará de forma fulminante los costos de reparación, indemnización moral y lucro cesante del hospital desde los dividendos de las Acciones Soberanas (AS) de los responsables, sin perjuicio de las acciones penales correspondientes. El centro de salud se reserva el derecho de derivar al agresor a instalaciones de contingencia bajo custodia policial. No obstante, cada caso debe ser evaluado individualmente antes de iniciar las consecuencias legales.
+4. **De la Inviolabilidad de la Infraestructura Médica, Equipamiento y Régimen de Contingencia Hospitalaria:** Se declara al personal médico, sanitario y de emergencias como Activo Crítico Nacional. Toda agresión física, coacción o destrucción de equipamiento médico por parte de un paciente, sus familiares o menores a su cargo, generará la Responsabilidad Civil Objetiva y Automática del agresor o sus tutores legales. El RNS debitará de forma fulminante los costos de reparación, indemnización moral y lucro cesante del hospital desde los dividendos de las Acciones Soberanas (AS) de los responsables, sin perjuicio de las acciones penales correspondientes. El centro de salud se reserva el derecho de derivar al agresor a instalaciones de contingencia bajo custodia policial. No obstante, cada caso debe ser evaluado individualmente antes de iniciar las consecuencias legales.
 
-5. De la Rehabilitación del Individuo Post-Coercitivo: La República reconoce el impacto clínico y el trauma derivado de la permanencia bajo sistemas de control social totalitario. El sistema de salud proveerá protocolos especializados para la rehabilitación de la autonomía personal, el fortalecimiento del juicio crítico y el tratamiento del estrés post-traumático.
+5. **De la Rehabilitación del Individuo Post-Coercitivo:** La República reconoce el impacto clínico y el trauma derivado de la permanencia bajo sistemas de control social totalitario. El sistema de salud proveerá protocolos especializados para la rehabilitación de la autonomía personal, el fortalecimiento del juicio crítico y el tratamiento del estrés post-traumático.
 
-6. Cortafuegos de Voluntariedad y No-Injerencia: Los servicios mencionados en el inciso anterior serán estrictamente voluntarios. Se prohíbe terminantemente al Estado, bajo pena de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos del funcionario responsable, utilizar diagnósticos clínicos, psicológicos o psiquiátricos para invalidar el disenso político, imponer programas de \"reorientación\" o recluir a ciudadanos sin una evidencia fáctica de peligro inminente para terceros, validada por el TAT.
+6. **Cortafuegos de Voluntariedad y No-Injerencia:** Los servicios mencionados en el inciso anterior serán estrictamente voluntarios. Se prohíbe terminantemente al Estado, bajo pena de Inhabilitación Cívica, Desconexión Fiduciaria y Pérdida de Derechos Políticos del funcionario responsable, utilizar diagnósticos clínicos, psicológicos o psiquiátricos para invalidar el disenso político, imponer programas de \"reorientación\" o recluir a ciudadanos sin una evidencia fáctica de peligro inminente para terceros, validada por el TAT.
 
 ------------------------------------------------------------------------
 
 ## Artículo 62. Del Fondo Municipal de Auxilio Mutuo y Dignidad.
 
-1. Principio de Subsidiariedad de la Compasión: La responsabilidad del bienestar humano reside primariamente en el individuo y su familia cercana. No obstante, la República establece la Bondad o Limosna Social como el derecho de cada ciudadano a no ser abandonado en la indigencia absoluta. El Fondo de Auxilio Mutuo no se considerará un subsidio estatal, sino un Dividendo de Fraternidad emanado de la abundancia del mercado local, destinado exclusivamente a restaurar la capacidad del individuo para valerse por sí mismo. El gobierno local debe evitar dentro de un margen razonable (definido por ley orgánica municipal renovada con vigencia anual) cualquier otra manera de ayuda que pueda generar deuda o dependencia siempre que se pueda evitar.
+1. **Principio de Subsidiariedad de la Compasión:** La responsabilidad del bienestar humano reside primariamente en el individuo y su familia cercana. No obstante, la República establece la Bondad o Limosna Social como el derecho de cada ciudadano a no ser abandonado en la indigencia absoluta. El Fondo de Auxilio Mutuo no se considerará un subsidio estatal, sino un Dividendo de Fraternidad emanado de la abundancia del mercado local, destinado exclusivamente a restaurar la capacidad del individuo para valerse por sí mismo. El gobierno local debe evitar dentro de un margen razonable (definido por ley orgánica municipal renovada con vigencia anual) cualquier otra manera de ayuda que pueda generar deuda o dependencia siempre que se pueda evitar.
 
-2. Nutrición del Fondo de Auxilio: Los Municipios, mediante acuerdo de su Asamblea, destinarán un porcentaje no superior al cinco por ciento (5%) de su recaudación tributaria neta (dentro de su cuota del 70%) para la creación del Fondo de Auxilio Mutuo.
+2. **Nutrición del Fondo de Auxilio:** Los Municipios, mediante acuerdo de su Asamblea, destinarán un porcentaje no superior al cinco por ciento (5%) de su recaudación tributaria neta (dentro de su cuota del 70%) para la creación del Fondo de Auxilio Mutuo.
 
-3. Incentivo a la dadivosidad Privada: Las donaciones voluntarias de ciudadanos o empresas locales a este Fondo serán deducibles al cien por ciento (100%) de su Impuesto Único Proporcional (Flat Tax) del periodo mensual, fomentando que el capital de auxilio fluya directamente del vecino al necesitado sin pasar por la burocracia estatal.
+3. **Incentivo a la dadivosidad Privada:** Las donaciones voluntarias de ciudadanos o empresas locales a este Fondo serán deducibles al cien por ciento (100%) de su Impuesto Único Proporcional (Flat Tax) del periodo mensual, fomentando que el capital de auxilio fluya directamente del vecino al necesitado sin pasar por la burocracia estatal.
 
-4. Prioridad de Atención (peligro para la vida): El fondo se destinará exclusivamente a:
+4. **Prioridad de Atención (peligro para la vida):** El fondo se destinará exclusivamente a:
 
     a)  Ancianos sin red familiar de soporte.
 
@@ -3720,9 +3722,9 @@ c)  Responsabilidad Civil Objetiva por Diseño: Si una escuela interna (pública
 
     c)  Huérfanos y emergencias médicas extremas no cubiertas por el Seguro de Alta Complejidad.
 
-5. Gestión Transparente y Despolitizada: La administración del Fondo será ejercida por un Consejo Civil de Notables del municipio, de carácter ad honorem, compuesto por personas de probada integridad moral. Se prohíbe el uso de estos recursos para fines de propaganda, clientelismo político o sostenimiento de personas en edad y capacidad laboral.
+5. **Gestión Transparente y Despolitizada:** La administración del Fondo será ejercida por un Consejo Civil de Notables del municipio, de carácter ad honorem, compuesto por personas de probada integridad moral. Se prohíbe el uso de estos recursos para fines de propaganda, clientelismo político o sostenimiento de personas en edad y capacidad laboral.
 
-6. Protocolo de Retorno a la Autonomía: Todo receptor de auxilio que tenga capacidad de aprendizaje será integrado obligatoriamente en programas de capacitación técnica provistos por el Municipio, con el fin de que el auxilio sea transitorio y el individuo recupere su soberanía personal en el menor tiempo posible.
+6. **Protocolo de Retorno a la Autonomía:** Todo receptor de auxilio que tenga capacidad de aprendizaje será integrado obligatoriamente en programas de capacitación técnica provistos por el Municipio, con el fin de que el auxilio sea transitorio y el individuo recupere su soberanía personal en el menor tiempo posible.
 
 7. **Del Servicio de Acompañamiento Ciudadano:** La República reconoce que la indigencia no es solo falta de capital, sino ausencia de red social.
 
@@ -3730,7 +3732,7 @@ c)  Responsabilidad Civil Objetiva por Diseño: Si una escuela interna (pública
 
     b)  El objetivo de esta visita es auditar el estado físico del ciudadano y, fundamentalmente, restaurar el vínculo de fraternidad nacional. El reporte de estas visitas alimentará el IBBES (Art. 30.6) para detectar depresiones sistémicas antes de que se conviertan en tragedias biológicas.
 
-8. Garantía de Acompañamiento y Dignidad Gerontológica:
+8. **Garantía de Acompañamiento y Dignidad Gerontológica:**
 
     a)  **Mínimo Vital Biométrico:** El RNS garantizará que ningún ciudadano mayor de 65 años reciba una liquidación de Capa A inferior al costo real de la Canasta Básica de Vida (CBV) incrementada en un 20% para gastos farmacéuticos.
 
@@ -3740,7 +3742,7 @@ c)  Responsabilidad Civil Objetiva por Diseño: Si una escuela interna (pública
 
 9. **La Condicionalidad de la Tracción Social:** Toda asistencia económica o material proveniente de los Fondos de Auxilio o Vouchers de Emergencia, otorgada a ciudadanos en edad y capacidad laboral, estará sujeta a la **Participación Activa en Proyectos de Persistencia Local** (saneamiento, reforestación o mantenimiento de RRI). El bienestar es un intercambio de energía: la sociedad sostiene tu vida, y tú sostienes la infraestructura que permite esa vida. La inacción voluntaria injustificada extingue el derecho al subsidio.
 
-10. Consejos de Mediación y Restauración Social: De acuerdo con el principio de buscar la paz antes que el juicio, en los problemas entre vecinos o ciudadanos que no sean graves, se usará la mediación.
+10. **Consejos de Mediación y Restauración Social:** De acuerdo con el principio de buscar la paz antes que el juicio, en los problemas entre vecinos o ciudadanos que no sean graves, se usará la mediación.
 
     a)  Un grupo de mediadores ayudará a que las personas se entiendan y arreglen el problema con un acto de reparación (como trabajar para el otro un tiempo). Si se llega a un acuerdo de paz, el RNS borrará la mancha de la discusión más rápido.
 
@@ -3752,13 +3754,13 @@ c)  Responsabilidad Civil Objetiva por Diseño: Si una escuela interna (pública
 
 ## Artículo 63. Libertad Laboral, Sindical y Prohibición de Cesión Ilegal.
 
-1. Autonomía de la Contratación: El trabajo es un derecho y una elección soberana. La relación laboral se fundamenta exclusivamente en el acuerdo voluntario entre las partes.
+1. **Autonomía de la Contratación:** El trabajo es un derecho y una elección soberana. La relación laboral se fundamenta exclusivamente en el acuerdo voluntario entre las partes.
 
-2. Libertad Sindical Pura: Se garantiza la libertad sindical absoluta. Se prohíbe el monopolio de representación sindical estatal o privado. Ningún trabajador podrá ser compelido a afiliarse o cotizar a organización alguna para acceder a un empleo. La obligación forzosa a la afiliación se considera un delito constitucional.
+2. **Libertad Sindical Pura:** Se garantiza la libertad sindical absoluta. Se prohíbe el monopolio de representación sindical estatal o privado. Ningún trabajador podrá ser compelido a afiliarse o cotizar a organización alguna para acceder a un empleo. La obligación forzosa a la afiliación se considera un delito constitucional.
 
-3. Anti-Cesión Ilegal (Blindaje contra el Tráfico Laboral): Se prohíbe la cesión ilegal de trabajadores. La subcontratación es legítima solo si la empresa contratista aporta organización, activos y riesgo propio.
+3. **Anti-Cesión Ilegal (Blindaje contra el Tráfico Laboral):** Se prohíbe la cesión ilegal de trabajadores. La subcontratación es legítima solo si la empresa contratista aporta organización, activos y riesgo propio.
 
-4. Principio de Igualdad Retributiva: Ante funciones idénticas en el mismo centro de trabajo, el trabajador contratado tendrá derecho a percibir la misma remuneración que el personal de la empresa principal. La empresa principal será Solidariamente Responsable de las obligaciones salariales y de seguridad social.
+4. **Principio de Igualdad Retributiva:** Ante funciones idénticas en el mismo centro de trabajo, el trabajador contratado tendrá derecho a percibir la misma remuneración que el personal de la empresa principal. La empresa principal será Solidariamente Responsable de las obligaciones salariales y de seguridad social.
 
 5. **De la Protección contra el Fraude de Empleo y la Pirámide de Esfuerzo:** Se tipifica como Delito de Fraude y Explotación Laboral Agravada la captación de personas bajo esquemas que condicionen el acceso al empleo a desembolsos previos para \"acceder al empleo\" o que no garanticen la liquidación de haberes en el RNS.
 

@@ -772,6 +772,8 @@ La República reconoce al idioma español como la lengua de administración y ju
 
     e) **Exclusión del Transeúnte:** Se excluye de la nacionalidad cubana por nacimiento a los hijos de extranjeros transeúntes o turistas (Art. 20.16) y de personal diplomático extranjero, a quienes el RNS expedirá un Certificado de Hecho Biológico de Nacimiento y salvoconducto de salida hacia su jurisdicción de origen.
 
+    f) Cubano Originario por Adhesión Soberana (Art. 166): Los ciudadanos naturales nacidos dentro de los límites históricos de un territorio, región o nación que se integre formalmente a la República mediante el Pacto de Unión Soberana (Artículo 166), previa prestación del Juramento del Ciudadano Soberano y validación del Certificado de Compatibilidad Civil (CCC). Quedan equiparados en dignidad y derechos políticos a los cubanos por nacimiento, sujetándose la titularidad y liquidez de sus Acciones Soberanas al régimen progresivo establecido en el Artículo 166. Sus hijos nacidos con posterioridad a la adhesión efectiva adquieren la nacionalidad cubana por nacimiento plena de conformidad con los incisos a) y b) de este artículo.
+
 2. **Independencia del Soporte Físico:** El derecho de entrada y salida del territorio es absoluto para el nacional. La falta de pasaporte o documento físico no impedirá el ingreso al país si la identidad puede ser acreditada mediante biometría o testimonios ante la autoridad municipal de frontera.
 
 3. **De la Idoneidad por Arraigo Generacional para la Alta Función Pública:** El ejercicio de cargos de Alta Jerarquía y custodia de la soberanía nacional requiere una vinculación probada y profunda con el destino de la República. Se establece el Estatuto de Linaje Soberano:
@@ -793,6 +795,8 @@ La República reconoce al idioma español como la lengua de administración y ju
             B.  Haber completado de manera presencial en el territorio nacional el ciclo ininterrumpido de doce (12) meses del Servicio Civil de Soberanía (Artículo 111.2). Siempre que haya venido en edad inferior a los 25 años, o cuente con menos de 36 años de edad.
 
             C.  Demostrar un mínimo de diez (10) años acumulados de residencia fiscal y ejercicio de actividad económica en un Municipio o varios de la República. Las salidas temporales del territorio nacional por motivos de viaje, salud, negocios o estudio no interrumpen, anulan ni reinician este cómputo. Para garantizar el conocimiento de la realidad presente del país, se exigirá únicamente que, del total acumulado, al menos los dieciséis (16) meses inmediatos anteriores a la postulación correspondan a residencia fiscal activa.
+
+        iv. Cómputo de Origen en Nodos Adheridos (Art. 166): En los territorios integrados formalmente mediante el Pacto de Unión Soberana, el suelo de origen de dichos nodos se computará como territorio nacional a los efectos del requisito de nacimiento de los progenitores (inciso ii), una vez transcurridos diez (10) años desde la adhesión efectiva y certificado por el Tribunal de Arbitraje Técnico (TAT) un Índice de Estabilidad Vital (IEV) superior al ochenta y cinco por ciento (85%) en la demarcación.
 
         > Bajo el cumplimiento de este linaje o su equivalencia por retorno, la posesión de una segunda o tercera nacionalidad adquirida por razones de exilio o residencia en la Diáspora no constituirá impedimento ni causa de inhabilitación para estos cargos civiles.
 
@@ -3399,7 +3403,7 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
     a)  **El Escudo Fiscal Reproductivo (Incentivo Negativo):** Queda proscrita la creación de \"cheques\" o subsidios directos en efectivo por el nacimiento de hijos (pago por procreación). El incentivo demográfico operará exclusivamente como una exención fiscal ampliada. Por cada hijo nacido vivo y registrado, los padres tendrán derecho a deducir un porcentaje adicional inalterable de su base imponible para el cálculo del Impuesto Único Proporcional (Flat Tax), permitiendo a la familia trabajadora retener la mayor parte del fruto de su labor.
 
-    b)  **Requisito de Linaje Soberano (Bloqueo a la Captura Migratoria):** El acceso al Escudo Fiscal Reproductivo y a cualquier otra bonificación demográfica futura, es un derecho exclusivo de los ciudadanos titulares de **Acciones Soberanas (AS)**. Los ciudadanos extranjeros, residentes temporales, asilados o ciudadanos por naturalización que no hayan alcanzado la plenitud de asimilación (y por tanto carezcan de la titularidad del Núcleo Soberano), no gozarán de esta exención. La expansión demográfica foránea no será financiada, subsidiada ni aliviada fiscalmente por la República.
+    b)  **Requisito de Linaje Soberano (Bloqueo a la Captura Migratoria):** El acceso al Escudo Fiscal Reproductivo y a cualquier otra bonificación demográfica futura, es un derecho exclusivo de los ciudadanos titulares de **Acciones Soberanas (AS)**. Los ciudadanos extranjeros, residentes temporales, asilados o ciudadanos por naturalización individual ordinaria (Artículo 19) que carezcan de la titularidad de Acciones Soberanas (AS), no gozarán de esta exención., no gozarán de esta exención. La expansión demográfica foránea no será financiada, subsidiada ni aliviada fiscalmente por la República.
 
     c)  **El Usufructo Parental de Crianza (Capitalización Temprana):** Al asignarse la Acción Soberana (AS) al menor en el momento de su nacimiento (Art. 115.2), el flujo de dividendos operará bajo el siguiente algoritmo de protección y fomento demográfico:
 
@@ -5957,7 +5961,7 @@ El acceso a la educación técnica y superior financiada mediante el **Voucher d
 
 1. La Acción Soberana (AS) es un título de propiedad nominativo, inalienable e impignorable, que constituye un **Derecho de Usufructo Soberano Vitalicio** sobre los activos estratégicos de la Nación.
 
-2. **Titularidad Originaria por Nacimiento:** Todo cubano por nacimiento, de conformidad con los criterios y condiciones de arraigo establecidos en el Artículo 16.1 de esta Constitución, adquiere el derecho de propiedad sobre el Núcleo Soberano de la Nación, representado en una (1) Acción Soberana (AS) de cada SACA, desde el momento de la consolidación de su inscripción en el Registro Nacional Soberano (RNS), sin costo alguno. Este derecho es personal e intransferible inter vivos. Los derechos políticos asociados a estas acciones permanecerán suspendidos hasta que el titular alcance la mayoría de edad y complete el Servicio Civil de Soberanía (Artículo 111.2).
+2. **Titularidad Originaria por Nacimiento:** Todo cubano por nacimiento, de conformidad con los criterios y condiciones de arraigo establecidos en el Artículo 16.1 de esta Constitución —así como todo Cubano Originario por Adhesión Soberana bajo las reglas progresivas del Artículo 166—, adquiere el derecho de propiedad sobre el Núcleo Soberano de la Nación, representado en una (1) Acción Soberana (AS) de cada SACA, desde el momento de la consolidación de su inscripción en el Registro Nacional Soberano (RNS), sin costo alguno. Este derecho es personal e intransferible inter vivos. Los derechos políticos asociados a estas acciones permanecerán suspendidos hasta que el titular alcance la mayoría de edad y complete el Servicio Civil de Soberanía (Artículo 111.2).
 
 3. El límite máximo de tenencia de Acciones Soberanas por ciudadano es de cinco (5) acciones por SACA, acumulables únicamente por herencia en línea directa o por designación de tutor legal.
 
@@ -6067,7 +6071,7 @@ El acceso a la educación técnica y superior financiada mediante el **Voucher d
 
 ## Artículo 117. Del Núcleo Soberano Inviolable (Regla del 51%).
 
-1. En toda SACA, al menos el cincuenta y uno por ciento (51%) del capital social con derecho a voto deberá estar permanentemente en manos de ciudadanos cubanos por nacimiento, bajo la forma de Acciones Soberanas.
+1. En toda SACA, al menos el cincuenta y uno por ciento (51%) del capital social con derecho a voto deberá estar permanentemente en manos de ciudadanos cubanos por nacimiento y Cubanos Originarios por Adhesión Soberana (Art. 16.1.f y Art. 166), bajo la forma de Acciones Soberanas.
 
 2. Este porcentaje constituye patrimonio nacional inalienable. Los derechos económicos y políticos se rigen por las siguientes reglas de blindaje absoluto:
 
@@ -6280,7 +6284,7 @@ Para los ciudadanos que padezcan discapacidades mentales severas que impidan una
 
 4. **Mecánica de Asignación del Bloque Soberano (AS) en la Mitosis:** El cincuenta y uno por ciento (51%) de la entidad beneficiaria (SACA Hija) quedará bajo la titularidad del Fideicomiso Nacional de Pensiones para su distribución inmediata.
 
-    a)  La prioridad de asignación de estas nuevas Acciones Soberanas corresponderá a los ciudadanos cubanos por nacimiento que no hayan completado su portafolio básico de AS por razones demográficas (nuevos nacimientos o nacionalizaciones por derecho de suelo).
+    a)  La prioridad de asignación de estas nuevas Acciones Soberanas corresponderá a los ciudadanos cubanos por nacimiento que no hayan completado su portafolio básico de AS por razones demográficas (nuevos nacimientos bajo el Artículo 16.1 o integraciones territoriales bajo el Pacto de Unión Soberana del Artículo 166).
 
     b)  En caso de excedente en el bloque del 51% tras la asignación generacional, dichas acciones permanecerán en la Reserva Generacional, cuyos dividendos se destinarán al Fondo Municipal de Auxilio Mutuo (Art. 62) del municipio donde la nueva entidad fije su sede fiscal.
 
@@ -6346,7 +6350,7 @@ Las acciones que excedan el límite de herencia no pasarán al mercado abierto d
 
     a)  El cincuenta y uno por ciento (51%) de la titularidad de estas nuevas entidades se transformará automáticamente en Acciones Soberanas (AS) registradas en el RNS.
 
-    b)  Dichas Acciones Soberanas serán distribuidas de forma equitativa entre la totalidad de los ciudadanos cubanos por nacimiento en pleno ejercicio de sus derechos, garantizando que el crecimiento de un municipio fortalezca el patrimonio de toda la Nación y no genere enclaves de privilegio.
+    b)  Dichas Acciones Soberanas serán distribuidas de forma equitativa entre la totalidad de los ciudadanos cubanos por nacimiento y Cubanos Originarios por Adhesión Soberana en pleno ejercicio de sus derechos, garantizando que el crecimiento de un municipio fortalezca el patrimonio de toda la Nación y no genere enclaves de privilegio.
 
 6.  **Condicionalidad por Resultado y Veto de Cronicidad:** La percepción de recursos del FCIN está sujeta a una auditoría de impacto realizada por el Tribunal de Arbitraje Técnico (TAT) cada veinticuatro (24) meses.
 
@@ -7562,9 +7566,31 @@ La República reconoce que cada generación de ciudadanos posee el derecho inali
 
 ## Artículo 166. Del Pacto de Unión Soberana y la Estructura Nacional.
 
-1.  Del Derecho de Adhesión y Consulta Local: Cualquier territorio, región o municipio podrá solicitar su integración formal a la República de Cuba Libre bajo el Pacto de Unión Soberana. Para su validez, la solicitud requerirá la aprobación de la mayoría absoluta de los ciudadanos de dicho territorio mediante referéndum interno auditado y certificado.
+1. Del Derecho de Adhesión y Consulta Local: Cualquier territorio, región o municipio podrá solicitar su integración formal a la República de Cuba Libre bajo el Pacto de Unión Soberana. Para su validez, la solicitud requerirá la aprobación de la mayoría absoluta de los ciudadanos nativos y residentes permanentes de dicho territorio mediante referéndum interno auditado y certificado, así como la verificación de viabilidad técnica por parte del Tribunal de Arbitraje Técnico (TAT).
 
-2.  De la Integración Nodal y Derechos Fiscales: Aprobada la adhesión, los nuevos territorios se integrarán al Registro Nacional Soberano (RNS) como Nodos de Nueva Formación. Sus derechos de retención fiscal (el algoritmo 70/30) y la emisión de sus Acciones Soberanas (AS) se activarán de forma proporcional a los activos físicos e infraestructura aportados a la Red Nacional, según tasación técnica del TAT.
+2. De la Integración Nodal, Derechos Fiscales y Conversión de Activos: Aprobada la adhesión, los nuevos territorios se integrarán al Registro Nacional Soberano (RNS) como Nodos de Nueva Formación. Se activará de inmediato su derecho de retención fiscal (el algoritmo 70/30 del Artículo 44) y la extensión obligatoria de las Redes de Interconexión Nacional (Art. 13.7.d). Todos los activos públicos, monopolios estatales y recursos estratégicos aportados por el territorio adherido serán auditados por el TAT y convertidos al modelo de Sociedades Anónimas de Capital Abierto (SACA) bajo la regla del Núcleo Soberano Inviolable del cincuenta y uno por ciento (51%, Art. 117).
+
+3. Del Régimen Escalonado de Asignación de Acciones Soberanas (Cero Dilución): Con el fin de garantizar la igualdad moral de los adultos originarios de la tierra unida sin provocar la dilución inmediata del dividendo vital de los ciudadanos fundadores, la asignación de Acciones Soberanas (AS) a los Cubanos Originarios por Adhesión Soberana (Art. 16.1.f) operará bajo dos niveles progresivos:
+
+    a) Dotación Inicial Inmediata (Día Cero): Desde la consolidación de su registro en el RNS, todo adulto mayor de edad que sea natural de la tierra que se une recibirá de forma gratuita:
+
+        i. Una (1) Acción Soberana (AS) de cada SACA constituida con los activos físicos e infraestructura aportados por su territorio de origen, emitida de forma proporcional a dicha masa patrimonial según tasación del TAT.
+
+        ii. Una (1) Acción Soberana (AS) de toda nueva SACA nacional o SACA Hija creada por Mitosis Productiva (Art. 122.2) o inversión del FCIN (Art. 125.5) con posterioridad a la fecha efectiva de la unión.
+
+    b) Rampa de Paridad al Portafolio Nacional Preexistente: Respecto a las SACAs nacionales constituidas con anterioridad a la fecha de adhesión del territorio, la incorporación de los adultos originarios por adhesión se ejecutará de forma progresiva a través del Fondo de Recapitalización de Reserva (Art. 122.1) y la Reserva Generacional (Art. 123) a lo largo de un ciclo de convergencia de cinco (5) a diez (10) años, sujeto a que el nuevo nodo alcance un Índice de Estabilidad Vital (IEV) sostenido del ochenta y cinco por ciento (85%) y cumpla sus aportes al FCIN. Queda terminantemente prohibida cualquier emisión súbita que reduzca el flujo real de Mínimo Vital (Capa A) percibido por los accionistas previos a la adhesión.
+
+4. De la Rampa de Maduración de Cinco Años (Disponibilidad del 30% Vital e Inversión Obligatoria del 70%): Con el objeto de evitar choques inflacionarios en el territorio adherido y transformar los nuevos ingresos en capitalización real local, el flujo de dividendos generado por las Acciones Soberanas asignadas bajo este artículo quedará sujeto durante los primeros cinco (5) años (60 meses) desde la adhesión efectiva al siguiente protocolo algorítmico:
+
+    a) Disponibilidad Inmediata de la Capa A (Mínimo Vital - 30%): El treinta por ciento (30%) de los dividendos correspondiente a la Capa de Mínimo Vital (Artículo 115.5.a) será depositado mensualmente de forma libre, inembargable e inmediata en la cuenta del titular para su consumo corriente y sustento biológico.
+
+    b) Bloqueo de Retiro y Pignoración sobre las Capas B y C (70%): Durante el plazo perentorio de sesenta (60) meses, queda prohibido retirar en efectivo para gastos de consumo corriente, ceder, arrendar o pignorar ante terceros el setenta por ciento (70%) restante correspondiente a las Capas de Gestión Estratégica (30%) y Capital de Maniobra (40%).
+
+    c) Liberación Productiva Inmediata vía CIS: La totalidad de dicho setenta por ciento (70%) ingresará automáticamente desde el primer día a la Cuenta de Inversión Soberana (CIS) del titular (Artículo 115.9). El ciudadano adulto del nuevo nodo gozará de plena facultad para invertir estos fondos desde el primer instante dentro de las categorías productivas autorizadas: fundación o capitalización de empresas locales, adquisición de maquinaria, herramientas o tierras, compra de vivienda básica (UVB), pago de educación técnica superior o adquisición de reservas de valor certificadas por el RNS.
+
+    d) Transición al Régimen Ordinario: Transcurridos los sesenta (60) meses y obtenido el Certificado de Educación Financiera (CEF), las utilidades futuras generadas por dichas acciones pasarán al régimen general de disposición del Artículo 115.5 y al escalamiento de liquidez del Artículo 115.8.
+
+5. Escudo contra el Oportunismo Demográfico Pre-Adhesión: La condición de Cubano Originario por Adhesión Soberana y sus derechos asociados corresponden exclusivamente a los ciudadanos nacidos en el territorio solicitante con anterioridad a la unión (y a sus hijos nacidos tras ella), así como a los residentes permanentes que acrediten un arraigo físico continuo no inferior a diez (10) años previos al inicio formal de la solicitud de adhesión. Los extranjeros temporales o migrantes asentados con posterioridad a dicho umbral conservarán sus derechos civiles y transitarán hacia la ciudadanía por la vía ordinaria de residencia productiva y naturalización establecida en los Artículos 19 y 20.
 
 ------------------------------------------------------------------------
 

@@ -90,9 +90,17 @@ La tiranía fundamenta su poder en la alteración de la verdad y la anulación d
 
 Esta ley prohíbe el olvido sistemático y la reescritura de la historia como herramienta de control social. Se establece la Transparencia Activa y el Registro Público Inalterable como condiciones de existencia de la libertad. Recuerda siempre: la tiranía entra a menudo por la puerta de las \"buenas intenciones\". La verdad es el sistema operativo de la libertad. Ninguna máscara ideológica ni facción política podrá estar por encima de la identidad del individuo soberano.
 
-### 4. CONTRA EL ROMANTICISMO DICTATORIAL (La Vacuna de la Realidad Objetiva):
+### 4. CONTRA EL ROMANTICISMO DICTATORIAL (La Vacuna de la Realidad Objetiva y la Anatomía de la Tiranía):
 
-Se prohíbe la apología o la idealización de los regímenes totalitarios pasados. El sistema educativo nacional integrará el estudio obligatorio y neutral de la historia económica y social de la dictadura, documentando con rigor técnico la depresión, la muerte y la privación sistémica provocada por el colectivismo. La libertad no es la ausencia de problemas, sino la responsabilidad de resolverlos. El ciudadano que extraña sus cadenas bajo la presión de la libertad, renuncia a su dignidad de hombre.
+Se prohíbe la apología o la idealización de cualquier régimen totalitario, autocrático o despótico, pasado o presente. El sistema educativo nacional integrará el estudio obligatorio, técnico y neutral de la historia comparada de las tiranías, documentando con rigor documental las causas, métodos de control y consecuencias materiales de:
+
+    a) Las Tiranías Colectivistas e Ideológicas: La aniquilación del individuo, el hambre artificial y la privación sistémica provocada por el socialismo y los totalitarismos de Estado.
+
+    b) Las Tiranías Teocráticas y Religiosas: El secuestro de la ley civil por castas sacerdotales, los tribunales de fe, la persecución de la apostasía y la justificación del terror en nombre de la divinidad.
+
+    c) Las Tiranías Militares, Corporativas y Fascistas: El culto a la fuerza marcial, la cartelización del mercado mediante el compadrazgo oligárquico y la anulación de las libertades civiles en nombre del "orden" o la "seguridad nacional".
+
+La libertad no es la ausencia de problemas, sino la responsabilidad individual de resolverlos. El ciudadano que extraña sus cadenas bajo la presión de la libertad, renuncia a su dignidad de hombre.
 
 Si aceptas estas verdades y renuncias a la comodidad de la horda, estás listo para ser ciudadano de la República de Cuba.
 
@@ -3605,14 +3613,15 @@ El principio de autonomía de la voluntad en el \"Contrato de Unión Soberana\" 
 
 16. **De la Ecología Cognitiva Infantil, el Currículo Universal Obligatorio y la Proscripción del Ruido Prematuro.** La República reconoce que el cerebro en desarrollo del menor de edad es la infraestructura de soberanía más crítica de la Nación. Para proteger este Activo en Custodia de la hiperestimulación, la atrofia ideológica o la corrupción prematura, se establecen los límites exactos de transmisión de información en el sistema educativo nacional, aplicables de forma absoluta a toda institución pública, privada, religiosa o de instrucción en el hogar (Homeschooling).
 
-    a)  **El Nucleo Educativo (Materias de Impartición Obligatoria):**\
-        Sin perjuicio de la libertad de cátedra y la diversidad de enfoques pedagógicos, toda institución que reciba ciudadanos en edad escolar tiene la obligación constitucional de impartir, evaluar y garantizar la competencia del estudiante en el siguiente \"Núcleo Fáctico\":
-
-            i.  Alfabetización avanzada, lógica matemática y programación básica.
-
-            ii. Historia Documental Fidedigna de Cuba, incluyendo el estudio directo del Texto Íntegro de la Constitución y el Glosario de Defensa Ciudadana (Art. 59.7).
-
-            iii. **Fidelidad Epistemológica:** La enseñanza del modelo biológico experimental y las teorías científicas contrastadas como base de las ciencias naturales, y el estudio de las religiones como vectores históricos y sociológicos, tal como se define en el Artículo 60.10, constituyendo un requerimiento ineludible y de evaluación estandarizada por el Tribunal de Arbitraje Técnico (TAT) para la validación de cualquier grado académico, independientemente de la titularidad de la escuela.
+    a) **El Núcleo Educativo (Materias de Impartición Obligatoria):** Sin perjuicio de la libertad de cátedra y la diversidad de enfoques pedagógicos de cada institución o modalidad de instrucción en el hogar (Homeschooling), toda entidad que instruya a ciudadanos en edad escolar tiene la obligación constitucional de impartir, evaluar y certificar la competencia del estudiante en el siguiente marco fáctico ineludible:
+        
+        i. **Alfabetización Lógica, Matemática y Digital:** Dominio instrumental del cálculo, álgebra aplicada, pensamiento computacional y programación básica.
+        
+        ii. **Educación Financiera y Termodinámica Económica:** Instrucción obligatoria y progresiva desde el nivel secundario en cálculo de interés compuesto, mecanismos de inflación y envilecimiento monetario, distinción entre bienes de capital y bienes de consumo, evaluación de riesgo crediticio, contabilidad de partida doble y funcionamiento del mercado libre. La culminación satisfactoria de este módulo en la educación media otorgará de pleno derecho la expedición automática del Certificado de Educación Financiera (CEF) en el RNS al alcanzar la mayoría de edad, habilitando de inmediato la operatividad sobre las Capas B y C de las Acciones Soberanas (Art. 115.5.d).
+        
+        iii. **Anatomía Comparada de la Tiranía e Historia Fidedigna:** Estudio documental y neutral de la historia de Cuba y universal, analizando la mecánica operativa de los regímenes totalitarios, comunistas, fascistas y teocráticos. Se enseñará de forma obligatoria el análisis de las técnicas de manipulación de masas, el precedente del tribalismo y la deshumanización institucional, complementado con el estudio directo y continuo del Texto Íntegro de esta Constitución y el Glosario de Defensa Ciudadana.
+        
+        iv. **Fidelidad Epistemológica:** La enseñanza del modelo biológico experimental y las teorías científicas contrastadas como base de las ciencias naturales, y el estudio de las religiones como fenómenos históricos y civilizatorios conforme al Artículo 60.10, constituyendo un requisito evaluado mediante pruebas estandarizadas del TAT para la homologación de cualquier ciclo formativo.
 
     b)  **Protección de la Madurez Cognitiva (Proscripción de Contenidos Incompatibles con el Desarrollo del Menor):** Bajo el principio técnico de que la inducción de información de alta complejidad conductual en sistemas neuronales carentes de madurez prefrontal genera atrofia y desviación psicopática, **queda terminantemente prohibida** la impartición, fomento, simulación o exposición gráfica de los siguientes temas a ciudadanos menores de catorce (14) años de edad:
 

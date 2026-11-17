@@ -8084,7 +8084,7 @@ SOY UN INDIVIDUO SOBERANO. SOY UN CUBANO LIBRE. \"
 
 Constitución de la República de Cuba
 
-Versión final -- Elaborada en \[10 de septiembre de 2026\]
+Versión final -- Elaborada en \[17 de noviembre de 2026\]
 
 **Licencia de la Obra:** Esta Constitución es de Código Abierto. Está protegida bajo la Licencia Internacional Creative Commons Atribución-CompartirIgual 4.0 (CC BY-SA 4.0). Para ver una copia de esta licencia, visite: https://creativecommons.org/licenses/by-sa/4.0/deed.es
 **Autor Original:** Vara-Architect.

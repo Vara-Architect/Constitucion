@@ -7593,6 +7593,10 @@ La República reconoce que cada generación de ciudadanos posee el derecho inali
     
     d) **Excepción por Secesión Remedial ante Estado Fallido:** Los candados b) y c) quedarán en suspenso de pleno derecho únicamente si el TAT y el TDC certifican la existencia de Desamparo Fáctico y Vacío Institucional Total (Art. 97.12) por parte del Estado padre (ausencia de servicios vitales, desgobierno crónico o abandono de la población en manos de estructuras predatorias y cárteles). En tal supuesto, la República asumirá la tutela transitoria del territorio bajo el régimen de Administración Provisional de Salvaguarda y Custodia Fiduciaria (Art. 106), estabilizando la vida material antes de formalizar la unión.
 
+    e) **Reintegración de Territorios Históricos y Ex-Municipios (Tiempo de Espera Cero):** Para cualquier municipio, territorio o provincia que previamente haya formado parte integrante del territorio nacional de la República de Cuba (háyase separado válidamente bajo el procedimiento del Artículo 1.8 o por contingencias históricas pasadas), el tiempo de espera y enfriamiento es CERO.
+    
+        i. Quedan terminantemente exentos de la doble votación cuadrienal, de los periodos de enfriamiento y de cualquier traba temporal establecida en el inciso b). Bastará una única consulta ciudadana aprobada por mayoría y la verificación de compatibilidad técnica del TAT para que el nodo sea reintegrado de forma inmediata a la Red Nacional, restaurándose de pleno derecho sus Acciones Soberanas (AS) y su estatus originario en el RNS.
+
 3. Del Régimen Escalonado de Asignación de Acciones Soberanas (Cero Dilución): Con el fin de garantizar la igualdad moral de los adultos originarios de la tierra unida sin provocar la dilución inmediata del dividendo vital de los ciudadanos fundadores, la asignación de Acciones Soberanas (AS) a los Cubanos Originarios por Adhesión Soberana (Art. 16.1.f) operará bajo dos niveles progresivos:
 
     a) Dotación Inicial Inmediata (Día Cero): Desde la consolidación de su registro en el RNS, todo adulto mayor de edad que sea natural de la tierra que se une recibirá de forma gratuita:
